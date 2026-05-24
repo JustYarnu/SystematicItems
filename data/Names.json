@@ -1,0 +1,187 @@
+{
+  "prefixes": {
+    "Ancient": {
+      "base_weight": 6,
+      "modifiers": {
+        "rarity_high": 1.5,
+        "durability_high": 1.2
+      }
+    },
+    "Rusty": {
+      "base_weight": 18,
+      "modifiers": {
+        "durability_low": 2.5
+      }
+    },
+    "Glowing": {
+      "base_weight": 10,
+      "modifiers": {
+        "volatility_high": 1.8,
+        "rarity_high": 1.3
+      }
+    },
+    "Cursed": {
+      "base_weight": 5,
+      "modifiers": {
+        "volatility_high": 2.5,
+        "durability_low": 1.5
+      }
+    },
+    "Blessed": {
+      "base_weight": 7,
+      "modifiers": {
+        "durability_high": 2.0,
+        "resilience_high": 1.5
+      }
+    },
+    "Fractured": {
+      "base_weight": 8,
+      "modifiers": {
+        "durability_low": 2.0,
+        "volatility_high": 1.2
+      }
+    },
+    "Silent": {
+      "base_weight": 6,
+      "modifiers": {
+        "dex_high": 1.4
+      }
+    },
+    "Heavy": {
+      "base_weight": 9,
+      "modifiers": {
+        "str_high": 1.5
+      }
+    },
+    "Eldritch": {
+      "base_weight": 3,
+      "modifiers": {
+        "volatility_high": 3.0,
+        "rarity_high": 2.0
+      }
+    },
+    "Feral": {
+      "base_weight": 7,
+      "modifiers": {
+        "volatility_high": 1.8
+      }
+    }
+  },
+
+  "nouns": {
+    "Blade": {
+      "base_weight": 20,
+      "modifiers": {}
+    },
+    "Spear": {
+      "base_weight": 12,
+      "modifiers": {}
+    },
+    "Focus": {
+      "base_weight": 10,
+      "modifiers": {}
+    },
+    "Edge": {
+      "base_weight": 14,
+      "modifiers": {}
+    },
+    "Relic": {
+      "base_weight": 8,
+      "modifiers": {
+        "rarity_high": 2
+      }
+    },
+    "Shard": {
+      "base_weight": 9,
+      "modifiers": {
+        "volatility_high": 2
+      }
+    },
+    "Core": {
+      "base_weight": 6,
+      "modifiers": {
+        "rarity_high": 2
+      }
+    },
+    "Bow": {
+      "base_weight": 11,
+      "modifiers": {}
+    },
+    "Axe": {
+      "base_weight": 10,
+      "modifiers": {}
+    },
+    "Sigil": {
+      "base_weight": 5,
+      "modifiers": {
+        "volatility_high": 2.0,
+        "rarity_high": 2
+      }
+    }
+  },
+
+  "suffixes": {
+    "of Decay": {
+      "base_weight": 10,
+      "modifiers": {
+        "durability_low": 2.0
+      }
+    },
+    "of Flame": {
+      "base_weight": 8,
+      "modifiers": {
+        "volatility_high": 1.8
+      }
+    },
+    "of the Void": {
+      "base_weight": 4,
+      "modifiers": {
+        "volatility_high": 2.5,
+        "rarity_high": 2.0
+      }
+    },
+    "of Echoes": {
+      "base_weight": 6,
+      "modifiers": {
+        "rarity_high": 1.3
+      }
+    },
+    "of Stone": {
+      "base_weight": 7,
+      "modifiers": {
+        "durability_high": 1.5
+      }
+    },
+    "of Ash": {
+      "base_weight": 9,
+      "modifiers": {
+        "durability_low": 1.6
+      }
+    },
+    "of Storms": {
+      "base_weight": 6,
+      "modifiers": {
+        "volatility_high": 2.0
+      }
+    },
+    "of Silence": {
+      "base_weight": 5,
+      "modifiers": {
+        "dex_high": 1.5
+      }
+    },
+    "of Blood": {
+      "base_weight": 7,
+      "modifiers": {
+        "str_high": 1.4
+      }
+    },
+    "of Eternity": {
+      "base_weight": 3,
+      "modifiers": {
+        "rarity_high": 2.5,
+        "durability_high": 1.5
+      }
+    }
+  }
+}

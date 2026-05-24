@@ -1,0 +1,12 @@
+{
+  "Blade": "Sword",
+  "Spear": "Polearm",
+  "Axe": "HeavyWeapon",
+  "Bow": "Ranged",
+  "Focus": "Focus",
+  "Edge": "Sword",
+  "Shard": "Dagger",
+  "Core": "Artifact",
+  "Relic": "Artifact",
+  "Sigil": "Focus"
+}
