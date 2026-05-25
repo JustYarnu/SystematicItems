@@ -1,8 +1,10 @@
 {
   "currency": 0,
-  "tick": 26,
+  "tick": 0,
   "mutation_stats": {
-    "attempted": 21,
-    "success": 8
-  }
+    "attempted": 0,
+    "success": 0
+  },
+  "recent_events": [
+  ]
 }

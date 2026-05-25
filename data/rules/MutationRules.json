@@ -14,7 +14,7 @@
     },
     "stability_affinity": {
       "faction": "Stability",
-      "weight": 50000,
+      "weight": 3,
       "effect": {
         "affinities": ["Stability"]
       },
@@ -123,7 +123,7 @@
     },
     "chaotic_affinity": {
       "faction": "Chaos",
-      "weight": 5,
+      "weight": 3,
       "effect": {
         "affinities": ["Chaos"]
       },

@@ -107,10 +107,10 @@ def mutate_item(item_id: str, all_rules: dict) -> tuple[bool, object]:
 def tick():
     state = load_world_state()
     state["tick"] += 1
-    recent_events = []
+    
+    recent_events = state.get("recent_events", [])
     recent_gain = 0
     
-    # Initialize missing metrics structural counters safely
     if "mutation_stats" not in state:
         state["mutation_stats"] = {"attempted": 0, "success": 0}
     
@@ -139,7 +139,6 @@ def tick():
         logging.error("MutationRules.json not found! Tick aborted.")
         return
 
-    # Track Mutation Attempts
     state["mutation_stats"]["attempted"] += 1
     success, mutated_item = mutate_item(item_id, all_rules)
     
@@ -154,7 +153,7 @@ def tick():
         recent_events.append(stable)
         
     if mutated_item.is_inert():
-        recent_gain = archive_item(mutated_item, state) 
+        recent_gain = archive_item(mutated_item, state)
         
         replacement = generate_item()
         save_item(replacement)
@@ -167,10 +166,12 @@ def tick():
     tick_end = "--- TICK END ---"
     logging.info(tick_end)
 
-    # Save state ONLY once at the end containing all merged updates
+    state["recent_events"] = recent_events[-10:]
+
+
     save_world_state(state)
     
-    snapshot = build_snapshot(state, recent_events, recent_gain=recent_gain)
+    snapshot = build_snapshot(state, state["recent_events"], recent_gain=recent_gain)
 
     with open("README_TEMPLATE.md", "r") as f:
         template = f.read()
