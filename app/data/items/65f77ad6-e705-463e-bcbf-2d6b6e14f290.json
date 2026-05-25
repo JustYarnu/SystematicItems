@@ -1,0 +1,23 @@
+{
+  "id": "65f77ad6-e705-463e-bcbf-2d6b6e14f290",
+  "name": "Zealous Spear of Iron",
+  "type": "Polearm",
+  "generation": 1,
+  "damage": 10.0,
+  "damage_type": [
+    "Physical",
+    "Holy",
+    "Piercing"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.25,
+  "dex_mod": 1.0,
+  "rarity": 1,
+  "durability": 100.0,
+  "max_durability": 125.0,
+  "volatility": 0.25,
+  "resilience": 0.7,
+  "worth": 100,
+  "affinities": {}
+}

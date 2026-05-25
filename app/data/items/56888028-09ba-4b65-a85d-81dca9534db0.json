@@ -1,0 +1,23 @@
+{
+  "id": "56888028-09ba-4b65-a85d-81dca9534db0",
+  "name": "Nimble Blade of the Deep",
+  "type": "Sword",
+  "generation": 1,
+  "damage": 10.0,
+  "damage_type": [
+    "Physical",
+    "Slashing",
+    "Water"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.05,
+  "dex_mod": 1.3,
+  "rarity": 1,
+  "durability": 100.0,
+  "max_durability": 110.0,
+  "volatility": 0.1,
+  "resilience": 0.65,
+  "worth": 100,
+  "affinities": {}
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4db34508-2d88-406c-abd1-263b0d12424c",
+  "name": "Ancient Relic of the Glacier",
+  "type": "Artifact",
+  "generation": 1,
+  "damage": 10.0,
+  "damage_type": [
+    "Physical",
+    "Holy",
+    "Cold"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.0,
+  "rarity": 2.5,
+  "durability": 100.0,
+  "max_durability": 158.04820237218405,
+  "volatility": 0.1,
+  "resilience": 0.8160964047443681,
+  "worth": 100,
+  "affinities": {}
+}
