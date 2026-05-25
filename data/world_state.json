@@ -1,12 +1,11 @@
 {
   "currency": 0,
-  "tick": 1,
+  "tick": 2,
   "mutation_stats": {
-    "attempted": 1,
+    "attempted": 2,
     "success": 0
   },
   "recent_events": [
-    "GENERATED: 'Mundane Rapier of Whispers' (a0101776-6cf4-44d8-b706-0c89f137eb8f) to fill ecosystem.",
     "GENERATED: 'Ancient Edge of Embers' (2feeec01-b3b4-47b9-9177-073ee6d86c02) to fill ecosystem.",
     "GENERATED: 'Glacial Spear of Plagues' (f9995039-6cab-4c79-8e5a-7ccb1bdc2fdd) to fill ecosystem.",
     "GENERATED: 'Dread Shard of Venom' (82b83201-afce-4e2f-bf78-0527a13856ad) to fill ecosystem.",
@@ -15,7 +14,8 @@
     "GENERATED: 'Titanic Rapier of Frost' (1538cb3f-3dd0-4f36-aa84-b581d8d3350f) to fill ecosystem.",
     "GENERATED: 'Dread Rapier of Silence' (6dbceb78-8fe0-4553-a023-8f20725670d8) to fill ecosystem.",
     "GENERATED: 'Zealous Blade of Carnage' (f21e56f6-2864-4f9d-99f0-f1df0d195f52) to fill ecosystem.",
-    "STABLE: 'Dread Rapier of Silence' did not mutate this tick."
+    "STABLE: 'Dread Rapier of Silence' did not mutate this tick.",
+    "STABLE: 'Ancient Edge of Embers' did not mutate this tick."
   ],
   "created": 10
 }

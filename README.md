@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-1
+2
 
 ## Oldest Item
 Dread Rapier of Silence
@@ -11,8 +11,8 @@ Dread Rapier of Silence
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.25
-- Average Volatility: 0.24
-- Average Durability: 102.4
+- Average Volatility: 0.25
+- Average Durability: 102.3
 
 ## Dominant Factions
 - None: 0
@@ -24,9 +24,9 @@ Dread Rapier of Silence
 - Most Volatile Item: Zealous Blade of Carnage
 
 ## Recent Events
-- GENERATED: 'Dread Rapier of Silence' (6dbceb78-8fe0-4553-a023-8f20725670d8) to fill ecosystem.
 - GENERATED: 'Zealous Blade of Carnage' (f21e56f6-2864-4f9d-99f0-f1df0d195f52) to fill ecosystem.
 - STABLE: 'Dread Rapier of Silence' did not mutate this tick.
+- STABLE: 'Ancient Edge of Embers' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 10
@@ -34,7 +34,7 @@ Dread Rapier of Silence
 - Avg Lifespan (ticks): 0
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 1
+- Mutations Attempted: 2
 - Successful Mutations: 0
 - Failure Rate: 100.0%
 
