@@ -1,0 +1,23 @@
+{
+  "id": "7d9f1067-11b5-465e-8840-987076aa6dc7",
+  "name": "Echoing Bow of Decay",
+  "type": "Ranged",
+  "generation": 1,
+  "damage": 14.0,
+  "damage_type": [
+    "Physical",
+    "Sonic",
+    "Piercing"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.25,
+  "rarity": 1,
+  "durability": 80.0,
+  "max_durability": 90.0,
+  "volatility": 0.1,
+  "resilience": 0.5,
+  "worth": 100,
+  "affinities": {}
+}

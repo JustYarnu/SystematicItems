@@ -1,0 +1,23 @@
+{
+  "id": "ea1a0300-266f-4181-8ef5-3aad55e1e96e",
+  "name": "Abyssal Rapier of Iron",
+  "type": "Generic",
+  "generation": 1,
+  "damage": 10.0,
+  "damage_type": [
+    "Physical",
+    "Shadow",
+    "Piercing"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.1,
+  "rarity": 3.0,
+  "durability": 100.0,
+  "max_durability": 135.0,
+  "volatility": 0.35,
+  "resilience": 0.7,
+  "worth": 100,
+  "affinities": {}
+}

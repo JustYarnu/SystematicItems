@@ -1,0 +1,23 @@
+{
+  "id": "371d9b0b-4508-46b7-832a-cc2fc877009a",
+  "name": "Glowing Spear of Frost",
+  "type": "Polearm",
+  "generation": 1,
+  "damage": 10.0,
+  "damage_type": [
+    "Physical",
+    "Piercing",
+    "Cold"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.1,
+  "dex_mod": 1.0,
+  "rarity": 1.5,
+  "durability": 100.0,
+  "max_durability": 115.0,
+  "volatility": 0.25,
+  "resilience": 0.6799999999999999,
+  "worth": 100,
+  "affinities": {}
+}
