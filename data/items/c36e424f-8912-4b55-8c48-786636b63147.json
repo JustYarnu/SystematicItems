@@ -1,0 +1,24 @@
+{
+  "id": "c36e424f-8912-4b55-8c48-786636b63147",
+  "name": "Shattered Spear of Iron",
+  "type": "Polearm",
+  "generation": 2,
+  "damage": 18.0,
+  "damage_type": [
+    "Physical",
+    "Piercing"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.1,
+  "dex_mod": 1.0,
+  "rarity": 1,
+  "durability": 76.0,
+  "max_durability": 120.0,
+  "volatility": 0.30000000000000004,
+  "resilience": 0.7,
+  "worth": 100,
+  "affinities": {
+    "Stability": 0.1
+  }
+}

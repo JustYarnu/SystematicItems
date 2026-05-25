@@ -55,3 +55,7 @@ def normalize_item(item):
         setattr(item, stat, clamped)
 
     return item
+
+def normalize_affinities(item):
+    for k, v in item.affinities.items():
+        item.affinities[k] = max(-1.0, min(round(v, 2), 1.0))

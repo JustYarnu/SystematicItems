@@ -1,0 +1,24 @@
+{
+  "id": "634118e3-023f-4575-8f33-881091523579",
+  "name": "Searing Blade of Frost",
+  "type": "Sword",
+  "generation": 1,
+  "damage": 20.0,
+  "damage_type": [
+    "Physical",
+    "Fire",
+    "Slashing",
+    "Cold"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.05,
+  "dex_mod": 1.05,
+  "rarity": 1,
+  "durability": 95.0,
+  "max_durability": 115.0,
+  "volatility": 0.2,
+  "resilience": 0.6799999999999999,
+  "worth": 100,
+  "affinities": {}
+}

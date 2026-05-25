@@ -7,7 +7,7 @@ class Item:
     # Metadata
     id: str = dataclasses.field(default_factory=lambda: str(uuid.uuid4()))
     name: str = "Common Item"
-    type: str = "Generic"  # e.g., Bow, Sword, Focus
+    type: str = "Not mapped yet"  # e.g., Bow, Sword, Focus
     generation: int = 1    # How many times this item has successfully mutated
     
     # Combat Stats
@@ -39,3 +39,7 @@ class Item:
             1 + math.log2(max(1, self.rarity)),
             2
     )
+
+def add_affinity(item, faction: str, amount: float = 0.1):
+    current = item.affinities.get(faction, 0.0)
+    item.affinities[faction] = round(current + amount, 2)

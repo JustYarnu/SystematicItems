@@ -1,23 +1,22 @@
 {
-  "id": "521330e5-47a5-493c-8c48-cce0e5761a46",
-  "name": "Resolute Rapier of Frost",
+  "id": "2b4ccf34-8bbd-41ed-84ba-5fad29e38dbb",
+  "name": "Mundane Rapier of Stone",
   "type": "Generic",
   "generation": 1,
   "damage": 10.0,
   "damage_type": [
     "Physical",
-    "Piercing",
-    "Cold"
+    "Piercing"
   ],
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.0,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 120.0,
-  "max_durability": 135.0,
+  "durability": 96.0,
+  "max_durability": 125.0,
   "volatility": 0.1,
-  "resilience": 0.98,
+  "resilience": 0.75,
   "worth": 100,
   "affinities": {}
 }

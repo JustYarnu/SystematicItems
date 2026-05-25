@@ -1,176 +1,27 @@
-2026-05-25 13:57:25 - --- TICK START ---
-2026-05-25 13:57:25 - GENERATED: 'Mortal Sigil of Grace' (b1b4beeb-12de-471a-a019-1d8eef48c773) to fill ecosystem.
-2026-05-25 13:57:25 - GENERATED: 'Mundane Focus of Iron' (41f2bafa-ab80-4889-8db8-d66fcd926dc5) to fill ecosystem.
-2026-05-25 13:57:25 - GENERATED: 'Blessed Bow of Decay' (603f8dff-3498-4bf4-9c68-1b057d809aab) to fill ecosystem.
-2026-05-25 13:57:25 - GENERATED: 'Mundane Blade of the Deep' (d6cc22ab-eeb4-4307-8d41-dbdb81d0b78a) to fill ecosystem.
-2026-05-25 13:57:25 - GENERATED: 'Glacial Sigil of the Glacier' (f89949e1-a6e3-46b2-a2f7-44d53ce68114) to fill ecosystem.
-2026-05-25 13:57:25 - STABLE: 'Mundane Blade of the Deep' did not mutate this tick.
-2026-05-25 13:57:25 - --- TICK END ---
-2026-05-25 13:57:50 - --- TICK START ---
-2026-05-25 13:57:50 - STABLE: 'Unstable Rapier of Might' did not mutate this tick.
-2026-05-25 13:57:50 - --- TICK END ---
-2026-05-25 13:57:54 - --- TICK START ---
-2026-05-25 13:57:54 - MUTATED: 'Unstable Rapier of Might' evolved to generation 2.
-2026-05-25 13:57:54 - --- TICK END ---
-2026-05-25 13:57:55 - --- TICK START ---
-2026-05-25 13:57:55 - STABLE: 'Blessed Bow of Decay' did not mutate this tick.
-2026-05-25 13:57:55 - --- TICK END ---
-2026-05-25 13:57:57 - --- TICK START ---
-2026-05-25 13:57:57 - STABLE: 'Glacial Sigil of the Glacier' did not mutate this tick.
-2026-05-25 13:57:57 - --- TICK END ---
-2026-05-25 13:57:58 - --- TICK START ---
-2026-05-25 13:57:58 - STABLE: 'Zealous Blade of Iron' did not mutate this tick.
-2026-05-25 13:57:58 - --- TICK END ---
-2026-05-25 13:57:59 - --- TICK START ---
-2026-05-25 13:57:59 - STABLE: 'Mundane Focus of Iron' did not mutate this tick.
-2026-05-25 13:57:59 - --- TICK END ---
-2026-05-25 13:58:05 - --- TICK START ---
-2026-05-25 13:58:05 - STABLE: 'Glacial Sigil of the Glacier' did not mutate this tick.
-2026-05-25 13:58:05 - --- TICK END ---
-2026-05-25 13:58:06 - --- TICK START ---
-2026-05-25 13:58:06 - STABLE: 'Mundane Blade of the Deep' did not mutate this tick.
-2026-05-25 13:58:06 - --- TICK END ---
-2026-05-25 13:58:07 - --- TICK START ---
-2026-05-25 13:58:07 - STABLE: 'Mundane Focus of Iron' did not mutate this tick.
-2026-05-25 13:58:07 - --- TICK END ---
-2026-05-25 13:58:08 - --- TICK START ---
-2026-05-25 13:58:08 - STABLE: 'Unstable Rapier of Might' did not mutate this tick.
-2026-05-25 13:58:08 - --- TICK END ---
-2026-05-25 13:58:09 - --- TICK START ---
-2026-05-25 13:58:09 - STABLE: 'Glacial Sigil of the Glacier' did not mutate this tick.
-2026-05-25 13:58:09 - --- TICK END ---
-2026-05-25 13:58:09 - --- TICK START ---
-2026-05-25 13:58:10 - STABLE: 'Mundane Blade of the Deep' did not mutate this tick.
-2026-05-25 13:58:10 - --- TICK END ---
-2026-05-25 13:58:15 - --- TICK START ---
-2026-05-25 13:58:15 - STABLE: 'Glowing Blade of Venom' did not mutate this tick.
-2026-05-25 13:58:15 - --- TICK END ---
-2026-05-25 13:59:42 - --- TICK START ---
-2026-05-25 13:59:42 - MUTATED: 'Glowing Blade of Venom' evolved to generation 2.
-2026-05-25 13:59:42 - --- TICK END ---
-2026-05-25 13:59:43 - --- TICK START ---
-2026-05-25 13:59:43 - STABLE: 'Brittle Core of Blight' did not mutate this tick.
-2026-05-25 13:59:43 - --- TICK END ---
-2026-05-25 13:59:43 - --- TICK START ---
-2026-05-25 13:59:43 - STABLE: 'Mortal Sigil of Grace' did not mutate this tick.
-2026-05-25 13:59:43 - --- TICK END ---
-2026-05-25 13:59:44 - --- TICK START ---
-2026-05-25 13:59:44 - MUTATED: 'Glowing Blade of Venom' evolved to generation 3.
-2026-05-25 13:59:44 - --- TICK END ---
-2026-05-25 13:59:45 - --- TICK START ---
-2026-05-25 13:59:45 - STABLE: 'Brittle Core of Blight' did not mutate this tick.
-2026-05-25 13:59:45 - --- TICK END ---
-2026-05-25 13:59:59 - --- TICK START ---
-2026-05-25 13:59:59 - STABLE: 'Mundane Blade of the Deep' did not mutate this tick.
-2026-05-25 13:59:59 - --- TICK END ---
-2026-05-25 14:00:09 - --- TICK START ---
-2026-05-25 14:00:09 - STABLE: 'Blessed Bow of Decay' did not mutate this tick.
-2026-05-25 14:00:09 - --- TICK END ---
-2026-05-25 14:00:09 - --- TICK START ---
-2026-05-25 14:00:09 - STABLE: 'Ancient Edge of Carnage' did not mutate this tick.
-2026-05-25 14:00:09 - --- TICK END ---
-2026-05-25 14:00:10 - --- TICK START ---
-2026-05-25 14:00:10 - MUTATED: 'Ancient Edge of Carnage' evolved to generation 2.
-2026-05-25 14:00:10 - --- TICK END ---
-2026-05-25 14:00:11 - --- TICK START ---
-2026-05-25 14:00:11 - STABLE: 'Zealous Blade of Iron' did not mutate this tick.
-2026-05-25 14:00:11 - --- TICK END ---
-2026-05-25 14:00:36 - --- TICK START ---
-2026-05-25 14:00:36 - MUTATED: 'Glacial Sigil of the Glacier' evolved to generation 2.
-2026-05-25 14:00:36 - --- TICK END ---
-2026-05-25 14:00:37 - --- TICK START ---
-2026-05-25 14:00:37 - STABLE: 'Mundane Focus of Iron' did not mutate this tick.
-2026-05-25 14:00:37 - --- TICK END ---
-2026-05-25 14:00:38 - --- TICK START ---
-2026-05-25 14:00:38 - MUTATED: 'Mundane Focus of Iron' evolved to generation 2.
-2026-05-25 14:00:38 - --- TICK END ---
-2026-05-25 14:00:38 - --- TICK START ---
-2026-05-25 14:00:38 - STABLE: 'Glacial Sigil of the Glacier' did not mutate this tick.
-2026-05-25 14:00:38 - --- TICK END ---
-2026-05-25 14:00:39 - --- TICK START ---
-2026-05-25 14:00:39 - MUTATED: 'Unstable Rapier of Might' evolved to generation 3.
-2026-05-25 14:00:39 - --- TICK END ---
-2026-05-25 14:00:40 - --- TICK START ---
-2026-05-25 14:00:40 - STABLE: 'Zealous Blade of Iron' did not mutate this tick.
-2026-05-25 14:00:40 - --- TICK END ---
-2026-05-25 14:00:53 - --- TICK START ---
-2026-05-25 14:00:53 - STABLE: 'Glacial Sigil of the Glacier' did not mutate this tick.
-2026-05-25 14:00:53 - --- TICK END ---
-2026-05-25 14:00:54 - --- TICK START ---
-2026-05-25 14:00:54 - STABLE: 'Mundane Blade of the Deep' did not mutate this tick.
-2026-05-25 14:00:54 - --- TICK END ---
-2026-05-25 14:00:55 - --- TICK START ---
-2026-05-25 14:00:55 - STABLE: 'Mortal Sigil of Grace' did not mutate this tick.
-2026-05-25 14:00:55 - --- TICK END ---
-2026-05-25 14:00:55 - --- TICK START ---
-2026-05-25 14:00:55 - STABLE: 'Mundane Focus of Iron' did not mutate this tick.
-2026-05-25 14:00:55 - --- TICK END ---
-2026-05-25 14:00:56 - --- TICK START ---
-2026-05-25 14:00:56 - STABLE: 'Mundane Focus of Iron' did not mutate this tick.
-2026-05-25 14:00:56 - --- TICK END ---
-2026-05-25 14:00:56 - --- TICK START ---
-2026-05-25 14:00:56 - STABLE: 'Mundane Focus of Iron' did not mutate this tick.
-2026-05-25 14:00:56 - --- TICK END ---
-2026-05-25 14:00:57 - --- TICK START ---
-2026-05-25 14:00:57 - STABLE: 'Zealous Blade of Iron' did not mutate this tick.
-2026-05-25 14:00:57 - --- TICK END ---
-2026-05-25 14:00:58 - --- TICK START ---
-2026-05-25 14:00:58 - MUTATED: 'Ancient Edge of Carnage' evolved to generation 3.
-2026-05-25 14:00:58 - --- TICK END ---
-2026-05-25 14:00:58 - --- TICK START ---
-2026-05-25 14:00:58 - MUTATED: 'Glowing Blade of Venom' evolved to generation 4.
-2026-05-25 14:00:58 - --- TICK END ---
-2026-05-25 14:00:59 - --- TICK START ---
-2026-05-25 14:00:59 - MUTATED: 'Unstable Rapier of Might' evolved to generation 4.
-2026-05-25 14:00:59 - --- TICK END ---
-2026-05-25 14:10:04 - --- TICK START ---
-2026-05-25 14:10:04 - GENERATED: 'Nimble Bow of Frost' (a9e7df6e-2573-436c-baf5-c214ab19dd1a) to fill ecosystem.
-2026-05-25 14:10:04 - GENERATED: 'Blessed Relic of Ash' (75907039-4a1a-4358-a1b5-7731513bc0f7) to fill ecosystem.
-2026-05-25 14:10:04 - GENERATED: 'Nimble Sigil of Judgement' (47793150-3b1b-4897-9e60-af4a07ca11bd) to fill ecosystem.
-2026-05-25 14:10:04 - GENERATED: 'Heavy Shard of Venom' (3a48bf6e-ebd4-432c-9b70-077e95331458) to fill ecosystem.
-2026-05-25 14:10:04 - GENERATED: 'Silent Core of Grace' (15467440-c49e-4223-a9f8-beb3017c5f07) to fill ecosystem.
-2026-05-25 14:10:04 - GENERATED: 'Mundane Blade of Decay' (cdba430d-b9bd-4424-93b3-194e2b9b098e) to fill ecosystem.
-2026-05-25 14:10:04 - GENERATED: 'Vampiric Bow of Venom' (d64384ca-5d18-4947-ae4d-7c9ce0360c07) to fill ecosystem.
-2026-05-25 14:10:04 - GENERATED: 'Corrosive Sigil of Frost' (c866a769-a7af-4b09-a4ac-ff2dd1510404) to fill ecosystem.
-2026-05-25 14:10:04 - GENERATED: 'Glacial Shard of Flame' (a9efb224-986a-477f-b2cf-21e74f0a2d0e) to fill ecosystem.
-2026-05-25 14:10:04 - GENERATED: 'Glacial Blade of Pestilence' (f268aac5-60ca-4c20-a9b3-56a93bf5a8a6) to fill ecosystem.
-2026-05-25 14:10:04 - MUTATED: 'Heavy Shard of Venom' evolved to generation 2.
-2026-05-25 14:10:04 - --- TICK END ---
-2026-05-25 14:10:19 - --- TICK START ---
-2026-05-25 14:10:19 - STABLE: 'Nimble Sigil of Judgement' did not mutate this tick.
-2026-05-25 14:10:19 - --- TICK END ---
-2026-05-25 14:10:22 - --- TICK START ---
-2026-05-25 14:10:22 - STABLE: 'Nimble Sigil of Judgement' did not mutate this tick.
-2026-05-25 14:10:22 - --- TICK END ---
-2026-05-25 14:10:24 - --- TICK START ---
-2026-05-25 14:10:24 - MUTATED: 'Glacial Shard of Flame' evolved to generation 2.
-2026-05-25 14:10:24 - --- TICK END ---
-2026-05-25 14:10:27 - --- TICK START ---
-2026-05-25 14:10:27 - STABLE: 'Heavy Shard of Venom' did not mutate this tick.
-2026-05-25 14:10:27 - --- TICK END ---
-2026-05-25 14:10:30 - --- TICK START ---
-2026-05-25 14:10:31 - MUTATED: 'Heavy Shard of Venom' evolved to generation 3.
-2026-05-25 14:10:31 - --- TICK END ---
-2026-05-25 14:10:35 - --- TICK START ---
-2026-05-25 14:10:35 - STABLE: 'Mundane Blade of Decay' did not mutate this tick.
-2026-05-25 14:10:35 - --- TICK END ---
-2026-05-25 14:10:37 - --- TICK START ---
-2026-05-25 14:10:37 - STABLE: 'Heavy Shard of Venom' did not mutate this tick.
-2026-05-25 14:10:37 - --- TICK END ---
-2026-05-25 14:10:39 - --- TICK START ---
-2026-05-25 14:10:39 - STABLE: 'Blessed Relic of Ash' did not mutate this tick.
-2026-05-25 14:10:39 - --- TICK END ---
-2026-05-25 14:10:40 - --- TICK START ---
-2026-05-25 14:10:40 - STABLE: 'Blessed Relic of Ash' did not mutate this tick.
-2026-05-25 14:10:40 - --- TICK END ---
-2026-05-25 14:10:41 - --- TICK START ---
-2026-05-25 14:10:41 - MUTATED: 'Glacial Shard of Flame' evolved to generation 3.
-2026-05-25 14:10:41 - --- TICK END ---
-2026-05-25 14:10:42 - --- TICK START ---
-2026-05-25 14:10:42 - STABLE: 'Mundane Blade of Decay' did not mutate this tick.
-2026-05-25 14:10:42 - --- TICK END ---
-2026-05-25 14:11:51 - --- TICK START ---
-2026-05-25 14:11:51 - STABLE: 'Glacial Blade of Pestilence' did not mutate this tick.
-2026-05-25 14:11:51 - ARCHIVED: 'Glacial Blade of Pestilence' (f268aac5-60ca-4c20-a9b3-56a93bf5a8a6) | Worth: 150 | Final Gen: 1
-2026-05-25 14:11:51 - REPLACED WITH: 'Resolute Rapier of Frost' (521330e5-47a5-493c-8c48-cce0e5761a46)
-2026-05-25 14:11:51 - --- TICK END ---
+2026-05-25 14:42:12 - --- TICK START ---
+2026-05-25 14:42:12 - STABLE: 'Stormcharged Spear of Judgement' did not mutate this tick.
+2026-05-25 14:42:12 - --- TICK END ---
+2026-05-25 14:42:13 - --- TICK START ---
+2026-05-25 14:42:13 - STABLE: 'Blessed Edge of Whispers' did not mutate this tick.
+2026-05-25 14:42:13 - --- TICK END ---
+2026-05-25 14:42:13 - --- TICK START ---
+2026-05-25 14:42:13 - STABLE: 'Mundane Rapier of Stone' did not mutate this tick.
+2026-05-25 14:42:13 - --- TICK END ---
+2026-05-25 14:42:14 - --- TICK START ---
+2026-05-25 14:42:14 - STABLE: 'Shattered Spear of Iron' did not mutate this tick.
+2026-05-25 14:42:14 - --- TICK END ---
+2026-05-25 14:42:15 - --- TICK START ---
+2026-05-25 14:42:15 - STABLE: 'Glacial Focus of Ash' did not mutate this tick.
+2026-05-25 14:42:15 - --- TICK END ---
+2026-05-25 14:42:16 - --- TICK START ---
+2026-05-25 14:42:16 - MUTATED: 'Glacial Focus of Ash' evolved to generation 2.
+2026-05-25 14:42:16 - --- TICK END ---
+2026-05-25 14:42:17 - --- TICK START ---
+2026-05-25 14:42:17 - STABLE: 'Shattered Spear of Iron' did not mutate this tick.
+2026-05-25 14:42:17 - --- TICK END ---
+2026-05-25 14:42:17 - --- TICK START ---
+2026-05-25 14:42:17 - STABLE: 'Blessed Edge of Whispers' did not mutate this tick.
+2026-05-25 14:42:17 - --- TICK END ---
+2026-05-25 14:42:18 - --- TICK START ---
+2026-05-25 14:42:18 - MUTATED: 'Shattered Spear of Iron' evolved to generation 2.
+2026-05-25 14:42:18 - --- TICK END ---

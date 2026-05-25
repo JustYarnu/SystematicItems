@@ -14,7 +14,7 @@
     },
     "stability_affinity": {
       "faction": "Stability",
-      "weight": 5,
+      "weight": 50000,
       "effect": {
         "affinities": ["Stability"]
       },
