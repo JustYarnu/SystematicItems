@@ -1,0 +1,21 @@
+{
+  "id": "15467440-c49e-4223-a9f8-beb3017c5f07",
+  "name": "Silent Core of Grace",
+  "type": "Artifact",
+  "generation": 1,
+  "damage": 10.0,
+  "damage_type": [
+    "Physical"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.4,
+  "rarity": 1,
+  "durability": 1,
+  "max_durability": 110.0,
+  "volatility": 0.1,
+  "resilience": 0.5,
+  "worth": 100,
+  "affinities": {}
+}

@@ -1,0 +1,22 @@
+{
+  "id": "75907039-4a1a-4358-a1b5-7731513bc0f7",
+  "name": "Blessed Relic of Ash",
+  "type": "Artifact",
+  "generation": 1,
+  "damage": 10.0,
+  "damage_type": [
+    "Physical",
+    "Holy"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.0,
+  "rarity": 1.5,
+  "durability": 1,
+  "max_durability": 115.0,
+  "volatility": 0.15000000000000002,
+  "resilience": 0.75,
+  "worth": 100,
+  "affinities": {}
+}

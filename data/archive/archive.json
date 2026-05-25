@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f268aac5-60ca-4c20-a9b3-56a93bf5a8a6",
+    "name": "Glacial Blade of Pestilence",
+    "type": "Sword",
+    "generation": 1,
+    "damage": 16.0,
+    "damage_type": [
+      "Physical",
+      "Cold",
+      "Slashing",
+      "Acid"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.01,
+    "str_mod": 1.05,
+    "dex_mod": 1.05,
+    "rarity": 1,
+    "durability": 0.0,
+    "max_durability": 113.0,
+    "volatility": 0.1,
+    "resilience": 0.75,
+    "worth": 150,
+    "affinities": {}
+  }
+]

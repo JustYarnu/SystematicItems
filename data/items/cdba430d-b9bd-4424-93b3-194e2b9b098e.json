@@ -1,0 +1,22 @@
+{
+  "id": "cdba430d-b9bd-4424-93b3-194e2b9b098e",
+  "name": "Mundane Blade of Decay",
+  "type": "Sword",
+  "generation": 1,
+  "damage": 10.0,
+  "damage_type": [
+    "Physical",
+    "Slashing"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.05,
+  "dex_mod": 1.05,
+  "rarity": 1,
+  "durability": 1,
+  "max_durability": 90.0,
+  "volatility": 0.1,
+  "resilience": 2.5,
+  "worth": 100,
+  "affinities": {}
+}

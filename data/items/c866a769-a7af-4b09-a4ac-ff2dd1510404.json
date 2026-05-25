@@ -1,0 +1,24 @@
+{
+  "id": "c866a769-a7af-4b09-a4ac-ff2dd1510404",
+  "name": "Corrosive Sigil of Frost",
+  "type": "Focus",
+  "generation": 1,
+  "damage": 10.0,
+  "damage_type": [
+    "Physical",
+    "Acid",
+    "Magic",
+    "Cold"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.0,
+  "rarity": 1.5,
+  "durability": 1,
+  "max_durability": 105.0,
+  "volatility": 0.45000000000000007,
+  "resilience": 0.6799999999999999,
+  "worth": 100,
+  "affinities": {}
+}

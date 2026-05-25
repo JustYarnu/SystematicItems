@@ -1,0 +1,23 @@
+{
+  "id": "a9efb224-986a-477f-b2cf-21e74f0a2d0e",
+  "name": "Glacial Shard of Flame",
+  "type": "Dagger",
+  "generation": 3,
+  "damage": 10.0,
+  "damage_type": [
+    "Physical",
+    "Cold",
+    "Slashing"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.0,
+  "rarity": 1,
+  "durability": 1,
+  "max_durability": 120.0,
+  "volatility": 0.5599999999999999,
+  "resilience": 0.7,
+  "worth": 100,
+  "affinities": {}
+}
