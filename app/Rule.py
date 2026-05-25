@@ -2,6 +2,7 @@ import json
 import random
 import operator
 from pathlib import Path
+from ItemLimits import normalize_item
 
 # Map string operands from JSON to Python operator functions
 OPS = {
@@ -42,7 +43,9 @@ def apply_rule_effects(item, rule_data: dict):
             for faction in value:
                 # Increment faction affinity by 0.1 per mutation
                 current_affinity = item.affinities.get(faction, 0.0)
-                item.affinities[faction] = round(current_affinity + 0.1, 2)
+                new_affinity = current_affinity + 0.1
+
+                item.affinities[faction] = round(max(-1, min(new_affinity, 1.0)),2)
             continue
             
         if hasattr(item, stat):
@@ -60,5 +63,5 @@ def apply_rule_effects(item, rule_data: dict):
                     current_val.append(value)
                 setattr(item, stat, list(set(current_val))) # Keep unique
 
-    item.durability = min(item.durability, item.max_durability)
+    normalize_item(item)
     item.generation += 1

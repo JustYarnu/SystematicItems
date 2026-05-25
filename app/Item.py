@@ -1,5 +1,6 @@
 import dataclasses
 import uuid
+import math
 
 @dataclasses.dataclass
 class Item:
@@ -33,3 +34,8 @@ class Item:
         """Checks if the item has expired."""
         return self.durability <= 0
     
+    def effective_rarity(self):
+        return round(
+            1 + math.log2(max(1, self.rarity)),
+            2
+    )

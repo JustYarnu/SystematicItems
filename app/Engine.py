@@ -3,9 +3,9 @@ import os
 from dataclasses import asdict
 from Item import Item
 from NameGenerator import load_name_data, load_type_mapping, generate_name_and_type, apply_affix_stats
+from ItemLimits import normalize_item
 
 DATA_DIR = "data/items"
-
 
 def ensure_dir():
     os.makedirs(DATA_DIR, exist_ok=True)
@@ -42,8 +42,7 @@ def generate_item():
     
     apply_affix_stats(new_item, name_data, prefix, noun, suffix)
     
-    if hasattr(new_item, 'durability') and hasattr(new_item, 'max_durability'):
-        new_item.durability = min(new_item.durability, new_item.max_durability)
+    normalize_item(new_item)
     
     return new_item
 
