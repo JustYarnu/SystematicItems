@@ -2,7 +2,7 @@
   "id": "85ea97ba-6740-42e9-a75e-61a61130fcde",
   "name": "Corrosive Axe of Frost",
   "type": "HeavyWeapon",
-  "generation": 1,
+  "generation": 3,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -15,10 +15,12 @@
   "str_mod": 1.15,
   "dex_mod": 1.0,
   "rarity": 1,
-  "durability": 98.0,
+  "durability": 93.0,
   "max_durability": 105.0,
-  "volatility": 0.30000000000000004,
+  "volatility": 0.32000000000000006,
   "resilience": 0.6799999999999999,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Stability": 0.2
+  }
 }

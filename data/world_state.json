@@ -1,4 +1,8 @@
 {
   "currency": 0,
-  "tick": 1
+  "tick": 26,
+  "mutation_stats": {
+    "attempted": 21,
+    "success": 8
+  }
 }

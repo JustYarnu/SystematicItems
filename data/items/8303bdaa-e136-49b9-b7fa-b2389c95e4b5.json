@@ -2,7 +2,7 @@
   "id": "8303bdaa-e136-49b9-b7fa-b2389c95e4b5",
   "name": "Shattered Core of Grace",
   "type": "Artifact",
-  "generation": 1,
+  "generation": 3,
   "damage": 18.0,
   "damage_type": [
     "Physical"
@@ -12,10 +12,12 @@
   "str_mod": 1.0,
   "dex_mod": 1.25,
   "rarity": 1,
-  "durability": 77.0,
+  "durability": 73.0,
   "max_durability": 95.0,
   "volatility": 0.30000000000000004,
   "resilience": 0.5,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Stability": 0.2
+  }
 }

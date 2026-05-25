@@ -2,7 +2,7 @@
   "id": "050cd9a2-a2eb-444a-8e2a-19591cc9f8fd",
   "name": "Glacial Focus of Ash",
   "type": "Focus",
-  "generation": 2,
+  "generation": 3,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -14,12 +14,12 @@
   "str_mod": 1.0,
   "dex_mod": 1.0,
   "rarity": 1,
-  "durability": 86.0,
+  "durability": 84.0,
   "max_durability": 125.0,
   "volatility": 0.25,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
-    "Stability": 0.1
+    "Stability": 0.2
   }
 }
