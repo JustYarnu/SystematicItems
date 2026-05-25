@@ -7,7 +7,6 @@ from Item import add_affinity
 from ItemLimits import normalize_affinities
 
 
-# Map string operands from JSON to Python operator functions
 OPS = {
     ">=": operator.ge, 
     "<=": operator.le, 

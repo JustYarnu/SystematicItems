@@ -1,4 +1,4 @@
-For the actual documentation, see docs.
+For the actual documentation, see [docs](docs/).
 
 # World state overview
 

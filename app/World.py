@@ -24,24 +24,20 @@ def archive_item(item, state):
     """Pass state to prevent overwriting updates on engine loops."""
     os.makedirs(os.path.dirname(ARCHIVE_FILE), exist_ok=True)
     
-    # 1. Financial worth calculation
     item.worth = 100 + (item.generation * 50)
     state["currency"] += item.worth
     
-    # 2. LIFESPAN TRACKING: Calculate rolling average based on generation
     current_archived_count = state.get("archived", 0)
     current_avg_lifespan = state.get("avg_lifespan", 0.0)
-    new_item_lifespan = item.generation  # Lifetime equals final generation reached
+    new_item_lifespan = item.generation
 
-    # Running cumulative average formula
     new_avg_lifespan = (
         (current_avg_lifespan * current_archived_count) + new_item_lifespan
     ) / (current_archived_count + 1)
     
     state["avg_lifespan"] = new_avg_lifespan
-    state["archived"] = current_archived_count + 1 # Safely incremented here now
+    state["archived"] = current_archived_count + 1
     
-    # 3. Disk persistence mechanics
     archive_data = []
     if os.path.exists(ARCHIVE_FILE):
         with open(ARCHIVE_FILE, "r") as f:
