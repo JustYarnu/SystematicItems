@@ -1,0 +1,10 @@
+# Factions (affinities)
+
+- Stability: Pertaining to durability, max durability and resilience (+)
+- Chaos: Pertaining to volatility (+) and resisilience (-)
+- DEX: Pertaining to dex_mod & crit_rate (+)
+- STR: Pertaining to str_mod, damage & crit_damage (+)
+- Scarceness: Pertaining to rarity (+)
+- Decay: Pertaining to durability, max durability and resilience (-)
+- Restoration: Pertain to durability (+)
+- Order: Pertaining to resilience (+) and volatility (-)

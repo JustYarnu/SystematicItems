@@ -1,187 +1,1229 @@
 {
   "prefixes": {
+    "Mundane":{
+      "base_weight":15,
+      "weight_modifiers":{
+        "resilience_high":12
+      },
+      "stat_modifiers":{
+        "resilience":2
+      }
+    },
+    "Otherwordly":{
+      "base_weight":1,
+      "weight_modifiers":{
+        "rarity_high":2
+      },
+      "stat_modifiers":{
+        "str_mod": 5,
+        "dex_mod": 5,
+        "damage": 25,
+        "max_durability": 200,
+        "durability": 175,
+        "rarity": 10,
+        "damage_type": ["Holy", "Elemental", "Arcane"]
+      }
+    },
+    "Iridescent":{
+      "base_weight":1,
+      "weight_modifiers":{
+        "rarity_high":1.2,
+        "dex_high":2
+      },
+      "stat_modifiers":{
+        "durability":50,
+        "max_durability":50,
+        "volatility":0.25,
+        "rarity":5,
+        "damage": 5,
+        "dex_mod":0.2,
+        "damage_type":"Blinding"
+      }
+    },
+    "Shattered": {
+    "base_weight": 14,
+    "weight_modifiers": {
+      "durability_low": 1.8,
+      "volatility_high": 1.5
+    },
+    "stat_modifiers": {
+      "durability": -20,
+      "max_durability": -15,
+      "volatility": 0.2,
+      "damage": 8,
+      "damage_type": "Physical"
+    }
+  },
+  "Volcanic": {
+    "base_weight": 5,
+    "weight_modifiers": {
+      "volatility_high": 2.2
+    },
+    "stat_modifiers": {
+      "volatility": 0.35,
+      "damage": 12,
+      "damage_type": "Fire"
+    }
+  },
+  "Gilded": {
+    "base_weight": 8,
+    "weight_modifiers": {
+      "rarity_high": 2.5
+    },
+    "stat_modifiers": {
+      "rarity": 1.5,
+      "damage": 2
+    }
+  },
+  "Starlight": {
+    "base_weight": 4,
+    "weight_modifiers": {
+      "rarity_high": 1.8,
+      "dex_high": 1.5
+    },
+    "stat_modifiers": {
+      "rarity": 1.0,
+      "dex_mod": 0.25,
+      "damage_type": "Cosmic"
+    }
+  },
+  "Titanic": {
+    "base_weight": 6,
+    "weight_modifiers": {
+      "str_high": 2.0,
+      "durability_high": 1.4
+    },
+    "stat_modifiers": {
+      "max_durability": 40,
+      "durability": 40,
+      "str_mod": 0.3,
+      "dex_mod": -0.1
+    }
+  },
+  "Phantom": {
+    "base_weight": 7,
+    "weight_modifiers": {
+      "dex_high": 1.8
+    },
+    "stat_modifiers": {
+      "dex_mod": 0.2,
+      "volatility": 0.1,
+      "damage_type": "Void"
+    }
+  },
+  "Stormcharged": {
+    "base_weight": 5,
+    "weight_modifiers": {
+      "volatility_high": 2.0,
+      "dex_high": 1.4
+    },
+    "stat_modifiers": {
+      "volatility": 0.3,
+      "dex_mod": 0.15,
+      "damage_type": "Lightning"
+    }
+  },
+  "Glacial": {
+    "base_weight": 9,
+    "weight_modifiers": {
+      "resilience_high": 1.8,
+      "durability_high": 1.3
+    },
+    "stat_modifiers": {
+      "max_durability": 25,
+      "resilience": 0.25,
+      "damage_type": "Cold"
+    }
+  },
+  "Unstable": {
+    "base_weight": 15,
+    "weight_modifiers": {
+      "volatility_high": 3.0,
+      "durability_low": 2.0
+    },
+    "stat_modifiers": {
+      "volatility": 0.5,
+      "durability": -25,
+      "damage": 15,
+      "damage_type": "Chaos"
+    }
+  },
+  "Vampiric": {
+    "base_weight": 4,
+    "weight_modifiers": {
+      "str_high": 1.4,
+      "rarity_high": 1.2
+    },
+    "stat_modifiers": {
+      "damage": 6,
+      "str_mod": 0.15,
+      "damage_type": "Blood"
+    }
+  },
+  "Resolute": {
+    "base_weight": 10,
+    "weight_modifiers": {
+      "resilience_high": 2.0
+    },
+    "stat_modifiers": {
+      "resilience": 0.3,
+      "max_durability": 20,
+      "durability": 20
+    }
+  },
+  "Abyssal": {
+    "base_weight": 3,
+    "weight_modifiers": {
+      "rarity_high": 2.2,
+      "volatility_high": 1.6
+    },
+    "stat_modifiers": {
+      "rarity": 2.0,
+      "volatility": 0.25,
+      "damage_type": "Shadow"
+    }
+  },
+  "Verdant": {
+    "base_weight": 8,
+    "weight_modifiers": {
+      "durability_high": 1.6,
+      "resilience_high": 1.4
+    },
+    "stat_modifiers": {
+      "max_durability": 15,
+      "resilience": 0.15,
+      "damage_type": "Nature"
+    }
+  },
+  "Searing": {
+    "base_weight": 12,
+    "weight_modifiers": {
+      "volatility_high": 1.5
+    },
+    "stat_modifiers": {
+      "damage": 10,
+      "volatility": 0.1,
+      "damage_type": "Fire"
+    }
+  },
+  "Nimble": {
+    "base_weight": 14,
+    "weight_modifiers": {
+      "dex_high": 2.0
+    },
+    "stat_modifiers": {
+      "dex_mod": 0.25,
+      "max_durability": -10
+    }
+  },
+  "Dread": {
+    "base_weight": 6,
+    "weight_modifiers": {
+      "str_high": 1.6
+    },
+    "stat_modifiers": {
+      "str_mod": 0.2,
+      "resilience": -0.1,
+      "damage_type": "Dark"
+    }
+  },
+  "Zealous": {
+    "base_weight": 7,
+    "weight_modifiers": {
+      "volatility_high": 1.4,
+      "str_high": 1.3
+    },
+    "stat_modifiers": {
+      "volatility": 0.15,
+      "str_mod": 0.15,
+      "damage_type": "Holy"
+    }
+  },
+  "Brittle": {
+    "base_weight": 16,
+    "weight_modifiers": {
+      "durability_low": 3.0
+    },
+    "stat_modifiers": {
+      "max_durability": -30,
+      "durability": -30,
+      "damage": 14
+    }
+  },
+  "Prismatic": {
+    "base_weight": 2,
+    "weight_modifiers": {
+      "rarity_high": 3.0
+    },
+    "stat_modifiers": {
+      "rarity": 3.0,
+      "str_mod": 0.1,
+      "dex_mod": 0.1,
+      "resilience": 0.1,
+      "damage_type": ["Fire", "Lightning", "Cold"]
+    }
+  },
+  "Singed": {
+    "base_weight": 15,
+    "weight_modifiers": {
+      "durability_low": 1.4
+    },
+    "stat_modifiers": {
+      "durability": -5,
+      "damage": 3,
+      "damage_type": "Fire"
+    }
+  },
+  "Echoing": {
+    "base_weight": 8,
+    "weight_modifiers": {
+      "dex_high": 1.3
+    },
+    "stat_modifiers": {
+      "dex_mod": 0.1,
+      "damage": 4,
+      "damage_type": "Sonic"
+    }
+  },
+  "Corrosive": {
+    "base_weight": 11,
+    "weight_modifiers": {
+      "volatility_high": 1.5
+    },
+    "stat_modifiers": {
+      "volatility": 0.2,
+      "max_durability": -10,
+      "damage_type": "Acid"
+    }
+  },
+  "Mortal": {
+    "base_weight": 9,
+    "weight_modifiers": {
+      "durability_low": 2.2
+    },
+    "stat_modifiers": {
+      "max_durability": -20,
+      "damage": 12
+    }
+  },
+  "Aetheric": {
+    "base_weight": 4,
+    "weight_modifiers": {
+      "rarity_high": 2.0,
+      "volatility_high": 1.8
+    },
+    "stat_modifiers": {
+      "rarity": 1.2,
+      "volatility": 0.3,
+      "damage_type": "Arcane"
+    }
+  },
+  "Obsidian": {
+    "base_weight": 5,
+    "weight_modifiers": {
+      "durability_high": 2.2
+    },
+    "stat_modifiers": {
+      "max_durability": 35,
+      "durability": 35,
+      "dex_mod": -0.15,
+      "damage_type": "Earth"
+    }
+  },
+    "Broken":{
+      "base_weight": 10,
+      "weight_modifiers":{
+        "durability_low":1.5,
+        "volatility_high":2
+      },
+      "stat_modifiers":{
+        "max_durability":-50,
+        "volatility": 0.5
+      }
+    },
     "Ancient": {
       "base_weight": 6,
-      "modifiers": {
+      "weight_modifiers": {
         "rarity_high": 1.5,
         "durability_high": 1.2
+      },
+      "stat_modifiers": {
+        "max_durability": 20,
+        "rarity": 1.0
       }
     },
     "Rusty": {
       "base_weight": 18,
-      "modifiers": {
+      "weight_modifiers": {
         "durability_low": 2.5
+      },
+      "stat_modifiers": {
+        "durability": -15,
+        "max_durability": -10
       }
     },
     "Glowing": {
       "base_weight": 10,
-      "modifiers": {
+      "weight_modifiers": {
         "volatility_high": 1.8,
         "rarity_high": 1.3
+      },
+      "stat_modifiers": {
+        "volatility": 0.15,
+        "rarity": 0.5
       }
     },
     "Cursed": {
       "base_weight": 5,
-      "modifiers": {
+      "weight_modifiers": {
         "volatility_high": 2.5,
         "durability_low": 1.5
+      },
+      "stat_modifiers": {
+        "volatility": 0.3,
+        "resilience": -0.15
       }
     },
     "Blessed": {
       "base_weight": 7,
-      "modifiers": {
+      "weight_modifiers": {
         "durability_high": 2.0,
         "resilience_high": 1.5
+      },
+      "stat_modifiers": {
+        "max_durability": 15,
+        "resilience": 0.2
       }
     },
     "Fractured": {
       "base_weight": 8,
-      "modifiers": {
+      "weight_modifiers": {
         "durability_low": 2.0,
         "volatility_high": 1.2
+      },
+      "stat_modifiers": {
+        "max_durability": -15,
+        "volatility": 0.1
       }
     },
     "Silent": {
       "base_weight": 6,
-      "modifiers": {
+      "weight_modifiers": {
         "dex_high": 1.4
+      },
+      "stat_modifiers": {
+        "dex_mod": 0.15
       }
     },
     "Heavy": {
       "base_weight": 9,
-      "modifiers": {
+      "weight_modifiers": {
         "str_high": 1.5
+      },
+      "stat_modifiers": {
+        "str_mod": 0.2,
+        "dex_mod": -0.05
       }
     },
     "Eldritch": {
       "base_weight": 3,
-      "modifiers": {
+      "weight_modifiers": {
         "volatility_high": 3.0,
         "rarity_high": 2.0
+      },
+      "stat_modifiers": {
+        "volatility": 0.4,
+        "rarity": 1.5
       }
     },
     "Feral": {
       "base_weight": 7,
-      "modifiers": {
+      "weight_modifiers": {
         "volatility_high": 1.8
+      },
+      "stat_modifiers": {
+        "volatility": 0.2,
+        "str_mod": 0.1
       }
     }
   },
 
   "nouns": {
+    "Rapier":{
+      "base_weight":10,
+      "damage_type": ["Piercing"],
+      "weight_modifiers": {
+        "dex_high":1.2
+      },
+      "stat_modifiers":{
+        "dex_mod":0.1
+      }
+    },
     "Blade": {
       "base_weight": 20,
-      "modifiers": {}
+      "damage_type": ["Physical", "Slashing"],
+      "weight_modifiers": {},
+      "stat_modifiers": {
+        "str_mod": 0.05,
+        "dex_mod": 0.05
+      }
     },
     "Spear": {
       "base_weight": 12,
-      "modifiers": {}
+      "damage_type": ["Physical", "Piercing"],
+      "weight_modifiers": {},
+      "stat_modifiers": {
+        "str_mod": 0.1
+      }
     },
     "Focus": {
       "base_weight": 10,
-      "modifiers": {}
+      "damage_type": ["Magic"],
+      "weight_modifiers": {},
+      "stat_modifiers": {
+        "volatility": 0.1
+      }
     },
     "Edge": {
       "base_weight": 14,
-      "modifiers": {}
+      "damage_type": ["Physical"],
+      "weight_modifiers": {},
+      "stat_modifiers": {
+        "dex_mod": 0.1
+      }
     },
     "Relic": {
       "base_weight": 8,
-      "modifiers": {
+      "damage_type": ["Holy"],
+      "weight_modifiers": {
         "rarity_high": 2
+      },
+      "stat_modifiers": {
+        "rarity": 0.5,
+        "resilience": 0.05
       }
     },
     "Shard": {
       "base_weight": 9,
-      "modifiers": {
+      "damage_type": ["Slashing"],
+      "weight_modifiers": {
         "volatility_high": 2
+      },
+      "stat_modifiers": {
+        "volatility": 0.2,
+        "max_durability": -5
       }
     },
     "Core": {
       "base_weight": 6,
-      "modifiers": {
+      "damage_type": ["Physical"],
+      "weight_modifiers": {
         "rarity_high": 2
+      },
+      "stat_modifiers": {
+        "max_durability": 15
       }
     },
     "Bow": {
       "base_weight": 11,
-      "modifiers": {}
+      "damage_type": ["Piercing"],
+      "weight_modifiers": {},
+      "stat_modifiers": {
+        "dex_mod": 0.15
+      }
     },
     "Axe": {
       "base_weight": 10,
-      "modifiers": {}
+      "damage_type": ["Physical", "Slashing"],
+      "weight_modifiers": {},
+      "stat_modifiers": {
+        "str_mod": 0.15
+      }
     },
     "Sigil": {
       "base_weight": 5,
-      "modifiers": {
+      "damage_type": ["Magic"],
+      "weight_modifiers": {
         "volatility_high": 2.0,
         "rarity_high": 2
+      },
+      "stat_modifiers": {
+        "volatility": 0.15,
+        "rarity": 0.5
       }
+    }
+  },
+  "Dagger": {
+    "base_weight": 16,
+    "weight_modifiers": {
+      "dex_high": 1.5
+    },
+    "stat_modifiers": {
+      "dex_mod": 0.2,
+      "max_durability": -10,
+      "damage": 4
+    }
+  },
+  "Hammer": {
+    "base_weight": 12,
+    "weight_modifiers": {
+      "str_high": 1.8
+    },
+    "stat_modifiers": {
+      "str_mod": 0.25,
+      "max_durability": 20,
+      "damage": 8,
+      "damage_type": "Physical"
+    }
+  },
+  "Shield": {
+    "base_weight": 15,
+    "weight_modifiers": {
+      "resilience_high": 2.0,
+      "durability_high": 1.5
+    },
+    "stat_modifiers": {
+      "resilience": 0.3,
+      "max_durability": 40,
+      "durability": 40,
+      "damage": -2
+    }
+  },
+  "Scepter": {
+    "base_weight": 8,
+    "weight_modifiers": {
+      "volatility_high": 1.4,
+      "rarity_high": 1.3
+    },
+    "stat_modifiers": {
+      "volatility": 0.15,
+      "rarity": 0.4,
+      "damage_type": "Arcane"
+    }
+  },
+  "Staff": {
+    "base_weight": 10,
+    "weight_modifiers": {
+      "volatility_high": 1.6
+    },
+    "stat_modifiers": {
+      "volatility": 0.2,
+      "max_durability": 10,
+      "damage": 5,
+      "damage_type": "Elemental"
+    }
+  },
+  "Greatsword": {
+    "base_weight": 9,
+    "weight_modifiers": {
+      "str_high": 2.0
+    },
+    "stat_modifiers": {
+      "str_mod": 0.3,
+      "damage": 12,
+      "max_durability": 15
+    }
+  },
+  "Scythe": {
+    "base_weight": 6,
+    "weight_modifiers": {
+      "volatility_high": 2.2
+    },
+    "stat_modifiers": {
+      "volatility": 0.25,
+      "damage": 10,
+      "damage_type": "Void"
+    }
+  },
+  "Wand": {
+    "base_weight": 11,
+    "weight_modifiers": {
+      "volatility_high": 2.0
+    },
+    "stat_modifiers": {
+      "volatility": 0.3,
+      "max_durability": -15,
+      "damage": 6
+    }
+  },
+  "Claw": {
+    "base_weight": 13,
+    "weight_modifiers": {
+      "dex_high": 1.8,
+      "volatility_high": 1.2
+    },
+    "stat_modifiers": {
+      "dex_mod": 0.22,
+      "volatility": 0.1,
+      "damage": 5
+    }
+  },
+  "Bulwark": {
+    "base_weight": 7,
+    "weight_modifiers": {
+      "resilience_high": 2.5,
+      "str_high": 1.4
+    },
+    "stat_modifiers": {
+      "resilience": 0.4,
+      "max_durability": 50,
+      "durability": 50,
+      "dex_mod": -0.15
+    }
+  },
+  "Tome": {
+    "base_weight": 7,
+    "weight_modifiers": {
+      "rarity_high": 1.5
+    },
+    "stat_modifiers": {
+      "rarity": 0.6,
+      "volatility": 0.15
+    }
+  },
+  "Orb": {
+    "base_weight": 8,
+    "weight_modifiers": {
+      "volatility_high": 1.8,
+      "rarity_high": 1.4
+    },
+    "stat_modifiers": {
+      "volatility": 0.25,
+      "rarity": 0.5,
+      "damage_type": "Cosmic"
+    }
+  },
+  "Glaive": {
+    "base_weight": 10,
+    "weight_modifiers": {
+      "str_high": 1.3,
+      "dex_high": 1.3
+    },
+    "stat_modifiers": {
+      "str_mod": 0.1,
+      "dex_mod": 0.1,
+      "damage": 7
+    }
+  },
+  "Crossbow": {
+    "base_weight": 9,
+    "weight_modifiers": {
+      "dex_high": 1.6
+    },
+    "stat_modifiers": {
+      "dex_mod": 0.2,
+      "damage": 9,
+      "max_durability": -5
+    }
+  },
+  "Mace": {
+    "base_weight": 12,
+    "weight_modifiers": {
+      "str_high": 1.5,
+      "durability_high": 1.3
+    },
+    "stat_modifiers": {
+      "str_mod": 0.18,
+      "max_durability": 25,
+      "durability": 25
+    }
+  },
+  "Katar": {
+    "base_weight": 8,
+    "weight_modifiers": {
+      "dex_high": 2.0
+    },
+    "stat_modifiers": {
+      "dex_mod": 0.25,
+      "volatility": 0.05,
+      "damage": 4
+    }
+  },
+  "Flail": {
+    "base_weight": 7,
+    "weight_modifiers": {
+      "volatility_high": 1.8,
+      "str_high": 1.4
+    },
+    "stat_modifiers": {
+      "volatility": 0.2,
+      "str_mod": 0.15,
+      "damage": 8
+    }
+  },
+  "Cudgel": {
+    "base_weight": 18,
+    "weight_modifiers": {
+      "durability_high": 1.2
+    },
+    "stat_modifiers": {
+      "max_durability": 10,
+      "durability": 10,
+      "damage": 3
+    }
+  },
+  "Amulet": {
+    "base_weight": 6,
+    "weight_modifiers": {
+      "rarity_high": 2.2
+    },
+    "stat_modifiers": {
+      "rarity": 1.0,
+      "resilience": 0.05
+    }
+  },
+  "Ring": {
+    "base_weight": 8,
+    "weight_modifiers": {
+      "rarity_high": 1.8
+    },
+    "stat_modifiers": {
+      "rarity": 0.5,
+      "dex_mod": 0.05
+    }
+  },
+  "Gauntlet": {
+    "base_weight": 11,
+    "weight_modifiers": {
+      "str_high": 1.4,
+      "resilience_high": 1.3
+    },
+    "stat_modifiers": {
+      "str_mod": 0.12,
+      "resilience": 0.1,
+      "max_durability": 15
+    }
+  },
+  "Grimoire": {
+    "base_weight": 4,
+    "weight_modifiers": {
+      "rarity_high": 2.5,
+      "volatility_high": 2.0
+    },
+    "stat_modifiers": {
+      "rarity": 1.5,
+      "volatility": 0.3,
+      "damage_type": "Eldritch"
+    }
+  },
+  "Halberd": {
+    "base_weight": 9,
+    "weight_modifiers": {
+      "str_high": 1.6
+    },
+    "stat_modifiers": {
+      "str_mod": 0.2,
+      "damage": 10,
+      "max_durability": 5
+    }
+  },
+  "Carapace": {
+    "base_weight": 6,
+    "weight_modifiers": {
+      "resilience_high": 2.0,
+      "durability_high": 1.6
+    },
+    "stat_modifiers": {
+      "resilience": 0.35,
+      "max_durability": 30,
+      "durability": 30,
+      "damage_type": "Earth"
+    }
+  },
+  "Spire": {
+    "base_weight": 5,
+    "weight_modifiers": {
+      "resilience_high": 1.5,
+      "rarity_high": 1.5
+    },
+    "stat_modifiers": {
+      "resilience": 0.2,
+      "max_durability": 35,
+      "rarity": 0.4
     }
   },
 
   "suffixes": {
     "of Decay": {
       "base_weight": 10,
-      "modifiers": {
+      "weight_modifiers": {
         "durability_low": 2.0
+      },
+      "stat_modifiers": {
+        "durability": -20,
+        "max_durability": -10
       }
     },
     "of Flame": {
       "base_weight": 8,
-      "modifiers": {
+      "weight_modifiers": {
         "volatility_high": 1.8
+      },
+      "stat_modifiers": {
+        "volatility": 0.2
       }
     },
     "of the Void": {
       "base_weight": 4,
-      "modifiers": {
+      "weight_modifiers": {
         "volatility_high": 2.5,
         "rarity_high": 2.0
+      },
+      "stat_modifiers": {
+        "volatility": 0.3,
+        "rarity": 1.0
       }
     },
     "of Echoes": {
       "base_weight": 6,
-      "modifiers": {
+      "weight_modifiers": {
         "rarity_high": 1.3
+      },
+      "stat_modifiers": {
+        "rarity": 0.3,
+        "dex_mod": 0.05
       }
     },
     "of Stone": {
       "base_weight": 7,
-      "modifiers": {
+      "weight_modifiers": {
         "durability_high": 1.5
+      },
+      "stat_modifiers": {
+        "max_durability": 30,
+        "resilience": 0.15
       }
     },
     "of Ash": {
       "base_weight": 9,
-      "modifiers": {
+      "weight_modifiers": {
         "durability_low": 1.6
+      },
+      "stat_modifiers": {
+        "durability": -10,
+        "volatility": 0.05
       }
     },
     "of Storms": {
       "base_weight": 6,
-      "modifiers": {
+      "weight_modifiers": {
         "volatility_high": 2.0
+      },
+      "stat_modifiers": {
+        "volatility": 0.25
       }
     },
     "of Silence": {
       "base_weight": 5,
-      "modifiers": {
+      "weight_modifiers": {
         "dex_high": 1.5
+      },
+      "stat_modifiers": {
+        "dex_mod": 0.2
       }
     },
     "of Blood": {
       "base_weight": 7,
-      "modifiers": {
+      "weight_modifiers": {
         "str_high": 1.4
+      },
+      "stat_modifiers": {
+        "str_mod": 0.2
       }
     },
     "of Eternity": {
       "base_weight": 3,
-      "modifiers": {
+      "weight_modifiers": {
         "rarity_high": 2.5,
         "durability_high": 1.5
+      },
+      "stat_modifiers": {
+        "max_durability": 50,
+        "rarity": 2.0
       }
+    },
+    "of Torment": {
+    "base_weight": 6,
+    "weight_modifiers": {
+      "volatility_high": 1.6,
+      "durability_low": 1.4
+    },
+    "stat_modifiers": {
+      "damage": 11,
+      "durability": -15,
+      "damage_type": "Shadow"
     }
+  },
+  "of Light": {
+    "base_weight": 8,
+    "weight_modifiers": {
+      "resilience_high": 1.8
+    },
+    "stat_modifiers": {
+      "resilience": 0.22,
+      "rarity": 0.3,
+      "damage_type": "Holy"
+    }
+  },
+  "of the Sun": {
+    "base_weight": 4,
+    "weight_modifiers": {
+      "rarity_high": 2.0,
+      "volatility_high": 1.5
+    },
+    "stat_modifiers": {
+      "damage": 9,
+      "volatility": 0.15,
+      "damage_type": "Fire"
+    }
+  },
+  "of Frost": {
+    "base_weight": 11,
+    "weight_modifiers": {
+      "resilience_high": 1.5,
+      "durability_high": 1.2
+    },
+    "stat_modifiers": {
+      "resilience": 0.18,
+      "max_durability": 15,
+      "damage_type": "Cold"
+    }
+  },
+  "of Venom": {
+    "base_weight": 9,
+    "weight_modifiers": {
+      "volatility_high": 1.8
+    },
+    "stat_modifiers": {
+      "volatility": 0.2,
+      "damage": 5,
+      "damage_type": "Acid"
+    }
+  },
+  "of Ruins": {
+    "base_weight": 13,
+    "weight_modifiers": {
+      "durability_low": 2.5
+    },
+    "stat_modifiers": {
+      "max_durability": -25,
+      "damage": 14,
+      "damage_type": "Physical"
+    }
+  },
+  "of the Phoenix": {
+    "base_weight": 2,
+    "weight_modifiers": {
+      "rarity_high": 2.8,
+      "durability_low": 2.0
+    },
+    "stat_modifiers": {
+      "max_durability": 30,
+      "durability": 40,
+      "rarity": 1.8,
+      "damage_type": "Fire"
+    }
+  },
+  "of Gales": {
+    "base_weight": 10,
+    "weight_modifiers": {
+      "dex_high": 1.7
+    },
+    "stat_modifiers": {
+      "dex_mod": 0.18,
+      "volatility": 0.05,
+      "damage_type": "Sonic"
+    }
+  },
+  "of Might": {
+    "base_weight": 12,
+    "weight_modifiers": {
+      "str_high": 2.0
+    },
+    "stat_modifiers": {
+      "str_mod": 0.25,
+      "damage": 4
+    }
+  },
+  "of Grace": {
+    "base_weight": 12,
+    "weight_modifiers": {
+      "dex_high": 2.0
+    },
+    "stat_modifiers": {
+      "dex_mod": 0.25,
+      "max_durability": -5
+    }
+  },
+  "of Iron": {
+    "base_weight": 14,
+    "weight_modifiers": {
+      "durability_high": 1.8
+    },
+    "stat_modifiers": {
+      "max_durability": 35,
+      "resilience": 0.2
+    }
+  },
+  "of Mirage": {
+    "base_weight": 5,
+    "weight_modifiers": {
+      "dex_high": 1.5,
+      "volatility_high": 1.5
+    },
+    "stat_modifiers": {
+      "dex_mod": 0.15,
+      "volatility": 0.2,
+      "damage_type": "Cosmic"
+    }
+  },
+  "of Judgement": {
+    "base_weight": 4,
+    "weight_modifiers": {
+      "str_high": 1.5,
+      "rarity_high": 1.5
+    },
+    "stat_modifiers": {
+      "str_mod": 0.2,
+      "damage": 8,
+      "damage_type": "Holy"
+    }
+  },
+  "of Carnage": {
+    "base_weight": 7,
+    "weight_modifiers": {
+      "volatility_high": 2.0,
+      "str_high": 1.2
+    },
+    "stat_modifiers": {
+      "damage": 13,
+      "volatility": 0.25,
+      "damage_type": "Blood"
+    }
+  },
+  "of Pestilence": {
+    "base_weight": 9,
+    "weight_modifiers": {
+      "durability_low": 1.8,
+      "volatility_high": 1.4
+    },
+    "stat_modifiers": {
+      "max_durability": -12,
+      "damage": 6,
+      "damage_type": "Acid"
+    }
+  },
+  "of Blight": {
+    "base_weight": 8,
+    "weight_modifiers": {
+      "durability_low": 2.0
+    },
+    "stat_modifiers": {
+      "durability": -18,
+      "damage": 7,
+      "damage_type": "Dark"
+    }
+  },
+  "of Doom": {
+    "base_weight": 3,
+    "weight_modifiers": {
+      "volatility_high": 3.5,
+      "rarity_high": 1.8
+    },
+    "stat_modifiers": {
+      "damage": 18,
+      "volatility": 0.45,
+      "damage_type": "Chaos"
+    }
+  },
+  "of Sparks": {
+    "base_weight": 11,
+    "weight_modifiers": {
+      "volatility_high": 1.6
+    },
+    "stat_modifiers": {
+      "volatility": 0.15,
+      "damage": 3,
+      "damage_type": "Lightning"
+    }
+  },
+  "of Whispers": {
+    "base_weight": 7,
+    "weight_modifiers": {
+      "dex_high": 1.4
+    },
+    "stat_modifiers": {
+      "dex_mod": 0.12,
+      "damage_type": "Void"
+    }
+  },
+  "of the Glacier": {
+    "base_weight": 5,
+    "weight_modifiers": {
+      "durability_high": 2.0,
+      "resilience_high": 1.6
+    },
+    "stat_modifiers": {
+      "max_durability": 40,
+      "resilience": 0.28,
+      "damage_type": "Cold"
+    }
+  },
+  "of Embers": {
+    "base_weight": 10,
+    "weight_modifiers": {
+      "volatility_high": 1.3
+    },
+    "stat_modifiers": {
+      "damage": 4,
+      "volatility": 0.08,
+      "damage_type": "Fire"
+    }
+  },
+  "of the Deep": {
+    "base_weight": 6,
+    "weight_modifiers": {
+      "durability_high": 1.4,
+      "resilience_high": 1.4
+    },
+    "stat_modifiers": {
+      "max_durability": 20,
+      "resilience": 0.15,
+      "damage_type": "Water"
+    }
+  },
+  "of Plagues": {
+    "base_weight": 6,
+    "weight_modifiers": {
+      "volatility_high": 2.2
+    },
+    "stat_modifiers": {
+      "volatility": 0.3,
+      "max_durability": -10,
+      "damage_type": "Acid"
+    }
+  },
+  "of Sovereignty": {
+    "base_weight": 2,
+    "weight_modifiers": {
+      "rarity_high": 3.0
+    },
+    "stat_modifiers": {
+      "rarity": 2.5,
+      "str_mod": 0.1,
+      "dex_mod": 0.1,
+      "resilience": 0.1
+    }
+  },
+  "of Distortion": {
+    "base_weight": 5,
+    "weight_modifiers": {
+      "volatility_high": 2.4
+    },
+    "stat_modifiers": {
+      "volatility": 0.35,
+      "damage_type": ["Chaos", "Void"]
+    }
+  }
   }
 }

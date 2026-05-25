@@ -1,0 +1,351 @@
+{
+  "rules": {
+    "minor_blessing": {
+      "faction": "Stability",
+      "weight": 10,
+      "effect": {
+        "max_durability": 2.0,
+        "durability": -5.0
+      },
+      "requirements": {
+        "operand": ">=",
+        "volatility": 0.1
+      }
+    },
+    "stability_affinity": {
+      "faction": "Stability",
+      "weight": 5,
+      "effect": {
+        "affinities": ["Stability"]
+      },
+      "requirements": {
+        "operand": ">=",
+        "volatility": 0.2
+      }
+    },
+    "iron_core": {
+      "faction": "Stability",
+      "weight": 8,
+      "effect": {
+        "resilience": 0.05,
+        "max_durability": 5.0,
+        "durability": -3.0
+      },
+      "requirements": {
+        "operand": ">=",
+        "resilience": 0.1
+      }
+    },
+    "tempered_form": {
+      "faction": "Stability",
+      "weight": 6,
+      "effect": {
+        "max_durability": 15.0,
+        "durability": -8.0
+      },
+      "requirements": {
+        "operand": "<=",
+        "volatility": 0.2
+      }
+    },
+    "corrosion": {
+      "faction": "Decay",
+      "weight": 3,
+      "effect": {
+        "durability": -5.0,
+        "max_durability": -5.0
+      },
+      "requirements": {
+        "operand": "<=",
+        "resilience": 0.2
+      }
+    },
+    "decay_affinity": {
+      "faction": "Decay",
+      "weight": 2,
+      "effect": {
+        "affinities": ["Decay"]
+      },
+      "requirements": {
+        "operand": "<=",
+        "resilience": 0.1
+      }
+    },
+    "rusting_core": {
+      "faction": "Decay",
+      "weight": 4,
+      "effect": {
+        "max_durability": -8.0,
+        "resilience": -0.05,
+        "durability": -2.0
+      },
+      "requirements": {
+        "operand": "<=",
+        "resilience": 0.3
+      }
+    },
+    "entropy_grasp": {
+      "faction": "Decay",
+      "weight": 5,
+      "effect": {
+        "durability": -10.0,
+        "volatility": -0.05
+      },
+      "requirements": {
+        "operand": ">=",
+        "volatility": 0.3
+      }
+    },
+    "wild_shift": {
+      "faction": "Chaos",
+      "weight": 7,
+      "effect": {
+        "volatility": 0.08,
+        "resilience": -0.05,
+        "durability": -5.0
+      },
+      "requirements": {
+        "operand": ">=",
+        "volatility": 0.15
+      }
+    },
+    "flickering_state": {
+      "faction": "Chaos",
+      "weight": 9,
+      "effect": {
+        "volatility": 0.05,
+        "damage": 2.0
+      },
+      "requirements": {
+        "operand": "<=",
+        "resilience": 0.4
+      }
+    },
+    "chaotic_affinity": {
+      "faction": "Chaos",
+      "weight": 5,
+      "effect": {
+        "affinities": ["Chaos"]
+      },
+      "requirements": {
+        "operand": ">=",
+        "volatility": 0.25
+      }
+    },
+    "honed_edge": {
+      "faction": "DEX",
+      "weight": 10,
+      "effect": {
+        "dex_mod": 0.1,
+        "durability": -3.0
+      },
+      "requirements": {
+        "operand": ">=",
+        "volatility": 0.1
+      }
+    },
+    "assassins_touch": {
+      "faction": "DEX",
+      "weight": 5,
+      "effect": {
+        "crit_rate": 0.05,
+        "durability": -4.0
+      },
+      "requirements": {
+        "operand": ">=",
+        "dex_mod": 1.1
+      }
+    },
+    "featherweight": {
+      "faction": "DEX",
+      "weight": 8,
+      "effect": {
+        "dex_mod": 0.15,
+        "damage": -2.0
+      },
+      "requirements": {
+        "operand": "<=",
+        "volatility": 0.3
+      }
+    },
+    "dex_affinity": {
+      "faction": "DEX",
+      "weight": 5,
+      "effect": {
+        "affinities": ["DEX"]
+      },
+      "requirements": {
+        "operand": ">=",
+        "dex_mod": 1.2
+      }
+    },
+    "brute_force": {
+      "faction": "STR",
+      "weight": 10,
+      "effect": {
+        "str_mod": 0.1,
+        "damage": 1.5,
+        "durability": -4.0
+      },
+      "requirements": {
+        "operand": ">=",
+        "volatility": 0.1
+      }
+    },
+    "crushing_blow": {
+      "faction": "STR",
+      "weight": 6,
+      "effect": {
+        "crit_damage": 0.5,
+        "max_durability": -5.0
+      },
+      "requirements": {
+        "operand": ">=",
+        "str_mod": 1.1
+      }
+    },
+    "heavy_impact": {
+      "faction": "STR",
+      "weight": 7,
+      "effect": {
+        "damage": 5.0,
+        "dex_mod": -0.1,
+        "durability": -5.0
+      },
+      "requirements": {
+        "operand": ">=",
+        "str_mod": 1.0
+      }
+    },
+    "str_affinity": {
+      "faction": "STR",
+      "weight": 5,
+      "effect": {
+        "affinities": ["STR"]
+      },
+      "requirements": {
+        "operand": ">=",
+        "str_mod": 1.2
+      }
+    },
+    "mending_light": {
+      "faction": "Restoration",
+      "weight": 8,
+      "effect": {
+        "durability": 15.0
+      },
+      "requirements": {
+        "operand": "<=",
+        "durability": 80.0
+      }
+    },
+    "soothing_breeze": {
+      "faction": "Restoration",
+      "weight": 7,
+      "effect": {
+        "durability": 8.0,
+        "volatility": -0.02
+      },
+      "requirements": {
+        "operand": ">=",
+        "volatility": 0.15
+      }
+    },
+    "restoration_affinity": {
+      "faction": "Restoration",
+      "weight": 4,
+      "effect": {
+        "affinities": ["Restoration"]
+      },
+      "requirements": {
+        "operand": ">=",
+        "max_durability": 120.0
+      }
+    },
+    "stilled_form": {
+      "faction": "Order",
+      "weight": 8,
+      "effect": {
+        "volatility": -0.05,
+        "durability": -2.0
+      },
+      "requirements": {
+        "operand": ">=",
+        "volatility": 0.2
+      }
+    },
+    "ordered_structure": {
+      "faction": "Order",
+      "weight": 6,
+      "effect": {
+        "resilience": 0.08,
+        "volatility": -0.03,
+        "durability": -4.0
+      },
+      "requirements": {
+        "operand": ">=",
+        "resilience": 0.2
+      }
+    },
+    "order_affinity": {
+      "faction": "Order",
+      "weight": 4,
+      "effect": {
+        "affinities": ["Order"]
+      },
+      "requirements": {
+        "operand": ">=",
+        "resilience": 0.4
+      }
+    },
+    "flawless_lattice": {
+      "faction": "Order",
+      "weight": 2,
+      "effect": {
+        "resilience": 0.15,
+        "max_durability": 10.0,
+        "volatility": -0.1
+      },
+      "requirements": {
+        "operand": ">=",
+        "resilience": 0.7
+      }
+    },
+    "gilded_transformation": {
+      "faction": "Scarceness",
+      "weight": 2,
+      "effect": {
+        "rarity": 1,
+        "max_durability": -10.0,
+        "volatility": 0.05
+      },
+      "requirements": {
+        "operand": ">=",
+        "generation": 5
+      }
+    },
+    "ancient_relic": {
+      "faction": "Scarceness",
+      "weight": 1,
+      "effect": {
+        "rarity": 1,
+        "resilience": 0.1
+      },
+      "requirements": {
+        "operand": ">=",
+        "resilience": 0.6
+      }
+    },
+    "scarceness_affinity": {
+      "faction": "Scarceness",
+      "weight": 3,
+      "effect": {
+        "affinities": ["Scarceness"]
+      },
+      "requirements": {
+        "operand": ">=",
+        "rarity": 2
+      }
+    }
+  }
+}

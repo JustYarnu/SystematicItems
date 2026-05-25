@@ -2,7 +2,7 @@ import json
 import os
 from dataclasses import asdict
 from Item import Item
-from NameGenerator import load_name_data, load_type_mapping, generate_name_and_type
+from NameGenerator import load_name_data, load_type_mapping, generate_name_and_type, apply_affix_stats
 
 DATA_DIR = "data/items"
 
@@ -35,10 +35,15 @@ def generate_item():
     
     new_item = Item()
     
-    generated_name, generated_type = generate_name_and_type(new_item, name_data, noun_map)
+    generated_name, generated_type, prefix, noun, suffix = generate_name_and_type(new_item, name_data, noun_map)
     
     new_item.name = generated_name
     new_item.type = generated_type
+    
+    apply_affix_stats(new_item, name_data, prefix, noun, suffix)
+    
+    if hasattr(new_item, 'durability') and hasattr(new_item, 'max_durability'):
+        new_item.durability = min(new_item.durability, new_item.max_durability)
     
     return new_item
 
