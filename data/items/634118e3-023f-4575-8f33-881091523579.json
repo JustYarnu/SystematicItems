@@ -17,7 +17,7 @@
   "rarity": 1,
   "durability": 95.0,
   "max_durability": 115.0,
-  "volatility": 0.2,
+  "volatility": 0.21000000000000002,
   "resilience": 0.6799999999999999,
   "worth": 100,
   "affinities": {}
