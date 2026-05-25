@@ -33,10 +33,18 @@ For the actual documentation, see [docs](docs/).
 - Items Archived: {$ARCHIVED$}
 - Avg Lifespan (ticks): {$LIFESPAN$}
 
+### Distribution chart
+{$LIFESPAN_BAR_CHART$}
+
+### Average lifespan line chart
+{$AVG_LIFESPAN_LINE_CHART$}
+
 ## Mutation Stats (Last Tick)
 - Mutations Attempted: {$ATTEMPTED$}
 - Successful Mutations: {$SUCCESS$}
 - Failure Rate: {$FAIL_RATE$}
+
+{$FAILRATE_LINE_CHART$}
 
 ## Rarity Distribution
 - Common: {$R1$}
@@ -45,7 +53,11 @@ For the actual documentation, see [docs](docs/).
 - Epic: {$R4$}
 - Legendary+: {$R5_PLUS$}
 
+{$RARITY_BAR_CHART$}
+
 ## Economy
 - Total Currency: {$CURRENCY$}
 - Currency per Tick (avg): {$CPT$}
 - Recent Gains: {$RECENT_GAIN$}
+
+{$CURRENCY_PER_TICK_LINE_CHART$}

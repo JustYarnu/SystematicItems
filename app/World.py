@@ -8,6 +8,10 @@ from WorldSnapshotBuilder import build_snapshot
 from OverviewUpdater import render_readme
 from Engine import load_item, save_item, generate_item, DATA_DIR
 import Rule
+from History import log_history
+from GraphGenerator import generate_graphs
+from Engine import get_all_items
+
 
 ARCHIVE_FILE = "data/archive/archive.json"
 LOG_FILE = "data/world.log"
@@ -169,6 +173,10 @@ def tick():
     
     snapshot = build_snapshot(state, state["recent_events"], recent_gain=recent_gain)
 
+    log_history(snapshot)
+    
+    generate_graphs(snapshot)
+
     with open("README_TEMPLATE.md", "r") as f:
         template = f.read()
 
@@ -176,6 +184,7 @@ def tick():
 
     with open("README.md", "w") as f:
         f.write(final_readme)
+
 
 
 if __name__ == "__main__":

@@ -28,6 +28,13 @@ def load_item(item_id: str) -> Item:
     
     return Item(**data)
 
+def get_all_items():
+    items = []
+    for f in os.listdir(DATA_DIR):
+        if f.endswith(".json"):
+            items.append(load_item(f.replace(".json", "")))
+    return items
+
 
 def generate_item():
     name_data = load_name_data()

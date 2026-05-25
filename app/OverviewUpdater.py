@@ -57,4 +57,11 @@ def render_readme(template_text: str, snapshot: dict):
     output = output.replace("{$CPT$}", str(snapshot["CPT"]))
     output = output.replace("{$RECENT_GAIN$}", str(snapshot["RECENT_GAIN"]))
 
+    # Graphs
+    output = output.replace("{$LIFESPAN_BAR_CHART$}", "![Lifespan Dist](assets/lifespan_dist.png)")
+    output = output.replace("{$AVG_LIFESPAN_LINE_CHART$}", "![Avg Lifespan](assets/avg_lifespan.png)")
+    output = output.replace("{$FAILRATE_LINE_CHART$}", "![Fail Rate](assets/fail_rate.png)")
+    output = output.replace("{$RARITY_BAR_CHART$}", "![Rarity Dist](assets/rarity_dist.png)")
+    output = output.replace("{$CURRENCY_PER_TICK_LINE_CHART$}", "![CPT](assets/cpt.png)")
+
     return output
