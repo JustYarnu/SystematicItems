@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-3
+4
 
 ## Oldest Item
-Glacial Blade of Gales
+Dread Rapier of Silence
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.25
-- Average Volatility: 0.25
-- Average Durability: 102.1
+- Average Volatility: 0.24
+- Average Durability: 101.8
 
 ## Dominant Factions
 - Chaos: 0.1
@@ -24,9 +24,9 @@ Glacial Blade of Gales
 - Most Volatile Item: Dread Shard of Venom
 
 ## Recent Events
-- STABLE: 'Dread Rapier of Silence' did not mutate this tick.
 - STABLE: 'Ancient Edge of Embers' did not mutate this tick.
 - MUTATED: 'Dread Shard of Venom' evolved to generation 2.
+- MUTATED: 'Zealous Blade of Carnage' evolved to generation 2.
 
 ## Lifecycle Stats
 - Items Created: 10
@@ -40,9 +40,9 @@ Glacial Blade of Gales
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 3
-- Successful Mutations: 1
-- Failure Rate: 66.7%
+- Mutations Attempted: 4
+- Successful Mutations: 2
+- Failure Rate: 50.0%
 
 ![Fail Rate](assets/fail_rate.png)
 

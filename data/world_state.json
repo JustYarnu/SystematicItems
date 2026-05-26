@@ -1,12 +1,11 @@
 {
   "currency": 0,
-  "tick": 3,
+  "tick": 4,
   "mutation_stats": {
-    "attempted": 3,
-    "success": 1
+    "attempted": 4,
+    "success": 2
   },
   "recent_events": [
-    "GENERATED: 'Glacial Spear of Plagues' (f9995039-6cab-4c79-8e5a-7ccb1bdc2fdd) to fill ecosystem.",
     "GENERATED: 'Dread Shard of Venom' (82b83201-afce-4e2f-bf78-0527a13856ad) to fill ecosystem.",
     "GENERATED: 'Glacial Blade of Gales' (1462627c-74fb-46db-a812-b23a95c0f7e4) to fill ecosystem.",
     "GENERATED: 'Verdant Relic of Ruins' (e7f93405-81ea-4574-83d7-a34607d0452c) to fill ecosystem.",
@@ -15,7 +14,8 @@
     "GENERATED: 'Zealous Blade of Carnage' (f21e56f6-2864-4f9d-99f0-f1df0d195f52) to fill ecosystem.",
     "STABLE: 'Dread Rapier of Silence' did not mutate this tick.",
     "STABLE: 'Ancient Edge of Embers' did not mutate this tick.",
-    "MUTATED: 'Dread Shard of Venom' evolved to generation 2."
+    "MUTATED: 'Dread Shard of Venom' evolved to generation 2.",
+    "MUTATED: 'Zealous Blade of Carnage' evolved to generation 2."
   ],
   "created": 10
 }
