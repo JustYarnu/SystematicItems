@@ -188,4 +188,5 @@ def tick():
 
 
 if __name__ == "__main__":
-    tick()
+    for i in range(0,10):
+        tick()
