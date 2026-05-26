@@ -1,21 +1,21 @@
 {
   "currency": 0,
-  "tick": 7,
+  "tick": 17,
   "mutation_stats": {
-    "attempted": 7,
-    "success": 4
+    "attempted": 17,
+    "success": 7
   },
   "recent_events": [
-    "GENERATED: 'Titanic Rapier of Frost' (1538cb3f-3dd0-4f36-aa84-b581d8d3350f) to fill ecosystem.",
-    "GENERATED: 'Dread Rapier of Silence' (6dbceb78-8fe0-4553-a023-8f20725670d8) to fill ecosystem.",
-    "GENERATED: 'Zealous Blade of Carnage' (f21e56f6-2864-4f9d-99f0-f1df0d195f52) to fill ecosystem.",
-    "STABLE: 'Dread Rapier of Silence' did not mutate this tick.",
+    "STABLE: 'Verdant Relic of Ruins' did not mutate this tick.",
+    "STABLE: 'Glacial Spear of Plagues' did not mutate this tick.",
+    "STABLE: 'Dread Shard of Venom' did not mutate this tick.",
     "STABLE: 'Ancient Edge of Embers' did not mutate this tick.",
-    "MUTATED: 'Dread Shard of Venom' evolved to generation 2.",
-    "MUTATED: 'Zealous Blade of Carnage' evolved to generation 2.",
-    "MUTATED: 'Zealous Blade of Carnage' evolved to generation 3.",
-    "MUTATED: 'Zealous Blade of Carnage' evolved to generation 4.",
-    "STABLE: 'Verdant Relic of Ruins' did not mutate this tick."
+    "MUTATED: 'Glacial Spear of Plagues' evolved to generation 2.",
+    "MUTATED: 'Dread Shard of Venom' evolved to generation 3.",
+    "STABLE: 'Dread Rapier of Silence' did not mutate this tick.",
+    "STABLE: 'Starlight Shard of Might' did not mutate this tick.",
+    "MUTATED: 'Zealous Blade of Carnage' evolved to generation 5.",
+    "STABLE: 'Ancient Edge of Embers' did not mutate this tick."
   ],
   "created": 10
 }
