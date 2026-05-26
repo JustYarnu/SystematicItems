@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5
+6
 
 ## Oldest Item
 Dread Rapier of Silence
@@ -11,8 +11,8 @@ Dread Rapier of Silence
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.25
-- Average Volatility: 0.24
-- Average Durability: 101.5
+- Average Volatility: 0.23
+- Average Durability: 101.2
 
 ## Dominant Factions
 - Chaos: 0.1
@@ -24,9 +24,9 @@ Dread Rapier of Silence
 - Most Volatile Item: Dread Shard of Venom
 
 ## Recent Events
-- MUTATED: 'Dread Shard of Venom' evolved to generation 2.
 - MUTATED: 'Zealous Blade of Carnage' evolved to generation 2.
 - MUTATED: 'Zealous Blade of Carnage' evolved to generation 3.
+- MUTATED: 'Zealous Blade of Carnage' evolved to generation 4.
 
 ## Lifecycle Stats
 - Items Created: 10
@@ -40,9 +40,9 @@ Dread Rapier of Silence
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5
-- Successful Mutations: 3
-- Failure Rate: 40.0%
+- Mutations Attempted: 6
+- Successful Mutations: 4
+- Failure Rate: 33.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
