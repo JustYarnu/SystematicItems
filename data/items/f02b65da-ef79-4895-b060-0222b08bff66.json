@@ -2,7 +2,7 @@
   "id": "f02b65da-ef79-4895-b060-0222b08bff66",
   "name": "Starlight Shard of Might",
   "type": "Dagger",
-  "generation": 4,
+  "generation": 5,
   "damage": 19.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.25,
   "dex_mod": 1.15,
   "rarity": 2.0,
-  "durability": 82.5,
+  "durability": 77.75,
   "max_durability": 95.0,
-  "volatility": 0.27000000000000013,
-  "resilience": 0.5,
+  "volatility": 0.35000000000000014,
+  "resilience": 0.45,
   "worth": 100,
   "affinities": {}
 }
