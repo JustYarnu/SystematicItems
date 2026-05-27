@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-57
+67
 
 ## Oldest Item
-Verdant Relic of Ruins
+Titanic Rapier of Frost
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.25
-- Average Volatility: 0.27
-- Average Durability: 94.47
+- Average Volatility: 0.28
+- Average Durability: 92.97
 
 ## Dominant Factions
 - Chaos: 0.2
@@ -24,8 +24,8 @@ Verdant Relic of Ruins
 - Most Volatile Item: Glacial Spear of Plagues
 
 ## Recent Events
-- STABLE: 'Verdant Relic of Ruins' did not mutate this tick.
-- STABLE: 'Verdant Relic of Ruins' did not mutate this tick.
+- STABLE: 'Titanic Rapier of Frost' did not mutate this tick.
+- STABLE: 'Dread Rapier of Silence' did not mutate this tick.
 - STABLE: 'Dread Rapier of Silence' did not mutate this tick.
 
 ## Lifecycle Stats
@@ -40,9 +40,9 @@ Verdant Relic of Ruins
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 57
-- Successful Mutations: 16
-- Failure Rate: 71.9%
+- Mutations Attempted: 67
+- Successful Mutations: 18
+- Failure Rate: 73.1%
 
 ![Fail Rate](assets/fail_rate.png)
 
