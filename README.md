@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-77
+87
 
 ## Oldest Item
 Titanic Rapier of Frost
@@ -12,7 +12,7 @@ Titanic Rapier of Frost
 - Active Items: 10
 - Average Rarity: 1.25
 - Average Volatility: 0.3
-- Average Durability: 91.03
+- Average Durability: 90.21
 
 ## Dominant Factions
 - Chaos: 0.2
@@ -21,11 +21,11 @@ Titanic Rapier of Frost
 
 ## Extremes
 - Most Stable Item: Mundane Rapier of Whispers
-- Most Volatile Item: Zealous Blade of Carnage
+- Most Volatile Item: Dread Shard of Venom
 
 ## Recent Events
-- MUTATED: 'Ancient Edge of Embers' evolved to generation 3.
-- STABLE: 'Glacial Spear of Plagues' did not mutate this tick.
+- MUTATED: 'Glacial Spear of Plagues' evolved to generation 6.
+- STABLE: 'Titanic Rapier of Frost' did not mutate this tick.
 - STABLE: 'Dread Rapier of Silence' did not mutate this tick.
 
 ## Lifecycle Stats
@@ -40,9 +40,9 @@ Titanic Rapier of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 77
-- Successful Mutations: 21
-- Failure Rate: 72.7%
+- Mutations Attempted: 87
+- Successful Mutations: 26
+- Failure Rate: 70.1%
 
 ![Fail Rate](assets/fail_rate.png)
 
