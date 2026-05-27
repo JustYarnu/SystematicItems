@@ -2,7 +2,7 @@ name: World Tick
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "11 * * * *"
   workflow_dispatch:
 
 permissions:
