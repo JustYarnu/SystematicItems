@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-87
+97
 
 ## Oldest Item
-Titanic Rapier of Frost
+Dread Rapier of Silence
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.25
 - Average Volatility: 0.3
-- Average Durability: 90.21
+- Average Durability: 87.98
 
 ## Dominant Factions
 - Chaos: 0.2
@@ -24,9 +24,9 @@ Titanic Rapier of Frost
 - Most Volatile Item: Dread Shard of Venom
 
 ## Recent Events
-- MUTATED: 'Glacial Spear of Plagues' evolved to generation 6.
+- STABLE: 'Dread Shard of Venom' did not mutate this tick.
 - STABLE: 'Titanic Rapier of Frost' did not mutate this tick.
-- STABLE: 'Dread Rapier of Silence' did not mutate this tick.
+- MUTATED: 'Dread Shard of Venom' evolved to generation 6.
 
 ## Lifecycle Stats
 - Items Created: 10
@@ -40,9 +40,9 @@ Titanic Rapier of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 87
-- Successful Mutations: 26
-- Failure Rate: 70.1%
+- Mutations Attempted: 97
+- Successful Mutations: 30
+- Failure Rate: 69.1%
 
 ![Fail Rate](assets/fail_rate.png)
 
