@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-47
+57
 
 ## Oldest Item
 Verdant Relic of Ruins
@@ -11,8 +11,8 @@ Verdant Relic of Ruins
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.25
-- Average Volatility: 0.26
-- Average Durability: 95.67
+- Average Volatility: 0.27
+- Average Durability: 94.47
 
 ## Dominant Factions
 - Chaos: 0.2
@@ -21,12 +21,12 @@ Verdant Relic of Ruins
 
 ## Extremes
 - Most Stable Item: Mundane Rapier of Whispers
-- Most Volatile Item: Dread Shard of Venom
+- Most Volatile Item: Glacial Spear of Plagues
 
 ## Recent Events
-- STABLE: 'Starlight Shard of Might' did not mutate this tick.
-- STABLE: 'Mundane Rapier of Whispers' did not mutate this tick.
-- MUTATED: 'Glacial Spear of Plagues' evolved to generation 4.
+- STABLE: 'Verdant Relic of Ruins' did not mutate this tick.
+- STABLE: 'Verdant Relic of Ruins' did not mutate this tick.
+- STABLE: 'Dread Rapier of Silence' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 10
@@ -40,9 +40,9 @@ Verdant Relic of Ruins
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 47
-- Successful Mutations: 15
-- Failure Rate: 68.1%
+- Mutations Attempted: 57
+- Successful Mutations: 16
+- Failure Rate: 71.9%
 
 ![Fail Rate](assets/fail_rate.png)
 
