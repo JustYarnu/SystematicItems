@@ -1,21 +1,21 @@
 {
   "currency": 0,
-  "tick": 97,
+  "tick": 107,
   "mutation_stats": {
-    "attempted": 97,
-    "success": 30
+    "attempted": 107,
+    "success": 32
   },
   "recent_events": [
-    "STABLE: 'Verdant Relic of Ruins' did not mutate this tick.",
-    "MUTATED: 'Zealous Blade of Carnage' evolved to generation 8.",
-    "STABLE: 'Dread Shard of Venom' did not mutate this tick.",
-    "MUTATED: 'Starlight Shard of Might' evolved to generation 4.",
-    "MUTATED: 'Titanic Rapier of Frost' evolved to generation 2.",
+    "STABLE: 'Starlight Shard of Might' did not mutate this tick.",
+    "MUTATED: 'Verdant Relic of Ruins' evolved to generation 4.",
     "STABLE: 'Mundane Rapier of Whispers' did not mutate this tick.",
-    "STABLE: 'Glacial Blade of Gales' did not mutate this tick.",
-    "STABLE: 'Dread Shard of Venom' did not mutate this tick.",
+    "STABLE: 'Ancient Edge of Embers' did not mutate this tick.",
     "STABLE: 'Titanic Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Dread Shard of Venom' evolved to generation 6."
+    "STABLE: 'Zealous Blade of Carnage' did not mutate this tick.",
+    "MUTATED: 'Zealous Blade of Carnage' evolved to generation 9.",
+    "STABLE: 'Titanic Rapier of Frost' did not mutate this tick.",
+    "STABLE: 'Starlight Shard of Might' did not mutate this tick.",
+    "STABLE: 'Glacial Blade of Gales' did not mutate this tick."
   ],
   "created": 10
 }
