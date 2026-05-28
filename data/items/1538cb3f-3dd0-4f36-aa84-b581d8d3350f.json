@@ -2,7 +2,7 @@
   "id": "1538cb3f-3dd0-4f36-aa84-b581d8d3350f",
   "name": "Titanic Rapier of Frost",
   "type": "Generic",
-  "generation": 9,
+  "generation": 11,
   "damage": 31.5,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.4000000000000001,
   "dex_mod": 0.6000000000000001,
   "rarity": 1,
-  "durability": 68.69000000000001,
+  "durability": 62.19000000000001,
   "max_durability": 125.0,
-  "volatility": 0.3600000000000003,
+  "volatility": 0.23000000000000034,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {}

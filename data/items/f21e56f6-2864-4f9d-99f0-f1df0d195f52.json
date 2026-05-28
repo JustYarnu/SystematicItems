@@ -2,7 +2,7 @@
   "id": "f21e56f6-2864-4f9d-99f0-f1df0d195f52",
   "name": "Zealous Blade of Carnage",
   "type": "Sword",
-  "generation": 30,
+  "generation": 33,
   "damage": 28.0,
   "damage_type": [
     "Physical",
@@ -15,13 +15,14 @@
   "str_mod": 1.2,
   "dex_mod": 1.05,
   "rarity": 1,
-  "durability": 44.47,
+  "durability": 32.519999999999996,
   "max_durability": 125.0,
-  "volatility": 0.5,
-  "resilience": 0.68,
+  "volatility": 0.55,
+  "resilience": 0.58,
   "worth": 100,
   "affinities": {
     "Order": 0.3,
-    "STR": 0.1
+    "STR": 0.1,
+    "Stability": 0.1
   }
 }
