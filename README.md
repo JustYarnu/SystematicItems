@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-257
+282
 
 ## Oldest Item
 Dread Rapier of Silence
@@ -11,22 +11,22 @@ Dread Rapier of Silence
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.35
-- Average Volatility: 0.4
-- Average Durability: 65.2
+- Average Volatility: 0.41
+- Average Durability: 63.06
 
 ## Dominant Factions
-- Chaos: 0.4
+- Chaos: 0.5
 - DEX: 0.2
 - Order: 0.2
 
 ## Extremes
-- Most Stable Item: Titanic Rapier of Frost
+- Most Stable Item: Mundane Rapier of Whispers
 - Most Volatile Item: Zealous Blade of Carnage
 
 ## Recent Events
-- STABLE: 'Starlight Shard of Might' did not mutate this tick.
-- MUTATED: 'Mundane Rapier of Whispers' evolved to generation 8.
-- STABLE: 'Starlight Shard of Might' did not mutate this tick.
+- STABLE: 'Verdant Relic of Ruins' did not mutate this tick.
+- MUTATED: 'Verdant Relic of Ruins' evolved to generation 8.
+- STABLE: 'Titanic Rapier of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 10
@@ -40,9 +40,9 @@ Dread Rapier of Silence
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 257
-- Successful Mutations: 83
-- Failure Rate: 67.7%
+- Mutations Attempted: 282
+- Successful Mutations: 93
+- Failure Rate: 67.0%
 
 ![Fail Rate](assets/fail_rate.png)
 
