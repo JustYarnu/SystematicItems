@@ -2,7 +2,7 @@
   "id": "1462627c-74fb-46db-a812-b23a95c0f7e4",
   "name": "Glacial Blade of Gales",
   "type": "Sword",
-  "generation": 10,
+  "generation": 11,
   "damage": 15.0,
   "damage_type": [
     "Physical",
@@ -15,10 +15,10 @@
   "str_mod": 1.05,
   "dex_mod": 1.23,
   "rarity": 1,
-  "durability": 70.9,
+  "durability": 67.9,
   "max_durability": 125.0,
-  "volatility": 0.4200000000000002,
-  "resilience": 0.7,
+  "volatility": 0.3300000000000002,
+  "resilience": 0.75,
   "worth": 100,
   "affinities": {
     "DEX": 0.1,
