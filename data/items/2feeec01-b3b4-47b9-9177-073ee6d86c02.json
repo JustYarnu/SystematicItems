@@ -2,7 +2,7 @@
   "id": "2feeec01-b3b4-47b9-9177-073ee6d86c02",
   "name": "Ancient Edge of Embers",
   "type": "Sword",
-  "generation": 21,
+  "generation": 24,
   "damage": 22.0,
   "damage_type": [
     "Physical",
@@ -11,16 +11,16 @@
   "crit_damage": 3.0,
   "crit_rate": 0.060000000000000005,
   "str_mod": 1.2000000000000002,
-  "dex_mod": 1.2000000000000002,
+  "dex_mod": 1.3000000000000003,
   "rarity": 3.0,
-  "durability": 12.079999999999997,
-  "max_durability": 111.0,
-  "volatility": 0.5400000000000001,
+  "durability": 0.7199999999999966,
+  "max_durability": 113.0,
+  "volatility": 0.5600000000000002,
   "resilience": 0.58,
   "worth": 100,
   "affinities": {
     "Stability": 0.1,
-    "Chaos": 0.1,
+    "Chaos": 0.2,
     "Scarceness": 0.1
   }
 }
