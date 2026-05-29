@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-557
+582
 
 ## Oldest Item
 Heavy Rapier of Light
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.73
-- Average Volatility: 0.49
-- Average Durability: 41.79
+- Average Rarity: 1.83
+- Average Volatility: 0.48
+- Average Durability: 38.36
 
 ## Dominant Factions
 - DEX: 0.8
@@ -21,12 +21,12 @@ Heavy Rapier of Light
 
 ## Extremes
 - Most Stable Item: Heavy Rapier of Light
-- Most Volatile Item: Glacial Spear of Plagues
+- Most Volatile Item: Starlight Shard of Might
 
 ## Recent Events
-- STABLE: 'Dread Shard of Venom' did not mutate this tick.
-- STABLE: 'Titanic Rapier of Frost' did not mutate this tick.
-- MUTATED: 'Mundane Rapier of Whispers' evolved to generation 17.
+- MUTATED: 'Dread Shard of Venom' evolved to generation 33.
+- MUTATED: 'Mundane Rapier of Whispers' evolved to generation 18.
+- MUTATED: 'Ancient Edge of Embers' evolved to generation 21.
 
 ## Lifecycle Stats
 - Items Created: 11
@@ -40,9 +40,9 @@ Heavy Rapier of Light
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 557
-- Successful Mutations: 206
-- Failure Rate: 63.0%
+- Mutations Attempted: 582
+- Successful Mutations: 220
+- Failure Rate: 62.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Heavy Rapier of Light
 
 ## Economy
 - Total Currency: 1150
-- Currency per Tick (avg): 2.06
+- Currency per Tick (avg): 1.98
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
