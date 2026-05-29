@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-532
+557
 
 ## Oldest Item
-Dread Rapier of Silence
+Heavy Rapier of Light
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.75
-- Average Volatility: 0.51
-- Average Durability: 36.58
+- Average Rarity: 1.73
+- Average Volatility: 0.49
+- Average Durability: 41.79
 
 ## Dominant Factions
-- DEX: 0.7
+- DEX: 0.8
 - Chaos: 0.6
 - Order: 0.5
 
 ## Extremes
-- Most Stable Item: Verdant Relic of Ruins
+- Most Stable Item: Heavy Rapier of Light
 - Most Volatile Item: Glacial Spear of Plagues
 
 ## Recent Events
-- MUTATED: 'Ancient Edge of Embers' evolved to generation 18.
+- STABLE: 'Dread Shard of Venom' did not mutate this tick.
 - STABLE: 'Titanic Rapier of Frost' did not mutate this tick.
-- STABLE: 'Dread Rapier of Silence' did not mutate this tick.
+- MUTATED: 'Mundane Rapier of Whispers' evolved to generation 17.
 
 ## Lifecycle Stats
-- Items Created: 10
-- Items Archived: 0
-- Avg Lifespan (ticks): 0
+- Items Created: 11
+- Items Archived: 1
+- Avg Lifespan (ticks): 21.0
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,9 +40,9 @@ Dread Rapier of Silence
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 532
-- Successful Mutations: 195
-- Failure Rate: 63.3%
+- Mutations Attempted: 557
+- Successful Mutations: 206
+- Failure Rate: 63.0%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -56,8 +56,8 @@ Dread Rapier of Silence
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 0
-- Currency per Tick (avg): 0.0
+- Total Currency: 1150
+- Currency per Tick (avg): 2.06
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

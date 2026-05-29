@@ -1,21 +1,23 @@
 {
-  "currency": 0,
-  "tick": 532,
+  "currency": 1150,
+  "tick": 557,
   "mutation_stats": {
-    "attempted": 532,
-    "success": 195
+    "attempted": 557,
+    "success": 206
   },
   "recent_events": [
-    "STABLE: 'Glacial Blade of Gales' did not mutate this tick.",
-    "STABLE: 'Zealous Blade of Carnage' did not mutate this tick.",
-    "STABLE: 'Ancient Edge of Embers' did not mutate this tick.",
-    "MUTATED: 'Verdant Relic of Ruins' evolved to generation 18.",
-    "STABLE: 'Glacial Spear of Plagues' did not mutate this tick.",
-    "STABLE: 'Dread Rapier of Silence' did not mutate this tick.",
-    "MUTATED: 'Verdant Relic of Ruins' evolved to generation 19.",
-    "MUTATED: 'Ancient Edge of Embers' evolved to generation 18.",
+    "REPLACED WITH: 'Heavy Rapier of Light' (f33e4525-dc8e-4861-9919-b354d711edd7)",
     "STABLE: 'Titanic Rapier of Frost' did not mutate this tick.",
-    "STABLE: 'Dread Rapier of Silence' did not mutate this tick."
+    "STABLE: 'Titanic Rapier of Frost' did not mutate this tick.",
+    "STABLE: 'Glacial Spear of Plagues' did not mutate this tick.",
+    "MUTATED: 'Dread Rapier of Silence' evolved to generation 15.",
+    "STABLE: 'Zealous Blade of Carnage' did not mutate this tick.",
+    "STABLE: 'Dread Rapier of Silence' did not mutate this tick.",
+    "STABLE: 'Dread Shard of Venom' did not mutate this tick.",
+    "STABLE: 'Titanic Rapier of Frost' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Whispers' evolved to generation 17."
   ],
-  "created": 10
+  "created": 11,
+  "avg_lifespan": 21.0,
+  "archived": 1
 }
