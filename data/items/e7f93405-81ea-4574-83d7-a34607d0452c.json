@@ -2,7 +2,7 @@
   "id": "e7f93405-81ea-4574-83d7-a34607d0452c",
   "name": "Verdant Relic of Ruins",
   "type": "Artifact",
-  "generation": 13,
+  "generation": 15,
   "damage": 30.5,
   "damage_type": [
     "Physical",
@@ -13,11 +13,11 @@
   "crit_rate": 0.060000000000000005,
   "str_mod": 1.1,
   "dex_mod": 1.0,
-  "rarity": 1.5,
-  "durability": 23.249999999999986,
+  "rarity": 2.5,
+  "durability": 16.649999999999984,
   "max_durability": 87.0,
-  "volatility": 0.4500000000000004,
-  "resilience": 0.7000000000000001,
+  "volatility": 0.42000000000000043,
+  "resilience": 0.8,
   "worth": 100,
   "affinities": {}
 }
