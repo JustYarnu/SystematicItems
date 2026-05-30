@@ -1,23 +1,23 @@
 {
-  "currency": 7650,
-  "tick": 782,
+  "currency": 9850,
+  "tick": 807,
   "mutation_stats": {
-    "attempted": 782,
-    "success": 303
+    "attempted": 807,
+    "success": 312
   },
   "recent_events": [
-    "MUTATED: 'Titanic Edge of Gales' evolved to generation 2.",
-    "MUTATED: 'Heavy Rapier of Light' evolved to generation 10.",
-    "MUTATED: 'Mundane Rapier of Whispers' evolved to generation 32.",
-    "STABLE: 'Titanic Edge of Gales' did not mutate this tick.",
+    "MUTATED: 'Rusty Blade of Mirage' evolved to generation 5.",
+    "STABLE: 'Mundane Spear of Flame' did not mutate this tick.",
+    "STABLE: 'Mundane Spear of Flame' did not mutate this tick.",
+    "MUTATED: 'Rusty Blade of Mirage' evolved to generation 6.",
     "STABLE: 'Rusty Blade of Mirage' did not mutate this tick.",
-    "STABLE: 'Glacial Spear of Plagues' did not mutate this tick.",
-    "MUTATED: 'Dread Shard of Venom' evolved to generation 41.",
+    "MUTATED: 'Heavy Rapier of Light' evolved to generation 11.",
+    "STABLE: 'Rusty Blade of Mirage' did not mutate this tick.",
+    "MUTATED: 'Heavy Rapier of Light' evolved to generation 12.",
     "STABLE: 'Titanic Edge of Gales' did not mutate this tick.",
-    "MUTATED: 'Glacial Blade of Gales' evolved to generation 23.",
-    "MUTATED: 'Titanic Edge of Gales' evolved to generation 3."
+    "STABLE: 'Titanic Relic of Gales' did not mutate this tick."
   ],
-  "created": 15,
-  "avg_lifespan": 28.6,
-  "archived": 5
+  "created": 16,
+  "avg_lifespan": 30.833333333333332,
+  "archived": 6
 }
