@@ -1,23 +1,23 @@
 {
-  "currency": 5350,
-  "tick": 732,
+  "currency": 7650,
+  "tick": 757,
   "mutation_stats": {
-    "attempted": 732,
-    "success": 279
+    "attempted": 757,
+    "success": 290
   },
   "recent_events": [
-    "STABLE: 'Dread Shard of Venom' did not mutate this tick.",
-    "STABLE: 'Iridescent Spear of Grace' did not mutate this tick.",
-    "MUTATED: 'Zealous Blade of Carnage' evolved to generation 43.",
-    "STABLE: 'Dread Rapier of Silence' did not mutate this tick.",
-    "REPLACED WITH: 'Mundane Spear of Flame' (44712597-4126-4985-88c0-bf459b01b4ab)",
-    "MUTATED: 'Iridescent Spear of Grace' evolved to generation 2.",
+    "STABLE: 'Rusty Blade of Mirage' did not mutate this tick.",
+    "MUTATED: 'Titanic Rapier of Frost' evolved to generation 19.",
+    "STABLE: 'Zealous Blade of Carnage' did not mutate this tick.",
+    "REPLACED WITH: 'Titanic Edge of Gales' (9079ba7f-3aea-4b2e-b553-4851a1bab113)",
     "STABLE: 'Glacial Spear of Plagues' did not mutate this tick.",
-    "STABLE: 'Titanic Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Zealous Blade of Carnage' evolved to generation 44.",
-    "STABLE: 'Heavy Rapier of Light' did not mutate this tick."
+    "MUTATED: 'Mundane Rapier of Whispers' evolved to generation 28.",
+    "MUTATED: 'Mundane Rapier of Whispers' evolved to generation 29.",
+    "STABLE: 'Heavy Rapier of Light' did not mutate this tick.",
+    "STABLE: 'Mundane Spear of Flame' did not mutate this tick.",
+    "STABLE: 'Glacial Blade of Gales' did not mutate this tick."
   ],
-  "created": 14,
-  "avg_lifespan": 24.75,
-  "archived": 4
+  "created": 15,
+  "avg_lifespan": 28.6,
+  "archived": 5
 }

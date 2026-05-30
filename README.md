@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-732
+757
 
 ## Oldest Item
 Mundane Spear of Flame
@@ -11,27 +11,27 @@ Mundane Spear of Flame
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.93
-- Average Volatility: 0.46
-- Average Durability: 55.74
+- Average Volatility: 0.42
+- Average Durability: 64.76
 
 ## Dominant Factions
-- Order: 0.6
 - DEX: 0.5
 - Chaos: 0.3
+- Order: 0.3
 
 ## Extremes
-- Most Stable Item: Mundane Spear of Flame
+- Most Stable Item: Titanic Edge of Gales
 - Most Volatile Item: Dread Shard of Venom
 
 ## Recent Events
-- STABLE: 'Titanic Rapier of Frost' did not mutate this tick.
-- MUTATED: 'Zealous Blade of Carnage' evolved to generation 44.
 - STABLE: 'Heavy Rapier of Light' did not mutate this tick.
+- STABLE: 'Mundane Spear of Flame' did not mutate this tick.
+- STABLE: 'Glacial Blade of Gales' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 14
-- Items Archived: 4
-- Avg Lifespan (ticks): 24.8
+- Items Created: 15
+- Items Archived: 5
+- Avg Lifespan (ticks): 28.6
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,9 +40,9 @@ Mundane Spear of Flame
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 732
-- Successful Mutations: 279
-- Failure Rate: 61.9%
+- Mutations Attempted: 757
+- Successful Mutations: 290
+- Failure Rate: 61.7%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -56,8 +56,8 @@ Mundane Spear of Flame
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 5350
-- Currency per Tick (avg): 7.31
+- Total Currency: 7650
+- Currency per Tick (avg): 10.11
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
