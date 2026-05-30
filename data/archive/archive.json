@@ -24,5 +24,59 @@
       "Stability": 0.1,
       "Scarceness": 0.1
     }
+  },
+  {
+    "id": "f02b65da-ef79-4895-b060-0222b08bff66",
+    "name": "Starlight Shard of Might",
+    "type": "Dagger",
+    "generation": 32,
+    "damage": 30.5,
+    "damage_type": [
+      "Physical",
+      "Cosmic",
+      "Slashing"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.35,
+    "dex_mod": 1.25,
+    "rarity": 3.0,
+    "durability": -0.22000000000000242,
+    "max_durability": 89.0,
+    "volatility": 0.6292481250360578,
+    "resilience": 0.46,
+    "worth": 1700,
+    "affinities": {
+      "Scarceness": 0.1,
+      "Order": 0.1,
+      "Stability": 0.2,
+      "DEX": 0.2
+    }
+  },
+  {
+    "id": "2feeec01-b3b4-47b9-9177-073ee6d86c02",
+    "name": "Ancient Edge of Embers",
+    "type": "Sword",
+    "generation": 24,
+    "damage": 22.0,
+    "damage_type": [
+      "Physical",
+      "Fire"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.2000000000000002,
+    "dex_mod": 1.3000000000000003,
+    "rarity": 3.0,
+    "durability": -0.28000000000000336,
+    "max_durability": 113.0,
+    "volatility": 0.5700000000000002,
+    "resilience": 0.58,
+    "worth": 1300,
+    "affinities": {
+      "Stability": 0.1,
+      "Chaos": 0.2,
+      "Scarceness": 0.1
+    }
   }
 ]

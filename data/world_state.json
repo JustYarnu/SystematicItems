@@ -1,23 +1,23 @@
 {
-  "currency": 1150,
-  "tick": 607,
+  "currency": 4150,
+  "tick": 632,
   "mutation_stats": {
-    "attempted": 607,
-    "success": 229
+    "attempted": 632,
+    "success": 241
   },
   "recent_events": [
-    "STABLE: 'Starlight Shard of Might' did not mutate this tick.",
-    "STABLE: 'Starlight Shard of Might' did not mutate this tick.",
-    "MUTATED: 'Starlight Shard of Might' evolved to generation 31.",
-    "STABLE: 'Zealous Blade of Carnage' did not mutate this tick.",
+    "STABLE: 'Iridescent Spear of Grace' did not mutate this tick.",
+    "MUTATED: 'Dread Rapier of Silence' evolved to generation 18.",
+    "MUTATED: 'Zealous Blade of Carnage' evolved to generation 38.",
     "STABLE: 'Heavy Rapier of Light' did not mutate this tick.",
-    "STABLE: 'Glacial Blade of Gales' did not mutate this tick.",
-    "STABLE: 'Dread Shard of Venom' did not mutate this tick.",
-    "STABLE: 'Ancient Edge of Embers' did not mutate this tick.",
-    "STABLE: 'Heavy Rapier of Light' did not mutate this tick.",
-    "MUTATED: 'Ancient Edge of Embers' evolved to generation 24."
+    "STABLE: 'Mundane Rapier of Whispers' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Whispers' evolved to generation 21.",
+    "MUTATED: 'Dread Shard of Venom' evolved to generation 35.",
+    "MUTATED: 'Rusty Blade of Mirage' evolved to generation 2.",
+    "STABLE: 'Glacial Spear of Plagues' did not mutate this tick.",
+    "MUTATED: 'Zealous Blade of Carnage' evolved to generation 39."
   ],
-  "created": 11,
-  "avg_lifespan": 21.0,
-  "archived": 1
+  "created": 13,
+  "avg_lifespan": 25.666666666666668,
+  "archived": 3
 }

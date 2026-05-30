@@ -2,7 +2,7 @@
   "id": "82b83201-afce-4e2f-bf78-0527a13856ad",
   "name": "Dread Shard of Venom",
   "type": "Dagger",
-  "generation": 33,
+  "generation": 35,
   "damage": 32.0,
   "damage_type": [
     "Physical",
@@ -15,10 +15,10 @@
   "str_mod": 1.4000000000000001,
   "dex_mod": 1.0,
   "rarity": 2,
-  "durability": 22.380000000000003,
-  "max_durability": 96.0,
-  "volatility": 0.59,
-  "resilience": 0.6699999999999999,
+  "durability": 25.540000000000003,
+  "max_durability": 101.0,
+  "volatility": 0.57,
+  "resilience": 0.72,
   "worth": 100,
   "affinities": {
     "Chaos": 0.2,
