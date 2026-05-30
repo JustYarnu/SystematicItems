@@ -2,7 +2,7 @@
   "id": "6dbceb78-8fe0-4553-a023-8f20725670d8",
   "name": "Dread Rapier of Silence",
   "type": "Generic",
-  "generation": 18,
+  "generation": 19,
   "damage": 24.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.2,
   "dex_mod": 1.2,
   "rarity": 1,
-  "durability": 11.950000000000014,
+  "durability": 16.950000000000014,
   "max_durability": 102.0,
-  "volatility": 0.4700000000000001,
+  "volatility": 0.4600000000000001,
   "resilience": 0.35000000000000003,
   "worth": 100,
   "affinities": {

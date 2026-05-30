@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-632
+657
 
 ## Oldest Item
-Heavy Rapier of Light
+Iridescent Spear of Grace
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.93
-- Average Volatility: 0.44
-- Average Durability: 55.57
+- Average Volatility: 0.46
+- Average Durability: 54.85
 
 ## Dominant Factions
 - DEX: 0.6
 - Chaos: 0.5
-- Order: 0.4
+- Order: 0.5
 
 ## Extremes
 - Most Stable Item: Heavy Rapier of Light
-- Most Volatile Item: Dread Shard of Venom
+- Most Volatile Item: Glacial Spear of Plagues
 
 ## Recent Events
-- MUTATED: 'Rusty Blade of Mirage' evolved to generation 2.
-- STABLE: 'Glacial Spear of Plagues' did not mutate this tick.
-- MUTATED: 'Zealous Blade of Carnage' evolved to generation 39.
+- STABLE: 'Titanic Rapier of Frost' did not mutate this tick.
+- STABLE: 'Dread Rapier of Silence' did not mutate this tick.
+- STABLE: 'Iridescent Spear of Grace' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 13
@@ -40,8 +40,8 @@ Heavy Rapier of Light
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 632
-- Successful Mutations: 241
+- Mutations Attempted: 657
+- Successful Mutations: 250
 - Failure Rate: 61.9%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Heavy Rapier of Light
 
 ## Economy
 - Total Currency: 4150
-- Currency per Tick (avg): 6.57
+- Currency per Tick (avg): 6.32
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
