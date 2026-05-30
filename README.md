@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-707
+732
 
 ## Oldest Item
-Iridescent Spear of Grace
+Mundane Spear of Flame
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.93
 - Average Volatility: 0.46
-- Average Durability: 50.48
+- Average Durability: 55.74
 
 ## Dominant Factions
-- DEX: 0.6
 - Order: 0.6
-- Chaos: 0.5
+- DEX: 0.5
+- Chaos: 0.3
 
 ## Extremes
-- Most Stable Item: Heavy Rapier of Light
+- Most Stable Item: Mundane Spear of Flame
 - Most Volatile Item: Dread Shard of Venom
 
 ## Recent Events
-- MUTATED: 'Glacial Blade of Gales' evolved to generation 19.
-- STABLE: 'Rusty Blade of Mirage' did not mutate this tick.
-- STABLE: 'Mundane Rapier of Whispers' did not mutate this tick.
+- STABLE: 'Titanic Rapier of Frost' did not mutate this tick.
+- MUTATED: 'Zealous Blade of Carnage' evolved to generation 44.
+- STABLE: 'Heavy Rapier of Light' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 13
-- Items Archived: 3
-- Avg Lifespan (ticks): 25.7
+- Items Created: 14
+- Items Archived: 4
+- Avg Lifespan (ticks): 24.8
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,9 +40,9 @@ Iridescent Spear of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 707
-- Successful Mutations: 269
-- Failure Rate: 62.0%
+- Mutations Attempted: 732
+- Successful Mutations: 279
+- Failure Rate: 61.9%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -56,8 +56,8 @@ Iridescent Spear of Grace
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 4150
-- Currency per Tick (avg): 5.87
+- Total Currency: 5350
+- Currency per Tick (avg): 7.31
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
