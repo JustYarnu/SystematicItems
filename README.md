@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-807
+832
 
 ## Oldest Item
-Mundane Spear of Flame
+Titanic Relic of Gales
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.88
-- Average Volatility: 0.38
-- Average Durability: 72.78
+- Average Volatility: 0.37
+- Average Durability: 71.82
 
 ## Dominant Factions
 - DEX: 0.5
@@ -24,9 +24,9 @@ Mundane Spear of Flame
 - Most Volatile Item: Mundane Rapier of Whispers
 
 ## Recent Events
-- MUTATED: 'Heavy Rapier of Light' evolved to generation 12.
 - STABLE: 'Titanic Edge of Gales' did not mutate this tick.
-- STABLE: 'Titanic Relic of Gales' did not mutate this tick.
+- STABLE: 'Glacial Blade of Gales' did not mutate this tick.
+- STABLE: 'Iridescent Spear of Grace' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 16
@@ -40,9 +40,9 @@ Mundane Spear of Flame
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 807
-- Successful Mutations: 312
-- Failure Rate: 61.3%
+- Mutations Attempted: 832
+- Successful Mutations: 325
+- Failure Rate: 60.9%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Mundane Spear of Flame
 
 ## Economy
 - Total Currency: 9850
-- Currency per Tick (avg): 12.21
+- Currency per Tick (avg): 11.84
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
