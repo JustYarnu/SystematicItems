@@ -1,21 +1,21 @@
 {
   "currency": 4150,
-  "tick": 657,
+  "tick": 682,
   "mutation_stats": {
-    "attempted": 657,
-    "success": 250
+    "attempted": 682,
+    "success": 260
   },
   "recent_events": [
-    "STABLE: 'Heavy Rapier of Light' did not mutate this tick.",
+    "STABLE: 'Dread Rapier of Silence' did not mutate this tick.",
+    "STABLE: 'Glacial Spear of Plagues' did not mutate this tick.",
     "STABLE: 'Heavy Rapier of Light' did not mutate this tick.",
     "STABLE: 'Glacial Spear of Plagues' did not mutate this tick.",
+    "MUTATED: 'Glacial Spear of Plagues' evolved to generation 32.",
     "STABLE: 'Rusty Blade of Mirage' did not mutate this tick.",
-    "STABLE: 'Rusty Blade of Mirage' did not mutate this tick.",
-    "STABLE: 'Heavy Rapier of Light' did not mutate this tick.",
-    "MUTATED: 'Glacial Blade of Gales' evolved to generation 18.",
-    "STABLE: 'Titanic Rapier of Frost' did not mutate this tick.",
-    "STABLE: 'Dread Rapier of Silence' did not mutate this tick.",
-    "STABLE: 'Iridescent Spear of Grace' did not mutate this tick."
+    "MUTATED: 'Heavy Rapier of Light' evolved to generation 4.",
+    "MUTATED: 'Dread Shard of Venom' evolved to generation 38.",
+    "MUTATED: 'Dread Rapier of Silence' evolved to generation 21.",
+    "STABLE: 'Heavy Rapier of Light' did not mutate this tick."
   ],
   "created": 13,
   "avg_lifespan": 25.666666666666668,

@@ -2,7 +2,7 @@
   "id": "f33e4525-dc8e-4861-9919-b354d711edd7",
   "name": "Heavy Rapier of Light",
   "type": "Generic",
-  "generation": 3,
+  "generation": 4,
   "damage": 11.5,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.3,
   "dex_mod": 1.05,
   "rarity": 1.3,
-  "durability": 87.88,
+  "durability": 91.88,
   "max_durability": 100.0,
-  "volatility": 0.23000000000000012,
+  "volatility": 0.23000000000000015,
   "resilience": 0.72,
   "worth": 100,
   "affinities": {}
