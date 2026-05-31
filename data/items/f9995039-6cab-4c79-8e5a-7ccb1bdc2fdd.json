@@ -2,7 +2,7 @@
   "id": "f9995039-6cab-4c79-8e5a-7ccb1bdc2fdd",
   "name": "Glacial Spear of Plagues",
   "type": "Polearm",
-  "generation": 44,
+  "generation": 45,
   "damage": 22.5,
   "damage_type": [
     "Physical",
@@ -15,9 +15,9 @@
   "str_mod": 1.6000000000000005,
   "dex_mod": 1.2000000000000002,
   "rarity": 2,
-  "durability": 25.87,
+  "durability": 22.470000000000002,
   "max_durability": 140.0,
-  "volatility": 0.4,
+  "volatility": 0.36000000000000004,
   "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {
