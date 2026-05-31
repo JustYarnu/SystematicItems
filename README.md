@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-1057
+1082
 
 ## Oldest Item
 Titanic Relic of Gales
@@ -11,8 +11,8 @@ Titanic Relic of Gales
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.08
-- Average Volatility: 0.42
-- Average Durability: 48.24
+- Average Volatility: 0.43
+- Average Durability: 48.57
 
 ## Dominant Factions
 - Stability: 1.0
@@ -21,12 +21,12 @@ Titanic Relic of Gales
 
 ## Extremes
 - Most Stable Item: Titanic Relic of Gales
-- Most Volatile Item: Mundane Spear of Flame
+- Most Volatile Item: Titanic Rapier of Frost
 
 ## Recent Events
-- MUTATED: 'Titanic Rapier of Frost' evolved to generation 32.
+- STABLE: 'Iridescent Spear of Grace' did not mutate this tick.
+- STABLE: 'Titanic Rapier of Frost' did not mutate this tick.
 - STABLE: 'Glacial Blade of Gales' did not mutate this tick.
-- MUTATED: 'Glacial Blade of Gales' evolved to generation 38.
 
 ## Lifecycle Stats
 - Items Created: 16
@@ -40,8 +40,8 @@ Titanic Relic of Gales
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 1057
-- Successful Mutations: 420
+- Mutations Attempted: 1082
+- Successful Mutations: 430
 - Failure Rate: 60.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Titanic Relic of Gales
 
 ## Economy
 - Total Currency: 9850
-- Currency per Tick (avg): 9.32
+- Currency per Tick (avg): 9.1
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
