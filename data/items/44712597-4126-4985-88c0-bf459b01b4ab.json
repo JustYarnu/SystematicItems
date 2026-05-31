@@ -2,7 +2,7 @@
   "id": "44712597-4126-4985-88c0-bf459b01b4ab",
   "name": "Mundane Spear of Flame",
   "type": "Polearm",
-  "generation": 13,
+  "generation": 15,
   "damage": 15.0,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "str_mod": 1.1,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 48.70000000000002,
-  "max_durability": 115.0,
-  "volatility": 0.5300000000000002,
-  "resilience": 0.75,
+  "durability": 39.95000000000002,
+  "max_durability": 117.0,
+  "volatility": 0.5700000000000001,
+  "resilience": 0.7,
   "worth": 100,
   "affinities": {
     "Chaos": 0.1,
