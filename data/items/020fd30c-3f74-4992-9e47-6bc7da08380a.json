@@ -2,7 +2,7 @@
   "id": "020fd30c-3f74-4992-9e47-6bc7da08380a",
   "name": "Rusty Blade of Mirage",
   "type": "Sword",
-  "generation": 23,
+  "generation": 24,
   "damage": 23.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.2500000000000002,
   "dex_mod": 1.2,
   "rarity": 1,
-  "durability": 31.31000000000001,
+  "durability": 27.47000000000001,
   "max_durability": 99.0,
-  "volatility": 0.55,
+  "volatility": 0.51,
   "resilience": 0.58,
   "worth": 100,
   "affinities": {

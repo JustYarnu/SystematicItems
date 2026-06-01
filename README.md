@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-1182
+1207
 
 ## Oldest Item
 Stormcharged Bow of Light
@@ -11,22 +11,22 @@ Stormcharged Bow of Light
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.11
-- Average Volatility: 0.47
-- Average Durability: 44.72
+- Average Volatility: 0.46
+- Average Durability: 41.34
 
 ## Dominant Factions
 - Stability: 1.0
-- Order: 0.7
+- Order: 0.8
 - STR: 0.6
 
 ## Extremes
-- Most Stable Item: Titanic Relic of Gales
+- Most Stable Item: Iridescent Spear of Grace
 - Most Volatile Item: Glacial Spear of Plagues
 
 ## Recent Events
-- STABLE: 'Titanic Edge of Gales' did not mutate this tick.
-- MUTATED: 'Mundane Spear of Flame' evolved to generation 21.
-- STABLE: 'Glacial Blade of Gales' did not mutate this tick.
+- STABLE: 'Rusty Blade of Mirage' did not mutate this tick.
+- MUTATED: 'Mundane Rapier of Whispers' evolved to generation 54.
+- MUTATED: 'Glacial Spear of Plagues' evolved to generation 56.
 
 ## Lifecycle Stats
 - Items Created: 17
@@ -40,9 +40,9 @@ Stormcharged Bow of Light
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 1182
-- Successful Mutations: 469
-- Failure Rate: 60.3%
+- Mutations Attempted: 1207
+- Successful Mutations: 483
+- Failure Rate: 60.0%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Stormcharged Bow of Light
 
 ## Economy
 - Total Currency: 11850
-- Currency per Tick (avg): 10.03
+- Currency per Tick (avg): 9.82
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
