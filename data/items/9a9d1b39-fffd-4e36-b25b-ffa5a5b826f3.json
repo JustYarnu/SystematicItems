@@ -2,7 +2,7 @@
   "id": "9a9d1b39-fffd-4e36-b25b-ffa5a5b826f3",
   "name": "Iridescent Spear of Grace",
   "type": "Polearm",
-  "generation": 17,
+  "generation": 18,
   "damage": 20.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,12 @@
   "str_mod": 1.1,
   "dex_mod": 1.45,
   "rarity": 6,
-  "durability": 97.30999999999999,
+  "durability": 94.30999999999999,
   "max_durability": 147.0,
-  "volatility": 0.3300000000000002,
+  "volatility": 0.3400000000000002,
   "resilience": 0.68,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Scarceness": 0.1
+  }
 }
