@@ -186,5 +186,64 @@
       "STR": 0.3,
       "Chaos": 0.1
     }
+  },
+  {
+    "id": "f9995039-6cab-4c79-8e5a-7ccb1bdc2fdd",
+    "name": "Glacial Spear of Plagues",
+    "type": "Polearm",
+    "generation": 57,
+    "damage": 27.5,
+    "damage_type": [
+      "Physical",
+      "Cold",
+      "Piercing",
+      "Acid"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.6000000000000005,
+    "dex_mod": 1.1,
+    "rarity": 3,
+    "durability": -1.0,
+    "max_durability": 132.0,
+    "volatility": 0.6192481250360578,
+    "resilience": 0.8292481250360577,
+    "worth": 2950,
+    "affinities": {
+      "Chaos": 0.1,
+      "DEX": 0.3,
+      "Order": 0.1,
+      "Restoration": 0.2,
+      "Stability": 0.2
+    }
+  },
+  {
+    "id": "a0101776-6cf4-44d8-b706-0c89f137eb8f",
+    "name": "Mundane Rapier of Whispers",
+    "type": "Generic",
+    "generation": 57,
+    "damage": 32.5,
+    "damage_type": [
+      "Physical",
+      "Piercing",
+      "Void"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 1.8700000000000006,
+    "rarity": 2,
+    "durability": -0.6600000000000068,
+    "max_durability": 132.0,
+    "volatility": 0.37,
+    "resilience": 0.7999999999999999,
+    "worth": 2950,
+    "affinities": {
+      "Stability": 0.3,
+      "DEX": 0.1,
+      "Order": 0.1,
+      "Scarceness": 0.1,
+      "Chaos": 0.1
+    }
   }
 ]

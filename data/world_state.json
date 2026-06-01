@@ -1,23 +1,23 @@
 {
-  "currency": 11850,
-  "tick": 1207,
+  "currency": 17750,
+  "tick": 1232,
   "mutation_stats": {
-    "attempted": 1207,
-    "success": 483
+    "attempted": 1232,
+    "success": 495
   },
   "recent_events": [
-    "MUTATED: 'Mundane Rapier of Whispers' evolved to generation 53.",
-    "MUTATED: 'Glacial Blade of Gales' evolved to generation 43.",
-    "MUTATED: 'Heavy Rapier of Light' evolved to generation 35.",
-    "STABLE: 'Titanic Relic of Gales' did not mutate this tick.",
-    "STABLE: 'Glacial Spear of Plagues' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Whispers' did not mutate this tick.",
-    "STABLE: 'Mundane Spear of Flame' did not mutate this tick.",
-    "STABLE: 'Rusty Blade of Mirage' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of Whispers' evolved to generation 54.",
-    "MUTATED: 'Glacial Spear of Plagues' evolved to generation 56."
+    "MUTATED: 'Glacial Blade of Gales' evolved to generation 44.",
+    "MUTATED: 'Rusty Blade of Mirage' evolved to generation 26.",
+    "STABLE: 'Iridescent Spear of Grace' did not mutate this tick.",
+    "MUTATED: 'Rusty Blade of Mirage' evolved to generation 27.",
+    "MUTATED: 'Titanic Relic of Gales' evolved to generation 11.",
+    "STABLE: 'Singed Relic of Frost' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Whispers' evolved to generation 57.",
+    "REPLACED WITH: 'Mundane Blade of Grace' (6e924c86-b72e-4479-a9bb-aa66848956b1)",
+    "STABLE: 'Glacial Blade of Gales' did not mutate this tick.",
+    "STABLE: 'Singed Relic of Frost' did not mutate this tick."
   ],
-  "created": 17,
-  "avg_lifespan": 31.857142857142858,
-  "archived": 7
+  "created": 19,
+  "avg_lifespan": 37.44444444444444,
+  "archived": 9
 }
