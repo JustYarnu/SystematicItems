@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-1257
+1282
 
 ## Oldest Item
 Singed Relic of Frost
@@ -11,22 +11,22 @@ Singed Relic of Frost
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.96
-- Average Volatility: 0.4
-- Average Durability: 53.34
+- Average Volatility: 0.42
+- Average Durability: 48.99
 
 ## Dominant Factions
-- Order: 0.7
+- Order: 0.8
 - STR: 0.7
 - Stability: 0.5
 
 ## Extremes
 - Most Stable Item: Singed Relic of Frost
-- Most Volatile Item: Mundane Spear of Flame
+- Most Volatile Item: Stormcharged Bow of Light
 
 ## Recent Events
-- STABLE: 'Glacial Blade of Gales' did not mutate this tick.
-- STABLE: 'Mundane Spear of Flame' did not mutate this tick.
-- STABLE: 'Heavy Rapier of Light' did not mutate this tick.
+- STABLE: 'Iridescent Spear of Grace' did not mutate this tick.
+- STABLE: 'Titanic Edge of Gales' did not mutate this tick.
+- MUTATED: 'Titanic Relic of Gales' evolved to generation 12.
 
 ## Lifecycle Stats
 - Items Created: 19
@@ -40,9 +40,9 @@ Singed Relic of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 1257
-- Successful Mutations: 503
-- Failure Rate: 60.0%
+- Mutations Attempted: 1282
+- Successful Mutations: 512
+- Failure Rate: 60.1%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Singed Relic of Frost
 
 ## Economy
 - Total Currency: 17750
-- Currency per Tick (avg): 14.12
+- Currency per Tick (avg): 13.85
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
