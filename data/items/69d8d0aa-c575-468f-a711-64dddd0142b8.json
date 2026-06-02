@@ -2,7 +2,7 @@
   "id": "69d8d0aa-c575-468f-a711-64dddd0142b8",
   "name": "Titanic Relic of Gales",
   "type": "Artifact",
-  "generation": 14,
+  "generation": 16,
   "damage": 11.5,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.4000000000000001,
   "dex_mod": 1.08,
   "rarity": 1.5,
-  "durability": 49.23406251802889,
+  "durability": 45.834062518028894,
   "max_durability": 134.6240625180289,
-  "volatility": 0.4500000000000004,
+  "volatility": 0.42000000000000043,
   "resilience": 0.6599999999999999,
   "worth": 100,
   "affinities": {
