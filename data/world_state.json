@@ -1,23 +1,23 @@
 {
-  "currency": 17750,
-  "tick": 1282,
+  "currency": 21900,
+  "tick": 1307,
   "mutation_stats": {
-    "attempted": 1282,
-    "success": 512
+    "attempted": 1307,
+    "success": 524
   },
   "recent_events": [
-    "MUTATED: 'Stormcharged Bow of Light' evolved to generation 4.",
-    "STABLE: 'Mundane Spear of Flame' did not mutate this tick.",
-    "STABLE: 'Singed Relic of Frost' did not mutate this tick.",
-    "STABLE: 'Singed Relic of Frost' did not mutate this tick.",
-    "MUTATED: 'Mundane Spear of Flame' evolved to generation 23.",
-    "MUTATED: 'Heavy Rapier of Light' evolved to generation 40.",
-    "STABLE: 'Titanic Edge of Gales' did not mutate this tick.",
-    "STABLE: 'Iridescent Spear of Grace' did not mutate this tick.",
-    "STABLE: 'Titanic Edge of Gales' did not mutate this tick.",
-    "MUTATED: 'Titanic Relic of Gales' evolved to generation 12."
+    "MUTATED: 'Heavy Rapier of Light' evolved to generation 41.",
+    "MUTATED: 'Rusty Blade of Mirage' evolved to generation 32.",
+    "REPLACED WITH: 'Dread Focus of Blood' (63e49861-5add-4970-8571-375060be4f24)",
+    "STABLE: 'Titanic Relic of Gales' did not mutate this tick.",
+    "STABLE: 'Dread Focus of Blood' did not mutate this tick.",
+    "STABLE: 'Glacial Blade of Gales' did not mutate this tick.",
+    "MUTATED: 'Glacial Blade of Gales' evolved to generation 47.",
+    "REPLACED WITH: 'Glacial Rapier of Might' (b8bd5061-2bb8-46f9-8235-78e815e202e1)",
+    "MUTATED: 'Mundane Blade of Grace' evolved to generation 3.",
+    "STABLE: 'Titanic Relic of Gales' did not mutate this tick."
   ],
-  "created": 19,
-  "avg_lifespan": 37.44444444444444,
-  "archived": 9
+  "created": 21,
+  "avg_lifespan": 37.81818181818182,
+  "archived": 11
 }

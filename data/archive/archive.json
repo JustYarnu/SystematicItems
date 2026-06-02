@@ -245,5 +245,61 @@
       "Scarceness": 0.1,
       "Chaos": 0.1
     }
+  },
+  {
+    "id": "020fd30c-3f74-4992-9e47-6bc7da08380a",
+    "name": "Rusty Blade of Mirage",
+    "type": "Sword",
+    "generation": 32,
+    "damage": 24.5,
+    "damage_type": [
+      "Physical",
+      "Slashing",
+      "Cosmic"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.01,
+    "str_mod": 1.3500000000000003,
+    "dex_mod": 1.3,
+    "rarity": 2,
+    "durability": -1.0,
+    "max_durability": 96.0,
+    "volatility": 0.48,
+    "resilience": 0.71,
+    "worth": 1700,
+    "affinities": {
+      "Order": 0.1
+    }
+  },
+  {
+    "id": "1462627c-74fb-46db-a812-b23a95c0f7e4",
+    "name": "Glacial Blade of Gales",
+    "type": "Sword",
+    "generation": 47,
+    "damage": 36.0,
+    "damage_type": [
+      "Physical",
+      "Cold",
+      "Slashing",
+      "Sonic"
+    ],
+    "crit_damage": 3.5,
+    "crit_rate": 0.01,
+    "str_mod": 1.4500000000000004,
+    "dex_mod": 1.13,
+    "rarity": 2,
+    "durability": -0.7199999999999989,
+    "max_durability": 126.0,
+    "volatility": 0.5300000000000005,
+    "resilience": 0.7999999999999999,
+    "worth": 2450,
+    "affinities": {
+      "DEX": 0.1,
+      "Order": 0.2,
+      "Stability": 0.2,
+      "STR": 0.2,
+      "Chaos": 0.1,
+      "Scarceness": 0.1
+    }
   }
 ]

@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-1282
+1307
 
 ## Oldest Item
-Singed Relic of Frost
+Glacial Rapier of Might
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.96
-- Average Volatility: 0.42
-- Average Durability: 48.99
+- Average Rarity: 1.76
+- Average Volatility: 0.36
+- Average Durability: 65.97
 
 ## Dominant Factions
-- Order: 0.8
 - STR: 0.7
-- Stability: 0.5
+- Order: 0.6
+- Chaos: 0.3
 
 ## Extremes
-- Most Stable Item: Singed Relic of Frost
+- Most Stable Item: Glacial Rapier of Might
 - Most Volatile Item: Stormcharged Bow of Light
 
 ## Recent Events
-- STABLE: 'Iridescent Spear of Grace' did not mutate this tick.
-- STABLE: 'Titanic Edge of Gales' did not mutate this tick.
-- MUTATED: 'Titanic Relic of Gales' evolved to generation 12.
+- REPLACED WITH: 'Glacial Rapier of Might' (b8bd5061-2bb8-46f9-8235-78e815e202e1)
+- MUTATED: 'Mundane Blade of Grace' evolved to generation 3.
+- STABLE: 'Titanic Relic of Gales' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 19
-- Items Archived: 9
-- Avg Lifespan (ticks): 37.4
+- Items Created: 21
+- Items Archived: 11
+- Avg Lifespan (ticks): 37.8
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Singed Relic of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 1282
-- Successful Mutations: 512
-- Failure Rate: 60.1%
+- Mutations Attempted: 1307
+- Successful Mutations: 524
+- Failure Rate: 59.9%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 3
+- Common: 8
+- Uncommon: 1
 - Rare: 1
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Singed Relic of Frost
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 17750
-- Currency per Tick (avg): 13.85
+- Total Currency: 21900
+- Currency per Tick (avg): 16.76
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
