@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-1382
+1407
 
 ## Oldest Item
 Glacial Rapier of Might
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.91
-- Average Volatility: 0.33
-- Average Durability: 69.82
+- Average Rarity: 2.01
+- Average Volatility: 0.35
+- Average Durability: 66.41
 
 ## Dominant Factions
 - STR: 0.7
-- Order: 0.5
+- Order: 0.6
 - Stability: 0.4
 
 ## Extremes
 - Most Stable Item: Glacial Rapier of Might
-- Most Volatile Item: Titanic Edge of Gales
+- Most Volatile Item: Heavy Rapier of Light
 
 ## Recent Events
-- MUTATED: 'Stormcharged Bow of Light' evolved to generation 11.
-- MUTATED: 'Titanic Relic of Gales' evolved to generation 17.
-- MUTATED: 'Heavy Rapier of Light' evolved to generation 44.
+- STABLE: 'Titanic Relic of Gales' did not mutate this tick.
+- STABLE: 'Heavy Rapier of Light' did not mutate this tick.
+- MUTATED: 'Iridescent Spear of Grace' evolved to generation 28.
 
 ## Lifecycle Stats
 - Items Created: 22
@@ -40,9 +40,9 @@ Glacial Rapier of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 1382
-- Successful Mutations: 555
-- Failure Rate: 59.8%
+- Mutations Attempted: 1407
+- Successful Mutations: 564
+- Failure Rate: 59.9%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Glacial Rapier of Might
 
 ## Economy
 - Total Currency: 23300
-- Currency per Tick (avg): 16.86
+- Currency per Tick (avg): 16.56
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
