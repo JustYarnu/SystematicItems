@@ -1,21 +1,21 @@
 {
   "currency": 23300,
-  "tick": 1432,
+  "tick": 1457,
   "mutation_stats": {
-    "attempted": 1432,
-    "success": 575
+    "attempted": 1457,
+    "success": 589
   },
   "recent_events": [
-    "MUTATED: 'Mundane Blade of Grace' evolved to generation 7.",
-    "MUTATED: 'Iridescent Spear of Grace' evolved to generation 30.",
-    "STABLE: 'Glacial Rapier of Might' did not mutate this tick.",
-    "STABLE: 'Titanic Relic of Gales' did not mutate this tick.",
-    "MUTATED: 'Stormcharged Bow of Light' evolved to generation 14.",
-    "STABLE: 'Singed Relic of Frost' did not mutate this tick.",
-    "STABLE: 'Singed Relic of Frost' did not mutate this tick.",
-    "MUTATED: 'Titanic Edge of Gales' evolved to generation 29.",
-    "STABLE: 'Mundane Blade of Grace' did not mutate this tick.",
-    "MUTATED: 'Titanic Relic of Gales' evolved to generation 19."
+    "MUTATED: 'Titanic Relic of Gales' evolved to generation 22.",
+    "MUTATED: 'Iridescent Spear of Grace' evolved to generation 32.",
+    "MUTATED: 'Singed Relic of Frost' evolved to generation 6.",
+    "MUTATED: 'Heavy Rapier of Light' evolved to generation 47.",
+    "STABLE: 'Glacial Relic of Frost' did not mutate this tick.",
+    "MUTATED: 'Iridescent Spear of Grace' evolved to generation 33.",
+    "STABLE: 'Heavy Rapier of Light' did not mutate this tick.",
+    "MUTATED: 'Titanic Edge of Gales' evolved to generation 32.",
+    "MUTATED: 'Stormcharged Bow of Light' evolved to generation 15.",
+    "STABLE: 'Dread Focus of Blood' did not mutate this tick."
   ],
   "created": 22,
   "avg_lifespan": 36.833333333333336,
