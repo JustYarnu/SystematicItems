@@ -2,7 +2,7 @@
   "id": "6e924c86-b72e-4479-a9bb-aa66848956b1",
   "name": "Mundane Blade of Grace",
   "type": "Sword",
-  "generation": 7,
+  "generation": 8,
   "damage": 9.5,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.1500000000000001,
   "dex_mod": 1.55,
   "rarity": 1,
-  "durability": 81.25,
+  "durability": 76.75,
   "max_durability": 95.0,
-  "volatility": 0.2700000000000002,
+  "volatility": 0.2400000000000002,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
