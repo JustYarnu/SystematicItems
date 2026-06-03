@@ -2,7 +2,7 @@
   "id": "b8bd5061-2bb8-46f9-8235-78e815e202e1",
   "name": "Glacial Rapier of Might",
   "type": "Generic",
-  "generation": 1,
+  "generation": 2,
   "damage": 14.0,
   "damage_type": [
     "Physical",
@@ -10,13 +10,13 @@
     "Piercing"
   ],
   "crit_damage": 2,
-  "crit_rate": 0.01,
+  "crit_rate": 0.060000000000000005,
   "str_mod": 1.25,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 93.0,
+  "durability": 89.0,
   "max_durability": 125.0,
-  "volatility": 0.17000000000000004,
+  "volatility": 0.18000000000000005,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {}
