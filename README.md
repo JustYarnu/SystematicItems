@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-1507
+1532
 
 ## Oldest Item
 Dread Focus of Blood
@@ -11,8 +11,8 @@ Dread Focus of Blood
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.11
-- Average Volatility: 0.39
-- Average Durability: 54.96
+- Average Volatility: 0.42
+- Average Durability: 52.73
 
 ## Dominant Factions
 - STR: 0.8
@@ -25,8 +25,8 @@ Dread Focus of Blood
 
 ## Recent Events
 - STABLE: 'Glacial Relic of Frost' did not mutate this tick.
-- MUTATED: 'Mundane Blade of Grace' evolved to generation 8.
-- STABLE: 'Stormcharged Bow of Light' did not mutate this tick.
+- STABLE: 'Glacial Rapier of Might' did not mutate this tick.
+- STABLE: 'Glacial Rapier of Might' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 22
@@ -40,9 +40,9 @@ Dread Focus of Blood
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 1507
-- Successful Mutations: 605
-- Failure Rate: 59.9%
+- Mutations Attempted: 1532
+- Successful Mutations: 612
+- Failure Rate: 60.1%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Dread Focus of Blood
 
 ## Economy
 - Total Currency: 23300
-- Currency per Tick (avg): 15.46
+- Currency per Tick (avg): 15.21
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
