@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-1532
+1557
 
 ## Oldest Item
-Dread Focus of Blood
+Mundane Axe of Venom
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.11
-- Average Volatility: 0.42
-- Average Durability: 52.73
+- Average Rarity: 1.96
+- Average Volatility: 0.39
+- Average Durability: 60.37
 
 ## Dominant Factions
-- STR: 0.8
-- Order: 0.6
+- STR: 0.9
 - Stability: 0.6
+- Order: 0.5
 
 ## Extremes
-- Most Stable Item: Glacial Relic of Frost
-- Most Volatile Item: Titanic Edge of Gales
+- Most Stable Item: Dread Focus of Blood
+- Most Volatile Item: Iridescent Spear of Grace
 
 ## Recent Events
-- STABLE: 'Glacial Relic of Frost' did not mutate this tick.
-- STABLE: 'Glacial Rapier of Might' did not mutate this tick.
+- STABLE: 'Mundane Blade of Grace' did not mutate this tick.
+- MUTATED: 'Titanic Edge of Gales' evolved to generation 38.
 - STABLE: 'Glacial Rapier of Might' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 22
-- Items Archived: 12
-- Avg Lifespan (ticks): 36.8
+- Items Created: 23
+- Items Archived: 13
+- Avg Lifespan (ticks): 36.2
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Dread Focus of Blood
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 1532
-- Successful Mutations: 612
+- Mutations Attempted: 1557
+- Successful Mutations: 622
 - Failure Rate: 60.1%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 3
+- Common: 7
+- Uncommon: 2
 - Rare: 1
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Dread Focus of Blood
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 23300
-- Currency per Tick (avg): 15.21
+- Total Currency: 24850
+- Currency per Tick (avg): 15.96
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

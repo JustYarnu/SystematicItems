@@ -1,23 +1,23 @@
 {
-  "currency": 23300,
-  "tick": 1532,
+  "currency": 24850,
+  "tick": 1557,
   "mutation_stats": {
-    "attempted": 1532,
-    "success": 612
+    "attempted": 1557,
+    "success": 622
   },
   "recent_events": [
-    "STABLE: 'Dread Focus of Blood' did not mutate this tick.",
-    "STABLE: 'Titanic Relic of Gales' did not mutate this tick.",
-    "STABLE: 'Singed Relic of Frost' did not mutate this tick.",
-    "MUTATED: 'Singed Relic of Frost' evolved to generation 7.",
-    "MUTATED: 'Titanic Relic of Gales' evolved to generation 28.",
-    "STABLE: 'Glacial Rapier of Might' did not mutate this tick.",
-    "STABLE: 'Stormcharged Bow of Light' did not mutate this tick.",
+    "MUTATED: 'Heavy Rapier of Light' evolved to generation 54.",
+    "STABLE: 'Mundane Blade of Grace' did not mutate this tick.",
+    "STABLE: 'Heavy Rapier of Light' did not mutate this tick.",
+    "MUTATED: 'Singed Relic of Frost' evolved to generation 8.",
+    "MUTATED: 'Glacial Relic of Frost' evolved to generation 5.",
     "STABLE: 'Glacial Relic of Frost' did not mutate this tick.",
-    "STABLE: 'Glacial Rapier of Might' did not mutate this tick.",
+    "STABLE: 'Glacial Relic of Frost' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Grace' did not mutate this tick.",
+    "MUTATED: 'Titanic Edge of Gales' evolved to generation 38.",
     "STABLE: 'Glacial Rapier of Might' did not mutate this tick."
   ],
-  "created": 22,
-  "avg_lifespan": 36.833333333333336,
-  "archived": 12
+  "created": 23,
+  "avg_lifespan": 36.23076923076923,
+  "archived": 13
 }
