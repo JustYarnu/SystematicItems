@@ -2,7 +2,7 @@
   "id": "c50025f4-777d-49eb-bfeb-220f0de0aef6",
   "name": "Glacial Relic of Frost",
   "type": "Artifact",
-  "generation": 7,
+  "generation": 8,
   "damage": 13.0,
   "damage_type": [
     "Physical",
@@ -10,13 +10,13 @@
     "Holy"
   ],
   "crit_damage": 2,
-  "crit_rate": 0.01,
+  "crit_rate": 0.060000000000000005,
   "str_mod": 1.0,
   "dex_mod": 1.15,
   "rarity": 1.5,
-  "durability": 58.28022562546875,
+  "durability": 54.39721812561298,
   "max_durability": 139.6240625180289,
-  "volatility": 0.32000000000000023,
+  "volatility": 0.33000000000000024,
   "resilience": 0.7792481250360578,
   "worth": 100,
   "affinities": {
