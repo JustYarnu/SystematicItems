@@ -2,8 +2,8 @@
   "id": "63e49861-5add-4970-8571-375060be4f24",
   "name": "Dread Focus of Blood",
   "type": "Focus",
-  "generation": 3,
-  "damage": 10.0,
+  "generation": 6,
+  "damage": 17.0,
   "damage_type": [
     "Physical",
     "Dark",
@@ -12,12 +12,12 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.4,
-  "dex_mod": 1.0,
+  "dex_mod": 0.9,
   "rarity": 1,
-  "durability": 91.8,
+  "durability": 79.3,
   "max_durability": 100.0,
-  "volatility": 0.2400000000000001,
-  "resilience": 0.4,
+  "volatility": 0.3700000000000001,
+  "resilience": 0.35000000000000003,
   "worth": 100,
   "affinities": {}
 }

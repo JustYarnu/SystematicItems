@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-1582
+1607
 
 ## Oldest Item
-Mundane Axe of Venom
+Mundane Focus of Carnage
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.96
-- Average Volatility: 0.4
-- Average Durability: 59.18
+- Average Volatility: 0.41
+- Average Durability: 63.61
 
 ## Dominant Factions
-- STR: 0.9
-- Stability: 0.8
-- Order: 0.5
+- STR: 0.6
+- Stability: 0.4
+- Order: 0.3
 
 ## Extremes
-- Most Stable Item: Dread Focus of Blood
-- Most Volatile Item: Iridescent Spear of Grace
+- Most Stable Item: Glacial Relic of Frost
+- Most Volatile Item: Heavy Rapier of Light
 
 ## Recent Events
-- STABLE: 'Dread Focus of Blood' did not mutate this tick.
-- MUTATED: 'Iridescent Spear of Grace' evolved to generation 37.
-- STABLE: 'Glacial Relic of Frost' did not mutate this tick.
+- MUTATED: 'Heavy Rapier of Light' evolved to generation 57.
+- STABLE: 'Iridescent Spear of Grace' did not mutate this tick.
+- MUTATED: 'Heavy Rapier of Light' evolved to generation 58.
 
 ## Lifecycle Stats
-- Items Created: 23
-- Items Archived: 13
-- Avg Lifespan (ticks): 36.2
+- Items Created: 24
+- Items Archived: 14
+- Avg Lifespan (ticks): 36.6
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,9 +40,9 @@ Mundane Axe of Venom
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 1582
-- Successful Mutations: 632
-- Failure Rate: 60.1%
+- Mutations Attempted: 1607
+- Successful Mutations: 648
+- Failure Rate: 59.7%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -56,8 +56,8 @@ Mundane Axe of Venom
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 24850
-- Currency per Tick (avg): 15.71
+- Total Currency: 27000
+- Currency per Tick (avg): 16.8
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
