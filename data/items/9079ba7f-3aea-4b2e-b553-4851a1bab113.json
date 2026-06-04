@@ -2,7 +2,7 @@
   "id": "9079ba7f-3aea-4b2e-b553-4851a1bab113",
   "name": "Titanic Edge of Gales",
   "type": "Sword",
-  "generation": 38,
+  "generation": 39,
   "damage": 29.0,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.7000000000000004,
   "dex_mod": 1.1299999999999997,
   "rarity": 2,
-  "durability": 9.250000000000004,
-  "max_durability": 122.0,
-  "volatility": 0.5499999999999999,
+  "durability": 3.2500000000000036,
+  "max_durability": 124.0,
+  "volatility": 0.57,
   "resilience": 0.6000000000000001,
   "worth": 100,
   "affinities": {

@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-1557
+1582
 
 ## Oldest Item
 Mundane Axe of Venom
@@ -11,12 +11,12 @@ Mundane Axe of Venom
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.96
-- Average Volatility: 0.39
-- Average Durability: 60.37
+- Average Volatility: 0.4
+- Average Durability: 59.18
 
 ## Dominant Factions
 - STR: 0.9
-- Stability: 0.6
+- Stability: 0.8
 - Order: 0.5
 
 ## Extremes
@@ -24,9 +24,9 @@ Mundane Axe of Venom
 - Most Volatile Item: Iridescent Spear of Grace
 
 ## Recent Events
-- STABLE: 'Mundane Blade of Grace' did not mutate this tick.
-- MUTATED: 'Titanic Edge of Gales' evolved to generation 38.
-- STABLE: 'Glacial Rapier of Might' did not mutate this tick.
+- STABLE: 'Dread Focus of Blood' did not mutate this tick.
+- MUTATED: 'Iridescent Spear of Grace' evolved to generation 37.
+- STABLE: 'Glacial Relic of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 23
@@ -40,8 +40,8 @@ Mundane Axe of Venom
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 1557
-- Successful Mutations: 622
+- Mutations Attempted: 1582
+- Successful Mutations: 632
 - Failure Rate: 60.1%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Axe of Venom
 
 ## Economy
 - Total Currency: 24850
-- Currency per Tick (avg): 15.96
+- Currency per Tick (avg): 15.71
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
