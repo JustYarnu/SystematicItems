@@ -1,21 +1,21 @@
 {
   "currency": 27000,
-  "tick": 1682,
+  "tick": 1707,
   "mutation_stats": {
-    "attempted": 1682,
-    "success": 675
+    "attempted": 1707,
+    "success": 685
   },
   "recent_events": [
-    "STABLE: 'Glacial Rapier of Might' did not mutate this tick.",
+    "MUTATED: 'Stormcharged Bow of Light' evolved to generation 29.",
+    "STABLE: 'Iridescent Spear of Grace' did not mutate this tick.",
+    "STABLE: 'Iridescent Spear of Grace' did not mutate this tick.",
+    "STABLE: 'Mundane Focus of Carnage' did not mutate this tick.",
+    "MUTATED: 'Singed Relic of Frost' evolved to generation 13.",
+    "STABLE: 'Singed Relic of Frost' did not mutate this tick.",
     "STABLE: 'Heavy Rapier of Light' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Carnage' did not mutate this tick.",
-    "STABLE: 'Mundane Axe of Venom' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Carnage' did not mutate this tick.",
-    "MUTATED: 'Mundane Axe of Venom' evolved to generation 5.",
-    "MUTATED: 'Iridescent Spear of Grace' evolved to generation 43.",
-    "STABLE: 'Mundane Axe of Venom' did not mutate this tick.",
-    "MUTATED: 'Dread Focus of Blood' evolved to generation 9.",
-    "MUTATED: 'Mundane Focus of Carnage' evolved to generation 3."
+    "STABLE: 'Stormcharged Bow of Light' did not mutate this tick.",
+    "STABLE: 'Glacial Rapier of Might' did not mutate this tick.",
+    "MUTATED: 'Iridescent Spear of Grace' evolved to generation 44."
   ],
   "created": 24,
   "avg_lifespan": 36.57142857142857,
