@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-1707
+1732
 
 ## Oldest Item
 Mundane Focus of Carnage
@@ -11,22 +11,22 @@ Mundane Focus of Carnage
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.96
-- Average Volatility: 0.46
-- Average Durability: 50.61
+- Average Volatility: 0.48
+- Average Durability: 46.09
 
 ## Dominant Factions
-- STR: 0.7
+- STR: 0.8
 - Stability: 0.5
-- Order: 0.4
+- DEX: 0.4
 
 ## Extremes
 - Most Stable Item: Glacial Relic of Frost
 - Most Volatile Item: Heavy Rapier of Light
 
 ## Recent Events
-- STABLE: 'Stormcharged Bow of Light' did not mutate this tick.
+- STABLE: 'Glacial Relic of Frost' did not mutate this tick.
+- MUTATED: 'Mundane Axe of Venom' evolved to generation 9.
 - STABLE: 'Glacial Rapier of Might' did not mutate this tick.
-- MUTATED: 'Iridescent Spear of Grace' evolved to generation 44.
 
 ## Lifecycle Stats
 - Items Created: 24
@@ -40,9 +40,9 @@ Mundane Focus of Carnage
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 1707
-- Successful Mutations: 685
-- Failure Rate: 59.9%
+- Mutations Attempted: 1732
+- Successful Mutations: 696
+- Failure Rate: 59.8%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Mundane Focus of Carnage
 
 ## Economy
 - Total Currency: 27000
-- Currency per Tick (avg): 15.82
+- Currency per Tick (avg): 15.59
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

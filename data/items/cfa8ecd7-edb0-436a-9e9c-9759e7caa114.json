@@ -2,7 +2,7 @@
   "id": "cfa8ecd7-edb0-436a-9e9c-9759e7caa114",
   "name": "Mundane Axe of Venom",
   "type": "HeavyWeapon",
-  "generation": 6,
+  "generation": 9,
   "damage": 16.5,
   "damage_type": [
     "Physical",
@@ -12,14 +12,15 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.25,
-  "dex_mod": 1.0,
+  "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 82.5,
+  "durability": 75.25,
   "max_durability": 104.0,
-  "volatility": 0.40000000000000013,
+  "volatility": 0.35000000000000014,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
-    "Stability": 0.1
+    "Stability": 0.1,
+    "Chaos": 0.1
   }
 }
