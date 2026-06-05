@@ -2,7 +2,7 @@
   "id": "209a4c22-eb88-41fa-bbdf-57f75fddf668",
   "name": "Stormcharged Bow of Light",
   "type": "Ranged",
-  "generation": 32,
+  "generation": 34,
   "damage": 19.5,
   "damage_type": [
     "Physical",
@@ -15,10 +15,10 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 1.5,
   "rarity": 2.3,
-  "durability": 52.98457481127499,
+  "durability": 60.34490158350893,
   "max_durability": 124.0,
   "volatility": 0.5900000000000001,
-  "resilience": 0.7600816930584824,
+  "resilience": 0.8100816930584824,
   "worth": 100,
   "affinities": {
     "DEX": 0.1,

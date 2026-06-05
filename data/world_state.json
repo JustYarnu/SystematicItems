@@ -1,23 +1,23 @@
 {
-  "currency": 29700,
-  "tick": 1882,
+  "currency": 30950,
+  "tick": 1907,
   "mutation_stats": {
-    "attempted": 1882,
-    "success": 768
+    "attempted": 1907,
+    "success": 784
   },
   "recent_events": [
-    "STABLE: 'Glacial Rapier of Might' did not mutate this tick.",
+    "MUTATED: 'Mundane Focus of Carnage' evolved to generation 17.",
+    "MUTATED: 'Glacial Rapier of Might' evolved to generation 22.",
     "STABLE: 'Stormcharged Bow of Light' did not mutate this tick.",
-    "STABLE: 'Dread Focus of Blood' did not mutate this tick.",
-    "MUTATED: 'Titanic Blade of Iron' evolved to generation 3.",
-    "MUTATED: 'Singed Relic of Frost' evolved to generation 21.",
-    "MUTATED: 'Stormcharged Bow of Light' evolved to generation 32.",
-    "MUTATED: 'Glacial Relic of Frost' evolved to generation 16.",
-    "MUTATED: 'Glacial Rapier of Might' evolved to generation 20.",
-    "STABLE: 'Mundane Blade of Grace' did not mutate this tick.",
-    "MUTATED: 'Heavy Rapier of Light' evolved to generation 67."
+    "STABLE: 'Stormcharged Bow of Light' did not mutate this tick.",
+    "MUTATED: 'Mundane Focus of Carnage' evolved to generation 18.",
+    "MUTATED: 'Dread Focus of Blood' evolved to generation 19.",
+    "MUTATED: 'Stormcharged Bow of Light' evolved to generation 34.",
+    "MUTATED: 'Glacial Rapier of Might' evolved to generation 23.",
+    "REPLACED WITH: 'Ancient Spear of Grace' (d55fe8f9-4edd-442f-bd38-4881286efb2f)",
+    "MUTATED: 'Dread Focus of Blood' evolved to generation 20."
   ],
-  "created": 25,
-  "avg_lifespan": 37.6,
-  "archived": 15
+  "created": 26,
+  "avg_lifespan": 36.6875,
+  "archived": 16
 }
