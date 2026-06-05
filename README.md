@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-1907
+1932
 
 ## Oldest Item
 Ancient Spear of Grace
@@ -12,7 +12,7 @@ Ancient Spear of Grace
 - Active Items: 10
 - Average Rarity: 1.46
 - Average Volatility: 0.4
-- Average Durability: 49.89
+- Average Durability: 48.32
 
 ## Dominant Factions
 - Stability: 0.9
@@ -24,9 +24,9 @@ Ancient Spear of Grace
 - Most Volatile Item: Stormcharged Bow of Light
 
 ## Recent Events
-- MUTATED: 'Glacial Rapier of Might' evolved to generation 23.
-- REPLACED WITH: 'Ancient Spear of Grace' (d55fe8f9-4edd-442f-bd38-4881286efb2f)
-- MUTATED: 'Dread Focus of Blood' evolved to generation 20.
+- MUTATED: 'Mundane Blade of Grace' evolved to generation 23.
+- STABLE: 'Titanic Blade of Iron' did not mutate this tick.
+- MUTATED: 'Ancient Spear of Grace' evolved to generation 3.
 
 ## Lifecycle Stats
 - Items Created: 26
@@ -40,8 +40,8 @@ Ancient Spear of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 1907
-- Successful Mutations: 784
+- Mutations Attempted: 1932
+- Successful Mutations: 794
 - Failure Rate: 58.9%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Ancient Spear of Grace
 
 ## Economy
 - Total Currency: 30950
-- Currency per Tick (avg): 16.23
+- Currency per Tick (avg): 16.02
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
