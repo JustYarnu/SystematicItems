@@ -491,5 +491,60 @@
       "Stability": 0.1,
       "DEX": 0.1
     }
+  },
+  {
+    "id": "c50025f4-777d-49eb-bfeb-220f0de0aef6",
+    "name": "Glacial Relic of Frost",
+    "type": "Artifact",
+    "generation": 28,
+    "damage": 25.5,
+    "damage_type": [
+      "Physical",
+      "Cold",
+      "Holy"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.08169925001442313,
+    "str_mod": 1.5000000000000004,
+    "dex_mod": 1.0499999999999998,
+    "rarity": 1.5,
+    "durability": -0.30616499682690623,
+    "max_durability": 139.6240625180289,
+    "volatility": 0.5792481250360578,
+    "resilience": 0.7792481250360578,
+    "worth": 1500,
+    "affinities": {
+      "Stability": 0.1,
+      "Chaos": 0.1,
+      "Order": 0.1
+    }
+  },
+  {
+    "id": "2dbf8f5a-a648-4af0-8997-dccf57a731c1",
+    "name": "Singed Relic of Frost",
+    "type": "Artifact",
+    "generation": 31,
+    "damage": 32.5,
+    "damage_type": [
+      "Physical",
+      "Fire",
+      "Holy",
+      "Cold"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.01,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 0.9,
+    "rarity": 1.5,
+    "durability": -1.0,
+    "max_durability": 136.0,
+    "volatility": 0.5592481250360578,
+    "resilience": 0.7292481250360577,
+    "worth": 1650,
+    "affinities": {
+      "Stability": 0.2,
+      "Order": 0.1,
+      "STR": 0.2
+    }
   }
 ]

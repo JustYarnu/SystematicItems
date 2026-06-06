@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-2057
+2082
 
 ## Oldest Item
-Rusty Focus of Iron
+Gilded Rapier of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.33
-- Average Volatility: 0.39
-- Average Durability: 53.46
+- Average Rarity: 1.43
+- Average Volatility: 0.32
+- Average Durability: 69.95
 
 ## Dominant Factions
-- Order: 0.7
-- Stability: 0.7
-- STR: 0.6
+- Order: 0.5
+- Stability: 0.4
+- STR: 0.4
 
 ## Extremes
-- Most Stable Item: Blessed Rapier of Frost
+- Most Stable Item: Gilded Rapier of Whispers
 - Most Volatile Item: Stormcharged Bow of Light
 
 ## Recent Events
+- STABLE: 'Phantom Relic of Blood' did not mutate this tick.
+- STABLE: 'Mundane Axe of Venom' did not mutate this tick.
 - STABLE: 'Rusty Focus of Iron' did not mutate this tick.
-- MUTATED: 'Stormcharged Bow of Light' evolved to generation 42.
-- STABLE: 'Ancient Spear of Grace' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 28
-- Items Archived: 18
-- Avg Lifespan (ticks): 37.8
+- Items Created: 30
+- Items Archived: 20
+- Avg Lifespan (ticks): 37.0
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Rusty Focus of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 2057
-- Successful Mutations: 836
-- Failure Rate: 59.4%
+- Mutations Attempted: 2082
+- Successful Mutations: 842
+- Failure Rate: 59.6%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 8
-- Uncommon: 2
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Rusty Focus of Iron
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 35850
-- Currency per Tick (avg): 17.43
+- Total Currency: 39000
+- Currency per Tick (avg): 18.73
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

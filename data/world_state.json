@@ -1,23 +1,23 @@
 {
-  "currency": 35850,
-  "tick": 2057,
+  "currency": 39000,
+  "tick": 2082,
   "mutation_stats": {
-    "attempted": 2057,
-    "success": 836
+    "attempted": 2082,
+    "success": 842
   },
   "recent_events": [
-    "STABLE: 'Ancient Spear of Grace' did not mutate this tick.",
-    "STABLE: 'Ancient Spear of Grace' did not mutate this tick.",
-    "STABLE: 'Singed Relic of Frost' did not mutate this tick.",
-    "STABLE: 'Rusty Focus of Iron' did not mutate this tick.",
-    "STABLE: 'Singed Relic of Frost' did not mutate this tick.",
-    "STABLE: 'Ancient Spear of Grace' did not mutate this tick.",
-    "STABLE: 'Blessed Rapier of Frost' did not mutate this tick.",
-    "STABLE: 'Rusty Focus of Iron' did not mutate this tick.",
-    "MUTATED: 'Stormcharged Bow of Light' evolved to generation 42.",
-    "STABLE: 'Ancient Spear of Grace' did not mutate this tick."
+    "REPLACED WITH: 'Gilded Rapier of Whispers' (34f85a1c-e252-49ec-b6b8-680cae29c58b)",
+    "STABLE: 'Titanic Blade of Iron' did not mutate this tick.",
+    "MUTATED: 'Singed Relic of Frost' evolved to generation 31.",
+    "REPLACED WITH: 'Phantom Relic of Blood' (450fedc7-bbd5-42a2-ba89-212dd599c23f)",
+    "MUTATED: 'Ancient Spear of Grace' evolved to generation 4.",
+    "STABLE: 'Mundane Blade of Grace' did not mutate this tick.",
+    "MUTATED: 'Phantom Relic of Blood' evolved to generation 2.",
+    "STABLE: 'Phantom Relic of Blood' did not mutate this tick.",
+    "STABLE: 'Mundane Axe of Venom' did not mutate this tick.",
+    "STABLE: 'Rusty Focus of Iron' did not mutate this tick."
   ],
-  "created": 28,
-  "avg_lifespan": 37.833333333333336,
-  "archived": 18
+  "created": 30,
+  "avg_lifespan": 37.0,
+  "archived": 20
 }
