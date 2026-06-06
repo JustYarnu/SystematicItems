@@ -1,21 +1,21 @@
 {
   "currency": 35850,
-  "tick": 2032,
+  "tick": 2057,
   "mutation_stats": {
-    "attempted": 2032,
-    "success": 828
+    "attempted": 2057,
+    "success": 836
   },
   "recent_events": [
-    "STABLE: 'Rusty Focus of Iron' did not mutate this tick.",
-    "MUTATED: 'Glacial Relic of Frost' evolved to generation 26.",
+    "STABLE: 'Ancient Spear of Grace' did not mutate this tick.",
+    "STABLE: 'Ancient Spear of Grace' did not mutate this tick.",
     "STABLE: 'Singed Relic of Frost' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Carnage' did not mutate this tick.",
-    "MUTATED: 'Glacial Relic of Frost' evolved to generation 27.",
-    "MUTATED: 'Blessed Rapier of Frost' evolved to generation 3.",
+    "STABLE: 'Rusty Focus of Iron' did not mutate this tick.",
+    "STABLE: 'Singed Relic of Frost' did not mutate this tick.",
+    "STABLE: 'Ancient Spear of Grace' did not mutate this tick.",
     "STABLE: 'Blessed Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Singed Relic of Frost' evolved to generation 28.",
-    "STABLE: 'Stormcharged Bow of Light' did not mutate this tick.",
-    "STABLE: 'Rusty Focus of Iron' did not mutate this tick."
+    "STABLE: 'Rusty Focus of Iron' did not mutate this tick.",
+    "MUTATED: 'Stormcharged Bow of Light' evolved to generation 42.",
+    "STABLE: 'Ancient Spear of Grace' did not mutate this tick."
   ],
   "created": 28,
   "avg_lifespan": 37.833333333333336,

@@ -2,7 +2,7 @@
   "id": "2dbf8f5a-a648-4af0-8997-dccf57a731c1",
   "name": "Singed Relic of Frost",
   "type": "Artifact",
-  "generation": 28,
+  "generation": 30,
   "damage": 32.5,
   "damage_type": [
     "Physical",
@@ -13,11 +13,11 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.3000000000000003,
-  "dex_mod": 0.8,
+  "dex_mod": 0.9,
   "rarity": 1.5,
-  "durability": 9.26661687756008,
+  "durability": 1.9128575027403683,
   "max_durability": 134.0,
-  "volatility": 0.5792481250360578,
+  "volatility": 0.5492481250360578,
   "resilience": 0.7292481250360577,
   "worth": 100,
   "affinities": {
