@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-2082
+2107
 
 ## Oldest Item
-Gilded Rapier of Whispers
+Rusty Focus of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.43
-- Average Volatility: 0.32
-- Average Durability: 69.95
+- Average Volatility: 0.33
+- Average Durability: 67.34
 
 ## Dominant Factions
-- Order: 0.5
+- Order: 0.6
 - Stability: 0.4
 - STR: 0.4
 
@@ -24,9 +24,9 @@ Gilded Rapier of Whispers
 - Most Volatile Item: Stormcharged Bow of Light
 
 ## Recent Events
-- STABLE: 'Phantom Relic of Blood' did not mutate this tick.
-- STABLE: 'Mundane Axe of Venom' did not mutate this tick.
-- STABLE: 'Rusty Focus of Iron' did not mutate this tick.
+- STABLE: 'Gilded Rapier of Whispers' did not mutate this tick.
+- STABLE: 'Mundane Blade of Grace' did not mutate this tick.
+- STABLE: 'Ancient Spear of Grace' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 30
@@ -40,9 +40,9 @@ Gilded Rapier of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 2082
-- Successful Mutations: 842
-- Failure Rate: 59.6%
+- Mutations Attempted: 2107
+- Successful Mutations: 848
+- Failure Rate: 59.8%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Gilded Rapier of Whispers
 
 ## Economy
 - Total Currency: 39000
-- Currency per Tick (avg): 18.73
+- Currency per Tick (avg): 18.51
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
