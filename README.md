@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-1957
+1982
 
 ## Oldest Item
-Ancient Spear of Grace
+Blessed Rapier of Frost
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.46
-- Average Volatility: 0.41
-- Average Durability: 44.54
+- Average Rarity: 1.33
+- Average Volatility: 0.38
+- Average Durability: 52.44
 
 ## Dominant Factions
-- Stability: 1.0
-- STR: 0.8
-- Order: 0.7
+- Stability: 0.8
+- Order: 0.5
+- STR: 0.5
 
 ## Extremes
-- Most Stable Item: Ancient Spear of Grace
+- Most Stable Item: Blessed Rapier of Frost
 - Most Volatile Item: Stormcharged Bow of Light
 
 ## Recent Events
-- STABLE: 'Stormcharged Bow of Light' did not mutate this tick.
 - STABLE: 'Ancient Spear of Grace' did not mutate this tick.
-- MUTATED: 'Glacial Relic of Frost' evolved to generation 19.
+- STABLE: 'Blessed Rapier of Frost' did not mutate this tick.
+- STABLE: 'Blessed Rapier of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 26
-- Items Archived: 16
-- Avg Lifespan (ticks): 36.7
+- Items Created: 27
+- Items Archived: 17
+- Avg Lifespan (ticks): 38.6
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Ancient Spear of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 1957
-- Successful Mutations: 801
-- Failure Rate: 59.1%
+- Mutations Attempted: 1982
+- Successful Mutations: 809
+- Failure Rate: 59.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 3
+- Common: 8
+- Uncommon: 2
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Ancient Spear of Grace
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 30950
-- Currency per Tick (avg): 15.82
+- Total Currency: 34500
+- Currency per Tick (avg): 17.41
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
