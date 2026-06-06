@@ -2,7 +2,7 @@
   "id": "51f6efa3-5872-4bc3-b5eb-7dd9dc653f25",
   "name": "Blessed Rapier of Frost",
   "type": "Generic",
-  "generation": 2,
+  "generation": 3,
   "damage": 15.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,12 @@
   "str_mod": 1.0,
   "dex_mod": 1.0,
   "rarity": 1,
-  "durability": 93.75,
+  "durability": 90.75,
   "max_durability": 125.0,
-  "volatility": 0.13,
+  "volatility": 0.14,
   "resilience": 0.75,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Restoration": 0.1
+  }
 }

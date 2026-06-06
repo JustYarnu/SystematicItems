@@ -1,21 +1,21 @@
 {
   "currency": 35850,
-  "tick": 2007,
+  "tick": 2032,
   "mutation_stats": {
-    "attempted": 2007,
-    "success": 816
+    "attempted": 2032,
+    "success": 828
   },
   "recent_events": [
-    "STABLE: 'Ancient Spear of Grace' did not mutate this tick.",
     "STABLE: 'Rusty Focus of Iron' did not mutate this tick.",
-    "STABLE: 'Titanic Blade of Iron' did not mutate this tick.",
+    "MUTATED: 'Glacial Relic of Frost' evolved to generation 26.",
+    "STABLE: 'Singed Relic of Frost' did not mutate this tick.",
     "STABLE: 'Mundane Focus of Carnage' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Carnage' did not mutate this tick.",
-    "MUTATED: 'Mundane Focus of Carnage' evolved to generation 22.",
-    "STABLE: 'Titanic Blade of Iron' did not mutate this tick.",
-    "STABLE: 'Mundane Axe of Venom' did not mutate this tick.",
-    "MUTATED: 'Titanic Blade of Iron' evolved to generation 5.",
-    "STABLE: 'Mundane Blade of Grace' did not mutate this tick."
+    "MUTATED: 'Glacial Relic of Frost' evolved to generation 27.",
+    "MUTATED: 'Blessed Rapier of Frost' evolved to generation 3.",
+    "STABLE: 'Blessed Rapier of Frost' did not mutate this tick.",
+    "MUTATED: 'Singed Relic of Frost' evolved to generation 28.",
+    "STABLE: 'Stormcharged Bow of Light' did not mutate this tick.",
+    "STABLE: 'Rusty Focus of Iron' did not mutate this tick."
   ],
   "created": 28,
   "avg_lifespan": 37.833333333333336,

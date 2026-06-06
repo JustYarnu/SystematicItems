@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-2007
+2032
 
 ## Oldest Item
 Rusty Focus of Iron
@@ -11,8 +11,8 @@ Rusty Focus of Iron
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.33
-- Average Volatility: 0.37
-- Average Durability: 58.77
+- Average Volatility: 0.38
+- Average Durability: 57.34
 
 ## Dominant Factions
 - Order: 0.7
@@ -24,9 +24,9 @@ Rusty Focus of Iron
 - Most Volatile Item: Stormcharged Bow of Light
 
 ## Recent Events
-- STABLE: 'Mundane Axe of Venom' did not mutate this tick.
-- MUTATED: 'Titanic Blade of Iron' evolved to generation 5.
-- STABLE: 'Mundane Blade of Grace' did not mutate this tick.
+- MUTATED: 'Singed Relic of Frost' evolved to generation 28.
+- STABLE: 'Stormcharged Bow of Light' did not mutate this tick.
+- STABLE: 'Rusty Focus of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 28
@@ -40,8 +40,8 @@ Rusty Focus of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 2007
-- Successful Mutations: 816
+- Mutations Attempted: 2032
+- Successful Mutations: 828
 - Failure Rate: 59.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Rusty Focus of Iron
 
 ## Economy
 - Total Currency: 35850
-- Currency per Tick (avg): 17.86
+- Currency per Tick (avg): 17.64
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
