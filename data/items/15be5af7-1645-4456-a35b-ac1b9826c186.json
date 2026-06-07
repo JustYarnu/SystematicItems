@@ -2,7 +2,7 @@
   "id": "15be5af7-1645-4456-a35b-ac1b9826c186",
   "name": "Mundane Focus of Carnage",
   "type": "Focus",
-  "generation": 26,
+  "generation": 29,
   "damage": 35.5,
   "damage_type": [
     "Physical",
@@ -14,14 +14,14 @@
   "str_mod": 1.5000000000000004,
   "dex_mod": 1.5000000000000004,
   "rarity": 1,
-  "durability": 63.64999999999998,
-  "max_durability": 109.0,
-  "volatility": 0.56,
+  "durability": 55.39999999999998,
+  "max_durability": 111.0,
+  "volatility": 0.55,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
     "Stability": 0.1,
     "Order": 0.1,
-    "STR": 0.2
+    "STR": 0.4
   }
 }

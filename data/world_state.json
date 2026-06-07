@@ -1,21 +1,21 @@
 {
   "currency": 39000,
-  "tick": 2157,
+  "tick": 2182,
   "mutation_stats": {
-    "attempted": 2157,
-    "success": 864
+    "attempted": 2182,
+    "success": 874
   },
   "recent_events": [
-    "STABLE: 'Phantom Relic of Blood' did not mutate this tick.",
+    "STABLE: 'Gilded Rapier of Whispers' did not mutate this tick.",
+    "MUTATED: 'Phantom Relic of Blood' evolved to generation 4.",
+    "MUTATED: 'Mundane Axe of Venom' evolved to generation 21.",
+    "MUTATED: 'Mundane Focus of Carnage' evolved to generation 29.",
+    "STABLE: 'Rusty Focus of Iron' did not mutate this tick.",
+    "MUTATED: 'Mundane Blade of Grace' evolved to generation 29.",
+    "MUTATED: 'Mundane Blade of Grace' evolved to generation 30.",
     "STABLE: 'Ancient Spear of Grace' did not mutate this tick.",
-    "MUTATED: 'Ancient Spear of Grace' evolved to generation 9.",
-    "MUTATED: 'Gilded Rapier of Whispers' evolved to generation 5.",
-    "STABLE: 'Ancient Spear of Grace' did not mutate this tick.",
-    "MUTATED: 'Gilded Rapier of Whispers' evolved to generation 6.",
-    "STABLE: 'Mundane Blade of Grace' did not mutate this tick.",
-    "STABLE: 'Ancient Spear of Grace' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Grace' did not mutate this tick.",
-    "STABLE: 'Gilded Rapier of Whispers' did not mutate this tick."
+    "STABLE: 'Rusty Focus of Iron' did not mutate this tick.",
+    "STABLE: 'Blessed Rapier of Frost' did not mutate this tick."
   ],
   "created": 30,
   "avg_lifespan": 37.0,
