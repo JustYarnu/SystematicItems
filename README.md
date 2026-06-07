@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-2357
+2382
 
 ## Oldest Item
 Phantom Relic of Blood
@@ -11,8 +11,8 @@ Phantom Relic of Blood
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.63
-- Average Volatility: 0.42
-- Average Durability: 44.41
+- Average Volatility: 0.44
+- Average Durability: 44.99
 
 ## Dominant Factions
 - Order: 0.9
@@ -24,8 +24,8 @@ Phantom Relic of Blood
 - Most Volatile Item: Mundane Focus of Carnage
 
 ## Recent Events
-- MUTATED: 'Blessed Rapier of Frost' evolved to generation 15.
-- STABLE: 'Mundane Axe of Venom' did not mutate this tick.
+- MUTATED: 'Gilded Rapier of Whispers' evolved to generation 12.
+- STABLE: 'Mundane Focus of Carnage' did not mutate this tick.
 - STABLE: 'Stormcharged Bow of Light' did not mutate this tick.
 
 ## Lifecycle Stats
@@ -40,9 +40,9 @@ Phantom Relic of Blood
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 2357
-- Successful Mutations: 949
-- Failure Rate: 59.7%
+- Mutations Attempted: 2382
+- Successful Mutations: 957
+- Failure Rate: 59.8%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Phantom Relic of Blood
 
 ## Economy
 - Total Currency: 39000
-- Currency per Tick (avg): 16.55
+- Currency per Tick (avg): 16.37
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
