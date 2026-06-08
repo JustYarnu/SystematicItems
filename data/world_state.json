@@ -1,21 +1,21 @@
 {
   "currency": 39000,
-  "tick": 2407,
+  "tick": 2432,
   "mutation_stats": {
-    "attempted": 2407,
-    "success": 972
+    "attempted": 2432,
+    "success": 986
   },
   "recent_events": [
-    "MUTATED: 'Mundane Focus of Carnage' evolved to generation 47.",
-    "MUTATED: 'Gilded Rapier of Whispers' evolved to generation 13.",
+    "STABLE: 'Stormcharged Bow of Light' did not mutate this tick.",
+    "MUTATED: 'Mundane Axe of Venom' evolved to generation 36.",
+    "MUTATED: 'Titanic Blade of Iron' evolved to generation 14.",
     "STABLE: 'Phantom Relic of Blood' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Carnage' did not mutate this tick.",
-    "MUTATED: 'Stormcharged Bow of Light' evolved to generation 58.",
-    "STABLE: 'Gilded Rapier of Whispers' did not mutate this tick.",
-    "MUTATED: 'Mundane Focus of Carnage' evolved to generation 48.",
-    "MUTATED: 'Mundane Blade of Grace' evolved to generation 36.",
-    "MUTATED: 'Stormcharged Bow of Light' evolved to generation 59.",
-    "MUTATED: 'Mundane Axe of Venom' evolved to generation 32."
+    "MUTATED: 'Phantom Relic of Blood' evolved to generation 10.",
+    "STABLE: 'Ancient Spear of Grace' did not mutate this tick.",
+    "MUTATED: 'Mundane Focus of Carnage' evolved to generation 50.",
+    "MUTATED: 'Stormcharged Bow of Light' evolved to generation 60.",
+    "MUTATED: 'Mundane Blade of Grace' evolved to generation 37.",
+    "MUTATED: 'Blessed Rapier of Frost' evolved to generation 17."
   ],
   "created": 30,
   "avg_lifespan": 37.0,
