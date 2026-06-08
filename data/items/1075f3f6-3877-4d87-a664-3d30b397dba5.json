@@ -2,7 +2,7 @@
   "id": "1075f3f6-3877-4d87-a664-3d30b397dba5",
   "name": "Titanic Blade of Iron",
   "type": "Sword",
-  "generation": 20,
+  "generation": 21,
   "damage": 11.5,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.4500000000000002,
   "dex_mod": 0.9500000000000001,
   "rarity": 2,
-  "durability": 84.02000000000001,
+  "durability": 89.02000000000001,
   "max_durability": 112.0,
-  "volatility": 0.6,
+  "volatility": 0.59,
   "resilience": 0.6499999999999999,
   "worth": 100,
   "affinities": {
