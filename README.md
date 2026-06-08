@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-2432
+2457
 
 ## Oldest Item
-Phantom Relic of Blood
+Dread Relic of the Glacier
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.63
-- Average Volatility: 0.43
-- Average Durability: 41.83
+- Average Rarity: 1.58
+- Average Volatility: 0.41
+- Average Durability: 48.99
 
 ## Dominant Factions
-- Order: 1.0
-- Chaos: 0.8
+- Order: 0.9
 - STR: 0.7
+- Chaos: 0.7
 
 ## Extremes
-- Most Stable Item: Mundane Blade of Grace
+- Most Stable Item: Dread Relic of the Glacier
 - Most Volatile Item: Stormcharged Bow of Light
 
 ## Recent Events
-- MUTATED: 'Stormcharged Bow of Light' evolved to generation 60.
-- MUTATED: 'Mundane Blade of Grace' evolved to generation 37.
-- MUTATED: 'Blessed Rapier of Frost' evolved to generation 17.
+- MUTATED: 'Rusty Focus of Iron' evolved to generation 17.
+- MUTATED: 'Phantom Relic of Blood' evolved to generation 13.
+- MUTATED: 'Stormcharged Bow of Light' evolved to generation 62.
 
 ## Lifecycle Stats
-- Items Created: 30
-- Items Archived: 20
-- Avg Lifespan (ticks): 37.0
+- Items Created: 31
+- Items Archived: 21
+- Avg Lifespan (ticks): 36.3
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Phantom Relic of Blood
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 2432
-- Successful Mutations: 986
-- Failure Rate: 59.5%
+- Mutations Attempted: 2457
+- Successful Mutations: 997
+- Failure Rate: 59.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 5
-- Uncommon: 5
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Phantom Relic of Blood
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 39000
-- Currency per Tick (avg): 16.04
+- Total Currency: 40250
+- Currency per Tick (avg): 16.38
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

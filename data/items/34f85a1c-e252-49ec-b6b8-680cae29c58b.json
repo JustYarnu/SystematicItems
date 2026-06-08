@@ -2,7 +2,7 @@
   "id": "34f85a1c-e252-49ec-b6b8-680cae29c58b",
   "name": "Gilded Rapier of Whispers",
   "type": "Generic",
-  "generation": 15,
+  "generation": 16,
   "damage": 20.0,
   "damage_type": [
     "Physical",
@@ -14,12 +14,13 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.4200000000000004,
   "rarity": 2.5,
-  "durability": 36.14999999999999,
+  "durability": 33.14999999999999,
   "max_durability": 127.0,
-  "volatility": 0.39000000000000024,
+  "volatility": 0.40000000000000024,
   "resilience": 0.76,
   "worth": 100,
   "affinities": {
-    "Restoration": 0.1
+    "Restoration": 0.1,
+    "Scarceness": 0.1
   }
 }

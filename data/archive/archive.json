@@ -546,5 +546,31 @@
       "Order": 0.1,
       "STR": 0.2
     }
+  },
+  {
+    "id": "d55fe8f9-4edd-442f-bd38-4881286efb2f",
+    "name": "Ancient Spear of Grace",
+    "type": "Polearm",
+    "generation": 23,
+    "damage": 31.5,
+    "damage_type": [
+      "Physical",
+      "Piercing"
+    ],
+    "crit_damage": 3.5,
+    "crit_rate": 0.01,
+    "str_mod": 1.2000000000000002,
+    "dex_mod": 0.9499999999999998,
+    "rarity": 2.0,
+    "durability": -0.04000000000001158,
+    "max_durability": 113.0,
+    "volatility": 0.4000000000000003,
+    "resilience": 0.71,
+    "worth": 1250,
+    "affinities": {
+      "Order": 0.1,
+      "Chaos": 0.1,
+      "STR": 0.1
+    }
   }
 ]
