@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-2532
+2557
 
 ## Oldest Item
 Dread Relic of the Glacier
@@ -11,12 +11,12 @@ Dread Relic of the Glacier
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.68
-- Average Volatility: 0.45
-- Average Durability: 39.28
+- Average Volatility: 0.46
+- Average Durability: 36.81
 
 ## Dominant Factions
+- STR: 0.9
 - Order: 0.9
-- STR: 0.8
 - Chaos: 0.8
 
 ## Extremes
@@ -24,9 +24,9 @@ Dread Relic of the Glacier
 - Most Volatile Item: Titanic Blade of Iron
 
 ## Recent Events
-- MUTATED: 'Mundane Blade of Grace' evolved to generation 40.
-- STABLE: 'Mundane Blade of Grace' did not mutate this tick.
 - STABLE: 'Gilded Rapier of Whispers' did not mutate this tick.
+- STABLE: 'Mundane Focus of Carnage' did not mutate this tick.
+- MUTATED: 'Mundane Blade of Grace' evolved to generation 43.
 
 ## Lifecycle Stats
 - Items Created: 31
@@ -40,8 +40,8 @@ Dread Relic of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 2532
-- Successful Mutations: 1025
+- Mutations Attempted: 2557
+- Successful Mutations: 1035
 - Failure Rate: 59.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Dread Relic of the Glacier
 
 ## Economy
 - Total Currency: 40250
-- Currency per Tick (avg): 15.9
+- Currency per Tick (avg): 15.74
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
