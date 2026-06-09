@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-2582
+2607
 
 ## Oldest Item
 Dread Relic of the Glacier
@@ -11,22 +11,22 @@ Dread Relic of the Glacier
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.68
-- Average Volatility: 0.47
-- Average Durability: 32.74
+- Average Volatility: 0.48
+- Average Durability: 31.2
 
 ## Dominant Factions
+- STR: 1.1
 - Order: 1.0
-- STR: 0.9
 - Chaos: 0.9
 
 ## Extremes
 - Most Stable Item: Dread Relic of the Glacier
-- Most Volatile Item: Stormcharged Bow of Light
+- Most Volatile Item: Titanic Blade of Iron
 
 ## Recent Events
-- STABLE: 'Stormcharged Bow of Light' did not mutate this tick.
-- MUTATED: 'Stormcharged Bow of Light' evolved to generation 69.
-- STABLE: 'Mundane Axe of Venom' did not mutate this tick.
+- MUTATED: 'Rusty Focus of Iron' evolved to generation 22.
+- STABLE: 'Blessed Rapier of Frost' did not mutate this tick.
+- STABLE: 'Dread Relic of the Glacier' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 31
@@ -40,8 +40,8 @@ Dread Relic of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 2582
-- Successful Mutations: 1049
+- Mutations Attempted: 2607
+- Successful Mutations: 1058
 - Failure Rate: 59.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Dread Relic of the Glacier
 
 ## Economy
 - Total Currency: 40250
-- Currency per Tick (avg): 15.59
+- Currency per Tick (avg): 15.44
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

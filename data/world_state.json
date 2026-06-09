@@ -1,21 +1,21 @@
 {
   "currency": 40250,
-  "tick": 2582,
+  "tick": 2607,
   "mutation_stats": {
-    "attempted": 2582,
-    "success": 1049
+    "attempted": 2607,
+    "success": 1058
   },
   "recent_events": [
-    "MUTATED: 'Rusty Focus of Iron' evolved to generation 21.",
-    "MUTATED: 'Titanic Blade of Iron' evolved to generation 24.",
-    "MUTATED: 'Gilded Rapier of Whispers' evolved to generation 20.",
-    "MUTATED: 'Mundane Axe of Venom' evolved to generation 43.",
-    "STABLE: 'Mundane Axe of Venom' did not mutate this tick.",
-    "MUTATED: 'Stormcharged Bow of Light' evolved to generation 68.",
-    "MUTATED: 'Mundane Focus of Carnage' evolved to generation 57.",
-    "STABLE: 'Stormcharged Bow of Light' did not mutate this tick.",
-    "MUTATED: 'Stormcharged Bow of Light' evolved to generation 69.",
-    "STABLE: 'Mundane Axe of Venom' did not mutate this tick."
+    "STABLE: 'Rusty Focus of Iron' did not mutate this tick.",
+    "MUTATED: 'Mundane Focus of Carnage' evolved to generation 58.",
+    "STABLE: 'Titanic Blade of Iron' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Grace' did not mutate this tick.",
+    "STABLE: 'Gilded Rapier of Whispers' did not mutate this tick.",
+    "STABLE: 'Titanic Blade of Iron' did not mutate this tick.",
+    "MUTATED: 'Phantom Relic of Blood' evolved to generation 16.",
+    "MUTATED: 'Rusty Focus of Iron' evolved to generation 22.",
+    "STABLE: 'Blessed Rapier of Frost' did not mutate this tick.",
+    "STABLE: 'Dread Relic of the Glacier' did not mutate this tick."
   ],
   "created": 31,
   "avg_lifespan": 36.333333333333336,

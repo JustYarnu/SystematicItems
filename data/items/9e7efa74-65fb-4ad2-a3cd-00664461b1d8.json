@@ -2,7 +2,7 @@
   "id": "9e7efa74-65fb-4ad2-a3cd-00664461b1d8",
   "name": "Rusty Focus of Iron",
   "type": "Focus",
-  "generation": 21,
+  "generation": 22,
   "damage": 21.0,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.4000000000000004,
   "dex_mod": 1.2000000000000002,
   "rarity": 1,
-  "durability": 19.449999999999974,
+  "durability": 14.949999999999974,
   "max_durability": 125.0,
-  "volatility": 0.5300000000000002,
+  "volatility": 0.5000000000000002,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
