@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-2682
+2707
 
 ## Oldest Item
 Titanic Sigil of Judgement
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.58
-- Average Volatility: 0.45
-- Average Durability: 56.2
+- Average Rarity: 1.45
+- Average Volatility: 0.43
+- Average Durability: 62.41
 
 ## Dominant Factions
-- STR: 1.2
-- Order: 0.9
-- DEX: 0.6
+- STR: 1.1
+- Order: 0.6
+- Chaos: 0.6
 
 ## Extremes
 - Most Stable Item: Mundane Bow of Whispers
-- Most Volatile Item: Stormcharged Bow of Light
+- Most Volatile Item: Mundane Focus of Carnage
 
 ## Recent Events
-- MUTATED: 'Phantom Relic of Blood' evolved to generation 17.
-- STABLE: 'Dread Relic of the Glacier' did not mutate this tick.
-- STABLE: 'Dread Relic of the Glacier' did not mutate this tick.
+- STABLE: 'Mundane Focus of Carnage' did not mutate this tick.
+- STABLE: 'Nimble Blade of Venom' did not mutate this tick.
+- STABLE: 'Phantom Relic of Blood' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 34
-- Items Archived: 24
-- Avg Lifespan (ticks): 36.6
+- Items Created: 35
+- Items Archived: 25
+- Avg Lifespan (ticks): 38.0
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Titanic Sigil of Judgement
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 2682
-- Successful Mutations: 1095
-- Failure Rate: 59.2%
+- Mutations Attempted: 2707
+- Successful Mutations: 1103
+- Failure Rate: 59.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Titanic Sigil of Judgement
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 46300
-- Currency per Tick (avg): 17.26
+- Total Currency: 50050
+- Currency per Tick (avg): 18.49
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
