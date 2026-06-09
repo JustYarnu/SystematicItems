@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-2657
+2682
 
 ## Oldest Item
 Titanic Sigil of Judgement
@@ -11,11 +11,11 @@ Titanic Sigil of Judgement
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.58
-- Average Volatility: 0.42
-- Average Durability: 59.03
+- Average Volatility: 0.45
+- Average Durability: 56.2
 
 ## Dominant Factions
-- STR: 1.1
+- STR: 1.2
 - Order: 0.9
 - DEX: 0.6
 
@@ -24,9 +24,9 @@ Titanic Sigil of Judgement
 - Most Volatile Item: Stormcharged Bow of Light
 
 ## Recent Events
-- MUTATED: 'Gilded Rapier of Whispers' evolved to generation 25.
-- REPLACED WITH: 'Mundane Bow of Whispers' (dfc281b8-35f3-4501-98a7-ac098e3b4c8d)
-- MUTATED: 'Blessed Rapier of Frost' evolved to generation 25.
+- MUTATED: 'Phantom Relic of Blood' evolved to generation 17.
+- STABLE: 'Dread Relic of the Glacier' did not mutate this tick.
+- STABLE: 'Dread Relic of the Glacier' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 34
@@ -40,8 +40,8 @@ Titanic Sigil of Judgement
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 2657
-- Successful Mutations: 1085
+- Mutations Attempted: 2682
+- Successful Mutations: 1095
 - Failure Rate: 59.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Titanic Sigil of Judgement
 
 ## Economy
 - Total Currency: 46300
-- Currency per Tick (avg): 17.43
+- Currency per Tick (avg): 17.26
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

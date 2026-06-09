@@ -2,7 +2,7 @@
   "id": "50bef9e6-f2a8-4872-9006-e32379ad2af1",
   "name": "Dread Relic of the Glacier",
   "type": "Artifact",
-  "generation": 9,
+  "generation": 12,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -15,13 +15,13 @@
   "str_mod": 1.2,
   "dex_mod": 1.0,
   "rarity": 1.5,
-  "durability": 65.24000000000002,
+  "durability": 70.79000000000002,
   "max_durability": 134.6240625180289,
-  "volatility": 0.3400000000000002,
-  "resilience": 0.7599999999999999,
+  "volatility": 0.4400000000000002,
+  "resilience": 0.7099999999999999,
   "worth": 100,
   "affinities": {
-    "Chaos": 0.1,
+    "Chaos": 0.2,
     "STR": 0.1
   }
 }

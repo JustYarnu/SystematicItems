@@ -1,21 +1,21 @@
 {
   "currency": 46300,
-  "tick": 2657,
+  "tick": 2682,
   "mutation_stats": {
-    "attempted": 2657,
-    "success": 1085
+    "attempted": 2682,
+    "success": 1095
   },
   "recent_events": [
-    "MUTATED: 'Blessed Rapier of Frost' evolved to generation 24.",
-    "MUTATED: 'Dread Relic of the Glacier' evolved to generation 9.",
-    "STABLE: 'Blessed Rapier of Frost' did not mutate this tick.",
+    "STABLE: 'Rusty Focus of Iron' did not mutate this tick.",
+    "STABLE: 'Mundane Focus of Carnage' did not mutate this tick.",
+    "STABLE: 'Mundane Bow of Whispers' did not mutate this tick.",
+    "MUTATED: 'Stormcharged Bow of Light' evolved to generation 72.",
     "STABLE: 'Phantom Relic of Blood' did not mutate this tick.",
-    "MUTATED: 'Mundane Axe of Venom' evolved to generation 46.",
-    "REPLACED WITH: 'Titanic Sigil of Judgement' (64b3c63a-c1e6-4fb2-b1cd-f35b8af2cfe9)",
-    "STABLE: 'Gilded Rapier of Whispers' did not mutate this tick.",
-    "MUTATED: 'Gilded Rapier of Whispers' evolved to generation 25.",
-    "REPLACED WITH: 'Mundane Bow of Whispers' (dfc281b8-35f3-4501-98a7-ac098e3b4c8d)",
-    "MUTATED: 'Blessed Rapier of Frost' evolved to generation 25."
+    "MUTATED: 'Titanic Blade of Iron' evolved to generation 32.",
+    "STABLE: 'Titanic Blade of Iron' did not mutate this tick.",
+    "MUTATED: 'Phantom Relic of Blood' evolved to generation 17.",
+    "STABLE: 'Dread Relic of the Glacier' did not mutate this tick.",
+    "STABLE: 'Dread Relic of the Glacier' did not mutate this tick."
   ],
   "created": 34,
   "avg_lifespan": 36.583333333333336,
