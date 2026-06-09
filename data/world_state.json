@@ -1,21 +1,21 @@
 {
   "currency": 50050,
-  "tick": 2707,
+  "tick": 2732,
   "mutation_stats": {
-    "attempted": 2707,
-    "success": 1103
+    "attempted": 2732,
+    "success": 1110
   },
   "recent_events": [
-    "MUTATED: 'Nimble Blade of Venom' evolved to generation 2.",
-    "STABLE: 'Rusty Focus of Iron' did not mutate this tick.",
-    "MUTATED: 'Nimble Blade of Venom' evolved to generation 3.",
-    "MUTATED: 'Rusty Focus of Iron' evolved to generation 26.",
+    "STABLE: 'Titanic Sigil of Judgement' did not mutate this tick.",
+    "STABLE: 'Mundane Bow of Whispers' did not mutate this tick.",
+    "STABLE: 'Broken Rapier of Storms' did not mutate this tick.",
+    "STABLE: 'Blessed Rapier of Frost' did not mutate this tick.",
+    "STABLE: 'Broken Rapier of Storms' did not mutate this tick.",
+    "STABLE: 'Broken Rapier of Storms' did not mutate this tick.",
     "STABLE: 'Phantom Relic of Blood' did not mutate this tick.",
-    "STABLE: 'Rusty Focus of Iron' did not mutate this tick.",
-    "STABLE: 'Rusty Focus of Iron' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Carnage' did not mutate this tick.",
-    "STABLE: 'Nimble Blade of Venom' did not mutate this tick.",
-    "STABLE: 'Phantom Relic of Blood' did not mutate this tick."
+    "MUTATED: 'Dread Relic of the Glacier' evolved to generation 15.",
+    "MUTATED: 'Rusty Focus of Iron' evolved to generation 27.",
+    "MUTATED: 'Titanic Blade of Iron' evolved to generation 34."
   ],
   "created": 35,
   "avg_lifespan": 38.04,

@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-2707
+2732
 
 ## Oldest Item
 Titanic Sigil of Judgement
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.45
+- Average Rarity: 1.55
 - Average Volatility: 0.43
-- Average Durability: 62.41
+- Average Durability: 60.33
 
 ## Dominant Factions
 - STR: 1.1
@@ -24,9 +24,9 @@ Titanic Sigil of Judgement
 - Most Volatile Item: Mundane Focus of Carnage
 
 ## Recent Events
-- STABLE: 'Mundane Focus of Carnage' did not mutate this tick.
-- STABLE: 'Nimble Blade of Venom' did not mutate this tick.
-- STABLE: 'Phantom Relic of Blood' did not mutate this tick.
+- MUTATED: 'Dread Relic of the Glacier' evolved to generation 15.
+- MUTATED: 'Rusty Focus of Iron' evolved to generation 27.
+- MUTATED: 'Titanic Blade of Iron' evolved to generation 34.
 
 ## Lifecycle Stats
 - Items Created: 35
@@ -40,9 +40,9 @@ Titanic Sigil of Judgement
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 2707
-- Successful Mutations: 1103
-- Failure Rate: 59.3%
+- Mutations Attempted: 2732
+- Successful Mutations: 1110
+- Failure Rate: 59.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Titanic Sigil of Judgement
 
 ## Economy
 - Total Currency: 50050
-- Currency per Tick (avg): 18.49
+- Currency per Tick (avg): 18.32
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
