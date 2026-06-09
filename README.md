@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-2632
+2657
 
 ## Oldest Item
-Broken Rapier of Storms
+Titanic Sigil of Judgement
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.68
-- Average Volatility: 0.49
-- Average Durability: 39.69
+- Average Rarity: 1.58
+- Average Volatility: 0.42
+- Average Durability: 59.03
 
 ## Dominant Factions
-- STR: 1.2
-- Order: 0.8
-- Chaos: 0.8
+- STR: 1.1
+- Order: 0.9
+- DEX: 0.6
 
 ## Extremes
-- Most Stable Item: Dread Relic of the Glacier
+- Most Stable Item: Mundane Bow of Whispers
 - Most Volatile Item: Stormcharged Bow of Light
 
 ## Recent Events
-- MUTATED: 'Titanic Blade of Iron' evolved to generation 29.
-- MUTATED: 'Rusty Focus of Iron' evolved to generation 24.
-- MUTATED: 'Dread Relic of the Glacier' evolved to generation 7.
+- MUTATED: 'Gilded Rapier of Whispers' evolved to generation 25.
+- REPLACED WITH: 'Mundane Bow of Whispers' (dfc281b8-35f3-4501-98a7-ac098e3b4c8d)
+- MUTATED: 'Blessed Rapier of Frost' evolved to generation 25.
 
 ## Lifecycle Stats
-- Items Created: 32
-- Items Archived: 22
-- Avg Lifespan (ticks): 36.7
+- Items Created: 34
+- Items Archived: 24
+- Avg Lifespan (ticks): 36.6
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Broken Rapier of Storms
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 2632
-- Successful Mutations: 1070
-- Failure Rate: 59.3%
+- Mutations Attempted: 2657
+- Successful Mutations: 1085
+- Failure Rate: 59.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 5
-- Uncommon: 5
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Broken Rapier of Storms
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 42550
-- Currency per Tick (avg): 16.17
+- Total Currency: 46300
+- Currency per Tick (avg): 17.43
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

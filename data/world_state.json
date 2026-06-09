@@ -1,23 +1,23 @@
 {
-  "currency": 42550,
-  "tick": 2632,
+  "currency": 46300,
+  "tick": 2657,
   "mutation_stats": {
-    "attempted": 2632,
-    "success": 1070
+    "attempted": 2657,
+    "success": 1085
   },
   "recent_events": [
-    "MUTATED: 'Dread Relic of the Glacier' evolved to generation 5.",
-    "MUTATED: 'Dread Relic of the Glacier' evolved to generation 6.",
-    "STABLE: 'Broken Rapier of Storms' did not mutate this tick.",
-    "STABLE: 'Rusty Focus of Iron' did not mutate this tick.",
-    "STABLE: 'Gilded Rapier of Whispers' did not mutate this tick.",
-    "STABLE: 'Broken Rapier of Storms' did not mutate this tick.",
+    "MUTATED: 'Blessed Rapier of Frost' evolved to generation 24.",
+    "MUTATED: 'Dread Relic of the Glacier' evolved to generation 9.",
     "STABLE: 'Blessed Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Titanic Blade of Iron' evolved to generation 29.",
-    "MUTATED: 'Rusty Focus of Iron' evolved to generation 24.",
-    "MUTATED: 'Dread Relic of the Glacier' evolved to generation 7."
+    "STABLE: 'Phantom Relic of Blood' did not mutate this tick.",
+    "MUTATED: 'Mundane Axe of Venom' evolved to generation 46.",
+    "REPLACED WITH: 'Titanic Sigil of Judgement' (64b3c63a-c1e6-4fb2-b1cd-f35b8af2cfe9)",
+    "STABLE: 'Gilded Rapier of Whispers' did not mutate this tick.",
+    "MUTATED: 'Gilded Rapier of Whispers' evolved to generation 25.",
+    "REPLACED WITH: 'Mundane Bow of Whispers' (dfc281b8-35f3-4501-98a7-ac098e3b4c8d)",
+    "MUTATED: 'Blessed Rapier of Frost' evolved to generation 25."
   ],
-  "created": 32,
-  "avg_lifespan": 36.68181818181818,
-  "archived": 22
+  "created": 34,
+  "avg_lifespan": 36.583333333333336,
+  "archived": 24
 }
