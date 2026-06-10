@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-2807
+2832
 
 ## Oldest Item
 Echoing Sigil of Torment
@@ -12,21 +12,21 @@ Echoing Sigil of Torment
 - Active Items: 10
 - Average Rarity: 1.6
 - Average Volatility: 0.4
-- Average Durability: 69.03
+- Average Durability: 62.69
 
 ## Dominant Factions
 - STR: 0.7
 - Chaos: 0.4
-- Restoration: 0.3
+- Order: 0.3
 
 ## Extremes
 - Most Stable Item: Mundane Bow of Whispers
-- Most Volatile Item: Titanic Blade of Iron
+- Most Volatile Item: Unstable Rapier of Gales
 
 ## Recent Events
+- MUTATED: 'Mundane Bow of Whispers' evolved to generation 4.
 - STABLE: 'Broken Rapier of Storms' did not mutate this tick.
-- MUTATED: 'Nimble Blade of Venom' evolved to generation 8.
-- STABLE: 'Blessed Rapier of Frost' did not mutate this tick.
+- MUTATED: 'Dread Relic of the Glacier' evolved to generation 18.
 
 ## Lifecycle Stats
 - Items Created: 37
@@ -40,9 +40,9 @@ Echoing Sigil of Torment
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 2807
-- Successful Mutations: 1144
-- Failure Rate: 59.2%
+- Mutations Attempted: 2832
+- Successful Mutations: 1159
+- Failure Rate: 59.1%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Echoing Sigil of Torment
 
 ## Economy
 - Total Currency: 55050
-- Currency per Tick (avg): 19.61
+- Currency per Tick (avg): 19.44
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

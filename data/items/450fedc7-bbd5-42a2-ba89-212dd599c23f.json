@@ -2,7 +2,7 @@
   "id": "450fedc7-bbd5-42a2-ba89-212dd599c23f",
   "name": "Phantom Relic of Blood",
   "type": "Artifact",
-  "generation": 21,
+  "generation": 23,
   "damage": 14.5,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.3,
   "dex_mod": 1.45,
   "rarity": 1.5,
-  "durability": 29.209999999999997,
-  "max_durability": 104.0,
-  "volatility": 0.4500000000000004,
-  "resilience": 0.71,
+  "durability": 22.04,
+  "max_durability": 111.0,
+  "volatility": 0.4600000000000004,
+  "resilience": 0.76,
   "worth": 100,
   "affinities": {
     "Chaos": 0.1,
