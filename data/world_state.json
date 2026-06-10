@@ -1,21 +1,21 @@
 {
   "currency": 55050,
-  "tick": 2832,
+  "tick": 2857,
   "mutation_stats": {
-    "attempted": 2832,
-    "success": 1159
+    "attempted": 2857,
+    "success": 1173
   },
   "recent_events": [
-    "STABLE: 'Echoing Sigil of Torment' did not mutate this tick.",
-    "MUTATED: 'Phantom Relic of Blood' evolved to generation 22.",
-    "MUTATED: 'Titanic Blade of Iron' evolved to generation 38.",
     "STABLE: 'Mundane Bow of Whispers' did not mutate this tick.",
-    "STABLE: 'Blessed Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Phantom Relic of Blood' evolved to generation 23.",
-    "MUTATED: 'Broken Rapier of Storms' evolved to generation 13.",
-    "MUTATED: 'Mundane Bow of Whispers' evolved to generation 4.",
-    "STABLE: 'Broken Rapier of Storms' did not mutate this tick.",
-    "MUTATED: 'Dread Relic of the Glacier' evolved to generation 18."
+    "STABLE: 'Unstable Rapier of Gales' did not mutate this tick.",
+    "MUTATED: 'Phantom Relic of Blood' evolved to generation 25.",
+    "STABLE: 'Nimble Blade of Venom' did not mutate this tick.",
+    "MUTATED: 'Nimble Blade of Venom' evolved to generation 12.",
+    "MUTATED: 'Unstable Rapier of Gales' evolved to generation 9.",
+    "MUTATED: 'Dread Relic of the Glacier' evolved to generation 20.",
+    "STABLE: 'Titanic Sigil of Judgement' did not mutate this tick.",
+    "MUTATED: 'Titanic Sigil of Judgement' evolved to generation 7.",
+    "STABLE: 'Dread Relic of the Glacier' did not mutate this tick."
   ],
   "created": 37,
   "avg_lifespan": 38.77777777777778,
