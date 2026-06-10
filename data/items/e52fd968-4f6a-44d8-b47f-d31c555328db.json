@@ -1,0 +1,26 @@
+{
+  "id": "e52fd968-4f6a-44d8-b47f-d31c555328db",
+  "name": "Unstable Rapier of Gales",
+  "type": "Generic",
+  "generation": 3,
+  "damage": 25.0,
+  "damage_type": [
+    "Physical",
+    "Chaos",
+    "Piercing",
+    "Sonic"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.28,
+  "rarity": 1,
+  "durability": 86.0,
+  "max_durability": 100.0,
+  "volatility": 0.55,
+  "resilience": 0.5,
+  "worth": 100,
+  "affinities": {
+    "DEX": 0.1
+  }
+}
