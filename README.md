@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-2757
+2782
 
 ## Oldest Item
-Nimble Blade of Venom
+Mundane Bow of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.45
-- Average Volatility: 0.41
-- Average Durability: 67.54
+- Average Rarity: 1.55
+- Average Volatility: 0.42
+- Average Durability: 64.12
 
 ## Dominant Factions
 - STR: 0.7
@@ -24,9 +24,9 @@ Nimble Blade of Venom
 - Most Volatile Item: Titanic Blade of Iron
 
 ## Recent Events
-- STABLE: 'Broken Rapier of Storms' did not mutate this tick.
-- STABLE: 'Nimble Blade of Venom' did not mutate this tick.
-- MUTATED: 'Unstable Rapier of Gales' evolved to generation 3.
+- MUTATED: 'Blessed Rapier of Frost' evolved to generation 29.
+- MUTATED: 'Broken Rapier of Storms' evolved to generation 10.
+- STABLE: 'Phantom Relic of Blood' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 36
@@ -40,9 +40,9 @@ Nimble Blade of Venom
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 2757
-- Successful Mutations: 1123
-- Failure Rate: 59.3%
+- Mutations Attempted: 2782
+- Successful Mutations: 1134
+- Failure Rate: 59.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Nimble Blade of Venom
 
 ## Economy
 - Total Currency: 53300
-- Currency per Tick (avg): 19.33
+- Currency per Tick (avg): 19.16
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
