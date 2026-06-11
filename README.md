@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-2957
+2982
 
 ## Oldest Item
-Nimble Relic of Whispers
+Singed Core of Carnage
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.55
-- Average Volatility: 0.42
-- Average Durability: 57.19
+- Average Rarity: 1.4
+- Average Volatility: 0.4
+- Average Durability: 63.5
 
 ## Dominant Factions
-- STR: 0.8
-- Chaos: 0.5
-- Order: 0.5
+- STR: 0.5
+- Order: 0.4
+- Chaos: 0.4
 
 ## Extremes
 - Most Stable Item: Nimble Relic of Whispers
-- Most Volatile Item: Phantom Relic of Blood
+- Most Volatile Item: Titanic Blade of Iron
 
 ## Recent Events
 - STABLE: 'Mundane Bow of Whispers' did not mutate this tick.
-- STABLE: 'Mundane Bow of Whispers' did not mutate this tick.
-- STABLE: 'Nimble Blade of Venom' did not mutate this tick.
+- STABLE: 'Titanic Sigil of Judgement' did not mutate this tick.
+- MUTATED: 'Broken Rapier of Storms' evolved to generation 24.
 
 ## Lifecycle Stats
-- Items Created: 38
-- Items Archived: 28
-- Avg Lifespan (ticks): 38.6
+- Items Created: 39
+- Items Archived: 29
+- Avg Lifespan (ticks): 38.3
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Nimble Relic of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 2957
-- Successful Mutations: 1207
-- Failure Rate: 59.2%
+- Mutations Attempted: 2982
+- Successful Mutations: 1219
+- Failure Rate: 59.1%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 8
-- Uncommon: 2
+- Common: 9
+- Uncommon: 1
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Nimble Relic of Whispers
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 56900
-- Currency per Tick (avg): 19.24
+- Total Currency: 58500
+- Currency per Tick (avg): 19.62
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
