@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-3182
+3207
 
 ## Oldest Item
-Heavy Axe of Ash
+Nimble Relic of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.55
-- Average Volatility: 0.43
-- Average Durability: 57.5
+- Average Volatility: 0.45
+- Average Durability: 54.32
 
 ## Dominant Factions
+- Chaos: 0.6
 - Stability: 0.5
-- Chaos: 0.5
-- DEX: 0.3
+- Order: 0.3
 
 ## Extremes
 - Most Stable Item: Heavy Axe of Ash
 - Most Volatile Item: Broken Rapier of Storms
 
 ## Recent Events
-- STABLE: 'Titanic Sigil of Judgement' did not mutate this tick.
-- STABLE: 'Echoing Sigil of Torment' did not mutate this tick.
-- MUTATED: 'Searing Blade of Venom' evolved to generation 9.
+- STABLE: 'Nimble Blade of Venom' did not mutate this tick.
+- STABLE: 'Heavy Axe of Ash' did not mutate this tick.
+- STABLE: 'Heavy Axe of Ash' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 41
@@ -40,9 +40,9 @@ Heavy Axe of Ash
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 3182
-- Successful Mutations: 1312
-- Failure Rate: 58.8%
+- Mutations Attempted: 3207
+- Successful Mutations: 1323
+- Failure Rate: 58.7%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Heavy Axe of Ash
 
 ## Economy
 - Total Currency: 63350
-- Currency per Tick (avg): 19.91
+- Currency per Tick (avg): 19.75
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

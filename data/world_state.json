@@ -1,21 +1,21 @@
 {
   "currency": 63350,
-  "tick": 3182,
+  "tick": 3207,
   "mutation_stats": {
-    "attempted": 3182,
-    "success": 1312
+    "attempted": 3207,
+    "success": 1323
   },
   "recent_events": [
+    "MUTATED: 'Searing Blade of Venom' evolved to generation 12.",
     "STABLE: 'Singed Core of Carnage' did not mutate this tick.",
-    "MUTATED: 'Searing Blade of Venom' evolved to generation 7.",
+    "STABLE: 'Unstable Rapier of Gales' did not mutate this tick.",
+    "STABLE: 'Nimble Relic of Whispers' did not mutate this tick.",
+    "STABLE: 'Singed Core of Carnage' did not mutate this tick.",
+    "MUTATED: 'Nimble Blade of Venom' evolved to generation 23.",
+    "MUTATED: 'Nimble Relic of Whispers' evolved to generation 4.",
+    "STABLE: 'Nimble Blade of Venom' did not mutate this tick.",
     "STABLE: 'Heavy Axe of Ash' did not mutate this tick.",
-    "STABLE: 'Broken Rapier of Storms' did not mutate this tick.",
-    "MUTATED: 'Searing Blade of Venom' evolved to generation 8.",
-    "MUTATED: 'Nimble Blade of Venom' evolved to generation 22.",
-    "MUTATED: 'Echoing Sigil of Torment' evolved to generation 10.",
-    "STABLE: 'Titanic Sigil of Judgement' did not mutate this tick.",
-    "STABLE: 'Echoing Sigil of Torment' did not mutate this tick.",
-    "MUTATED: 'Searing Blade of Venom' evolved to generation 9."
+    "STABLE: 'Heavy Axe of Ash' did not mutate this tick."
   ],
   "created": 41,
   "avg_lifespan": 38.87096774193548,
