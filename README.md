@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-3107
+3132
 
 ## Oldest Item
 Nimble Relic of Whispers
@@ -12,21 +12,21 @@ Nimble Relic of Whispers
 - Active Items: 10
 - Average Rarity: 1.5
 - Average Volatility: 0.45
-- Average Durability: 54.33
+- Average Durability: 52.46
 
 ## Dominant Factions
 - Chaos: 0.7
-- Stability: 0.3
-- STR: 0.3
+- Stability: 0.4
+- DEX: 0.3
 
 ## Extremes
 - Most Stable Item: Nimble Relic of Whispers
-- Most Volatile Item: Mundane Bow of Whispers
+- Most Volatile Item: Nimble Blade of Venom
 
 ## Recent Events
-- MUTATED: 'Nimble Blade of Venom' evolved to generation 18.
-- MUTATED: 'Titanic Sigil of Judgement' evolved to generation 11.
-- STABLE: 'Echoing Sigil of Torment' did not mutate this tick.
+- MUTATED: 'Dread Relic of the Glacier' evolved to generation 37.
+- MUTATED: 'Mundane Bow of Whispers' evolved to generation 19.
+- MUTATED: 'Echoing Sigil of Torment' evolved to generation 8.
 
 ## Lifecycle Stats
 - Items Created: 40
@@ -40,9 +40,9 @@ Nimble Relic of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 3107
-- Successful Mutations: 1276
-- Failure Rate: 58.9%
+- Mutations Attempted: 3132
+- Successful Mutations: 1291
+- Failure Rate: 58.8%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Nimble Relic of Whispers
 
 ## Economy
 - Total Currency: 61300
-- Currency per Tick (avg): 19.73
+- Currency per Tick (avg): 19.57
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

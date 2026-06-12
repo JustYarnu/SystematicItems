@@ -1,21 +1,21 @@
 {
   "currency": 61300,
-  "tick": 3107,
+  "tick": 3132,
   "mutation_stats": {
-    "attempted": 3107,
-    "success": 1276
+    "attempted": 3132,
+    "success": 1291
   },
   "recent_events": [
-    "STABLE: 'Nimble Blade of Venom' did not mutate this tick.",
-    "MUTATED: 'Broken Rapier of Storms' evolved to generation 31.",
-    "STABLE: 'Nimble Blade of Venom' did not mutate this tick.",
-    "STABLE: 'Nimble Blade of Venom' did not mutate this tick.",
-    "MUTATED: 'Searing Blade of Venom' evolved to generation 3.",
-    "STABLE: 'Echoing Sigil of Torment' did not mutate this tick.",
-    "MUTATED: 'Mundane Bow of Whispers' evolved to generation 15.",
-    "MUTATED: 'Nimble Blade of Venom' evolved to generation 18.",
-    "MUTATED: 'Titanic Sigil of Judgement' evolved to generation 11.",
-    "STABLE: 'Echoing Sigil of Torment' did not mutate this tick."
+    "STABLE: 'Nimble Relic of Whispers' did not mutate this tick.",
+    "MUTATED: 'Searing Blade of Venom' evolved to generation 5.",
+    "STABLE: 'Broken Rapier of Storms' did not mutate this tick.",
+    "STABLE: 'Titanic Sigil of Judgement' did not mutate this tick.",
+    "MUTATED: 'Broken Rapier of Storms' evolved to generation 33.",
+    "MUTATED: 'Broken Rapier of Storms' evolved to generation 34.",
+    "MUTATED: 'Searing Blade of Venom' evolved to generation 6.",
+    "MUTATED: 'Dread Relic of the Glacier' evolved to generation 37.",
+    "MUTATED: 'Mundane Bow of Whispers' evolved to generation 19.",
+    "MUTATED: 'Echoing Sigil of Torment' evolved to generation 8."
   ],
   "created": 40,
   "avg_lifespan": 38.86666666666667,

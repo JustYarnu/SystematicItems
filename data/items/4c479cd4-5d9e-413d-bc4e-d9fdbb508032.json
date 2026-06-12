@@ -2,7 +2,7 @@
   "id": "4c479cd4-5d9e-413d-bc4e-d9fdbb508032",
   "name": "Echoing Sigil of Torment",
   "type": "Focus",
-  "generation": 6,
+  "generation": 8,
   "damage": 25.0,
   "damage_type": [
     "Physical",
@@ -15,12 +15,13 @@
   "str_mod": 1.0,
   "dex_mod": 1.2000000000000002,
   "rarity": 1.5,
-  "durability": 69.0,
-  "max_durability": 102.0,
-  "volatility": 0.36000000000000015,
-  "resilience": 0.5,
+  "durability": 61.65,
+  "max_durability": 107.0,
+  "volatility": 0.38000000000000017,
+  "resilience": 0.55,
   "worth": 100,
   "affinities": {
-    "Chaos": 0.1
+    "Chaos": 0.1,
+    "DEX": 0.1
   }
 }
