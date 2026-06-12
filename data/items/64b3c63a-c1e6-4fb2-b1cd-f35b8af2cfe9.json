@@ -2,8 +2,8 @@
   "id": "64b3c63a-c1e6-4fb2-b1cd-f35b8af2cfe9",
   "name": "Titanic Sigil of Judgement",
   "type": "Focus",
-  "generation": 8,
-  "damage": 17.5,
+  "generation": 10,
+  "damage": 22.5,
   "damage_type": [
     "Physical",
     "Magic",
@@ -12,12 +12,12 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.6,
-  "dex_mod": 1.1500000000000001,
+  "dex_mod": 1.05,
   "rarity": 1.5,
-  "durability": 109.57406251802888,
+  "durability": 102.24406251802888,
   "max_durability": 139.6240625180289,
-  "volatility": 0.4000000000000002,
-  "resilience": 0.55,
+  "volatility": 0.3700000000000002,
+  "resilience": 0.63,
   "worth": 100,
   "affinities": {}
 }

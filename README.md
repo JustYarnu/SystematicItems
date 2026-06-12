@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-3032
+3057
 
 ## Oldest Item
-Singed Core of Carnage
+Nimble Relic of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.4
-- Average Volatility: 0.42
-- Average Durability: 56.51
+- Average Rarity: 1.5
+- Average Volatility: 0.44
+- Average Durability: 51.51
 
 ## Dominant Factions
-- STR: 0.6
+- STR: 0.7
+- Chaos: 0.5
 - Order: 0.5
-- Chaos: 0.4
 
 ## Extremes
 - Most Stable Item: Nimble Relic of Whispers
 - Most Volatile Item: Titanic Blade of Iron
 
 ## Recent Events
-- STABLE: 'Mundane Bow of Whispers' did not mutate this tick.
-- STABLE: 'Unstable Rapier of Gales' did not mutate this tick.
-- STABLE: 'Mundane Bow of Whispers' did not mutate this tick.
+- MUTATED: 'Titanic Blade of Iron' evolved to generation 52.
+- MUTATED: 'Dread Relic of the Glacier' evolved to generation 34.
+- MUTATED: 'Broken Rapier of Storms' evolved to generation 28.
 
 ## Lifecycle Stats
 - Items Created: 39
@@ -40,15 +40,15 @@ Singed Core of Carnage
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 3032
-- Successful Mutations: 1242
-- Failure Rate: 59.0%
+- Mutations Attempted: 3057
+- Successful Mutations: 1255
+- Failure Rate: 58.9%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 9
-- Uncommon: 1
+- Common: 8
+- Uncommon: 2
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Singed Core of Carnage
 
 ## Economy
 - Total Currency: 58500
-- Currency per Tick (avg): 19.29
+- Currency per Tick (avg): 19.14
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

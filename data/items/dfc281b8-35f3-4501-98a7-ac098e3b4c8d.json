@@ -2,7 +2,7 @@
   "id": "dfc281b8-35f3-4501-98a7-ac098e3b4c8d",
   "name": "Mundane Bow of Whispers",
   "type": "Ranged",
-  "generation": 11,
+  "generation": 13,
   "damage": 21.5,
   "damage_type": [
     "Physical",
@@ -13,11 +13,13 @@
   "crit_rate": 0.01,
   "str_mod": 1.1,
   "dex_mod": 1.17,
-  "rarity": 1,
-  "durability": 53.56999999999999,
+  "rarity": 2,
+  "durability": 48.56999999999999,
   "max_durability": 102.0,
-  "volatility": 0.49000000000000027,
-  "resilience": 0.6499999999999999,
+  "volatility": 0.5000000000000002,
+  "resilience": 0.7499999999999999,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Chaos": 0.1
+  }
 }
