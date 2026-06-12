@@ -2,7 +2,7 @@
   "id": "e52fd968-4f6a-44d8-b47f-d31c555328db",
   "name": "Unstable Rapier of Gales",
   "type": "Generic",
-  "generation": 21,
+  "generation": 22,
   "damage": 33.0,
   "damage_type": [
     "Physical",
@@ -15,10 +15,10 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.4800000000000002,
   "rarity": 2,
-  "durability": 20.350000000000005,
-  "max_durability": 101.0,
+  "durability": 17.240000000000006,
+  "max_durability": 106.0,
   "volatility": 0.52,
-  "resilience": 0.5800000000000001,
+  "resilience": 0.6300000000000001,
   "worth": 100,
   "affinities": {
     "DEX": 0.1,

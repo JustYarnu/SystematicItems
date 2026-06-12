@@ -1,23 +1,23 @@
 {
-  "currency": 58500,
-  "tick": 3082,
+  "currency": 61300,
+  "tick": 3107,
   "mutation_stats": {
-    "attempted": 3082,
-    "success": 1264
+    "attempted": 3107,
+    "success": 1276
   },
   "recent_events": [
-    "STABLE: 'Mundane Bow of Whispers' did not mutate this tick.",
-    "STABLE: 'Nimble Relic of Whispers' did not mutate this tick.",
-    "STABLE: 'Titanic Sigil of Judgement' did not mutate this tick.",
-    "STABLE: 'Unstable Rapier of Gales' did not mutate this tick.",
-    "MUTATED: 'Singed Core of Carnage' evolved to generation 5.",
-    "MUTATED: 'Broken Rapier of Storms' evolved to generation 29.",
-    "STABLE: 'Titanic Blade of Iron' did not mutate this tick.",
-    "STABLE: 'Singed Core of Carnage' did not mutate this tick.",
-    "STABLE: 'Nimble Relic of Whispers' did not mutate this tick.",
-    "STABLE: 'Broken Rapier of Storms' did not mutate this tick."
+    "STABLE: 'Nimble Blade of Venom' did not mutate this tick.",
+    "MUTATED: 'Broken Rapier of Storms' evolved to generation 31.",
+    "STABLE: 'Nimble Blade of Venom' did not mutate this tick.",
+    "STABLE: 'Nimble Blade of Venom' did not mutate this tick.",
+    "MUTATED: 'Searing Blade of Venom' evolved to generation 3.",
+    "STABLE: 'Echoing Sigil of Torment' did not mutate this tick.",
+    "MUTATED: 'Mundane Bow of Whispers' evolved to generation 15.",
+    "MUTATED: 'Nimble Blade of Venom' evolved to generation 18.",
+    "MUTATED: 'Titanic Sigil of Judgement' evolved to generation 11.",
+    "STABLE: 'Echoing Sigil of Torment' did not mutate this tick."
   ],
-  "created": 39,
-  "avg_lifespan": 38.3448275862069,
-  "archived": 29
+  "created": 40,
+  "avg_lifespan": 38.86666666666667,
+  "archived": 30
 }
