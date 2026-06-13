@@ -1,21 +1,21 @@
 {
   "currency": 65500,
-  "tick": 3382,
+  "tick": 3407,
   "mutation_stats": {
-    "attempted": 3382,
-    "success": 1407
+    "attempted": 3407,
+    "success": 1420
   },
   "recent_events": [
-    "STABLE: 'Echoing Sigil of Torment' did not mutate this tick.",
-    "MUTATED: 'Shattered Focus of Eternity' evolved to generation 2.",
-    "STABLE: 'Singed Core of Carnage' did not mutate this tick.",
-    "MUTATED: 'Singed Core of Carnage' evolved to generation 17.",
+    "MUTATED: 'Titanic Sigil of Judgement' evolved to generation 22.",
     "STABLE: 'Nimble Blade of Venom' did not mutate this tick.",
-    "MUTATED: 'Singed Core of Carnage' evolved to generation 18.",
-    "STABLE: 'Titanic Sigil of Judgement' did not mutate this tick.",
-    "STABLE: 'Broken Rapier of Storms' did not mutate this tick.",
-    "MUTATED: 'Nimble Relic of Whispers' evolved to generation 13.",
-    "MUTATED: 'Singed Core of Carnage' evolved to generation 19."
+    "STABLE: 'Shattered Focus of Eternity' did not mutate this tick.",
+    "MUTATED: 'Shattered Focus of Eternity' evolved to generation 3.",
+    "STABLE: 'Heavy Axe of Ash' did not mutate this tick.",
+    "MUTATED: 'Shattered Focus of Eternity' evolved to generation 4.",
+    "STABLE: 'Nimble Relic of Whispers' did not mutate this tick.",
+    "STABLE: 'Nimble Blade of Venom' did not mutate this tick.",
+    "MUTATED: 'Titanic Sigil of Judgement' evolved to generation 23.",
+    "MUTATED: 'Titanic Sigil of Judgement' evolved to generation 24."
   ],
   "created": 42,
   "avg_lifespan": 38.9375,

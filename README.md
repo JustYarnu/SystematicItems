@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-3382
+3407
 
 ## Oldest Item
 Shattered Focus of Eternity
@@ -11,22 +11,22 @@ Shattered Focus of Eternity
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.55
-- Average Volatility: 0.46
-- Average Durability: 49.62
+- Average Volatility: 0.47
+- Average Durability: 45.73
 
 ## Dominant Factions
+- Stability: 0.7
 - DEX: 0.6
-- Stability: 0.6
 - Chaos: 0.6
 
 ## Extremes
-- Most Stable Item: Heavy Axe of Ash
+- Most Stable Item: Shattered Focus of Eternity
 - Most Volatile Item: Titanic Sigil of Judgement
 
 ## Recent Events
-- STABLE: 'Broken Rapier of Storms' did not mutate this tick.
-- MUTATED: 'Nimble Relic of Whispers' evolved to generation 13.
-- MUTATED: 'Singed Core of Carnage' evolved to generation 19.
+- STABLE: 'Nimble Blade of Venom' did not mutate this tick.
+- MUTATED: 'Titanic Sigil of Judgement' evolved to generation 23.
+- MUTATED: 'Titanic Sigil of Judgement' evolved to generation 24.
 
 ## Lifecycle Stats
 - Items Created: 42
@@ -40,9 +40,9 @@ Shattered Focus of Eternity
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 3382
-- Successful Mutations: 1407
-- Failure Rate: 58.4%
+- Mutations Attempted: 3407
+- Successful Mutations: 1420
+- Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Shattered Focus of Eternity
 
 ## Economy
 - Total Currency: 65500
-- Currency per Tick (avg): 19.37
+- Currency per Tick (avg): 19.23
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
