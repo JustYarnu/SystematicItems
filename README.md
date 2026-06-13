@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-3357
+3382
 
 ## Oldest Item
-Heavy Axe of Ash
+Shattered Focus of Eternity
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.55
-- Average Volatility: 0.5
-- Average Durability: 45.51
+- Average Volatility: 0.46
+- Average Durability: 49.62
 
 ## Dominant Factions
-- DEX: 0.7
-- Chaos: 0.7
-- Stability: 0.5
+- DEX: 0.6
+- Stability: 0.6
+- Chaos: 0.6
 
 ## Extremes
 - Most Stable Item: Heavy Axe of Ash
-- Most Volatile Item: Unstable Rapier of Gales
+- Most Volatile Item: Titanic Sigil of Judgement
 
 ## Recent Events
-- MUTATED: 'Nimble Blade of Venom' evolved to generation 27.
-- STABLE: 'Mundane Bow of Whispers' did not mutate this tick.
-- STABLE: 'Mundane Bow of Whispers' did not mutate this tick.
+- STABLE: 'Broken Rapier of Storms' did not mutate this tick.
+- MUTATED: 'Nimble Relic of Whispers' evolved to generation 13.
+- MUTATED: 'Singed Core of Carnage' evolved to generation 19.
 
 ## Lifecycle Stats
-- Items Created: 41
-- Items Archived: 31
+- Items Created: 42
+- Items Archived: 32
 - Avg Lifespan (ticks): 38.9
 
 ### Distribution chart
@@ -40,9 +40,9 @@ Heavy Axe of Ash
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 3357
-- Successful Mutations: 1394
-- Failure Rate: 58.5%
+- Mutations Attempted: 3382
+- Successful Mutations: 1407
+- Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -56,8 +56,8 @@ Heavy Axe of Ash
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 63350
-- Currency per Tick (avg): 18.87
+- Total Currency: 65500
+- Currency per Tick (avg): 19.37
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

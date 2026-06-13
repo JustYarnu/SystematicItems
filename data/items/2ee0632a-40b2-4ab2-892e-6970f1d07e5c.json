@@ -2,7 +2,7 @@
   "id": "2ee0632a-40b2-4ab2-892e-6970f1d07e5c",
   "name": "Broken Rapier of Storms",
   "type": "Generic",
-  "generation": 42,
+  "generation": 43,
   "damage": 16.5,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.1,
   "dex_mod": 1.3000000000000003,
   "rarity": 1,
-  "durability": 46.99,
+  "durability": 42.15,
   "max_durability": 73.0,
-  "volatility": 0.49000000000000005,
+  "volatility": 0.4600000000000001,
   "resilience": 0.58,
   "worth": 100,
   "affinities": {

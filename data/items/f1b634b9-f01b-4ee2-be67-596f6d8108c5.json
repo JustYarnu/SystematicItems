@@ -1,0 +1,22 @@
+{
+  "id": "f1b634b9-f01b-4ee2-be67-596f6d8108c5",
+  "name": "Shattered Focus of Eternity",
+  "type": "Focus",
+  "generation": 2,
+  "damage": 18.0,
+  "damage_type": [
+    "Physical",
+    "Magic"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.0,
+  "rarity": 3.0,
+  "durability": 73.0,
+  "max_durability": 135.0,
+  "volatility": 0.35000000000000003,
+  "resilience": 0.5,
+  "worth": 100,
+  "affinities": {}
+}
