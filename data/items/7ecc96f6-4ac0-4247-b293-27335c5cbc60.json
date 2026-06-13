@@ -2,7 +2,7 @@
   "id": "7ecc96f6-4ac0-4247-b293-27335c5cbc60",
   "name": "Heavy Axe of Ash",
   "type": "HeavyWeapon",
-  "generation": 7,
+  "generation": 8,
   "damage": 9.5,
   "damage_type": [
     "Physical",
@@ -13,7 +13,7 @@
   "str_mod": 1.45,
   "dex_mod": 1.0999999999999999,
   "rarity": 1,
-  "durability": 69.82,
+  "durability": 82.82,
   "max_durability": 102.0,
   "volatility": 0.20000000000000012,
   "resilience": 0.58,

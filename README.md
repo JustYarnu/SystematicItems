@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-3232
+3257
 
 ## Oldest Item
-Nimble Relic of Whispers
+Heavy Axe of Ash
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.55
 - Average Volatility: 0.46
-- Average Durability: 53.6
+- Average Durability: 55.66
 
 ## Dominant Factions
 - Chaos: 0.6
@@ -21,12 +21,12 @@ Nimble Relic of Whispers
 
 ## Extremes
 - Most Stable Item: Heavy Axe of Ash
-- Most Volatile Item: Searing Blade of Venom
+- Most Volatile Item: Unstable Rapier of Gales
 
 ## Recent Events
-- MUTATED: 'Broken Rapier of Storms' evolved to generation 35.
-- STABLE: 'Searing Blade of Venom' did not mutate this tick.
-- STABLE: 'Nimble Blade of Venom' did not mutate this tick.
+- STABLE: 'Unstable Rapier of Gales' did not mutate this tick.
+- MUTATED: 'Unstable Rapier of Gales' evolved to generation 31.
+- MUTATED: 'Mundane Bow of Whispers' evolved to generation 28.
 
 ## Lifecycle Stats
 - Items Created: 41
@@ -40,9 +40,9 @@ Nimble Relic of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 3232
-- Successful Mutations: 1334
-- Failure Rate: 58.7%
+- Mutations Attempted: 3257
+- Successful Mutations: 1348
+- Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Nimble Relic of Whispers
 
 ## Economy
 - Total Currency: 63350
-- Currency per Tick (avg): 19.6
+- Currency per Tick (avg): 19.45
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

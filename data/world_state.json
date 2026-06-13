@@ -1,21 +1,21 @@
 {
   "currency": 63350,
-  "tick": 3232,
+  "tick": 3257,
   "mutation_stats": {
-    "attempted": 3232,
-    "success": 1334
+    "attempted": 3257,
+    "success": 1348
   },
   "recent_events": [
-    "MUTATED: 'Heavy Axe of Ash' evolved to generation 5.",
-    "STABLE: 'Broken Rapier of Storms' did not mutate this tick.",
-    "STABLE: 'Singed Core of Carnage' did not mutate this tick.",
-    "MUTATED: 'Heavy Axe of Ash' evolved to generation 6.",
-    "MUTATED: 'Heavy Axe of Ash' evolved to generation 7.",
-    "MUTATED: 'Titanic Sigil of Judgement' evolved to generation 12.",
-    "MUTATED: 'Unstable Rapier of Gales' evolved to generation 29.",
-    "MUTATED: 'Broken Rapier of Storms' evolved to generation 35.",
+    "MUTATED: 'Titanic Sigil of Judgement' evolved to generation 13.",
+    "MUTATED: 'Broken Rapier of Storms' evolved to generation 36.",
     "STABLE: 'Searing Blade of Venom' did not mutate this tick.",
-    "STABLE: 'Nimble Blade of Venom' did not mutate this tick."
+    "MUTATED: 'Broken Rapier of Storms' evolved to generation 37.",
+    "STABLE: 'Singed Core of Carnage' did not mutate this tick.",
+    "MUTATED: 'Broken Rapier of Storms' evolved to generation 38.",
+    "STABLE: 'Searing Blade of Venom' did not mutate this tick.",
+    "STABLE: 'Unstable Rapier of Gales' did not mutate this tick.",
+    "MUTATED: 'Unstable Rapier of Gales' evolved to generation 31.",
+    "MUTATED: 'Mundane Bow of Whispers' evolved to generation 28."
   ],
   "created": 41,
   "avg_lifespan": 38.87096774193548,
