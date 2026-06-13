@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-3257
+3282
 
 ## Oldest Item
 Heavy Axe of Ash
@@ -12,21 +12,21 @@ Heavy Axe of Ash
 - Active Items: 10
 - Average Rarity: 1.55
 - Average Volatility: 0.46
-- Average Durability: 55.66
+- Average Durability: 53.07
 
 ## Dominant Factions
 - Chaos: 0.6
 - Stability: 0.5
-- Order: 0.3
+- DEX: 0.5
 
 ## Extremes
 - Most Stable Item: Heavy Axe of Ash
 - Most Volatile Item: Unstable Rapier of Gales
 
 ## Recent Events
-- STABLE: 'Unstable Rapier of Gales' did not mutate this tick.
-- MUTATED: 'Unstable Rapier of Gales' evolved to generation 31.
-- MUTATED: 'Mundane Bow of Whispers' evolved to generation 28.
+- MUTATED: 'Unstable Rapier of Gales' evolved to generation 34.
+- STABLE: 'Nimble Blade of Venom' did not mutate this tick.
+- STABLE: 'Titanic Sigil of Judgement' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 41
@@ -40,8 +40,8 @@ Heavy Axe of Ash
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 3257
-- Successful Mutations: 1348
+- Mutations Attempted: 3282
+- Successful Mutations: 1358
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Heavy Axe of Ash
 
 ## Economy
 - Total Currency: 63350
-- Currency per Tick (avg): 19.45
+- Currency per Tick (avg): 19.3
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
