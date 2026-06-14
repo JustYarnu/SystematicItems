@@ -878,5 +878,61 @@
       "Chaos": 0.1,
       "STR": 0.1
     }
+  },
+  {
+    "id": "64b3c63a-c1e6-4fb2-b1cd-f35b8af2cfe9",
+    "name": "Titanic Sigil of Judgement",
+    "type": "Focus",
+    "generation": 37,
+    "damage": 34.0,
+    "damage_type": [
+      "Physical",
+      "Magic",
+      "Holy"
+    ],
+    "crit_damage": 3.4754887502163467,
+    "crit_rate": 0.01,
+    "str_mod": 1.7000000000000002,
+    "dex_mod": 1.1500000000000001,
+    "rarity": 1.5,
+    "durability": -1.0,
+    "max_durability": 131.6240625180289,
+    "volatility": 0.5792481250360578,
+    "resilience": 0.7792481250360578,
+    "worth": 1950,
+    "affinities": {
+      "Restoration": 0.1,
+      "STR": 0.1,
+      "Chaos": 0.1,
+      "Stability": 0.2,
+      "Order": 0.1
+    }
+  },
+  {
+    "id": "dfc281b8-35f3-4501-98a7-ac098e3b4c8d",
+    "name": "Mundane Bow of Whispers",
+    "type": "Ranged",
+    "generation": 42,
+    "damage": 52.5,
+    "damage_type": [
+      "Physical",
+      "Piercing",
+      "Void"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.5000000000000004,
+    "dex_mod": 0.7699999999999999,
+    "rarity": 4,
+    "durability": -0.07210499798077707,
+    "max_durability": 106.0,
+    "volatility": 0.4500000000000003,
+    "resilience": 0.85,
+    "worth": 2200,
+    "affinities": {
+      "Chaos": 0.1,
+      "Scarceness": 0.1,
+      "STR": 0.1
+    }
   }
 ]

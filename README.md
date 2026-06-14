@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-3532
+3557
 
 ## Oldest Item
-Shattered Focus of Eternity
+Singed Core of Blood
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.95
-- Average Volatility: 0.52
-- Average Durability: 30.82
+- Average Rarity: 1.6
+- Average Volatility: 0.46
+- Average Durability: 46.5
 
 ## Dominant Factions
 - DEX: 1.0
-- Stability: 1.0
-- Order: 0.6
+- Stability: 0.8
+- Order: 0.8
 
 ## Extremes
-- Most Stable Item: Mundane Bow of Whispers
-- Most Volatile Item: Titanic Sigil of Judgement
+- Most Stable Item: Singed Core of Blood
+- Most Volatile Item: Echoing Sigil of Torment
 
 ## Recent Events
-- MUTATED: 'Mundane Bow of Whispers' evolved to generation 42.
-- MUTATED: 'Titanic Sigil of Judgement' evolved to generation 36.
-- STABLE: 'Shattered Focus of Eternity' did not mutate this tick.
+- MUTATED: 'Shattered Focus of Eternity' evolved to generation 11.
+- STABLE: 'Heavy Axe of Ash' did not mutate this tick.
+- STABLE: 'Singed Core of Blood' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 42
-- Items Archived: 32
-- Avg Lifespan (ticks): 38.9
+- Items Created: 44
+- Items Archived: 34
+- Avg Lifespan (ticks): 39.0
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Shattered Focus of Eternity
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 3532
-- Successful Mutations: 1487
-- Failure Rate: 57.9%
+- Mutations Attempted: 3557
+- Successful Mutations: 1501
+- Failure Rate: 57.8%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 5
-- Uncommon: 5
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Shattered Focus of Eternity
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 65500
-- Currency per Tick (avg): 18.54
+- Total Currency: 69650
+- Currency per Tick (avg): 19.58
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
