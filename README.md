@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-3582
+3607
 
 ## Oldest Item
 Searing Spear of Judgement
@@ -11,12 +11,12 @@ Searing Spear of Judgement
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.6
-- Average Volatility: 0.37
-- Average Durability: 72.99
+- Average Volatility: 0.38
+- Average Durability: 69.64
 
 ## Dominant Factions
-- Stability: 0.4
-- Order: 0.4
+- Stability: 0.6
+- Order: 0.5
 - DEX: 0.4
 
 ## Extremes
@@ -24,9 +24,9 @@ Searing Spear of Judgement
 - Most Volatile Item: Searing Blade of Venom
 
 ## Recent Events
-- MUTATED: 'Singed Core of Carnage' evolved to generation 29.
-- MUTATED: 'Nimble Relic of Whispers' evolved to generation 24.
-- STABLE: 'Searing Spear of Judgement' did not mutate this tick.
+- MUTATED: 'Nimble Relic of Whispers' evolved to generation 28.
+- MUTATED: 'Mundane Sigil of the Glacier' evolved to generation 2.
+- MUTATED: 'Searing Blade of Venom' evolved to generation 29.
 
 ## Lifecycle Stats
 - Items Created: 47
@@ -40,8 +40,8 @@ Searing Spear of Judgement
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 3582
-- Successful Mutations: 1511
+- Mutations Attempted: 3607
+- Successful Mutations: 1521
 - Failure Rate: 57.8%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Searing Spear of Judgement
 
 ## Economy
 - Total Currency: 75850
-- Currency per Tick (avg): 21.18
+- Currency per Tick (avg): 21.03
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
