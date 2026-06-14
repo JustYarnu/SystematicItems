@@ -2,7 +2,7 @@
   "id": "2108dd3b-5e3c-41d2-bab3-574fa3bd0885",
   "name": "Nimble Blade of Venom",
   "type": "Sword",
-  "generation": 31,
+  "generation": 33,
   "damage": 37.5,
   "damage_type": [
     "Physical",
@@ -14,14 +14,15 @@
   "str_mod": 1.5500000000000005,
   "dex_mod": 1.2,
   "rarity": 1,
-  "durability": 8.780000000000003,
+  "durability": 2.1800000000000033,
   "max_durability": 92.0,
-  "volatility": 0.55,
+  "volatility": 0.52,
   "resilience": 0.7,
   "worth": 100,
   "affinities": {
     "Stability": 0.1,
     "Chaos": 0.1,
-    "Order": 0.1
+    "Order": 0.1,
+    "DEX": 0.1
   }
 }
