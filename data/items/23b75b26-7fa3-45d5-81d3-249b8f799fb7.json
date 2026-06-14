@@ -2,7 +2,7 @@
   "id": "23b75b26-7fa3-45d5-81d3-249b8f799fb7",
   "name": "Singed Core of Carnage",
   "type": "Artifact",
-  "generation": 23,
+  "generation": 24,
   "damage": 35.5,
   "damage_type": [
     "Physical",
@@ -14,7 +14,7 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 0.9,
   "rarity": 1,
-  "durability": 33.389999999999986,
+  "durability": 30.139999999999986,
   "max_durability": 125.0,
   "volatility": 0.5100000000000001,
   "resilience": 0.75,
