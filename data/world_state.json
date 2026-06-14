@@ -1,23 +1,23 @@
 {
-  "currency": 69650,
-  "tick": 3557,
+  "currency": 75850,
+  "tick": 3582,
   "mutation_stats": {
-    "attempted": 3557,
-    "success": 1501
+    "attempted": 3582,
+    "success": 1511
   },
   "recent_events": [
-    "REPLACED WITH: 'Singed Core of Blood' (264d9afa-80e6-4e91-86a6-5fa29211d79e)",
-    "STABLE: 'Mundane Bow of Whispers' did not mutate this tick.",
-    "REPLACED WITH: 'Glacial Focus of Sparks' (c818879f-b75c-425d-a728-1b0e836e3af1)",
-    "MUTATED: 'Heavy Axe of Ash' evolved to generation 16.",
-    "STABLE: 'Nimble Relic of Whispers' did not mutate this tick.",
-    "STABLE: 'Nimble Blade of Venom' did not mutate this tick.",
-    "MUTATED: 'Singed Core of Carnage' evolved to generation 26.",
-    "MUTATED: 'Shattered Focus of Eternity' evolved to generation 11.",
     "STABLE: 'Heavy Axe of Ash' did not mutate this tick.",
-    "STABLE: 'Singed Core of Blood' did not mutate this tick."
+    "MUTATED: 'Singed Core of Carnage' evolved to generation 28.",
+    "MUTATED: 'Echoing Sigil of Torment' evolved to generation 23.",
+    "REPLACED WITH: 'Glacial Blade of Ash' (e73964ff-1d23-401c-8e57-24e44ad70654)",
+    "MUTATED: 'Glacial Focus of Sparks' evolved to generation 2.",
+    "STABLE: 'Nimble Relic of Whispers' did not mutate this tick.",
+    "STABLE: 'Singed Core of Carnage' did not mutate this tick.",
+    "MUTATED: 'Singed Core of Carnage' evolved to generation 29.",
+    "MUTATED: 'Nimble Relic of Whispers' evolved to generation 24.",
+    "STABLE: 'Searing Spear of Judgement' did not mutate this tick."
   ],
-  "created": 44,
-  "avg_lifespan": 38.970588235294116,
-  "archived": 34
+  "created": 47,
+  "avg_lifespan": 39.0,
+  "archived": 37
 }

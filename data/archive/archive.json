@@ -934,5 +934,89 @@
       "Scarceness": 0.1,
       "STR": 0.1
     }
+  },
+  {
+    "id": "2108dd3b-5e3c-41d2-bab3-574fa3bd0885",
+    "name": "Nimble Blade of Venom",
+    "type": "Sword",
+    "generation": 37,
+    "damage": 37.5,
+    "damage_type": [
+      "Physical",
+      "Slashing",
+      "Acid"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.07,
+    "str_mod": 1.5500000000000005,
+    "dex_mod": 1.3,
+    "rarity": 1,
+    "durability": -0.7199999999999969,
+    "max_durability": 92.0,
+    "volatility": 0.52,
+    "resilience": 0.7,
+    "worth": 1950,
+    "affinities": {
+      "Stability": 0.1,
+      "Chaos": 0.1,
+      "Order": 0.3,
+      "DEX": 0.1
+    }
+  },
+  {
+    "id": "2ee0632a-40b2-4ab2-892e-6970f1d07e5c",
+    "name": "Broken Rapier of Storms",
+    "type": "Generic",
+    "generation": 58,
+    "damage": 24.5,
+    "damage_type": [
+      "Physical",
+      "Piercing"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 1.6000000000000005,
+    "rarity": 1,
+    "durability": -1.0,
+    "max_durability": 73.0,
+    "volatility": 0.52,
+    "resilience": 0.6599999999999999,
+    "worth": 3000,
+    "affinities": {
+      "Chaos": 0.2,
+      "Order": 0.1,
+      "Stability": 0.2,
+      "DEX": 0.3
+    }
+  },
+  {
+    "id": "4c479cd4-5d9e-413d-bc4e-d9fdbb508032",
+    "name": "Echoing Sigil of Torment",
+    "type": "Focus",
+    "generation": 23,
+    "damage": 26.5,
+    "damage_type": [
+      "Physical",
+      "Sonic",
+      "Magic",
+      "Shadow"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.1,
+    "dex_mod": 1.4000000000000004,
+    "rarity": 1.5,
+    "durability": -1.0,
+    "max_durability": 106.0,
+    "volatility": 0.5792481250360578,
+    "resilience": 0.4,
+    "worth": 1250,
+    "affinities": {
+      "Chaos": 0.1,
+      "DEX": 0.2,
+      "Stability": 0.1,
+      "Order": 0.1
+    }
   }
 ]
