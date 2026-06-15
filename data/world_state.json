@@ -1,21 +1,21 @@
 {
   "currency": 75850,
-  "tick": 3732,
+  "tick": 3757,
   "mutation_stats": {
-    "attempted": 3732,
-    "success": 1570
+    "attempted": 3757,
+    "success": 1583
   },
   "recent_events": [
+    "STABLE: 'Shattered Focus of Eternity' did not mutate this tick.",
     "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
-    "STABLE: 'Heavy Axe of Ash' did not mutate this tick.",
-    "MUTATED: 'Nimble Relic of Whispers' evolved to generation 34.",
-    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
-    "STABLE: 'Heavy Axe of Ash' did not mutate this tick.",
-    "MUTATED: 'Singed Core of Blood' evolved to generation 7.",
-    "MUTATED: 'Searing Spear of Judgement' evolved to generation 5.",
+    "MUTATED: 'Singed Core of Carnage' evolved to generation 39.",
+    "MUTATED: 'Heavy Axe of Ash' evolved to generation 22.",
     "STABLE: 'Singed Core of Blood' did not mutate this tick.",
     "STABLE: 'Shattered Focus of Eternity' did not mutate this tick.",
-    "STABLE: 'Nimble Relic of Whispers' did not mutate this tick."
+    "STABLE: 'Singed Core of Carnage' did not mutate this tick.",
+    "MUTATED: 'Mundane Sigil of the Glacier' evolved to generation 9.",
+    "STABLE: 'Mundane Sigil of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Heavy Axe of Ash' evolved to generation 23."
   ],
   "created": 47,
   "avg_lifespan": 39.0,
