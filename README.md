@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-3782
+3807
 
 ## Oldest Item
-Glacial Blade of Ash
+Titanic Blade of Stone
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.8
-- Average Volatility: 0.44
-- Average Durability: 47.27
+- Average Volatility: 0.4
+- Average Durability: 56.45
 
 ## Dominant Factions
-- Stability: 1.0
-- Order: 0.9
+- Stability: 0.9
+- Order: 0.6
 - STR: 0.4
 
 ## Extremes
-- Most Stable Item: Singed Core of Blood
+- Most Stable Item: Titanic Blade of Stone
 - Most Volatile Item: Shattered Focus of Eternity
 
 ## Recent Events
-- STABLE: 'Glacial Blade of Ash' did not mutate this tick.
-- STABLE: 'Glacial Blade of Ash' did not mutate this tick.
-- MUTATED: 'Mundane Sigil of the Glacier' evolved to generation 10.
+- STABLE: 'Heavy Axe of Ash' did not mutate this tick.
+- MUTATED: 'Titanic Blade of Stone' evolved to generation 2.
+- MUTATED: 'Searing Blade of Venom' evolved to generation 39.
 
 ## Lifecycle Stats
-- Items Created: 47
-- Items Archived: 37
+- Items Created: 48
+- Items Archived: 38
 - Avg Lifespan (ticks): 39.0
 
 ### Distribution chart
@@ -40,9 +40,9 @@ Glacial Blade of Ash
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 3782
-- Successful Mutations: 1597
-- Failure Rate: 57.8%
+- Mutations Attempted: 3807
+- Successful Mutations: 1610
+- Failure Rate: 57.7%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -56,8 +56,8 @@ Glacial Blade of Ash
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 75850
-- Currency per Tick (avg): 20.06
+- Total Currency: 77950
+- Currency per Tick (avg): 20.48
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

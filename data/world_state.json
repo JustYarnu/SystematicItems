@@ -1,23 +1,23 @@
 {
-  "currency": 75850,
-  "tick": 3782,
+  "currency": 77950,
+  "tick": 3807,
   "mutation_stats": {
-    "attempted": 3782,
-    "success": 1597
+    "attempted": 3807,
+    "success": 1610
   },
   "recent_events": [
-    "STABLE: 'Singed Core of Carnage' did not mutate this tick.",
+    "STABLE: 'Searing Spear of Judgement' did not mutate this tick.",
+    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
+    "MUTATED: 'Searing Spear of Judgement' evolved to generation 9.",
+    "MUTATED: 'Singed Core of Blood' evolved to generation 10.",
+    "STABLE: 'Searing Blade of Venom' did not mutate this tick.",
+    "MUTATED: 'Glacial Blade of Ash' evolved to generation 6.",
     "STABLE: 'Singed Core of Blood' did not mutate this tick.",
-    "MUTATED: 'Heavy Axe of Ash' evolved to generation 26.",
-    "MUTATED: 'Glacial Focus of Sparks' evolved to generation 11.",
-    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
-    "MUTATED: 'Singed Core of Blood' evolved to generation 8.",
-    "MUTATED: 'Searing Spear of Judgement' evolved to generation 7.",
-    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
-    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
-    "MUTATED: 'Mundane Sigil of the Glacier' evolved to generation 10."
+    "STABLE: 'Heavy Axe of Ash' did not mutate this tick.",
+    "MUTATED: 'Titanic Blade of Stone' evolved to generation 2.",
+    "MUTATED: 'Searing Blade of Venom' evolved to generation 39."
   ],
-  "created": 47,
-  "avg_lifespan": 39.0,
-  "archived": 37
+  "created": 48,
+  "avg_lifespan": 39.026315789473685,
+  "archived": 38
 }
