@@ -2,7 +2,7 @@
   "id": "89b4293d-46fa-466c-aaf4-0bef1f0a8ecc",
   "name": "Nimble Relic of Whispers",
   "type": "Artifact",
-  "generation": 32,
+  "generation": 34,
   "damage": 24.5,
   "damage_type": [
     "Physical",
@@ -10,13 +10,13 @@
     "Void"
   ],
   "crit_damage": 2,
-  "crit_rate": 0.01,
+  "crit_rate": 0.060000000000000005,
   "str_mod": 1.3000000000000003,
   "dex_mod": 1.17,
   "rarity": 2.5,
-  "durability": 41.61000000000001,
-  "max_durability": 108.0,
-  "volatility": 0.5100000000000002,
+  "durability": 34.63,
+  "max_durability": 110.0,
+  "volatility": 0.5200000000000002,
   "resilience": 0.78,
   "worth": 100,
   "affinities": {
