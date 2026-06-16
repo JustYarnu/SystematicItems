@@ -1,23 +1,23 @@
 {
-  "currency": 77950,
-  "tick": 3832,
+  "currency": 79250,
+  "tick": 3857,
   "mutation_stats": {
-    "attempted": 3832,
-    "success": 1623
+    "attempted": 3857,
+    "success": 1635
   },
   "recent_events": [
-    "MUTATED: 'Searing Blade of Venom' evolved to generation 43.",
-    "STABLE: 'Glacial Focus of Sparks' did not mutate this tick.",
+    "STABLE: 'Verdant Rapier of Torment' did not mutate this tick.",
+    "STABLE: 'Verdant Rapier of Torment' did not mutate this tick.",
+    "MUTATED: 'Heavy Axe of Ash' evolved to generation 30.",
+    "MUTATED: 'Heavy Axe of Ash' evolved to generation 31.",
     "STABLE: 'Searing Spear of Judgement' did not mutate this tick.",
-    "MUTATED: 'Mundane Sigil of the Glacier' evolved to generation 12.",
-    "STABLE: 'Singed Core of Blood' did not mutate this tick.",
-    "STABLE: 'Singed Core of Blood' did not mutate this tick.",
-    "MUTATED: 'Heavy Axe of Ash' evolved to generation 29.",
-    "MUTATED: 'Singed Core of Blood' evolved to generation 12.",
-    "STABLE: 'Heavy Axe of Ash' did not mutate this tick.",
-    "MUTATED: 'Searing Spear of Judgement' evolved to generation 10."
+    "MUTATED: 'Nimble Relic of Whispers' evolved to generation 41.",
+    "STABLE: 'Titanic Blade of Stone' did not mutate this tick.",
+    "MUTATED: 'Searing Spear of Judgement' evolved to generation 11.",
+    "STABLE: 'Mundane Sigil of the Glacier' did not mutate this tick.",
+    "STABLE: 'Verdant Rapier of Torment' did not mutate this tick."
   ],
-  "created": 48,
-  "avg_lifespan": 39.026315789473685,
-  "archived": 38
+  "created": 49,
+  "avg_lifespan": 38.64102564102564,
+  "archived": 39
 }

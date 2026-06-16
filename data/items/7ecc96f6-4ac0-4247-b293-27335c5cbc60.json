@@ -2,8 +2,8 @@
   "id": "7ecc96f6-4ac0-4247-b293-27335c5cbc60",
   "name": "Heavy Axe of Ash",
   "type": "HeavyWeapon",
-  "generation": 29,
-  "damage": 26.0,
+  "generation": 31,
+  "damage": 31.0,
   "damage_type": [
     "Physical",
     "Slashing"
@@ -11,12 +11,12 @@
   "crit_damage": 3.0,
   "crit_rate": 0.01,
   "str_mod": 1.55,
-  "dex_mod": 0.8999999999999999,
+  "dex_mod": 0.7999999999999999,
   "rarity": 2,
-  "durability": 17.15999999999999,
-  "max_durability": 91.0,
+  "durability": 11.229999999999988,
+  "max_durability": 96.0,
   "volatility": 0.5399999999999999,
-  "resilience": 0.7399999999999999,
+  "resilience": 0.7899999999999999,
   "worth": 100,
   "affinities": {
     "Order": 0.1,
