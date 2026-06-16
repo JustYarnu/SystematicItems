@@ -2,7 +2,7 @@
   "id": "264d9afa-80e6-4e91-86a6-5fa29211d79e",
   "name": "Singed Core of Blood",
   "type": "Artifact",
-  "generation": 13,
+  "generation": 14,
   "damage": 14.5,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.3,
   "dex_mod": 1.0,
   "rarity": 1,
-  "durability": 69.20000000000002,
+  "durability": 63.85000000000002,
   "max_durability": 125.0,
-  "volatility": 0.3100000000000002,
+  "volatility": 0.33000000000000024,
   "resilience": 0.7300000000000001,
   "worth": 100,
   "affinities": {
