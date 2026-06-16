@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-3857
+3882
 
 ## Oldest Item
 Verdant Rapier of Torment
@@ -12,21 +12,21 @@ Verdant Rapier of Torment
 - Active Items: 10
 - Average Rarity: 1.6
 - Average Volatility: 0.35
-- Average Durability: 58.12
+- Average Durability: 54.72
 
 ## Dominant Factions
 - Stability: 0.8
-- Order: 0.7
-- STR: 0.4
+- Order: 0.8
+- STR: 0.5
 
 ## Extremes
 - Most Stable Item: Titanic Blade of Stone
 - Most Volatile Item: Heavy Axe of Ash
 
 ## Recent Events
-- MUTATED: 'Searing Spear of Judgement' evolved to generation 11.
-- STABLE: 'Mundane Sigil of the Glacier' did not mutate this tick.
-- STABLE: 'Verdant Rapier of Torment' did not mutate this tick.
+- STABLE: 'Searing Spear of Judgement' did not mutate this tick.
+- MUTATED: 'Searing Blade of Venom' evolved to generation 47.
+- STABLE: 'Singed Core of Blood' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 49
@@ -40,8 +40,8 @@ Verdant Rapier of Torment
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 3857
-- Successful Mutations: 1635
+- Mutations Attempted: 3882
+- Successful Mutations: 1646
 - Failure Rate: 57.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Verdant Rapier of Torment
 
 ## Economy
 - Total Currency: 79250
-- Currency per Tick (avg): 20.55
+- Currency per Tick (avg): 20.41
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
