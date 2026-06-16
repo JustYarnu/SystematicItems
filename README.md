@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-3807
+3832
 
 ## Oldest Item
 Titanic Blade of Stone
@@ -12,10 +12,10 @@ Titanic Blade of Stone
 - Active Items: 10
 - Average Rarity: 1.8
 - Average Volatility: 0.4
-- Average Durability: 56.45
+- Average Durability: 53.07
 
 ## Dominant Factions
-- Stability: 0.9
+- Stability: 1.0
 - Order: 0.6
 - STR: 0.4
 
@@ -24,9 +24,9 @@ Titanic Blade of Stone
 - Most Volatile Item: Shattered Focus of Eternity
 
 ## Recent Events
+- MUTATED: 'Singed Core of Blood' evolved to generation 12.
 - STABLE: 'Heavy Axe of Ash' did not mutate this tick.
-- MUTATED: 'Titanic Blade of Stone' evolved to generation 2.
-- MUTATED: 'Searing Blade of Venom' evolved to generation 39.
+- MUTATED: 'Searing Spear of Judgement' evolved to generation 10.
 
 ## Lifecycle Stats
 - Items Created: 48
@@ -40,9 +40,9 @@ Titanic Blade of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 3807
-- Successful Mutations: 1610
-- Failure Rate: 57.7%
+- Mutations Attempted: 3832
+- Successful Mutations: 1623
+- Failure Rate: 57.6%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Titanic Blade of Stone
 
 ## Economy
 - Total Currency: 77950
-- Currency per Tick (avg): 20.48
+- Currency per Tick (avg): 20.34
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
