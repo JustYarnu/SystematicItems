@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-3957
+3982
 
 ## Oldest Item
 Resolute Rapier of Iron
@@ -11,8 +11,8 @@ Resolute Rapier of Iron
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.45
-- Average Volatility: 0.34
-- Average Durability: 72.63
+- Average Volatility: 0.35
+- Average Durability: 69.5
 
 ## Dominant Factions
 - Stability: 0.5
@@ -24,8 +24,8 @@ Resolute Rapier of Iron
 - Most Volatile Item: Searing Blade of Venom
 
 ## Recent Events
-- STABLE: 'Glacial Blade of Ash' did not mutate this tick.
-- MUTATED: 'Searing Spear of Judgement' evolved to generation 14.
+- STABLE: 'Singed Core of Blood' did not mutate this tick.
+- STABLE: 'Resolute Rapier of Iron' did not mutate this tick.
 - STABLE: 'Searing Blade of Venom' did not mutate this tick.
 
 ## Lifecycle Stats
@@ -40,9 +40,9 @@ Resolute Rapier of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 3957
-- Successful Mutations: 1672
-- Failure Rate: 57.7%
+- Mutations Attempted: 3982
+- Successful Mutations: 1676
+- Failure Rate: 57.9%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Resolute Rapier of Iron
 
 ## Economy
 - Total Currency: 83550
-- Currency per Tick (avg): 21.11
+- Currency per Tick (avg): 20.98
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
