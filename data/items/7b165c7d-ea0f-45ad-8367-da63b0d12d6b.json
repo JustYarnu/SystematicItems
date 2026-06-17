@@ -1,0 +1,22 @@
+{
+  "id": "7b165c7d-ea0f-45ad-8367-da63b0d12d6b",
+  "name": "Resolute Rapier of Iron",
+  "type": "Generic",
+  "generation": 1,
+  "damage": 10.0,
+  "damage_type": [
+    "Physical",
+    "Piercing"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.1,
+  "rarity": 1,
+  "durability": 118.0,
+  "max_durability": 125.0,
+  "volatility": 0.12,
+  "resilience": 0.75,
+  "worth": 100,
+  "affinities": {}
+}
