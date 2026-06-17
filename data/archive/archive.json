@@ -1127,5 +1127,34 @@
       "STR": 0.2,
       "Stability": 0.2
     }
+  },
+  {
+    "id": "50d778fd-8333-4113-9cd5-9dd2846b59ad",
+    "name": "Searing Blade of Venom",
+    "type": "Sword",
+    "generation": 55,
+    "damage": 43.0,
+    "damage_type": [
+      "Physical",
+      "Fire",
+      "Slashing",
+      "Acid"
+    ],
+    "crit_damage": 3.6,
+    "crit_rate": 0.09,
+    "str_mod": 1.4500000000000004,
+    "dex_mod": 1.2500000000000002,
+    "rarity": 2,
+    "durability": -1.0,
+    "max_durability": 76.0,
+    "volatility": 0.41999999999999993,
+    "resilience": 0.53,
+    "worth": 2850,
+    "affinities": {
+      "Stability": 0.1,
+      "Order": 0.1,
+      "Scarceness": 0.1,
+      "STR": 0.1
+    }
   }
 ]

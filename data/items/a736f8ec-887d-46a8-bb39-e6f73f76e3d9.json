@@ -2,7 +2,7 @@
   "id": "a736f8ec-887d-46a8-bb39-e6f73f76e3d9",
   "name": "Mundane Sigil of the Glacier",
   "type": "Focus",
-  "generation": 25,
+  "generation": 28,
   "damage": 18.0,
   "damage_type": [
     "Physical",
@@ -14,13 +14,13 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.2000000000000002,
   "rarity": 2.5,
-  "durability": 40.264168356917025,
-  "max_durability": 146.6240625180289,
-  "volatility": 0.4500000000000004,
+  "durability": 31.942939594871973,
+  "max_durability": 153.6240625180289,
+  "volatility": 0.4600000000000004,
   "resilience": 0.8160964047443681,
   "worth": 100,
   "affinities": {
-    "Stability": 0.1,
+    "Stability": 0.2,
     "Restoration": 0.1,
     "Order": 0.1
   }
