@@ -2,7 +2,7 @@
   "id": "c818879f-b75c-425d-a728-1b0e836e3af1",
   "name": "Glacial Focus of Sparks",
   "type": "Focus",
-  "generation": 30,
+  "generation": 31,
   "damage": 33.0,
   "damage_type": [
     "Physical",
@@ -15,9 +15,9 @@
   "str_mod": 1.0,
   "dex_mod": 0.8,
   "rarity": 2,
-  "durability": 39.50000000000001,
-  "max_durability": 149.0,
-  "volatility": 0.3800000000000002,
+  "durability": 35.50000000000001,
+  "max_durability": 150.0,
+  "volatility": 0.39000000000000024,
   "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {
