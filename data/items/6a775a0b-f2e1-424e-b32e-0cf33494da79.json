@@ -2,7 +2,7 @@
   "id": "6a775a0b-f2e1-424e-b32e-0cf33494da79",
   "name": "Blessed Blade of Distortion",
   "type": "Sword",
-  "generation": 14,
+  "generation": 16,
   "damage": 23.0,
   "damage_type": [
     "Physical",
@@ -15,7 +15,7 @@
   "str_mod": 1.2500000000000002,
   "dex_mod": 0.9500000000000001,
   "rarity": 1,
-  "durability": 51.73999999999999,
+  "durability": 77.73999999999998,
   "max_durability": 117.0,
   "volatility": 0.52,
   "resilience": 0.75,

@@ -2,8 +2,8 @@
   "id": "2f2919b9-2544-4176-a64e-2a741b385eb1",
   "name": "Searing Spear of Judgement",
   "type": "Polearm",
-  "generation": 19,
-  "damage": 28.0,
+  "generation": 22,
+  "damage": 33.0,
   "damage_type": [
     "Physical",
     "Fire",
@@ -13,16 +13,16 @@
   "crit_damage": 2.5,
   "crit_rate": 0.01,
   "str_mod": 1.3,
-  "dex_mod": 1.3000000000000003,
+  "dex_mod": 1.2000000000000002,
   "rarity": 1,
-  "durability": 17.80000000000001,
-  "max_durability": 106.0,
-  "volatility": 0.5700000000000001,
+  "durability": 7.600000000000012,
+  "max_durability": 108.0,
+  "volatility": 0.55,
   "resilience": 0.5800000000000001,
   "worth": 100,
   "affinities": {
     "STR": 0.1,
     "Stability": 0.1,
-    "Order": 0.1
+    "Order": 0.2
   }
 }
