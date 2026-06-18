@@ -2,7 +2,7 @@
   "id": "738e30d7-df96-4484-94cc-aa3857cba4c1",
   "name": "Gilded Blade of Frost",
   "type": "Sword",
-  "generation": 2,
+  "generation": 3,
   "damage": 12.0,
   "damage_type": [
     "Physical",
@@ -12,11 +12,11 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.05,
-  "dex_mod": 1.05,
+  "dex_mod": 1.1500000000000001,
   "rarity": 2.5,
-  "durability": 94.04,
+  "durability": 89.32000000000001,
   "max_durability": 115.0,
-  "volatility": 0.09999999999999999,
+  "volatility": 0.11999999999999998,
   "resilience": 0.7599999999999999,
   "worth": 100,
   "affinities": {}
