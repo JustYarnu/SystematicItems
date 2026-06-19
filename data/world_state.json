@@ -1,23 +1,23 @@
 {
-  "currency": 87700,
-  "tick": 4382,
+  "currency": 89900,
+  "tick": 4407,
   "mutation_stats": {
-    "attempted": 4382,
-    "success": 1836
+    "attempted": 4407,
+    "success": 1848
   },
   "recent_events": [
-    "MUTATED: 'Titanic Blade of Stone' evolved to generation 18.",
-    "MUTATED: 'Resolute Rapier of Iron' evolved to generation 9.",
+    "STABLE: 'Singed Core of Blood' did not mutate this tick.",
+    "MUTATED: 'Singed Core of Blood' evolved to generation 34.",
+    "MUTATED: 'Resolute Rapier of Iron' evolved to generation 10.",
+    "STABLE: 'Titanic Blade of Stone' did not mutate this tick.",
+    "STABLE: 'Glacial Focus of Sparks' did not mutate this tick.",
     "STABLE: 'Ancient Spear of Blood' did not mutate this tick.",
-    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
-    "MUTATED: 'Gilded Blade of Frost' evolved to generation 7.",
-    "MUTATED: 'Glacial Blade of Ash' evolved to generation 33.",
-    "STABLE: 'Verdant Rapier of Torment' did not mutate this tick.",
-    "MUTATED: 'Glacial Focus of Sparks' evolved to generation 37.",
-    "MUTATED: 'Blessed Blade of Distortion' evolved to generation 22.",
+    "MUTATED: 'Resolute Rapier of Iron' evolved to generation 11.",
+    "MUTATED: 'Glacial Blade of Ash' evolved to generation 35.",
+    "MUTATED: 'Resolute Rapier of Iron' evolved to generation 12.",
     "STABLE: 'Glacial Focus of Sparks' did not mutate this tick."
   ],
-  "created": 53,
-  "avg_lifespan": 38.79069767441861,
-  "archived": 43
+  "created": 54,
+  "avg_lifespan": 38.86363636363637,
+  "archived": 44
 }

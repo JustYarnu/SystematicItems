@@ -1,0 +1,23 @@
+{
+  "id": "082354fc-4a74-4207-90e3-6cdad4333353",
+  "name": "Ancient Rapier of Blight",
+  "type": "Generic",
+  "generation": 1,
+  "damage": 17.0,
+  "damage_type": [
+    "Physical",
+    "Piercing",
+    "Dark"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.1,
+  "rarity": 2.0,
+  "durability": 82.0,
+  "max_durability": 120.0,
+  "volatility": 0.1,
+  "resilience": 0.5,
+  "worth": 100,
+  "affinities": {}
+}
