@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-4257
+4282
 
 ## Oldest Item
 Gilded Blade of Frost
@@ -11,8 +11,8 @@ Gilded Blade of Frost
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.6
-- Average Volatility: 0.42
-- Average Durability: 53.68
+- Average Volatility: 0.43
+- Average Durability: 52.93
 
 ## Dominant Factions
 - Restoration: 0.8
@@ -24,9 +24,9 @@ Gilded Blade of Frost
 - Most Volatile Item: Mundane Sigil of the Glacier
 
 ## Recent Events
-- MUTATED: 'Glacial Blade of Ash' evolved to generation 28.
-- STABLE: 'Resolute Rapier of Iron' did not mutate this tick.
-- MUTATED: 'Glacial Blade of Ash' evolved to generation 29.
+- STABLE: 'Blessed Blade of Distortion' did not mutate this tick.
+- MUTATED: 'Glacial Focus of Sparks' evolved to generation 33.
+- STABLE: 'Glacial Blade of Ash' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 52
@@ -40,9 +40,9 @@ Gilded Blade of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 4257
-- Successful Mutations: 1786
-- Failure Rate: 58.0%
+- Mutations Attempted: 4282
+- Successful Mutations: 1795
+- Failure Rate: 58.1%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Gilded Blade of Frost
 
 ## Economy
 - Total Currency: 86400
-- Currency per Tick (avg): 20.3
+- Currency per Tick (avg): 20.18
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
