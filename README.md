@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-4307
+4332
 
 ## Oldest Item
 Ancient Spear of Blood
@@ -12,21 +12,21 @@ Ancient Spear of Blood
 - Active Items: 10
 - Average Rarity: 1.7
 - Average Volatility: 0.41
-- Average Durability: 61.5
+- Average Durability: 60.6
 
 ## Dominant Factions
 - Restoration: 0.8
+- Stability: 0.6
 - Order: 0.5
-- Stability: 0.5
 
 ## Extremes
 - Most Stable Item: Ancient Spear of Blood
 - Most Volatile Item: Mundane Sigil of the Glacier
 
 ## Recent Events
-- STABLE: 'Ancient Spear of Blood' did not mutate this tick.
+- STABLE: 'Glacial Focus of Sparks' did not mutate this tick.
 - STABLE: 'Gilded Blade of Frost' did not mutate this tick.
-- STABLE: 'Ancient Spear of Blood' did not mutate this tick.
+- MUTATED: 'Mundane Sigil of the Glacier' evolved to generation 40.
 
 ## Lifecycle Stats
 - Items Created: 53
@@ -40,8 +40,8 @@ Ancient Spear of Blood
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 4307
-- Successful Mutations: 1806
+- Mutations Attempted: 4332
+- Successful Mutations: 1816
 - Failure Rate: 58.1%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Ancient Spear of Blood
 
 ## Economy
 - Total Currency: 87700
-- Currency per Tick (avg): 20.36
+- Currency per Tick (avg): 20.24
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
