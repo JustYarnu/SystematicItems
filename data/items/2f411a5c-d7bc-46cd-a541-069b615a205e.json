@@ -2,7 +2,7 @@
   "id": "2f411a5c-d7bc-46cd-a541-069b615a205e",
   "name": "Titanic Blade of Stone",
   "type": "Sword",
-  "generation": 26,
+  "generation": 27,
   "damage": 12.5,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.6500000000000004,
   "dex_mod": 1.4000000000000004,
   "rarity": 1,
-  "durability": 69.82999999999997,
+  "durability": 81.82999999999997,
   "max_durability": 115.0,
-  "volatility": 0.46000000000000046,
+  "volatility": 0.4700000000000005,
   "resilience": 0.73,
   "worth": 100,
   "affinities": {

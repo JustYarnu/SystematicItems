@@ -2,7 +2,7 @@
   "id": "7b165c7d-ea0f-45ad-8367-da63b0d12d6b",
   "name": "Resolute Rapier of Iron",
   "type": "Generic",
-  "generation": 14,
+  "generation": 15,
   "damage": 21.5,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "str_mod": 1.1,
   "dex_mod": 1.1,
   "rarity": 2,
-  "durability": 70.0,
-  "max_durability": 115.0,
-  "volatility": 0.44000000000000034,
-  "resilience": 0.75,
+  "durability": 64.4,
+  "max_durability": 120.0,
+  "volatility": 0.47000000000000036,
+  "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {
     "Restoration": 0.2,
