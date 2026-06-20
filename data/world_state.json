@@ -1,23 +1,23 @@
 {
-  "currency": 92000,
-  "tick": 4607,
+  "currency": 93950,
+  "tick": 4632,
   "mutation_stats": {
-    "attempted": 4607,
-    "success": 1931
+    "attempted": 4632,
+    "success": 1940
   },
   "recent_events": [
+    "STABLE: 'Verdant Rapier of Torment' did not mutate this tick.",
+    "MUTATED: 'Verdant Rapier of Torment' evolved to generation 26.",
+    "STABLE: 'Verdant Rapier of Torment' did not mutate this tick.",
+    "STABLE: 'Glacial Bow of Iron' did not mutate this tick.",
+    "MUTATED: 'Glacial Blade of Ash' evolved to generation 42.",
     "STABLE: 'Gilded Blade of Frost' did not mutate this tick.",
-    "STABLE: 'Nimble Axe of Plagues' did not mutate this tick.",
-    "STABLE: 'Titanic Blade of Stone' did not mutate this tick.",
-    "STABLE: 'Titanic Blade of Stone' did not mutate this tick.",
-    "MUTATED: 'Gilded Blade of Frost' evolved to generation 17.",
-    "STABLE: 'Ancient Spear of Blood' did not mutate this tick.",
-    "MUTATED: 'Blessed Blade of Distortion' evolved to generation 36.",
-    "MUTATED: 'Titanic Blade of Stone' evolved to generation 30.",
-    "STABLE: 'Resolute Rapier of Iron' did not mutate this tick.",
-    "STABLE: 'Ancient Spear of Blood' did not mutate this tick."
+    "MUTATED: 'Nimble Axe of Plagues' evolved to generation 11.",
+    "STABLE: 'Glacial Bow of Iron' did not mutate this tick.",
+    "STABLE: 'Singed Core of Blood' did not mutate this tick.",
+    "STABLE: 'Glacial Blade of Ash' did not mutate this tick."
   ],
-  "created": 55,
-  "avg_lifespan": 38.88888888888889,
-  "archived": 45
+  "created": 56,
+  "avg_lifespan": 38.84782608695652,
+  "archived": 46
 }
