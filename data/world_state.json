@@ -1,20 +1,20 @@
 {
   "currency": 89900,
-  "tick": 4432,
+  "tick": 4457,
   "mutation_stats": {
-    "attempted": 4432,
-    "success": 1860
+    "attempted": 4457,
+    "success": 1871
   },
   "recent_events": [
+    "STABLE: 'Ancient Rapier of Blight' did not mutate this tick.",
+    "MUTATED: 'Blessed Blade of Distortion' evolved to generation 25.",
+    "MUTATED: 'Blessed Blade of Distortion' evolved to generation 26.",
+    "MUTATED: 'Titanic Blade of Stone' evolved to generation 22.",
     "STABLE: 'Ancient Spear of Blood' did not mutate this tick.",
-    "MUTATED: 'Ancient Spear of Blood' evolved to generation 5.",
-    "MUTATED: 'Singed Core of Blood' evolved to generation 37.",
-    "STABLE: 'Verdant Rapier of Torment' did not mutate this tick.",
+    "MUTATED: 'Ancient Spear of Blood' evolved to generation 6.",
+    "STABLE: 'Titanic Blade of Stone' did not mutate this tick.",
     "STABLE: 'Resolute Rapier of Iron' did not mutate this tick.",
-    "MUTATED: 'Blessed Blade of Distortion' evolved to generation 24.",
-    "MUTATED: 'Singed Core of Blood' evolved to generation 38.",
-    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
-    "MUTATED: 'Gilded Blade of Frost' evolved to generation 9.",
+    "MUTATED: 'Titanic Blade of Stone' evolved to generation 23.",
     "STABLE: 'Ancient Rapier of Blight' did not mutate this tick."
   ],
   "created": 54,

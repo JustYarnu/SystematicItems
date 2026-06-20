@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-4432
+4457
 
 ## Oldest Item
 Ancient Rapier of Blight
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.65
-- Average Volatility: 0.37
-- Average Durability: 55.67
+- Average Rarity: 1.75
+- Average Volatility: 0.39
+- Average Durability: 55.96
 
 ## Dominant Factions
-- Restoration: 0.7
+- Restoration: 0.8
 - Chaos: 0.6
 - STR: 0.5
 
@@ -24,8 +24,8 @@ Ancient Rapier of Blight
 - Most Volatile Item: Blessed Blade of Distortion
 
 ## Recent Events
-- STABLE: 'Glacial Blade of Ash' did not mutate this tick.
-- MUTATED: 'Gilded Blade of Frost' evolved to generation 9.
+- STABLE: 'Resolute Rapier of Iron' did not mutate this tick.
+- MUTATED: 'Titanic Blade of Stone' evolved to generation 23.
 - STABLE: 'Ancient Rapier of Blight' did not mutate this tick.
 
 ## Lifecycle Stats
@@ -40,15 +40,15 @@ Ancient Rapier of Blight
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 4432
-- Successful Mutations: 1860
+- Mutations Attempted: 4457
+- Successful Mutations: 1871
 - Failure Rate: 58.0%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 4
-- Uncommon: 6
+- Common: 3
+- Uncommon: 7
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Ancient Rapier of Blight
 
 ## Economy
 - Total Currency: 89900
-- Currency per Tick (avg): 20.28
+- Currency per Tick (avg): 20.17
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
