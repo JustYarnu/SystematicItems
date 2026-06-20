@@ -2,7 +2,7 @@
   "id": "f60a9934-3392-4fd3-896a-7736455a44c5",
   "name": "Verdant Rapier of Torment",
   "type": "Generic",
-  "generation": 22,
+  "generation": 24,
   "damage": 20.5,
   "damage_type": [
     "Physical",
@@ -15,9 +15,9 @@
   "str_mod": 1.1,
   "dex_mod": 1.35,
   "rarity": 1,
-  "durability": 37.230000000000004,
+  "durability": 26.480000000000004,
   "max_durability": 125.0,
-  "volatility": 0.3900000000000001,
+  "volatility": 0.37000000000000016,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
