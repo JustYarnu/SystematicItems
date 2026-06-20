@@ -2,7 +2,7 @@
   "id": "b04b2e9d-6a3c-4695-8ec8-2e8a4e30e362",
   "name": "Ancient Spear of Blood",
   "type": "Polearm",
-  "generation": 7,
+  "generation": 8,
   "damage": 9.5,
   "damage_type": [
     "Physical",
@@ -12,10 +12,10 @@
   "crit_rate": 0.01,
   "str_mod": 1.4000000000000001,
   "dex_mod": 1.15,
-  "rarity": 2.0,
-  "durability": 83.5,
-  "max_durability": 122.0,
-  "volatility": 0.25000000000000017,
+  "rarity": 3.0,
+  "durability": 78.5,
+  "max_durability": 112.0,
+  "volatility": 0.3300000000000002,
   "resilience": 0.5,
   "worth": 100,
   "affinities": {}
