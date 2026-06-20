@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-4582
+4607
 
 ## Oldest Item
 Ancient Rapier of Blight
@@ -11,8 +11,8 @@ Ancient Rapier of Blight
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.95
-- Average Volatility: 0.43
-- Average Durability: 48.87
+- Average Volatility: 0.44
+- Average Durability: 46.68
 
 ## Dominant Factions
 - Restoration: 0.8
@@ -20,13 +20,13 @@ Ancient Rapier of Blight
 - STR: 0.6
 
 ## Extremes
-- Most Stable Item: Ancient Rapier of Blight
+- Most Stable Item: Gilded Blade of Frost
 - Most Volatile Item: Singed Core of Blood
 
 ## Recent Events
-- STABLE: 'Nimble Axe of Plagues' did not mutate this tick.
+- MUTATED: 'Titanic Blade of Stone' evolved to generation 30.
 - STABLE: 'Resolute Rapier of Iron' did not mutate this tick.
-- MUTATED: 'Nimble Axe of Plagues' evolved to generation 9.
+- STABLE: 'Ancient Spear of Blood' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 55
@@ -40,9 +40,9 @@ Ancient Rapier of Blight
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 4582
-- Successful Mutations: 1924
-- Failure Rate: 58.0%
+- Mutations Attempted: 4607
+- Successful Mutations: 1931
+- Failure Rate: 58.1%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Ancient Rapier of Blight
 
 ## Economy
 - Total Currency: 92000
-- Currency per Tick (avg): 20.08
+- Currency per Tick (avg): 19.97
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
