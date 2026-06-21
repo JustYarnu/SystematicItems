@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-4657
+4682
 
 ## Oldest Item
 Glacial Bow of Iron
@@ -11,12 +11,12 @@ Glacial Bow of Iron
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.85
-- Average Volatility: 0.4
-- Average Durability: 49.89
+- Average Volatility: 0.42
+- Average Durability: 46.92
 
 ## Dominant Factions
+- Chaos: 0.8
 - Restoration: 0.8
-- Chaos: 0.7
 - STR: 0.4
 
 ## Extremes
@@ -24,9 +24,9 @@ Glacial Bow of Iron
 - Most Volatile Item: Titanic Blade of Stone
 
 ## Recent Events
-- MUTATED: 'Nimble Axe of Plagues' evolved to generation 12.
-- STABLE: 'Resolute Rapier of Iron' did not mutate this tick.
-- MUTATED: 'Ancient Spear of Blood' evolved to generation 11.
+- STABLE: 'Gilded Blade of Frost' did not mutate this tick.
+- STABLE: 'Singed Core of Blood' did not mutate this tick.
+- STABLE: 'Ancient Spear of Blood' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 56
@@ -40,8 +40,8 @@ Glacial Bow of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 4657
-- Successful Mutations: 1952
+- Mutations Attempted: 4682
+- Successful Mutations: 1964
 - Failure Rate: 58.1%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Glacial Bow of Iron
 
 ## Economy
 - Total Currency: 93950
-- Currency per Tick (avg): 20.17
+- Currency per Tick (avg): 20.07
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
