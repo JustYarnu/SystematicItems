@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-4782
+4807
 
 ## Oldest Item
 Verdant Axe of Decay
@@ -11,22 +11,22 @@ Verdant Axe of Decay
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.85
-- Average Volatility: 0.42
-- Average Durability: 52.63
+- Average Volatility: 0.43
+- Average Durability: 49.88
 
 ## Dominant Factions
 - Chaos: 1.0
-- Restoration: 0.8
-- STR: 0.5
+- Restoration: 0.9
+- STR: 0.6
 
 ## Extremes
 - Most Stable Item: Verdant Axe of Decay
 - Most Volatile Item: Titanic Blade of Stone
 
 ## Recent Events
-- STABLE: 'Ancient Rapier of Blight' did not mutate this tick.
-- STABLE: 'Verdant Axe of Decay' did not mutate this tick.
-- MUTATED: 'Nimble Axe of Plagues' evolved to generation 19.
+- STABLE: 'Glacial Bow of Iron' did not mutate this tick.
+- MUTATED: 'Glowing Focus of Torment' evolved to generation 6.
+- STABLE: 'Ancient Spear of Blood' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 58
@@ -40,8 +40,8 @@ Verdant Axe of Decay
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 4782
-- Successful Mutations: 2004
+- Mutations Attempted: 4807
+- Successful Mutations: 2014
 - Failure Rate: 58.1%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Verdant Axe of Decay
 
 ## Economy
 - Total Currency: 96700
-- Currency per Tick (avg): 20.22
+- Currency per Tick (avg): 20.12
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
