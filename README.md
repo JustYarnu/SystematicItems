@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-4832
+4857
 
 ## Oldest Item
-Cursed Core of Gales
+Verdant Axe of Decay
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.75
-- Average Volatility: 0.43
-- Average Durability: 58.86
+- Average Volatility: 0.44
+- Average Durability: 56.31
 
 ## Dominant Factions
 - Restoration: 1.0
@@ -24,9 +24,9 @@ Cursed Core of Gales
 - Most Volatile Item: Titanic Blade of Stone
 
 ## Recent Events
-- MUTATED: 'Ancient Spear of Blood' evolved to generation 20.
-- STABLE: 'Verdant Axe of Decay' did not mutate this tick.
-- MUTATED: 'Ancient Rapier of Blight' evolved to generation 13.
+- MUTATED: 'Titanic Blade of Stone' evolved to generation 39.
+- MUTATED: 'Resolute Rapier of Iron' evolved to generation 33.
+- STABLE: 'Ancient Rapier of Blight' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 59
@@ -40,8 +40,8 @@ Cursed Core of Gales
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 4832
-- Successful Mutations: 2027
+- Mutations Attempted: 4857
+- Successful Mutations: 2036
 - Failure Rate: 58.1%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Cursed Core of Gales
 
 ## Economy
 - Total Currency: 99800
-- Currency per Tick (avg): 20.65
+- Currency per Tick (avg): 20.55
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
