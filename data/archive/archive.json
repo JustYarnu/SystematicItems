@@ -1270,5 +1270,57 @@
       "STR": 0.2,
       "Stability": 0.1
     }
+  },
+  {
+    "id": "738e30d7-df96-4484-94cc-aa3857cba4c1",
+    "name": "Gilded Blade of Frost",
+    "type": "Sword",
+    "generation": 20,
+    "damage": 11.0,
+    "damage_type": [
+      "Physical",
+      "Slashing",
+      "Cold"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.05,
+    "dex_mod": 1.5999999999999999,
+    "rarity": 2.5,
+    "durability": -0.5619755003682663,
+    "max_durability": 129.0,
+    "volatility": 0.3700000000000004,
+    "resilience": 0.8160964047443681,
+    "worth": 1100,
+    "affinities": {
+      "Scarceness": 0.1,
+      "Stability": 0.1
+    }
+  },
+  {
+    "id": "f60a9934-3392-4fd3-896a-7736455a44c5",
+    "name": "Verdant Rapier of Torment",
+    "type": "Generic",
+    "generation": 31,
+    "damage": 23.5,
+    "damage_type": [
+      "Physical",
+      "Nature",
+      "Piercing",
+      "Shadow"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.01,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 1.4500000000000002,
+    "rarity": 1,
+    "durability": -0.6199999999999974,
+    "max_durability": 125.0,
+    "volatility": 0.47000000000000025,
+    "resilience": 0.75,
+    "worth": 1650,
+    "affinities": {
+      "Order": 0.1
+    }
   }
 ]

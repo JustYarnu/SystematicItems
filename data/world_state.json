@@ -1,23 +1,23 @@
 {
-  "currency": 93950,
-  "tick": 4682,
+  "currency": 96700,
+  "tick": 4707,
   "mutation_stats": {
-    "attempted": 4682,
-    "success": 1964
+    "attempted": 4707,
+    "success": 1976
   },
   "recent_events": [
-    "MUTATED: 'Resolute Rapier of Iron' evolved to generation 23.",
-    "STABLE: 'Titanic Blade of Stone' did not mutate this tick.",
-    "MUTATED: 'Glacial Bow of Iron' evolved to generation 2.",
-    "MUTATED: 'Resolute Rapier of Iron' evolved to generation 24.",
-    "STABLE: 'Gilded Blade of Frost' did not mutate this tick.",
+    "MUTATED: 'Glacial Blade of Ash' evolved to generation 43.",
     "STABLE: 'Ancient Spear of Blood' did not mutate this tick.",
-    "MUTATED: 'Ancient Spear of Blood' evolved to generation 13.",
-    "STABLE: 'Gilded Blade of Frost' did not mutate this tick.",
-    "STABLE: 'Singed Core of Blood' did not mutate this tick.",
-    "STABLE: 'Ancient Spear of Blood' did not mutate this tick."
+    "MUTATED: 'Titanic Blade of Stone' evolved to generation 34.",
+    "MUTATED: 'Titanic Blade of Stone' evolved to generation 35.",
+    "STABLE: 'Ancient Spear of Blood' did not mutate this tick.",
+    "MUTATED: 'Singed Core of Blood' evolved to generation 52.",
+    "STABLE: 'Verdant Rapier of Torment' did not mutate this tick.",
+    "REPLACED WITH: 'Glowing Focus of Torment' (0bc2a94b-414d-4a4b-b32f-49a401a1a512)",
+    "STABLE: 'Resolute Rapier of Iron' did not mutate this tick.",
+    "MUTATED: 'Resolute Rapier of Iron' evolved to generation 26."
   ],
-  "created": 56,
-  "avg_lifespan": 38.84782608695652,
-  "archived": 46
+  "created": 58,
+  "avg_lifespan": 38.291666666666664,
+  "archived": 48
 }
