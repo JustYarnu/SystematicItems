@@ -2,7 +2,7 @@
   "id": "8141b32b-f77a-480b-acf7-ffbf0de3d43c",
   "name": "Nimble Axe of Plagues",
   "type": "HeavyWeapon",
-  "generation": 23,
+  "generation": 24,
   "damage": 16.5,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.25,
   "dex_mod": 1.35,
   "rarity": 1,
-  "durability": 41.05000000000002,
-  "max_durability": 82.0,
-  "volatility": 0.54,
-  "resilience": 0.55,
+  "durability": 35.850000000000016,
+  "max_durability": 87.0,
+  "volatility": 0.56,
+  "resilience": 0.6000000000000001,
   "worth": 100,
   "affinities": {
     "Order": 0.2,
