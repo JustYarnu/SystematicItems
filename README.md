@@ -3,20 +3,20 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5057
+5082
 
 ## Oldest Item
-Mundane Bow of Ash
+Brittle Shard of Grace
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.95
-- Average Volatility: 0.45
-- Average Durability: 44.41
+- Average Rarity: 1.75
+- Average Volatility: 0.44
+- Average Durability: 49.51
 
 ## Dominant Factions
-- Chaos: 1.2
-- Restoration: 1.0
+- Restoration: 1.1
+- Chaos: 1.0
 - DEX: 0.8
 
 ## Extremes
@@ -24,14 +24,14 @@ Mundane Bow of Ash
 - Most Volatile Item: Resolute Rapier of Iron
 
 ## Recent Events
-- STABLE: 'Mundane Bow of Ash' did not mutate this tick.
-- MUTATED: 'Ancient Rapier of Blight' evolved to generation 23.
-- STABLE: 'Verdant Axe of Decay' did not mutate this tick.
+- STABLE: 'Brittle Shard of Grace' did not mutate this tick.
+- MUTATED: 'Glowing Focus of Torment' evolved to generation 18.
+- MUTATED: 'Glowing Focus of Torment' evolved to generation 19.
 
 ## Lifecycle Stats
-- Items Created: 60
-- Items Archived: 50
-- Avg Lifespan (ticks): 38.7
+- Items Created: 61
+- Items Archived: 51
+- Avg Lifespan (ticks): 38.6
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Mundane Bow of Ash
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5057
-- Successful Mutations: 2140
+- Mutations Attempted: 5082
+- Successful Mutations: 2151
 - Failure Rate: 57.7%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 4
-- Uncommon: 6
+- Common: 5
+- Uncommon: 5
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Mundane Bow of Ash
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 101650
-- Currency per Tick (avg): 20.1
+- Total Currency: 103500
+- Currency per Tick (avg): 20.37
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
