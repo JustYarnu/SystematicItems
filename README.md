@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-4982
+5007
 
 ## Oldest Item
 Verdant Axe of Decay
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.05
-- Average Volatility: 0.48
-- Average Durability: 45.46
+- Average Rarity: 2.15
+- Average Volatility: 0.49
+- Average Durability: 43.98
 
 ## Dominant Factions
+- Chaos: 1.0
 - Restoration: 1.0
-- Chaos: 0.9
-- STR: 0.5
+- Order: 0.6
 
 ## Extremes
 - Most Stable Item: Verdant Axe of Decay
 - Most Volatile Item: Resolute Rapier of Iron
 
 ## Recent Events
-- STABLE: 'Cursed Core of Gales' did not mutate this tick.
-- MUTATED: 'Nimble Axe of Plagues' evolved to generation 32.
-- STABLE: 'Cursed Core of Gales' did not mutate this tick.
+- MUTATED: 'Resolute Rapier of Iron' evolved to generation 42.
+- STABLE: 'Glowing Focus of Torment' did not mutate this tick.
+- STABLE: 'Resolute Rapier of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 59
@@ -40,8 +40,8 @@ Verdant Axe of Decay
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 4982
-- Successful Mutations: 2100
+- Mutations Attempted: 5007
+- Successful Mutations: 2112
 - Failure Rate: 57.8%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Verdant Axe of Decay
 
 ## Economy
 - Total Currency: 99800
-- Currency per Tick (avg): 20.03
+- Currency per Tick (avg): 19.93
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

@@ -2,7 +2,7 @@
   "id": "0bc2a94b-414d-4a4b-b32f-49a401a1a512",
   "name": "Glowing Focus of Torment",
   "type": "Focus",
-  "generation": 12,
+  "generation": 14,
   "damage": 34.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 0.9,
   "rarity": 1.5,
-  "durability": 72.36,
-  "max_durability": 102.0,
-  "volatility": 0.3900000000000001,
+  "durability": 79.26,
+  "max_durability": 104.0,
+  "volatility": 0.41000000000000014,
   "resilience": 0.58,
   "worth": 100,
   "affinities": {}
