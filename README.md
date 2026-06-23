@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5032
+5057
 
 ## Oldest Item
 Mundane Bow of Ash
@@ -11,22 +11,22 @@ Mundane Bow of Ash
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.95
-- Average Volatility: 0.44
-- Average Durability: 48.51
+- Average Volatility: 0.45
+- Average Durability: 44.41
 
 ## Dominant Factions
-- Chaos: 1.0
+- Chaos: 1.2
 - Restoration: 1.0
-- DEX: 0.7
+- DEX: 0.8
 
 ## Extremes
 - Most Stable Item: Mundane Bow of Ash
 - Most Volatile Item: Resolute Rapier of Iron
 
 ## Recent Events
-- MUTATED: 'Glowing Focus of Torment' evolved to generation 15.
-- STABLE: 'Nimble Axe of Plagues' did not mutate this tick.
-- REPLACED WITH: 'Mundane Bow of Ash' (bab05a9b-6a98-498e-bef6-226cd7d52d6b)
+- STABLE: 'Mundane Bow of Ash' did not mutate this tick.
+- MUTATED: 'Ancient Rapier of Blight' evolved to generation 23.
+- STABLE: 'Verdant Axe of Decay' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 60
@@ -40,8 +40,8 @@ Mundane Bow of Ash
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5032
-- Successful Mutations: 2127
+- Mutations Attempted: 5057
+- Successful Mutations: 2140
 - Failure Rate: 57.7%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Bow of Ash
 
 ## Economy
 - Total Currency: 101650
-- Currency per Tick (avg): 20.2
-- Recent Gains: 1850
+- Currency per Tick (avg): 20.1
+- Recent Gains: 0
 
 ![CPT](assets/cpt.png)
