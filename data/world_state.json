@@ -1,21 +1,21 @@
 {
   "currency": 103500,
-  "tick": 5082,
+  "tick": 5107,
   "mutation_stats": {
-    "attempted": 5082,
-    "success": 2151
+    "attempted": 5107,
+    "success": 2160
   },
   "recent_events": [
+    "STABLE: 'Cursed Core of Gales' did not mutate this tick.",
+    "MUTATED: 'Glacial Bow of Iron' evolved to generation 19.",
+    "MUTATED: 'Ancient Rapier of Blight' evolved to generation 24.",
     "STABLE: 'Verdant Axe of Decay' did not mutate this tick.",
-    "MUTATED: 'Verdant Axe of Decay' evolved to generation 5.",
-    "MUTATED: 'Glacial Bow of Iron' evolved to generation 18.",
-    "STABLE: 'Mundane Bow of Ash' did not mutate this tick.",
-    "STABLE: 'Resolute Rapier of Iron' did not mutate this tick.",
-    "MUTATED: 'Titanic Blade of Stone' evolved to generation 53.",
-    "STABLE: 'Glacial Bow of Iron' did not mutate this tick.",
+    "MUTATED: 'Glowing Focus of Torment' evolved to generation 21.",
     "STABLE: 'Brittle Shard of Grace' did not mutate this tick.",
-    "MUTATED: 'Glowing Focus of Torment' evolved to generation 18.",
-    "MUTATED: 'Glowing Focus of Torment' evolved to generation 19."
+    "STABLE: 'Ancient Rapier of Blight' did not mutate this tick.",
+    "STABLE: 'Ancient Rapier of Blight' did not mutate this tick.",
+    "MUTATED: 'Brittle Shard of Grace' evolved to generation 2.",
+    "MUTATED: 'Titanic Blade of Stone' evolved to generation 54."
   ],
   "created": 61,
   "avg_lifespan": 38.58823529411765,
