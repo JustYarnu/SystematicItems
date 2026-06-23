@@ -2,23 +2,24 @@
   "id": "af017650-ea8e-44a5-aa4d-1dde9bb7d069",
   "name": "Cursed Core of Gales",
   "type": "Artifact",
-  "generation": 19,
-  "damage": 13.0,
+  "generation": 22,
+  "damage": 14.5,
   "damage_type": [
     "Physical",
     "Sonic"
   ],
   "crit_damage": 2,
   "crit_rate": 0.060000000000000005,
-  "str_mod": 1.2000000000000002,
+  "str_mod": 1.3000000000000003,
   "dex_mod": 1.18,
   "rarity": 1,
-  "durability": 33.72000000000003,
+  "durability": 23.48000000000003,
   "max_durability": 125.0,
-  "volatility": 0.43000000000000005,
+  "volatility": 0.39000000000000007,
   "resilience": 0.46,
   "worth": 100,
   "affinities": {
-    "Chaos": 0.1
+    "Chaos": 0.1,
+    "STR": 0.1
   }
 }

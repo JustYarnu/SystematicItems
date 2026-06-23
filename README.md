@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5107
+5132
 
 ## Oldest Item
 Brittle Shard of Grace
@@ -11,22 +11,22 @@ Brittle Shard of Grace
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.75
-- Average Volatility: 0.46
-- Average Durability: 47.76
+- Average Volatility: 0.47
+- Average Durability: 43.12
 
 ## Dominant Factions
 - Restoration: 1.2
 - Chaos: 1.0
-- DEX: 0.9
+- DEX: 1.0
 
 ## Extremes
 - Most Stable Item: Mundane Bow of Ash
 - Most Volatile Item: Resolute Rapier of Iron
 
 ## Recent Events
+- STABLE: 'Verdant Axe of Decay' did not mutate this tick.
 - STABLE: 'Ancient Rapier of Blight' did not mutate this tick.
-- MUTATED: 'Brittle Shard of Grace' evolved to generation 2.
-- MUTATED: 'Titanic Blade of Stone' evolved to generation 54.
+- MUTATED: 'Cursed Core of Gales' evolved to generation 22.
 
 ## Lifecycle Stats
 - Items Created: 61
@@ -40,8 +40,8 @@ Brittle Shard of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5107
-- Successful Mutations: 2160
+- Mutations Attempted: 5132
+- Successful Mutations: 2171
 - Failure Rate: 57.7%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Brittle Shard of Grace
 
 ## Economy
 - Total Currency: 103500
-- Currency per Tick (avg): 20.27
+- Currency per Tick (avg): 20.17
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
