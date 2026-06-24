@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5257
+5282
 
 ## Oldest Item
 Zealous Spear of the Void
@@ -12,10 +12,10 @@ Zealous Spear of the Void
 - Active Items: 10
 - Average Rarity: 1.55
 - Average Volatility: 0.5
-- Average Durability: 45.66
+- Average Durability: 44.45
 
 ## Dominant Factions
-- Chaos: 0.8
+- Chaos: 0.9
 - Restoration: 0.6
 - Order: 0.6
 
@@ -24,9 +24,9 @@ Zealous Spear of the Void
 - Most Volatile Item: Titanic Blade of Stone
 
 ## Recent Events
-- MUTATED: 'Brittle Shard of Grace' evolved to generation 9.
-- MUTATED: 'Glacial Bow of Iron' evolved to generation 26.
 - STABLE: 'Mundane Bow of Ash' did not mutate this tick.
+- MUTATED: 'Glowing Focus of Torment' evolved to generation 29.
+- MUTATED: 'Titanic Blade of Stone' evolved to generation 67.
 
 ## Lifecycle Stats
 - Items Created: 63
@@ -40,8 +40,8 @@ Zealous Spear of the Void
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5257
-- Successful Mutations: 2227
+- Mutations Attempted: 5282
+- Successful Mutations: 2241
 - Failure Rate: 57.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Zealous Spear of the Void
 
 ## Economy
 - Total Currency: 107900
-- Currency per Tick (avg): 20.53
+- Currency per Tick (avg): 20.43
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

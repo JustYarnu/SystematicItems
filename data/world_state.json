@@ -1,21 +1,21 @@
 {
   "currency": 107900,
-  "tick": 5257,
+  "tick": 5282,
   "mutation_stats": {
-    "attempted": 5257,
-    "success": 2227
+    "attempted": 5282,
+    "success": 2241
   },
   "recent_events": [
-    "STABLE: 'Ancient Rapier of Blight' did not mutate this tick.",
-    "MUTATED: 'Glacial Blade of Ash' evolved to generation 66.",
-    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
-    "MUTATED: 'Ancient Rapier of Blight' evolved to generation 34.",
-    "REPLACED WITH: 'Zealous Spear of the Void' (6de791e8-20b7-454a-84af-273e1d5eb70b)",
-    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
-    "MUTATED: 'Glacial Bow of Iron' evolved to generation 25.",
-    "MUTATED: 'Brittle Shard of Grace' evolved to generation 9.",
-    "MUTATED: 'Glacial Bow of Iron' evolved to generation 26.",
-    "STABLE: 'Mundane Bow of Ash' did not mutate this tick."
+    "MUTATED: 'Glacial Bow of Iron' evolved to generation 28.",
+    "STABLE: 'Brittle Shard of Grace' did not mutate this tick.",
+    "STABLE: 'Glowing Focus of Torment' did not mutate this tick.",
+    "STABLE: 'Glacial Bow of Iron' did not mutate this tick.",
+    "STABLE: 'Verdant Axe of Decay' did not mutate this tick.",
+    "MUTATED: 'Glacial Blade of Ash' evolved to generation 67.",
+    "MUTATED: 'Glacial Blade of Ash' evolved to generation 68.",
+    "STABLE: 'Mundane Bow of Ash' did not mutate this tick.",
+    "MUTATED: 'Glowing Focus of Torment' evolved to generation 29.",
+    "MUTATED: 'Titanic Blade of Stone' evolved to generation 67."
   ],
   "created": 63,
   "avg_lifespan": 38.716981132075475,
