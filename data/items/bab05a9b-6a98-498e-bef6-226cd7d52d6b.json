@@ -2,7 +2,7 @@
   "id": "bab05a9b-6a98-498e-bef6-226cd7d52d6b",
   "name": "Mundane Bow of Ash",
   "type": "Ranged",
-  "generation": 5,
+  "generation": 6,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -13,10 +13,12 @@
   "str_mod": 1.0,
   "dex_mod": 1.4500000000000002,
   "rarity": 1,
-  "durability": 65.5,
+  "durability": 59.5,
   "max_durability": 102.0,
-  "volatility": 0.28000000000000014,
+  "volatility": 0.3200000000000002,
   "resilience": 0.75,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Chaos": 0.1
+  }
 }
