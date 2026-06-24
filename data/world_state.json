@@ -1,23 +1,23 @@
 {
-  "currency": 106100,
-  "tick": 5232,
+  "currency": 107900,
+  "tick": 5257,
   "mutation_stats": {
-    "attempted": 5232,
-    "success": 2214
+    "attempted": 5257,
+    "success": 2227
   },
   "recent_events": [
-    "STABLE: 'Cursed Core of Gales' did not mutate this tick.",
-    "MUTATED: 'Titanic Blade of Stone' evolved to generation 63.",
-    "STABLE: 'Titanic Blade of Stone' did not mutate this tick.",
-    "MUTATED: 'Mundane Bow of Ash' evolved to generation 6.",
-    "MUTATED: 'Glacial Blade of Ash' evolved to generation 65.",
-    "STABLE: 'Glacial Bow of Iron' did not mutate this tick.",
-    "STABLE: 'Verdant Axe of Decay' did not mutate this tick.",
-    "STABLE: 'Cursed Core of Gales' did not mutate this tick.",
-    "MUTATED: 'Ancient Shard of Distortion' evolved to generation 2.",
-    "STABLE: 'Ancient Rapier of Blight' did not mutate this tick."
+    "STABLE: 'Ancient Rapier of Blight' did not mutate this tick.",
+    "MUTATED: 'Glacial Blade of Ash' evolved to generation 66.",
+    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
+    "MUTATED: 'Ancient Rapier of Blight' evolved to generation 34.",
+    "REPLACED WITH: 'Zealous Spear of the Void' (6de791e8-20b7-454a-84af-273e1d5eb70b)",
+    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
+    "MUTATED: 'Glacial Bow of Iron' evolved to generation 25.",
+    "MUTATED: 'Brittle Shard of Grace' evolved to generation 9.",
+    "MUTATED: 'Glacial Bow of Iron' evolved to generation 26.",
+    "STABLE: 'Mundane Bow of Ash' did not mutate this tick."
   ],
-  "created": 62,
-  "avg_lifespan": 38.807692307692314,
-  "archived": 52
+  "created": 63,
+  "avg_lifespan": 38.716981132075475,
+  "archived": 53
 }

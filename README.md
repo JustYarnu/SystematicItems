@@ -3,20 +3,20 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5232
+5257
 
 ## Oldest Item
-Ancient Shard of Distortion
+Zealous Spear of the Void
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.55
-- Average Volatility: 0.49
-- Average Durability: 38.56
+- Average Volatility: 0.5
+- Average Durability: 45.66
 
 ## Dominant Factions
-- Restoration: 1.1
-- Chaos: 1.0
+- Chaos: 0.8
+- Restoration: 0.6
 - Order: 0.6
 
 ## Extremes
@@ -24,14 +24,14 @@ Ancient Shard of Distortion
 - Most Volatile Item: Titanic Blade of Stone
 
 ## Recent Events
-- STABLE: 'Cursed Core of Gales' did not mutate this tick.
-- MUTATED: 'Ancient Shard of Distortion' evolved to generation 2.
-- STABLE: 'Ancient Rapier of Blight' did not mutate this tick.
+- MUTATED: 'Brittle Shard of Grace' evolved to generation 9.
+- MUTATED: 'Glacial Bow of Iron' evolved to generation 26.
+- STABLE: 'Mundane Bow of Ash' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 62
-- Items Archived: 52
-- Avg Lifespan (ticks): 38.8
+- Items Created: 63
+- Items Archived: 53
+- Avg Lifespan (ticks): 38.7
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,9 +40,9 @@ Ancient Shard of Distortion
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5232
-- Successful Mutations: 2214
-- Failure Rate: 57.7%
+- Mutations Attempted: 5257
+- Successful Mutations: 2227
+- Failure Rate: 57.6%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -56,8 +56,8 @@ Ancient Shard of Distortion
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 106100
-- Currency per Tick (avg): 20.28
+- Total Currency: 107900
+- Currency per Tick (avg): 20.53
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

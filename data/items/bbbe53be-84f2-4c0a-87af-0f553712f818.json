@@ -2,7 +2,7 @@
   "id": "bbbe53be-84f2-4c0a-87af-0f553712f818",
   "name": "Brittle Shard of Grace",
   "type": "Dagger",
-  "generation": 8,
+  "generation": 9,
   "damage": 29.0,
   "damage_type": [
     "Physical",
@@ -13,7 +13,7 @@
   "str_mod": 1.0,
   "dex_mod": 1.35,
   "rarity": 1,
-  "durability": 57.19999999999999,
+  "durability": 70.19999999999999,
   "max_durability": 62.0,
   "volatility": 0.3800000000000001,
   "resilience": 0.58,

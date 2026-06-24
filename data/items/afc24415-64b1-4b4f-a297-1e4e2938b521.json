@@ -2,8 +2,8 @@
   "id": "afc24415-64b1-4b4f-a297-1e4e2938b521",
   "name": "Glacial Bow of Iron",
   "type": "Ranged",
-  "generation": 22,
-  "damage": 24.0,
+  "generation": 26,
+  "damage": 25.5,
   "damage_type": [
     "Physical",
     "Cold",
@@ -11,17 +11,17 @@
   ],
   "crit_damage": 3.0,
   "crit_rate": 0.060000000000000005,
-  "str_mod": 1.2000000000000002,
+  "str_mod": 1.3000000000000003,
   "dex_mod": 1.2499999999999996,
   "rarity": 2,
-  "durability": 15.019999999999989,
-  "max_durability": 105.0,
-  "volatility": 0.5500000000000003,
-  "resilience": 0.7799999999999999,
+  "durability": 5.2099999999999875,
+  "max_durability": 110.0,
+  "volatility": 0.5200000000000002,
+  "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {
     "STR": 0.1,
     "Chaos": 0.1,
-    "Order": 0.1
+    "Order": 0.2
   }
 }
