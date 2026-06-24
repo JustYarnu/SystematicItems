@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5307
+5332
 
 ## Oldest Item
 Mundane Rapier of Whispers
@@ -11,8 +11,8 @@ Mundane Rapier of Whispers
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.5
-- Average Volatility: 0.44
-- Average Durability: 61.6
+- Average Volatility: 0.45
+- Average Durability: 58.13
 
 ## Dominant Factions
 - Restoration: 0.6
@@ -24,9 +24,9 @@ Mundane Rapier of Whispers
 - Most Volatile Item: Titanic Blade of Stone
 
 ## Recent Events
-- MUTATED: 'Zealous Spear of the Void' evolved to generation 7.
-- MUTATED: 'Ancient Shard of Distortion' evolved to generation 8.
-- STABLE: 'Verdant Axe of Decay' did not mutate this tick.
+- STABLE: 'Mundane Bow of Ash' did not mutate this tick.
+- STABLE: 'Mundane Bow of Ash' did not mutate this tick.
+- MUTATED: 'Brittle Shard of Grace' evolved to generation 14.
 
 ## Lifecycle Stats
 - Items Created: 65
@@ -40,9 +40,9 @@ Mundane Rapier of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5307
-- Successful Mutations: 2258
-- Failure Rate: 57.5%
+- Mutations Attempted: 5332
+- Successful Mutations: 2269
+- Failure Rate: 57.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Mundane Rapier of Whispers
 
 ## Economy
 - Total Currency: 110850
-- Currency per Tick (avg): 20.89
+- Currency per Tick (avg): 20.79
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
