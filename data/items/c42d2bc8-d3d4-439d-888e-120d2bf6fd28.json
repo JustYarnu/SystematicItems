@@ -2,8 +2,8 @@
   "id": "c42d2bc8-d3d4-439d-888e-120d2bf6fd28",
   "name": "Verdant Axe of Decay",
   "type": "HeavyWeapon",
-  "generation": 6,
-  "damage": 13.0,
+  "generation": 8,
+  "damage": 14.5,
   "damage_type": [
     "Physical",
     "Nature",
@@ -11,13 +11,13 @@
   ],
   "crit_damage": 2.5,
   "crit_rate": 0.01,
-  "str_mod": 1.35,
+  "str_mod": 1.4500000000000002,
   "dex_mod": 1.0,
   "rarity": 1,
-  "durability": 61.19999999999999,
+  "durability": 52.79999999999999,
   "max_durability": 100.0,
-  "volatility": 0.3700000000000002,
-  "resilience": 0.65,
+  "volatility": 0.46000000000000024,
+  "resilience": 0.6,
   "worth": 100,
   "affinities": {}
 }
