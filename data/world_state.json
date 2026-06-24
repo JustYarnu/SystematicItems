@@ -1,23 +1,23 @@
 {
-  "currency": 107900,
-  "tick": 5282,
+  "currency": 110850,
+  "tick": 5307,
   "mutation_stats": {
-    "attempted": 5282,
-    "success": 2241
+    "attempted": 5307,
+    "success": 2258
   },
   "recent_events": [
-    "MUTATED: 'Glacial Bow of Iron' evolved to generation 28.",
+    "MUTATED: 'Brittle Shard of Grace' evolved to generation 12.",
     "STABLE: 'Brittle Shard of Grace' did not mutate this tick.",
-    "STABLE: 'Glowing Focus of Torment' did not mutate this tick.",
-    "STABLE: 'Glacial Bow of Iron' did not mutate this tick.",
-    "STABLE: 'Verdant Axe of Decay' did not mutate this tick.",
-    "MUTATED: 'Glacial Blade of Ash' evolved to generation 67.",
-    "MUTATED: 'Glacial Blade of Ash' evolved to generation 68.",
-    "STABLE: 'Mundane Bow of Ash' did not mutate this tick.",
-    "MUTATED: 'Glowing Focus of Torment' evolved to generation 29.",
-    "MUTATED: 'Titanic Blade of Stone' evolved to generation 67."
+    "MUTATED: 'Mundane Bow of Ash' evolved to generation 7.",
+    "MUTATED: 'Zealous Spear of the Void' evolved to generation 6.",
+    "MUTATED: 'Verdant Axe of Decay' evolved to generation 13.",
+    "MUTATED: 'Ancient Shard of Distortion' evolved to generation 7.",
+    "STABLE: 'Mundane Rapier of Whispers' did not mutate this tick.",
+    "MUTATED: 'Zealous Spear of the Void' evolved to generation 7.",
+    "MUTATED: 'Ancient Shard of Distortion' evolved to generation 8.",
+    "STABLE: 'Verdant Axe of Decay' did not mutate this tick."
   ],
-  "created": 63,
-  "avg_lifespan": 38.716981132075475,
-  "archived": 53
+  "created": 65,
+  "avg_lifespan": 38.30909090909091,
+  "archived": 55
 }

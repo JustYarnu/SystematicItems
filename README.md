@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5282
+5307
 
 ## Oldest Item
-Zealous Spear of the Void
+Mundane Rapier of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.55
-- Average Volatility: 0.5
-- Average Durability: 44.45
+- Average Rarity: 1.5
+- Average Volatility: 0.44
+- Average Durability: 61.6
 
 ## Dominant Factions
-- Chaos: 0.9
 - Restoration: 0.6
-- Order: 0.6
+- Chaos: 0.6
+- DEX: 0.6
 
 ## Extremes
-- Most Stable Item: Mundane Bow of Ash
+- Most Stable Item: Mundane Rapier of Whispers
 - Most Volatile Item: Titanic Blade of Stone
 
 ## Recent Events
-- STABLE: 'Mundane Bow of Ash' did not mutate this tick.
-- MUTATED: 'Glowing Focus of Torment' evolved to generation 29.
-- MUTATED: 'Titanic Blade of Stone' evolved to generation 67.
+- MUTATED: 'Zealous Spear of the Void' evolved to generation 7.
+- MUTATED: 'Ancient Shard of Distortion' evolved to generation 8.
+- STABLE: 'Verdant Axe of Decay' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 63
-- Items Archived: 53
-- Avg Lifespan (ticks): 38.7
+- Items Created: 65
+- Items Archived: 55
+- Avg Lifespan (ticks): 38.3
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Zealous Spear of the Void
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5282
-- Successful Mutations: 2241
-- Failure Rate: 57.6%
+- Mutations Attempted: 5307
+- Successful Mutations: 2258
+- Failure Rate: 57.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 5
-- Uncommon: 5
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Zealous Spear of the Void
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 107900
-- Currency per Tick (avg): 20.43
+- Total Currency: 110850
+- Currency per Tick (avg): 20.89
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
