@@ -1,23 +1,23 @@
 {
-  "currency": 110850,
-  "tick": 5332,
+  "currency": 112650,
+  "tick": 5357,
   "mutation_stats": {
-    "attempted": 5332,
-    "success": 2269
+    "attempted": 5357,
+    "success": 2279
   },
   "recent_events": [
-    "STABLE: 'Verdant Axe of Decay' did not mutate this tick.",
-    "STABLE: 'Titanic Blade of Stone' did not mutate this tick.",
+    "REPLACED WITH: 'Mundane Spear of Sovereignty' (d8d1b570-ebed-4fb9-bcac-5a01528d5fae)",
     "STABLE: 'Brittle Shard of Grace' did not mutate this tick.",
-    "MUTATED: 'Ancient Shard of Distortion' evolved to generation 9.",
-    "STABLE: 'Ancient Shard of Distortion' did not mutate this tick.",
-    "STABLE: 'Brittle Shard of Grace' did not mutate this tick.",
-    "MUTATED: 'Glowing Focus of Torment' evolved to generation 32.",
+    "STABLE: 'Mundane Rapier of Whispers' did not mutate this tick.",
+    "MUTATED: 'Vampiric Sigil of Embers' evolved to generation 4.",
+    "STABLE: 'Mundane Spear of Sovereignty' did not mutate this tick.",
     "STABLE: 'Mundane Bow of Ash' did not mutate this tick.",
-    "STABLE: 'Mundane Bow of Ash' did not mutate this tick.",
-    "MUTATED: 'Brittle Shard of Grace' evolved to generation 14."
+    "MUTATED: 'Glacial Blade of Ash' evolved to generation 70.",
+    "STABLE: 'Vampiric Sigil of Embers' did not mutate this tick.",
+    "MUTATED: 'Brittle Shard of Grace' evolved to generation 16.",
+    "MUTATED: 'Vampiric Sigil of Embers' evolved to generation 5."
   ],
-  "created": 65,
-  "avg_lifespan": 38.30909090909091,
-  "archived": 55
+  "created": 66,
+  "avg_lifespan": 38.232142857142854,
+  "archived": 56
 }

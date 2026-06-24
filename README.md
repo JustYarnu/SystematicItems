@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5332
+5357
 
 ## Oldest Item
-Mundane Rapier of Whispers
+Mundane Spear of Sovereignty
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.5
-- Average Volatility: 0.45
-- Average Durability: 58.13
+- Average Rarity: 1.7
+- Average Volatility: 0.42
+- Average Durability: 64.35
 
 ## Dominant Factions
 - Restoration: 0.6
@@ -20,18 +20,18 @@ Mundane Rapier of Whispers
 - DEX: 0.6
 
 ## Extremes
-- Most Stable Item: Mundane Rapier of Whispers
+- Most Stable Item: Mundane Spear of Sovereignty
 - Most Volatile Item: Titanic Blade of Stone
 
 ## Recent Events
-- STABLE: 'Mundane Bow of Ash' did not mutate this tick.
-- STABLE: 'Mundane Bow of Ash' did not mutate this tick.
-- MUTATED: 'Brittle Shard of Grace' evolved to generation 14.
+- STABLE: 'Vampiric Sigil of Embers' did not mutate this tick.
+- MUTATED: 'Brittle Shard of Grace' evolved to generation 16.
+- MUTATED: 'Vampiric Sigil of Embers' evolved to generation 5.
 
 ## Lifecycle Stats
-- Items Created: 65
-- Items Archived: 55
-- Avg Lifespan (ticks): 38.3
+- Items Created: 66
+- Items Archived: 56
+- Avg Lifespan (ticks): 38.2
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Mundane Rapier of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5332
-- Successful Mutations: 2269
-- Failure Rate: 57.4%
+- Mutations Attempted: 5357
+- Successful Mutations: 2279
+- Failure Rate: 57.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 5
+- Uncommon: 5
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Mundane Rapier of Whispers
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 110850
-- Currency per Tick (avg): 20.79
+- Total Currency: 112650
+- Currency per Tick (avg): 21.03
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
