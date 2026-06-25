@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5532
+5557
 
 ## Oldest Item
-Mundane Spear of Sovereignty
+Mundane Rapier of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.8
-- Average Volatility: 0.47
-- Average Durability: 48.32
+- Average Rarity: 1.9
+- Average Volatility: 0.48
+- Average Durability: 47.52
 
 ## Dominant Factions
 - Chaos: 1.1
@@ -24,9 +24,9 @@ Mundane Spear of Sovereignty
 - Most Volatile Item: Titanic Blade of Stone
 
 ## Recent Events
-- MUTATED: 'Ancient Shard of Distortion' evolved to generation 17.
-- STABLE: 'Mundane Bow of Ash' did not mutate this tick.
-- MUTATED: 'Titanic Blade of Stone' evolved to generation 81.
+- STABLE: 'Zealous Spear of the Void' did not mutate this tick.
+- MUTATED: 'Titanic Blade of Stone' evolved to generation 84.
+- MUTATED: 'Zealous Spear of the Void' evolved to generation 28.
 
 ## Lifecycle Stats
 - Items Created: 66
@@ -40,9 +40,9 @@ Mundane Spear of Sovereignty
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5532
-- Successful Mutations: 2369
-- Failure Rate: 57.2%
+- Mutations Attempted: 5557
+- Successful Mutations: 2382
+- Failure Rate: 57.1%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Mundane Spear of Sovereignty
 
 ## Economy
 - Total Currency: 112650
-- Currency per Tick (avg): 20.36
+- Currency per Tick (avg): 20.27
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
