@@ -2,8 +2,8 @@
   "id": "6de791e8-20b7-454a-84af-273e1d5eb70b",
   "name": "Zealous Spear of the Void",
   "type": "Polearm",
-  "generation": 20,
-  "damage": 16.0,
+  "generation": 23,
+  "damage": 17.5,
   "damage_type": [
     "Physical",
     "Holy",
@@ -11,15 +11,16 @@
   ],
   "crit_damage": 3.0,
   "crit_rate": 0.09,
-  "str_mod": 1.6500000000000004,
-  "dex_mod": 1.1,
+  "str_mod": 1.7500000000000004,
+  "dex_mod": 1.2000000000000002,
   "rarity": 2.0,
-  "durability": 49.41999999999999,
+  "durability": 38.429999999999986,
   "max_durability": 96.0,
   "volatility": 0.6,
   "resilience": 0.43000000000000005,
   "worth": 100,
   "affinities": {
-    "Chaos": 0.1
+    "Chaos": 0.1,
+    "DEX": 0.1
   }
 }

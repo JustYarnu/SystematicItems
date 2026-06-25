@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5482
+5507
 
 ## Oldest Item
 Mundane Rapier of Whispers
@@ -11,11 +11,11 @@ Mundane Rapier of Whispers
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.8
-- Average Volatility: 0.46
-- Average Durability: 56.13
+- Average Volatility: 0.47
+- Average Durability: 53.6
 
 ## Dominant Factions
-- DEX: 0.8
+- DEX: 0.9
 - Chaos: 0.8
 - Restoration: 0.6
 
@@ -25,8 +25,8 @@ Mundane Rapier of Whispers
 
 ## Recent Events
 - STABLE: 'Glacial Blade of Ash' did not mutate this tick.
-- MUTATED: 'Mundane Bow of Ash' evolved to generation 11.
-- MUTATED: 'Vampiric Sigil of Embers' evolved to generation 14.
+- MUTATED: 'Mundane Bow of Ash' evolved to generation 13.
+- STABLE: 'Titanic Blade of Stone' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 66
@@ -40,8 +40,8 @@ Mundane Rapier of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5482
-- Successful Mutations: 2345
+- Mutations Attempted: 5507
+- Successful Mutations: 2357
 - Failure Rate: 57.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Rapier of Whispers
 
 ## Economy
 - Total Currency: 112650
-- Currency per Tick (avg): 20.55
+- Currency per Tick (avg): 20.46
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

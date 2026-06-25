@@ -1,21 +1,21 @@
 {
   "currency": 112650,
-  "tick": 5482,
+  "tick": 5507,
   "mutation_stats": {
-    "attempted": 5482,
-    "success": 2345
+    "attempted": 5507,
+    "success": 2357
   },
   "recent_events": [
-    "MUTATED: 'Glacial Blade of Ash' evolved to generation 78.",
+    "STABLE: 'Mundane Rapier of Whispers' did not mutate this tick.",
+    "STABLE: 'Zealous Spear of the Void' did not mutate this tick.",
     "STABLE: 'Ancient Shard of Distortion' did not mutate this tick.",
-    "STABLE: 'Mundane Spear of Sovereignty' did not mutate this tick.",
-    "MUTATED: 'Mundane Spear of Sovereignty' evolved to generation 7.",
     "STABLE: 'Brittle Shard of Grace' did not mutate this tick.",
-    "MUTATED: 'Vampiric Sigil of Embers' evolved to generation 13.",
-    "STABLE: 'Vampiric Sigil of Embers' did not mutate this tick.",
     "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
-    "MUTATED: 'Mundane Bow of Ash' evolved to generation 11.",
-    "MUTATED: 'Vampiric Sigil of Embers' evolved to generation 14."
+    "MUTATED: 'Zealous Spear of the Void' evolved to generation 23.",
+    "MUTATED: 'Vampiric Sigil of Embers' evolved to generation 15.",
+    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
+    "MUTATED: 'Mundane Bow of Ash' evolved to generation 13.",
+    "STABLE: 'Titanic Blade of Stone' did not mutate this tick."
   ],
   "created": 66,
   "avg_lifespan": 38.232142857142854,
