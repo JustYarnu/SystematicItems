@@ -2,7 +2,7 @@
   "id": "6ae6e2db-421e-471c-8296-6f1e74ceb6d7",
   "name": "Mundane Rapier of Whispers",
   "type": "Generic",
-  "generation": 2,
+  "generation": 4,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.0,
   "dex_mod": 1.2200000000000002,
   "rarity": 1,
-  "durability": 90.0,
-  "max_durability": 100.0,
-  "volatility": 0.18000000000000005,
-  "resilience": 0.75,
+  "durability": 82.5,
+  "max_durability": 115.0,
+  "volatility": 0.26000000000000006,
+  "resilience": 0.7,
   "worth": 100,
   "affinities": {
     "DEX": 0.1

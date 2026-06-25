@@ -2,7 +2,7 @@
   "id": "d8d1b570-ebed-4fb9-bcac-5a01528d5fae",
   "name": "Mundane Spear of Sovereignty",
   "type": "Polearm",
-  "generation": 3,
+  "generation": 4,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.1,
   "rarity": 3.5,
-  "durability": 93.2018387305144,
-  "max_durability": 102.0,
-  "volatility": 0.12,
+  "durability": 88.40367746102879,
+  "max_durability": 104.0,
+  "volatility": 0.14,
   "resilience": 0.8403677461028802,
   "worth": 100,
   "affinities": {
