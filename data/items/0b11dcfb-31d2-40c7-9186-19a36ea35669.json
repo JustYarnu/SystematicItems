@@ -2,7 +2,7 @@
   "id": "0b11dcfb-31d2-40c7-9186-19a36ea35669",
   "name": "Vampiric Sigil of Embers",
   "type": "Focus",
-  "generation": 15,
+  "generation": 17,
   "damage": 26.0,
   "damage_type": [
     "Physical",
@@ -15,10 +15,12 @@
   "str_mod": 1.5500000000000003,
   "dex_mod": 1.0,
   "rarity": 1.5,
-  "durability": 74.65,
+  "durability": 69.65,
   "max_durability": 106.0,
-  "volatility": 0.4000000000000001,
+  "volatility": 0.4100000000000001,
   "resilience": 0.6000000000000001,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Chaos": 0.2
+  }
 }
