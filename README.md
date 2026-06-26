@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5707
+5732
 
 ## Oldest Item
-Gilded Blade of Might
+Blessed Blade of Venom
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.95
-- Average Volatility: 0.49
-- Average Durability: 40.9
+- Average Rarity: 1.85
+- Average Volatility: 0.47
+- Average Durability: 47.74
 
 ## Dominant Factions
-- Chaos: 1.1
-- DEX: 0.9
-- Order: 0.7
+- Chaos: 0.7
+- Stability: 0.7
+- DEX: 0.7
 
 ## Extremes
 - Most Stable Item: Gilded Blade of Might
 - Most Volatile Item: Ancient Shard of Distortion
 
 ## Recent Events
-- MUTATED: 'Brittle Shard of Grace' evolved to generation 27.
-- STABLE: 'Gilded Blade of Might' did not mutate this tick.
-- MUTATED: 'Brittle Shard of Grace' evolved to generation 28.
+- REPLACED WITH: 'Blessed Blade of Venom' (2043a4e3-2d09-4ac5-b4ee-46283a5272aa)
+- MUTATED: 'Ancient Shard of Distortion' evolved to generation 27.
+- MUTATED: 'Mundane Rapier of Whispers' evolved to generation 22.
 
 ## Lifecycle Stats
-- Items Created: 67
-- Items Archived: 57
-- Avg Lifespan (ticks): 38.1
+- Items Created: 68
+- Items Archived: 58
+- Avg Lifespan (ticks): 39.1
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Gilded Blade of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5707
-- Successful Mutations: 2454
+- Mutations Attempted: 5732
+- Successful Mutations: 2466
 - Failure Rate: 57.0%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 4
-- Uncommon: 6
+- Common: 5
+- Uncommon: 5
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Gilded Blade of Might
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 114350
-- Currency per Tick (avg): 20.04
+- Total Currency: 119100
+- Currency per Tick (avg): 20.78
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
