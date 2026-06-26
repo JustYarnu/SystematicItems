@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5757
+5782
 
 ## Oldest Item
 Heavy Focus of Light
@@ -12,7 +12,7 @@ Heavy Focus of Light
 - Active Items: 10
 - Average Rarity: 1.78
 - Average Volatility: 0.45
-- Average Durability: 55.31
+- Average Durability: 54.72
 
 ## Dominant Factions
 - Chaos: 0.8
@@ -24,9 +24,9 @@ Heavy Focus of Light
 - Most Volatile Item: Titanic Blade of Stone
 
 ## Recent Events
-- MUTATED: 'Vampiric Sigil of Embers' evolved to generation 28.
+- STABLE: 'Blessed Blade of Venom' did not mutate this tick.
 - STABLE: 'Mundane Rapier of Whispers' did not mutate this tick.
-- MUTATED: 'Ancient Shard of Distortion' evolved to generation 29.
+- MUTATED: 'Vampiric Sigil of Embers' evolved to generation 31.
 
 ## Lifecycle Stats
 - Items Created: 69
@@ -40,8 +40,8 @@ Heavy Focus of Light
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5757
-- Successful Mutations: 2476
+- Mutations Attempted: 5782
+- Successful Mutations: 2485
 - Failure Rate: 57.0%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Heavy Focus of Light
 
 ## Economy
 - Total Currency: 120700
-- Currency per Tick (avg): 20.97
+- Currency per Tick (avg): 20.88
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
