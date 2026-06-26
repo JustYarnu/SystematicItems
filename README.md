@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5732
+5757
 
 ## Oldest Item
-Blessed Blade of Venom
+Heavy Focus of Light
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.85
-- Average Volatility: 0.47
-- Average Durability: 47.74
+- Average Rarity: 1.78
+- Average Volatility: 0.45
+- Average Durability: 55.31
 
 ## Dominant Factions
-- Chaos: 0.7
+- Chaos: 0.8
 - Stability: 0.7
-- DEX: 0.7
+- DEX: 0.6
 
 ## Extremes
-- Most Stable Item: Gilded Blade of Might
-- Most Volatile Item: Ancient Shard of Distortion
+- Most Stable Item: Heavy Focus of Light
+- Most Volatile Item: Titanic Blade of Stone
 
 ## Recent Events
-- REPLACED WITH: 'Blessed Blade of Venom' (2043a4e3-2d09-4ac5-b4ee-46283a5272aa)
-- MUTATED: 'Ancient Shard of Distortion' evolved to generation 27.
-- MUTATED: 'Mundane Rapier of Whispers' evolved to generation 22.
+- MUTATED: 'Vampiric Sigil of Embers' evolved to generation 28.
+- STABLE: 'Mundane Rapier of Whispers' did not mutate this tick.
+- MUTATED: 'Ancient Shard of Distortion' evolved to generation 29.
 
 ## Lifecycle Stats
-- Items Created: 68
-- Items Archived: 58
-- Avg Lifespan (ticks): 39.1
+- Items Created: 69
+- Items Archived: 59
+- Avg Lifespan (ticks): 38.9
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Blessed Blade of Venom
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5732
-- Successful Mutations: 2466
+- Mutations Attempted: 5757
+- Successful Mutations: 2476
 - Failure Rate: 57.0%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 5
-- Uncommon: 5
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Blessed Blade of Venom
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 119100
-- Currency per Tick (avg): 20.78
+- Total Currency: 120700
+- Currency per Tick (avg): 20.97
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

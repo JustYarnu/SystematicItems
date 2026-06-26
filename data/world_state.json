@@ -1,23 +1,23 @@
 {
-  "currency": 119100,
-  "tick": 5732,
+  "currency": 120700,
+  "tick": 5757,
   "mutation_stats": {
-    "attempted": 5732,
-    "success": 2466
+    "attempted": 5757,
+    "success": 2476
   },
   "recent_events": [
-    "MUTATED: 'Glacial Blade of Ash' evolved to generation 93.",
-    "MUTATED: 'Mundane Bow of Ash' evolved to generation 24.",
+    "MUTATED: 'Mundane Rapier of Whispers' evolved to generation 23.",
+    "MUTATED: 'Blessed Blade of Venom' evolved to generation 2.",
+    "MUTATED: 'Vampiric Sigil of Embers' evolved to generation 27.",
+    "STABLE: 'Gilded Blade of Might' did not mutate this tick.",
+    "STABLE: 'Verdant Axe of Decay' did not mutate this tick.",
+    "STABLE: 'Vampiric Sigil of Embers' did not mutate this tick.",
     "STABLE: 'Titanic Blade of Stone' did not mutate this tick.",
-    "MUTATED: 'Gilded Blade of Might' evolved to generation 2.",
-    "MUTATED: 'Mundane Bow of Ash' evolved to generation 25.",
-    "MUTATED: 'Brittle Shard of Grace' evolved to generation 29.",
-    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
-    "REPLACED WITH: 'Blessed Blade of Venom' (2043a4e3-2d09-4ac5-b4ee-46283a5272aa)",
-    "MUTATED: 'Ancient Shard of Distortion' evolved to generation 27.",
-    "MUTATED: 'Mundane Rapier of Whispers' evolved to generation 22."
+    "MUTATED: 'Vampiric Sigil of Embers' evolved to generation 28.",
+    "STABLE: 'Mundane Rapier of Whispers' did not mutate this tick.",
+    "MUTATED: 'Ancient Shard of Distortion' evolved to generation 29."
   ],
-  "created": 68,
-  "avg_lifespan": 39.06896551724138,
-  "archived": 58
+  "created": 69,
+  "avg_lifespan": 38.91525423728814,
+  "archived": 59
 }
