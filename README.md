@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5657
+5682
 
 ## Oldest Item
 Gilded Blade of Might
@@ -11,8 +11,8 @@ Gilded Blade of Might
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.95
-- Average Volatility: 0.47
-- Average Durability: 48.11
+- Average Volatility: 0.46
+- Average Durability: 44.76
 
 ## Dominant Factions
 - Chaos: 1.1
@@ -24,9 +24,9 @@ Gilded Blade of Might
 - Most Volatile Item: Titanic Blade of Stone
 
 ## Recent Events
-- STABLE: 'Vampiric Sigil of Embers' did not mutate this tick.
-- STABLE: 'Mundane Spear of Sovereignty' did not mutate this tick.
-- STABLE: 'Glacial Blade of Ash' did not mutate this tick.
+- STABLE: 'Brittle Shard of Grace' did not mutate this tick.
+- MUTATED: 'Mundane Spear of Sovereignty' evolved to generation 14.
+- MUTATED: 'Mundane Bow of Ash' evolved to generation 21.
 
 ## Lifecycle Stats
 - Items Created: 67
@@ -40,9 +40,9 @@ Gilded Blade of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5657
-- Successful Mutations: 2429
-- Failure Rate: 57.1%
+- Mutations Attempted: 5682
+- Successful Mutations: 2443
+- Failure Rate: 57.0%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Gilded Blade of Might
 
 ## Economy
 - Total Currency: 114350
-- Currency per Tick (avg): 20.21
+- Currency per Tick (avg): 20.12
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
