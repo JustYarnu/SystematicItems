@@ -2,7 +2,7 @@
   "id": "fa473ba3-cf05-4f24-999e-ba7e09b7f2a3",
   "name": "Ancient Shard of Distortion",
   "type": "Dagger",
-  "generation": 19,
+  "generation": 20,
   "damage": 15.0,
   "damage_type": [
     "Physical",
@@ -15,9 +15,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.0,
   "rarity": 3.0,
-  "durability": 73.22,
+  "durability": 78.22,
   "max_durability": 126.0,
-  "volatility": 0.48000000000000004,
+  "volatility": 0.47000000000000003,
   "resilience": 0.73,
   "worth": 100,
   "affinities": {
