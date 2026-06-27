@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5807
+5832
 
 ## Oldest Item
 Heavy Focus of Light
@@ -11,8 +11,8 @@ Heavy Focus of Light
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.88
-- Average Volatility: 0.45
-- Average Durability: 50.12
+- Average Volatility: 0.42
+- Average Durability: 60.84
 
 ## Dominant Factions
 - Chaos: 0.8
@@ -20,17 +20,17 @@ Heavy Focus of Light
 - DEX: 0.6
 
 ## Extremes
-- Most Stable Item: Heavy Focus of Light
-- Most Volatile Item: Mundane Rapier of Whispers
+- Most Stable Item: Titanic Axe of Blood
+- Most Volatile Item: Ancient Shard of Distortion
 
 ## Recent Events
-- MUTATED: 'Mundane Spear of Sovereignty' evolved to generation 19.
-- MUTATED: 'Verdant Axe of Decay' evolved to generation 39.
-- STABLE: 'Mundane Bow of Ash' did not mutate this tick.
+- REPLACED WITH: 'Titanic Axe of Blood' (ddd67e6c-2efc-4cef-a6b7-be7fca5a2d48)
+- MUTATED: 'Mundane Spear of Sovereignty' evolved to generation 21.
+- STABLE: 'Titanic Axe of Blood' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 69
-- Items Archived: 59
+- Items Created: 70
+- Items Archived: 60
 - Avg Lifespan (ticks): 38.9
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Heavy Focus of Light
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5807
-- Successful Mutations: 2496
+- Mutations Attempted: 5832
+- Successful Mutations: 2509
 - Failure Rate: 57.0%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Heavy Focus of Light
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 120700
-- Currency per Tick (avg): 20.79
+- Total Currency: 122800
+- Currency per Tick (avg): 21.06
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

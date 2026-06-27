@@ -1,23 +1,23 @@
 {
-  "currency": 120700,
-  "tick": 5807,
+  "currency": 122800,
+  "tick": 5832,
   "mutation_stats": {
-    "attempted": 5807,
-    "success": 2496
+    "attempted": 5832,
+    "success": 2509
   },
   "recent_events": [
-    "STABLE: 'Verdant Axe of Decay' did not mutate this tick.",
-    "STABLE: 'Heavy Focus of Light' did not mutate this tick.",
-    "STABLE: 'Mundane Spear of Sovereignty' did not mutate this tick.",
-    "MUTATED: 'Mundane Spear of Sovereignty' evolved to generation 18.",
-    "MUTATED: 'Mundane Bow of Ash' evolved to generation 29.",
-    "STABLE: 'Verdant Axe of Decay' did not mutate this tick.",
-    "MUTATED: 'Titanic Blade of Stone' evolved to generation 88.",
-    "MUTATED: 'Mundane Spear of Sovereignty' evolved to generation 19.",
-    "MUTATED: 'Verdant Axe of Decay' evolved to generation 39.",
-    "STABLE: 'Mundane Bow of Ash' did not mutate this tick."
+    "MUTATED: 'Mundane Spear of Sovereignty' evolved to generation 20.",
+    "STABLE: 'Titanic Blade of Stone' did not mutate this tick.",
+    "MUTATED: 'Vampiric Sigil of Embers' evolved to generation 36.",
+    "MUTATED: 'Mundane Rapier of Whispers' evolved to generation 26.",
+    "STABLE: 'Ancient Shard of Distortion' did not mutate this tick.",
+    "MUTATED: 'Vampiric Sigil of Embers' evolved to generation 37.",
+    "MUTATED: 'Verdant Axe of Decay' evolved to generation 40.",
+    "REPLACED WITH: 'Titanic Axe of Blood' (ddd67e6c-2efc-4cef-a6b7-be7fca5a2d48)",
+    "MUTATED: 'Mundane Spear of Sovereignty' evolved to generation 21.",
+    "STABLE: 'Titanic Axe of Blood' did not mutate this tick."
   ],
-  "created": 69,
-  "avg_lifespan": 38.91525423728814,
-  "archived": 59
+  "created": 70,
+  "avg_lifespan": 38.93333333333333,
+  "archived": 60
 }
