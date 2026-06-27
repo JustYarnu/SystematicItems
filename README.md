@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5932
+5957
 
 ## Oldest Item
-Blessed Blade of Venom
+Heavy Core of Blight
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.88
-- Average Volatility: 0.44
-- Average Durability: 48.55
+- Average Rarity: 1.71
+- Average Volatility: 0.35
+- Average Durability: 63.85
 
 ## Dominant Factions
-- Chaos: 0.9
-- Order: 0.8
-- Stability: 0.7
+- Chaos: 0.8
+- DEX: 0.6
+- STR: 0.5
 
 ## Extremes
-- Most Stable Item: Titanic Axe of Blood
+- Most Stable Item: Heavy Core of Blight
 - Most Volatile Item: Vampiric Sigil of Embers
 
 ## Recent Events
-- STABLE: 'Heavy Focus of Light' did not mutate this tick.
-- STABLE: 'Titanic Blade of Stone' did not mutate this tick.
-- STABLE: 'Titanic Axe of Blood' did not mutate this tick.
+- REPLACED WITH: 'Heavy Core of Blight' (a75f0850-024d-4201-b615-49d968a39bde)
+- STABLE: 'Heavy Core of Blight' did not mutate this tick.
+- STABLE: 'Blessed Blade of Venom' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 70
-- Items Archived: 60
+- Items Created: 72
+- Items Archived: 62
 - Avg Lifespan (ticks): 38.9
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Blessed Blade of Venom
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5932
-- Successful Mutations: 2554
-- Failure Rate: 56.9%
+- Mutations Attempted: 5957
+- Successful Mutations: 2561
+- Failure Rate: 57.0%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 5
-- Uncommon: 5
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Blessed Blade of Venom
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 122800
-- Currency per Tick (avg): 20.7
+- Total Currency: 126650
+- Currency per Tick (avg): 21.26
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
