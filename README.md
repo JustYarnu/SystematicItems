@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5907
+5932
 
 ## Oldest Item
 Blessed Blade of Venom
@@ -11,8 +11,8 @@ Blessed Blade of Venom
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.88
-- Average Volatility: 0.43
-- Average Durability: 49.85
+- Average Volatility: 0.44
+- Average Durability: 48.55
 
 ## Dominant Factions
 - Chaos: 0.9
@@ -21,12 +21,12 @@ Blessed Blade of Venom
 
 ## Extremes
 - Most Stable Item: Titanic Axe of Blood
-- Most Volatile Item: Ancient Shard of Distortion
+- Most Volatile Item: Vampiric Sigil of Embers
 
 ## Recent Events
-- MUTATED: 'Mundane Bow of Ash' evolved to generation 36.
-- STABLE: 'Mundane Bow of Ash' did not mutate this tick.
-- MUTATED: 'Mundane Bow of Ash' evolved to generation 37.
+- STABLE: 'Heavy Focus of Light' did not mutate this tick.
+- STABLE: 'Titanic Blade of Stone' did not mutate this tick.
+- STABLE: 'Titanic Axe of Blood' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 70
@@ -40,8 +40,8 @@ Blessed Blade of Venom
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5907
-- Successful Mutations: 2547
+- Mutations Attempted: 5932
+- Successful Mutations: 2554
 - Failure Rate: 56.9%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Blessed Blade of Venom
 
 ## Economy
 - Total Currency: 122800
-- Currency per Tick (avg): 20.79
+- Currency per Tick (avg): 20.7
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
