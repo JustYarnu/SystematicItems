@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5957
+5982
 
 ## Oldest Item
 Heavy Core of Blight
@@ -11,22 +11,22 @@ Heavy Core of Blight
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.71
-- Average Volatility: 0.35
-- Average Durability: 63.85
+- Average Volatility: 0.36
+- Average Durability: 60.5
 
 ## Dominant Factions
 - Chaos: 0.8
+- Stability: 0.6
 - DEX: 0.6
-- STR: 0.5
 
 ## Extremes
 - Most Stable Item: Heavy Core of Blight
-- Most Volatile Item: Vampiric Sigil of Embers
+- Most Volatile Item: Titanic Blade of Stone
 
 ## Recent Events
-- REPLACED WITH: 'Heavy Core of Blight' (a75f0850-024d-4201-b615-49d968a39bde)
-- STABLE: 'Heavy Core of Blight' did not mutate this tick.
-- STABLE: 'Blessed Blade of Venom' did not mutate this tick.
+- STABLE: 'Vampiric Sigil of Embers' did not mutate this tick.
+- STABLE: 'Gilded Blade of Might' did not mutate this tick.
+- STABLE: 'Mundane Spear of Sovereignty' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 72
@@ -40,9 +40,9 @@ Heavy Core of Blight
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5957
-- Successful Mutations: 2561
-- Failure Rate: 57.0%
+- Mutations Attempted: 5982
+- Successful Mutations: 2566
+- Failure Rate: 57.1%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Heavy Core of Blight
 
 ## Economy
 - Total Currency: 126650
-- Currency per Tick (avg): 21.26
+- Currency per Tick (avg): 21.17
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

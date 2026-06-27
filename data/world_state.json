@@ -1,21 +1,21 @@
 {
   "currency": 126650,
-  "tick": 5957,
+  "tick": 5982,
   "mutation_stats": {
-    "attempted": 5957,
-    "success": 2561
+    "attempted": 5982,
+    "success": 2566
   },
   "recent_events": [
     "STABLE: 'Mundane Bow of Ash' did not mutate this tick.",
     "STABLE: 'Heavy Focus of Light' did not mutate this tick.",
-    "STABLE: 'Ancient Shard of Distortion' did not mutate this tick.",
-    "STABLE: 'Ancient Shard of Distortion' did not mutate this tick.",
+    "STABLE: 'Titanic Axe of Blood' did not mutate this tick.",
+    "STABLE: 'Heavy Focus of Light' did not mutate this tick.",
     "STABLE: 'Mundane Spear of Light' did not mutate this tick.",
-    "MUTATED: 'Titanic Blade of Stone' evolved to generation 96.",
-    "MUTATED: 'Ancient Shard of Distortion' evolved to generation 41.",
-    "REPLACED WITH: 'Heavy Core of Blight' (a75f0850-024d-4201-b615-49d968a39bde)",
-    "STABLE: 'Heavy Core of Blight' did not mutate this tick.",
-    "STABLE: 'Blessed Blade of Venom' did not mutate this tick."
+    "STABLE: 'Heavy Focus of Light' did not mutate this tick.",
+    "STABLE: 'Blessed Blade of Venom' did not mutate this tick.",
+    "STABLE: 'Vampiric Sigil of Embers' did not mutate this tick.",
+    "STABLE: 'Gilded Blade of Might' did not mutate this tick.",
+    "STABLE: 'Mundane Spear of Sovereignty' did not mutate this tick."
   ],
   "created": 72,
   "avg_lifespan": 38.854838709677416,
