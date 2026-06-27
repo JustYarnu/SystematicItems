@@ -1,21 +1,21 @@
 {
   "currency": 122800,
-  "tick": 5832,
+  "tick": 5857,
   "mutation_stats": {
-    "attempted": 5832,
-    "success": 2509
+    "attempted": 5857,
+    "success": 2522
   },
   "recent_events": [
-    "MUTATED: 'Mundane Spear of Sovereignty' evolved to generation 20.",
+    "MUTATED: 'Mundane Bow of Ash' evolved to generation 33.",
+    "MUTATED: 'Titanic Axe of Blood' evolved to generation 2.",
+    "STABLE: 'Mundane Spear of Sovereignty' did not mutate this tick.",
+    "STABLE: 'Gilded Blade of Might' did not mutate this tick.",
     "STABLE: 'Titanic Blade of Stone' did not mutate this tick.",
-    "MUTATED: 'Vampiric Sigil of Embers' evolved to generation 36.",
-    "MUTATED: 'Mundane Rapier of Whispers' evolved to generation 26.",
-    "STABLE: 'Ancient Shard of Distortion' did not mutate this tick.",
-    "MUTATED: 'Vampiric Sigil of Embers' evolved to generation 37.",
-    "MUTATED: 'Verdant Axe of Decay' evolved to generation 40.",
-    "REPLACED WITH: 'Titanic Axe of Blood' (ddd67e6c-2efc-4cef-a6b7-be7fca5a2d48)",
-    "MUTATED: 'Mundane Spear of Sovereignty' evolved to generation 21.",
-    "STABLE: 'Titanic Axe of Blood' did not mutate this tick."
+    "MUTATED: 'Ancient Shard of Distortion' evolved to generation 33.",
+    "STABLE: 'Blessed Blade of Venom' did not mutate this tick.",
+    "STABLE: 'Gilded Blade of Might' did not mutate this tick.",
+    "MUTATED: 'Titanic Blade of Stone' evolved to generation 90.",
+    "MUTATED: 'Titanic Blade of Stone' evolved to generation 91."
   ],
   "created": 70,
   "avg_lifespan": 38.93333333333333,

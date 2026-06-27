@@ -2,8 +2,8 @@
   "id": "ddd67e6c-2efc-4cef-a6b7-be7fca5a2d48",
   "name": "Titanic Axe of Blood",
   "type": "HeavyWeapon",
-  "generation": 1,
-  "damage": 10.0,
+  "generation": 2,
+  "damage": 15.0,
   "damage_type": [
     "Physical",
     "Slashing"
@@ -11,9 +11,9 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.65,
-  "dex_mod": 0.9,
+  "dex_mod": 0.8,
   "rarity": 1,
-  "durability": 124.0,
+  "durability": 119.5,
   "max_durability": 125.0,
   "volatility": 0.11,
   "resilience": 0.5,

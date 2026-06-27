@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5832
+5857
 
 ## Oldest Item
 Heavy Focus of Light
@@ -12,21 +12,21 @@ Heavy Focus of Light
 - Active Items: 10
 - Average Rarity: 1.88
 - Average Volatility: 0.42
-- Average Durability: 60.84
+- Average Durability: 57.28
 
 ## Dominant Factions
-- Chaos: 0.8
+- Chaos: 0.9
 - Stability: 0.7
-- DEX: 0.6
+- Order: 0.7
 
 ## Extremes
 - Most Stable Item: Titanic Axe of Blood
 - Most Volatile Item: Ancient Shard of Distortion
 
 ## Recent Events
-- REPLACED WITH: 'Titanic Axe of Blood' (ddd67e6c-2efc-4cef-a6b7-be7fca5a2d48)
-- MUTATED: 'Mundane Spear of Sovereignty' evolved to generation 21.
-- STABLE: 'Titanic Axe of Blood' did not mutate this tick.
+- STABLE: 'Gilded Blade of Might' did not mutate this tick.
+- MUTATED: 'Titanic Blade of Stone' evolved to generation 90.
+- MUTATED: 'Titanic Blade of Stone' evolved to generation 91.
 
 ## Lifecycle Stats
 - Items Created: 70
@@ -40,9 +40,9 @@ Heavy Focus of Light
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5832
-- Successful Mutations: 2509
-- Failure Rate: 57.0%
+- Mutations Attempted: 5857
+- Successful Mutations: 2522
+- Failure Rate: 56.9%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Heavy Focus of Light
 
 ## Economy
 - Total Currency: 122800
-- Currency per Tick (avg): 21.06
+- Currency per Tick (avg): 20.97
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
