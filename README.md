@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5882
+5907
 
 ## Oldest Item
 Blessed Blade of Venom
@@ -12,7 +12,7 @@ Blessed Blade of Venom
 - Active Items: 10
 - Average Rarity: 1.88
 - Average Volatility: 0.43
-- Average Durability: 54.04
+- Average Durability: 49.85
 
 ## Dominant Factions
 - Chaos: 0.9
@@ -24,9 +24,9 @@ Blessed Blade of Venom
 - Most Volatile Item: Ancient Shard of Distortion
 
 ## Recent Events
-- STABLE: 'Mundane Spear of Sovereignty' did not mutate this tick.
-- STABLE: 'Gilded Blade of Might' did not mutate this tick.
-- STABLE: 'Mundane Spear of Sovereignty' did not mutate this tick.
+- MUTATED: 'Mundane Bow of Ash' evolved to generation 36.
+- STABLE: 'Mundane Bow of Ash' did not mutate this tick.
+- MUTATED: 'Mundane Bow of Ash' evolved to generation 37.
 
 ## Lifecycle Stats
 - Items Created: 70
@@ -40,8 +40,8 @@ Blessed Blade of Venom
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5882
-- Successful Mutations: 2533
+- Mutations Attempted: 5907
+- Successful Mutations: 2547
 - Failure Rate: 56.9%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Blessed Blade of Venom
 
 ## Economy
 - Total Currency: 122800
-- Currency per Tick (avg): 20.88
+- Currency per Tick (avg): 20.79
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
