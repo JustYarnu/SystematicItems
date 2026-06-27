@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-5782
+5807
 
 ## Oldest Item
 Heavy Focus of Light
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.78
+- Average Rarity: 1.88
 - Average Volatility: 0.45
-- Average Durability: 54.72
+- Average Durability: 50.12
 
 ## Dominant Factions
 - Chaos: 0.8
@@ -21,12 +21,12 @@ Heavy Focus of Light
 
 ## Extremes
 - Most Stable Item: Heavy Focus of Light
-- Most Volatile Item: Titanic Blade of Stone
+- Most Volatile Item: Mundane Rapier of Whispers
 
 ## Recent Events
-- STABLE: 'Blessed Blade of Venom' did not mutate this tick.
-- STABLE: 'Mundane Rapier of Whispers' did not mutate this tick.
-- MUTATED: 'Vampiric Sigil of Embers' evolved to generation 31.
+- MUTATED: 'Mundane Spear of Sovereignty' evolved to generation 19.
+- MUTATED: 'Verdant Axe of Decay' evolved to generation 39.
+- STABLE: 'Mundane Bow of Ash' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 69
@@ -40,15 +40,15 @@ Heavy Focus of Light
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 5782
-- Successful Mutations: 2485
+- Mutations Attempted: 5807
+- Successful Mutations: 2496
 - Failure Rate: 57.0%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 5
+- Uncommon: 5
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Heavy Focus of Light
 
 ## Economy
 - Total Currency: 120700
-- Currency per Tick (avg): 20.88
+- Currency per Tick (avg): 20.79
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

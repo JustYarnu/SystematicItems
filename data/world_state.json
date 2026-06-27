@@ -1,21 +1,21 @@
 {
   "currency": 120700,
-  "tick": 5782,
+  "tick": 5807,
   "mutation_stats": {
-    "attempted": 5782,
-    "success": 2485
+    "attempted": 5807,
+    "success": 2496
   },
   "recent_events": [
+    "STABLE: 'Verdant Axe of Decay' did not mutate this tick.",
     "STABLE: 'Heavy Focus of Light' did not mutate this tick.",
-    "MUTATED: 'Gilded Blade of Might' evolved to generation 3.",
-    "STABLE: 'Mundane Rapier of Whispers' did not mutate this tick.",
-    "MUTATED: 'Vampiric Sigil of Embers' evolved to generation 30.",
     "STABLE: 'Mundane Spear of Sovereignty' did not mutate this tick.",
-    "MUTATED: 'Verdant Axe of Decay' evolved to generation 36.",
-    "STABLE: 'Mundane Bow of Ash' did not mutate this tick.",
-    "STABLE: 'Blessed Blade of Venom' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Whispers' did not mutate this tick.",
-    "MUTATED: 'Vampiric Sigil of Embers' evolved to generation 31."
+    "MUTATED: 'Mundane Spear of Sovereignty' evolved to generation 18.",
+    "MUTATED: 'Mundane Bow of Ash' evolved to generation 29.",
+    "STABLE: 'Verdant Axe of Decay' did not mutate this tick.",
+    "MUTATED: 'Titanic Blade of Stone' evolved to generation 88.",
+    "MUTATED: 'Mundane Spear of Sovereignty' evolved to generation 19.",
+    "MUTATED: 'Verdant Axe of Decay' evolved to generation 39.",
+    "STABLE: 'Mundane Bow of Ash' did not mutate this tick."
   ],
   "created": 69,
   "avg_lifespan": 38.91525423728814,
