@@ -1,23 +1,23 @@
 {
-  "currency": 128300,
-  "tick": 6207,
+  "currency": 130700,
+  "tick": 6232,
   "mutation_stats": {
-    "attempted": 6207,
-    "success": 2658
+    "attempted": 6232,
+    "success": 2669
   },
   "recent_events": [
-    "MUTATED: 'Mundane Bow of Ash' evolved to generation 44.",
-    "MUTATED: 'Mundane Bow of Ash' evolved to generation 45.",
-    "MUTATED: 'Vampiric Sigil of Embers' evolved to generation 53.",
+    "MUTATED: 'Heavy Core of Blight' evolved to generation 10.",
     "STABLE: 'Mundane Spear of Light' did not mutate this tick.",
-    "MUTATED: 'Titanic Axe of Blood' evolved to generation 11.",
-    "MUTATED: 'Titanic Blade of Stone' evolved to generation 117.",
-    "MUTATED: 'Vampiric Sigil of Embers' evolved to generation 54.",
-    "MUTATED: 'Mundane Spear of the Deep' evolved to generation 5.",
+    "MUTATED: 'Vampiric Sigil of Embers' evolved to generation 56.",
+    "MUTATED: 'Heavy Core of Blight' evolved to generation 11.",
     "STABLE: 'Mundane Spear of Light' did not mutate this tick.",
-    "MUTATED: 'Mundane Spear of Light' evolved to generation 7."
+    "STABLE: 'Blessed Blade of Venom' did not mutate this tick.",
+    "STABLE: 'Gilded Blade of Might' did not mutate this tick.",
+    "STABLE: 'Mundane Spear of the Deep' did not mutate this tick.",
+    "MUTATED: 'Titanic Blade of Stone' evolved to generation 118.",
+    "MUTATED: 'Searing Rapier of the Glacier' evolved to generation 2."
   ],
-  "created": 73,
-  "avg_lifespan": 38.73015873015873,
-  "archived": 63
+  "created": 74,
+  "avg_lifespan": 38.84375,
+  "archived": 64
 }
