@@ -1,21 +1,21 @@
 {
   "currency": 128300,
-  "tick": 6057,
+  "tick": 6082,
   "mutation_stats": {
-    "attempted": 6057,
-    "success": 2594
+    "attempted": 6082,
+    "success": 2599
   },
   "recent_events": [
-    "STABLE: 'Mundane Spear of Light' did not mutate this tick.",
-    "MUTATED: 'Titanic Blade of Stone' evolved to generation 104.",
-    "STABLE: 'Mundane Spear of Light' did not mutate this tick.",
-    "MUTATED: 'Gilded Blade of Might' evolved to generation 14.",
-    "STABLE: 'Mundane Spear of Light' did not mutate this tick.",
+    "STABLE: 'Heavy Core of Blight' did not mutate this tick.",
+    "STABLE: 'Titanic Blade of Stone' did not mutate this tick.",
     "STABLE: 'Mundane Spear of the Deep' did not mutate this tick.",
-    "STABLE: 'Mundane Bow of Ash' did not mutate this tick.",
-    "MUTATED: 'Vampiric Sigil of Embers' evolved to generation 48.",
-    "MUTATED: 'Heavy Core of Blight' evolved to generation 2.",
-    "STABLE: 'Blessed Blade of Venom' did not mutate this tick."
+    "STABLE: 'Titanic Axe of Blood' did not mutate this tick.",
+    "STABLE: 'Titanic Axe of Blood' did not mutate this tick.",
+    "STABLE: 'Heavy Core of Blight' did not mutate this tick.",
+    "STABLE: 'Titanic Axe of Blood' did not mutate this tick.",
+    "STABLE: 'Blessed Blade of Venom' did not mutate this tick.",
+    "STABLE: 'Titanic Axe of Blood' did not mutate this tick.",
+    "STABLE: 'Gilded Blade of Might' did not mutate this tick."
   ],
   "created": 73,
   "avg_lifespan": 38.73015873015873,
