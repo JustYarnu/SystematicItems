@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-6032
+6057
 
 ## Oldest Item
-Heavy Core of Blight
+Mundane Spear of the Deep
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.71
-- Average Volatility: 0.36
-- Average Durability: 55.82
+- Average Rarity: 1.46
+- Average Volatility: 0.34
+- Average Durability: 62.29
 
 ## Dominant Factions
-- Chaos: 0.8
-- STR: 0.7
+- Chaos: 0.7
+- STR: 0.6
 - Stability: 0.6
 
 ## Extremes
-- Most Stable Item: Mundane Spear of Light
+- Most Stable Item: Mundane Spear of the Deep
 - Most Volatile Item: Vampiric Sigil of Embers
 
 ## Recent Events
-- STABLE: 'Gilded Blade of Might' did not mutate this tick.
-- MUTATED: 'Titanic Axe of Blood' evolved to generation 5.
-- MUTATED: 'Mundane Spear of Sovereignty' evolved to generation 30.
+- MUTATED: 'Vampiric Sigil of Embers' evolved to generation 48.
+- MUTATED: 'Heavy Core of Blight' evolved to generation 2.
+- STABLE: 'Blessed Blade of Venom' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 72
-- Items Archived: 62
-- Avg Lifespan (ticks): 38.9
+- Items Created: 73
+- Items Archived: 63
+- Avg Lifespan (ticks): 38.7
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Heavy Core of Blight
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 6032
-- Successful Mutations: 2588
-- Failure Rate: 57.1%
+- Mutations Attempted: 6057
+- Successful Mutations: 2594
+- Failure Rate: 57.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Heavy Core of Blight
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 126650
-- Currency per Tick (avg): 21.0
+- Total Currency: 128300
+- Currency per Tick (avg): 21.18
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
