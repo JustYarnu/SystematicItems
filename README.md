@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-6082
+6107
 
 ## Oldest Item
-Mundane Spear of Light
+Mundane Spear of the Deep
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.46
-- Average Volatility: 0.34
-- Average Durability: 58.97
+- Average Rarity: 1.66
+- Average Volatility: 0.35
+- Average Durability: 54.7
 
 ## Dominant Factions
 - Chaos: 0.7
@@ -24,9 +24,9 @@ Mundane Spear of Light
 - Most Volatile Item: Vampiric Sigil of Embers
 
 ## Recent Events
+- STABLE: 'Heavy Core of Blight' did not mutate this tick.
 - STABLE: 'Blessed Blade of Venom' did not mutate this tick.
-- STABLE: 'Titanic Axe of Blood' did not mutate this tick.
-- STABLE: 'Gilded Blade of Might' did not mutate this tick.
+- STABLE: 'Mundane Spear of Light' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 73
@@ -40,15 +40,15 @@ Mundane Spear of Light
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 6082
-- Successful Mutations: 2599
-- Failure Rate: 57.3%
+- Mutations Attempted: 6107
+- Successful Mutations: 2612
+- Failure Rate: 57.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 3
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Mundane Spear of Light
 
 ## Economy
 - Total Currency: 128300
-- Currency per Tick (avg): 21.1
+- Currency per Tick (avg): 21.01
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
