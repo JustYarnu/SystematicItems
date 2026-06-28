@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-6232
+6257
 
 ## Oldest Item
-Searing Rapier of the Glacier
+Shattered Axe of Grace
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.76
-- Average Volatility: 0.36
-- Average Durability: 53.23
+- Average Rarity: 1.61
+- Average Volatility: 0.35
+- Average Durability: 58.66
 
 ## Dominant Factions
-- STR: 0.7
 - DEX: 0.7
-- Chaos: 0.6
+- STR: 0.4
+- Order: 0.4
 
 ## Extremes
 - Most Stable Item: Mundane Spear of the Deep
-- Most Volatile Item: Vampiric Sigil of Embers
+- Most Volatile Item: Titanic Blade of Stone
 
 ## Recent Events
-- STABLE: 'Mundane Spear of the Deep' did not mutate this tick.
-- MUTATED: 'Titanic Blade of Stone' evolved to generation 118.
-- MUTATED: 'Searing Rapier of the Glacier' evolved to generation 2.
+- MUTATED: 'Mundane Spear of the Deep' evolved to generation 6.
+- STABLE: 'Blessed Blade of Venom' did not mutate this tick.
+- STABLE: 'Searing Rapier of the Glacier' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 74
-- Items Archived: 64
-- Avg Lifespan (ticks): 38.8
+- Items Created: 75
+- Items Archived: 65
+- Avg Lifespan (ticks): 39.1
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Searing Rapier of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 6232
-- Successful Mutations: 2669
-- Failure Rate: 57.2%
+- Mutations Attempted: 6257
+- Successful Mutations: 2683
+- Failure Rate: 57.1%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 5
-- Uncommon: 5
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Searing Rapier of the Glacier
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 130700
-- Currency per Tick (avg): 20.97
+- Total Currency: 133700
+- Currency per Tick (avg): 21.37
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

@@ -1,23 +1,23 @@
 {
-  "currency": 130700,
-  "tick": 6232,
+  "currency": 133700,
+  "tick": 6257,
   "mutation_stats": {
-    "attempted": 6232,
-    "success": 2669
+    "attempted": 6257,
+    "success": 2683
   },
   "recent_events": [
-    "MUTATED: 'Heavy Core of Blight' evolved to generation 10.",
-    "STABLE: 'Mundane Spear of Light' did not mutate this tick.",
-    "MUTATED: 'Vampiric Sigil of Embers' evolved to generation 56.",
-    "MUTATED: 'Heavy Core of Blight' evolved to generation 11.",
-    "STABLE: 'Mundane Spear of Light' did not mutate this tick.",
-    "STABLE: 'Blessed Blade of Venom' did not mutate this tick.",
+    "REPLACED WITH: 'Shattered Axe of Grace' (cc24daab-8049-46e4-89e3-1940752966e5)",
+    "STABLE: 'Heavy Core of Blight' did not mutate this tick.",
     "STABLE: 'Gilded Blade of Might' did not mutate this tick.",
-    "STABLE: 'Mundane Spear of the Deep' did not mutate this tick.",
-    "MUTATED: 'Titanic Blade of Stone' evolved to generation 118.",
-    "MUTATED: 'Searing Rapier of the Glacier' evolved to generation 2."
+    "STABLE: 'Mundane Spear of Light' did not mutate this tick.",
+    "STABLE: 'Titanic Blade of Stone' did not mutate this tick.",
+    "MUTATED: 'Mundane Spear of Light' evolved to generation 9.",
+    "MUTATED: 'Shattered Axe of Grace' evolved to generation 2.",
+    "MUTATED: 'Mundane Spear of the Deep' evolved to generation 6.",
+    "STABLE: 'Blessed Blade of Venom' did not mutate this tick.",
+    "STABLE: 'Searing Rapier of the Glacier' did not mutate this tick."
   ],
-  "created": 74,
-  "avg_lifespan": 38.84375,
-  "archived": 64
+  "created": 75,
+  "avg_lifespan": 39.13846153846154,
+  "archived": 65
 }
