@@ -2,7 +2,7 @@
   "id": "a75f0850-024d-4201-b615-49d968a39bde",
   "name": "Heavy Core of Blight",
   "type": "Artifact",
-  "generation": 17,
+  "generation": 18,
   "damage": 22.0,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "str_mod": 1.2,
   "dex_mod": 1.05,
   "rarity": 1,
-  "durability": 46.09,
-  "max_durability": 120.0,
-  "volatility": 0.46000000000000024,
-  "resilience": 0.5299999999999999,
+  "durability": 37.830000000000005,
+  "max_durability": 125.0,
+  "volatility": 0.5100000000000002,
+  "resilience": 0.58,
   "worth": 100,
   "affinities": {
     "Stability": 0.2,

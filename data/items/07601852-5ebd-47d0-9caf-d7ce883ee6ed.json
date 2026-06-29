@@ -2,7 +2,7 @@
   "id": "07601852-5ebd-47d0-9caf-d7ce883ee6ed",
   "name": "Gilded Blade of Might",
   "type": "Sword",
-  "generation": 28,
+  "generation": 29,
   "damage": 30.0,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "str_mod": 1.7000000000000004,
   "dex_mod": 1.2,
   "rarity": 2.5,
-  "durability": 19.230000000000008,
-  "max_durability": 95.0,
+  "durability": 16.270000000000007,
+  "max_durability": 100.0,
   "volatility": 0.24000000000000038,
-  "resilience": 0.63,
+  "resilience": 0.68,
   "worth": 100,
   "affinities": {
     "Stability": 0.1,
