@@ -2,7 +2,7 @@
   "id": "cc24daab-8049-46e4-89e3-1940752966e5",
   "name": "Shattered Axe of Grace",
   "type": "HeavyWeapon",
-  "generation": 5,
+  "generation": 8,
   "damage": 23.0,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "str_mod": 1.15,
   "dex_mod": 1.15,
   "rarity": 1,
-  "durability": 53.5,
+  "durability": 40.309999999999995,
   "max_durability": 84.0,
-  "volatility": 0.3900000000000001,
-  "resilience": 0.5,
+  "volatility": 0.42000000000000015,
+  "resilience": 0.61,
   "worth": 100,
   "affinities": {}
 }
