@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-6332
+6357
 
 ## Oldest Item
-Shattered Axe of Grace
+Nimble Shard of Pestilence
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.61
-- Average Volatility: 0.36
-- Average Durability: 50.51
+- Average Rarity: 1.41
+- Average Volatility: 0.34
+- Average Durability: 57.59
 
 ## Dominant Factions
-- Order: 0.7
-- DEX: 0.7
-- STR: 0.6
+- STR: 0.4
+- Order: 0.4
+- Stability: 0.4
 
 ## Extremes
-- Most Stable Item: Mundane Spear of the Deep
-- Most Volatile Item: Titanic Blade of Stone
+- Most Stable Item: Searing Rapier of the Glacier
+- Most Volatile Item: Titanic Axe of Blood
 
 ## Recent Events
-- STABLE: 'Searing Rapier of the Glacier' did not mutate this tick.
-- STABLE: 'Titanic Axe of Blood' did not mutate this tick.
-- STABLE: 'Titanic Axe of Blood' did not mutate this tick.
+- MUTATED: 'Shattered Axe of Grace' evolved to generation 5.
+- STABLE: 'Shattered Axe of Grace' did not mutate this tick.
+- MUTATED: 'Gilded Blade of Might' evolved to generation 26.
 
 ## Lifecycle Stats
-- Items Created: 75
-- Items Archived: 65
-- Avg Lifespan (ticks): 39.1
+- Items Created: 76
+- Items Archived: 66
+- Avg Lifespan (ticks): 40.4
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Shattered Axe of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 6332
-- Successful Mutations: 2709
+- Mutations Attempted: 6357
+- Successful Mutations: 2720
 - Failure Rate: 57.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Shattered Axe of Grace
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 133700
-- Currency per Tick (avg): 21.11
+- Total Currency: 139850
+- Currency per Tick (avg): 22.0
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
