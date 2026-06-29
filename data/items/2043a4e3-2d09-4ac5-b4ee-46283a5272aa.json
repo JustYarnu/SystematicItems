@@ -2,8 +2,8 @@
   "id": "2043a4e3-2d09-4ac5-b4ee-46283a5272aa",
   "name": "Blessed Blade of Venom",
   "type": "Sword",
-  "generation": 19,
-  "damage": 16.5,
+  "generation": 24,
+  "damage": 21.5,
   "damage_type": [
     "Physical",
     "Slashing",
@@ -12,15 +12,16 @@
   "crit_damage": 2.5,
   "crit_rate": 0.01,
   "str_mod": 1.1500000000000001,
-  "dex_mod": 1.1500000000000001,
+  "dex_mod": 1.05,
   "rarity": 1,
-  "durability": 44.44000000000001,
+  "durability": 56.19000000000001,
   "max_durability": 125.0,
-  "volatility": 0.4600000000000003,
+  "volatility": 0.3400000000000003,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
     "Order": 0.2,
-    "Stability": 0.1
+    "Stability": 0.1,
+    "Chaos": 0.1
   }
 }

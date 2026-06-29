@@ -1,20 +1,20 @@
 {
   "currency": 139850,
-  "tick": 6407,
+  "tick": 6432,
   "mutation_stats": {
-    "attempted": 6407,
-    "success": 2742
+    "attempted": 6432,
+    "success": 2756
   },
   "recent_events": [
-    "STABLE: 'Blessed Blade of Venom' did not mutate this tick.",
-    "STABLE: 'Mundane Spear of the Deep' did not mutate this tick.",
-    "STABLE: 'Mundane Spear of Light' did not mutate this tick.",
-    "STABLE: 'Heavy Core of Blight' did not mutate this tick.",
-    "STABLE: 'Nimble Shard of Pestilence' did not mutate this tick.",
-    "STABLE: 'Mundane Spear of the Deep' did not mutate this tick.",
-    "MUTATED: 'Titanic Axe of Blood' evolved to generation 22.",
-    "MUTATED: 'Mundane Spear of the Deep' evolved to generation 11.",
+    "STABLE: 'Heavy Focus of Light' did not mutate this tick.",
+    "STABLE: 'Searing Rapier of the Glacier' did not mutate this tick.",
     "STABLE: 'Shattered Axe of Grace' did not mutate this tick.",
+    "MUTATED: 'Shattered Axe of Grace' evolved to generation 11.",
+    "STABLE: 'Mundane Spear of Light' did not mutate this tick.",
+    "STABLE: 'Shattered Axe of Grace' did not mutate this tick.",
+    "MUTATED: 'Gilded Blade of Might' evolved to generation 31.",
+    "MUTATED: 'Searing Rapier of the Glacier' evolved to generation 7.",
+    "STABLE: 'Searing Rapier of the Glacier' did not mutate this tick.",
     "STABLE: 'Heavy Core of Blight' did not mutate this tick."
   ],
   "created": 76,
