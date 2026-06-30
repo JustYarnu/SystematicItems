@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-6507
+6532
 
 ## Oldest Item
 Nimble Shard of Pestilence
@@ -11,22 +11,22 @@ Nimble Shard of Pestilence
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.41
-- Average Volatility: 0.4
-- Average Durability: 43.22
+- Average Volatility: 0.42
+- Average Durability: 39.2
 
 ## Dominant Factions
+- Order: 0.7
 - Chaos: 0.6
-- Order: 0.6
 - Stability: 0.6
 
 ## Extremes
-- Most Stable Item: Mundane Spear of Light
+- Most Stable Item: Mundane Spear of the Deep
 - Most Volatile Item: Titanic Axe of Blood
 
 ## Recent Events
 - STABLE: 'Blessed Blade of Venom' did not mutate this tick.
-- MUTATED: 'Heavy Focus of Light' evolved to generation 26.
-- MUTATED: 'Gilded Blade of Might' evolved to generation 36.
+- MUTATED: 'Titanic Axe of Blood' evolved to generation 28.
+- STABLE: 'Gilded Blade of Might' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 76
@@ -40,9 +40,9 @@ Nimble Shard of Pestilence
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 6507
-- Successful Mutations: 2784
-- Failure Rate: 57.2%
+- Mutations Attempted: 6532
+- Successful Mutations: 2792
+- Failure Rate: 57.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Nimble Shard of Pestilence
 
 ## Economy
 - Total Currency: 139850
-- Currency per Tick (avg): 21.49
+- Currency per Tick (avg): 21.41
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
