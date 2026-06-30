@@ -1,23 +1,23 @@
 {
-  "currency": 141800,
-  "tick": 6582,
+  "currency": 143000,
+  "tick": 6607,
   "mutation_stats": {
-    "attempted": 6582,
-    "success": 2810
+    "attempted": 6607,
+    "success": 2823
   },
   "recent_events": [
-    "STABLE: 'Blessed Blade of Venom' did not mutate this tick.",
-    "MUTATED: 'Blessed Blade of Venom' evolved to generation 28.",
+    "STABLE: 'Titanic Axe of Blood' did not mutate this tick.",
+    "STABLE: 'Mundane Spear of the Deep' did not mutate this tick.",
+    "MUTATED: 'Shattered Axe of Grace' evolved to generation 15.",
+    "MUTATED: 'Blessed Blade of Venom' evolved to generation 29.",
+    "MUTATED: 'Mundane Spear of Light' evolved to generation 21.",
+    "MUTATED: 'Gilded Core of Flame' evolved to generation 3.",
+    "MUTATED: 'Mundane Spear of Light' evolved to generation 22.",
+    "REPLACED WITH: 'Mundane Rapier of Embers' (6e10773c-d549-4fe1-ad10-0481d5be6eab)",
     "STABLE: 'Gilded Core of Flame' did not mutate this tick.",
-    "MUTATED: 'Heavy Focus of Light' evolved to generation 30.",
-    "STABLE: 'Nimble Shard of Pestilence' did not mutate this tick.",
-    "STABLE: 'Nimble Shard of Pestilence' did not mutate this tick.",
-    "MUTATED: 'Heavy Core of Blight' evolved to generation 29.",
-    "STABLE: 'Nimble Shard of Pestilence' did not mutate this tick.",
-    "MUTATED: 'Gilded Core of Flame' evolved to generation 2.",
-    "MUTATED: 'Titanic Axe of Blood' evolved to generation 29."
+    "STABLE: 'Mundane Rapier of Embers' did not mutate this tick."
   ],
-  "created": 77,
-  "avg_lifespan": 40.32835820895522,
-  "archived": 67
+  "created": 78,
+  "avg_lifespan": 40.05882352941177,
+  "archived": 68
 }
