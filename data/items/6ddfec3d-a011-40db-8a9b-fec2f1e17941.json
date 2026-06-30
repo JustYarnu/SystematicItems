@@ -2,7 +2,7 @@
   "id": "6ddfec3d-a011-40db-8a9b-fec2f1e17941",
   "name": "Nimble Shard of Pestilence",
   "type": "Dagger",
-  "generation": 7,
+  "generation": 8,
   "damage": 16.0,
   "damage_type": [
     "Physical",
@@ -14,13 +14,14 @@
   "str_mod": 1.0,
   "dex_mod": 1.25,
   "rarity": 1,
-  "durability": 81.35000000000001,
+  "durability": 76.35000000000001,
   "max_durability": 80.0,
-  "volatility": 0.3700000000000001,
+  "volatility": 0.40000000000000013,
   "resilience": 0.55,
   "worth": 100,
   "affinities": {
     "Chaos": 0.1,
-    "Order": 0.1
+    "Order": 0.1,
+    "Stability": 0.1
   }
 }
