@@ -2,7 +2,7 @@
   "id": "837bb90e-8975-4c3d-befc-1c0fbad7f488",
   "name": "Heavy Focus of Light",
   "type": "Focus",
-  "generation": 24,
+  "generation": 26,
   "damage": 9.5,
   "damage_type": [
     "Physical",
@@ -14,13 +14,13 @@
   "str_mod": 1.3,
   "dex_mod": 1.7000000000000004,
   "rarity": 2.3,
-  "durability": 13.976746432717423,
+  "durability": 16.976746432717423,
   "max_durability": 114.0,
-  "volatility": 0.49000000000000044,
+  "volatility": 0.4800000000000004,
   "resilience": 0.8100816930584824,
   "worth": 100,
   "affinities": {
     "STR": 0.1,
-    "DEX": 0.1
+    "DEX": 0.2
   }
 }
