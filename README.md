@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-6707
+6732
 
 ## Oldest Item
 Feral Relic of Silence
@@ -11,8 +11,8 @@ Feral Relic of Silence
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.3
-- Average Volatility: 0.38
-- Average Durability: 56.91
+- Average Volatility: 0.4
+- Average Durability: 52.98
 
 ## Dominant Factions
 - Order: 0.8
@@ -20,13 +20,13 @@ Feral Relic of Silence
 - Chaos: 0.4
 
 ## Extremes
-- Most Stable Item: Fractured Axe of the Deep
+- Most Stable Item: Mundane Rapier of Embers
 - Most Volatile Item: Nimble Shard of Pestilence
 
 ## Recent Events
-- STABLE: 'Feral Relic of Silence' did not mutate this tick.
-- STABLE: 'Mundane Rapier of Embers' did not mutate this tick.
-- STABLE: 'Feral Relic of Silence' did not mutate this tick.
+- MUTATED: 'Gilded Core of Flame' evolved to generation 7.
+- STABLE: 'Shattered Axe of Grace' did not mutate this tick.
+- MUTATED: 'Mundane Spear of the Deep' evolved to generation 28.
 
 ## Lifecycle Stats
 - Items Created: 80
@@ -40,8 +40,8 @@ Feral Relic of Silence
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 6707
-- Successful Mutations: 2864
+- Mutations Attempted: 6732
+- Successful Mutations: 2876
 - Failure Rate: 57.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Feral Relic of Silence
 
 ## Economy
 - Total Currency: 146600
-- Currency per Tick (avg): 21.86
+- Currency per Tick (avg): 21.78
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

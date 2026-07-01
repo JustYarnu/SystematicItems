@@ -1,21 +1,21 @@
 {
   "currency": 146600,
-  "tick": 6707,
+  "tick": 6732,
   "mutation_stats": {
-    "attempted": 6707,
-    "success": 2864
+    "attempted": 6732,
+    "success": 2876
   },
   "recent_events": [
-    "MUTATED: 'Mundane Spear of the Deep' evolved to generation 25.",
-    "MUTATED: 'Titanic Axe of Blood' evolved to generation 34.",
-    "STABLE: 'Titanic Axe of Blood' did not mutate this tick.",
-    "MUTATED: 'Feral Relic of Silence' evolved to generation 2.",
     "STABLE: 'Searing Rapier of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Nimble Shard of Pestilence' evolved to generation 16.",
-    "STABLE: 'Blessed Blade of Venom' did not mutate this tick.",
+    "MUTATED: 'Mundane Spear of the Deep' evolved to generation 26.",
     "STABLE: 'Feral Relic of Silence' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Embers' did not mutate this tick.",
-    "STABLE: 'Feral Relic of Silence' did not mutate this tick."
+    "MUTATED: 'Mundane Spear of the Deep' evolved to generation 27.",
+    "STABLE: 'Gilded Core of Flame' did not mutate this tick.",
+    "STABLE: 'Titanic Axe of Blood' did not mutate this tick.",
+    "STABLE: 'Searing Rapier of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Gilded Core of Flame' evolved to generation 7.",
+    "STABLE: 'Shattered Axe of Grace' did not mutate this tick.",
+    "MUTATED: 'Mundane Spear of the Deep' evolved to generation 28."
   ],
   "created": 80,
   "avg_lifespan": 39.885714285714286,
