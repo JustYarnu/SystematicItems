@@ -1,21 +1,21 @@
 {
   "currency": 148100,
-  "tick": 6782,
+  "tick": 6807,
   "mutation_stats": {
-    "attempted": 6782,
-    "success": 2893
+    "attempted": 6807,
+    "success": 2908
   },
   "recent_events": [
-    "STABLE: 'Nimble Shard of Pestilence' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Embers' did not mutate this tick.",
-    "MUTATED: 'Gilded Core of Flame' evolved to generation 10.",
-    "STABLE: 'Nimble Shard of Pestilence' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 4.",
-    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 5.",
-    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 6.",
+    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 7.",
+    "STABLE: 'Glacial Edge of Ruins' did not mutate this tick.",
+    "STABLE: 'Gilded Core of Flame' did not mutate this tick.",
     "STABLE: 'Feral Relic of Silence' did not mutate this tick.",
-    "MUTATED: 'Nimble Shard of Pestilence' evolved to generation 20.",
-    "STABLE: 'Glacial Edge of Ruins' did not mutate this tick."
+    "MUTATED: 'Gilded Core of Flame' evolved to generation 13.",
+    "STABLE: 'Nimble Shard of Pestilence' did not mutate this tick.",
+    "STABLE: 'Gilded Core of Flame' did not mutate this tick.",
+    "MUTATED: 'Titanic Axe of Blood' evolved to generation 39.",
+    "MUTATED: 'Feral Relic of Silence' evolved to generation 5.",
+    "MUTATED: 'Nimble Shard of Pestilence' evolved to generation 21."
   ],
   "created": 81,
   "avg_lifespan": 39.71830985915493,
