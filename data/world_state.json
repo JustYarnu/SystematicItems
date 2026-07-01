@@ -1,21 +1,21 @@
 {
   "currency": 148100,
-  "tick": 6757,
+  "tick": 6782,
   "mutation_stats": {
-    "attempted": 6757,
-    "success": 2886
+    "attempted": 6782,
+    "success": 2893
   },
   "recent_events": [
-    "STABLE: 'Mundane Rapier of Embers' did not mutate this tick.",
-    "STABLE: 'Mundane Spear of the Deep' did not mutate this tick.",
-    "REPLACED WITH: 'Glacial Edge of Ruins' (6e3af788-6e8e-4bec-b843-56dd127a6701)",
-    "STABLE: 'Feral Relic of Silence' did not mutate this tick.",
-    "STABLE: 'Shattered Axe of Grace' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Embers' did not mutate this tick.",
-    "STABLE: 'Blessed Blade of Venom' did not mutate this tick.",
     "STABLE: 'Nimble Shard of Pestilence' did not mutate this tick.",
-    "STABLE: 'Searing Rapier of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Blessed Blade of Venom' evolved to generation 35."
+    "STABLE: 'Mundane Rapier of Embers' did not mutate this tick.",
+    "MUTATED: 'Gilded Core of Flame' evolved to generation 10.",
+    "STABLE: 'Nimble Shard of Pestilence' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 4.",
+    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 5.",
+    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 6.",
+    "STABLE: 'Feral Relic of Silence' did not mutate this tick.",
+    "MUTATED: 'Nimble Shard of Pestilence' evolved to generation 20.",
+    "STABLE: 'Glacial Edge of Ruins' did not mutate this tick."
   ],
   "created": 81,
   "avg_lifespan": 39.71830985915493,
