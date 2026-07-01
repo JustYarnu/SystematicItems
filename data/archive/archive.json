@@ -1872,5 +1872,33 @@
       "Order": 0.1,
       "DEX": 0.1
     }
+  },
+  {
+    "id": "837bb90e-8975-4c3d-befc-1c0fbad7f488",
+    "name": "Heavy Focus of Light",
+    "type": "Focus",
+    "generation": 32,
+    "damage": 21.0,
+    "damage_type": [
+      "Physical",
+      "Magic",
+      "Holy"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.01,
+    "str_mod": 1.4000000000000001,
+    "dex_mod": 1.5000000000000002,
+    "rarity": 2.3,
+    "durability": -1.0,
+    "max_durability": 114.0,
+    "volatility": 0.46000000000000046,
+    "resilience": 0.8100816930584824,
+    "worth": 1700,
+    "affinities": {
+      "STR": 0.1,
+      "DEX": 0.2,
+      "Scarceness": 0.1,
+      "Chaos": 0.1
+    }
   }
 ]

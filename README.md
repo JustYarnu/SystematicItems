@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-6607
+6632
 
 ## Oldest Item
-Mundane Rapier of Embers
+Fractured Axe of the Deep
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.38
-- Average Volatility: 0.42
-- Average Durability: 49.82
+- Average Rarity: 1.25
+- Average Volatility: 0.39
+- Average Durability: 55.28
 
 ## Dominant Factions
-- Chaos: 0.8
 - Order: 0.7
 - Stability: 0.7
+- Chaos: 0.7
 
 ## Extremes
-- Most Stable Item: Mundane Rapier of Embers
+- Most Stable Item: Fractured Axe of the Deep
 - Most Volatile Item: Titanic Axe of Blood
 
 ## Recent Events
-- REPLACED WITH: 'Mundane Rapier of Embers' (6e10773c-d549-4fe1-ad10-0481d5be6eab)
-- STABLE: 'Gilded Core of Flame' did not mutate this tick.
-- STABLE: 'Mundane Rapier of Embers' did not mutate this tick.
+- MUTATED: 'Heavy Core of Blight' evolved to generation 34.
+- STABLE: 'Heavy Core of Blight' did not mutate this tick.
+- MUTATED: 'Mundane Spear of the Deep' evolved to generation 21.
 
 ## Lifecycle Stats
-- Items Created: 78
-- Items Archived: 68
-- Avg Lifespan (ticks): 40.1
+- Items Created: 79
+- Items Archived: 69
+- Avg Lifespan (ticks): 39.9
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Mundane Rapier of Embers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 6607
-- Successful Mutations: 2823
+- Mutations Attempted: 6632
+- Successful Mutations: 2835
 - Failure Rate: 57.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 3
+- Common: 8
+- Uncommon: 2
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Mundane Rapier of Embers
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 143000
-- Currency per Tick (avg): 21.64
+- Total Currency: 144700
+- Currency per Tick (avg): 21.82
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
