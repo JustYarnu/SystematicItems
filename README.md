@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-6807
+6832
 
 ## Oldest Item
 Glacial Edge of Ruins
@@ -11,8 +11,8 @@ Glacial Edge of Ruins
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.5
-- Average Volatility: 0.39
-- Average Durability: 52.77
+- Average Volatility: 0.41
+- Average Durability: 50.77
 
 ## Dominant Factions
 - Stability: 0.8
@@ -21,12 +21,12 @@ Glacial Edge of Ruins
 
 ## Extremes
 - Most Stable Item: Glacial Edge of Ruins
-- Most Volatile Item: Nimble Shard of Pestilence
+- Most Volatile Item: Titanic Axe of Blood
 
 ## Recent Events
-- MUTATED: 'Titanic Axe of Blood' evolved to generation 39.
-- MUTATED: 'Feral Relic of Silence' evolved to generation 5.
-- MUTATED: 'Nimble Shard of Pestilence' evolved to generation 21.
+- STABLE: 'Gilded Core of Flame' did not mutate this tick.
+- MUTATED: 'Titanic Axe of Blood' evolved to generation 42.
+- STABLE: 'Blessed Blade of Venom' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 81
@@ -40,8 +40,8 @@ Glacial Edge of Ruins
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 6807
-- Successful Mutations: 2908
+- Mutations Attempted: 6832
+- Successful Mutations: 2914
 - Failure Rate: 57.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Glacial Edge of Ruins
 
 ## Economy
 - Total Currency: 148100
-- Currency per Tick (avg): 21.76
+- Currency per Tick (avg): 21.68
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
