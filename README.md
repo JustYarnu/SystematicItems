@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-6632
+6657
 
 ## Oldest Item
 Fractured Axe of the Deep
@@ -12,7 +12,7 @@ Fractured Axe of the Deep
 - Active Items: 10
 - Average Rarity: 1.25
 - Average Volatility: 0.39
-- Average Durability: 55.28
+- Average Durability: 53.35
 
 ## Dominant Factions
 - Order: 0.7
@@ -21,12 +21,12 @@ Fractured Axe of the Deep
 
 ## Extremes
 - Most Stable Item: Fractured Axe of the Deep
-- Most Volatile Item: Titanic Axe of Blood
+- Most Volatile Item: Nimble Shard of Pestilence
 
 ## Recent Events
-- MUTATED: 'Heavy Core of Blight' evolved to generation 34.
-- STABLE: 'Heavy Core of Blight' did not mutate this tick.
-- MUTATED: 'Mundane Spear of the Deep' evolved to generation 21.
+- STABLE: 'Blessed Blade of Venom' did not mutate this tick.
+- MUTATED: 'Shattered Axe of Grace' evolved to generation 21.
+- STABLE: 'Mundane Rapier of Embers' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 79
@@ -40,9 +40,9 @@ Fractured Axe of the Deep
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 6632
-- Successful Mutations: 2835
-- Failure Rate: 57.3%
+- Mutations Attempted: 6657
+- Successful Mutations: 2848
+- Failure Rate: 57.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Fractured Axe of the Deep
 
 ## Economy
 - Total Currency: 144700
-- Currency per Tick (avg): 21.82
+- Currency per Tick (avg): 21.74
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
