@@ -2,24 +2,24 @@
   "id": "40e92567-c7a1-4e9d-ae4c-6ea286eb326d",
   "name": "Gilded Core of Flame",
   "type": "Artifact",
-  "generation": 7,
+  "generation": 9,
   "damage": 13.5,
   "damage_type": [
     "Physical"
   ],
-  "crit_damage": 2,
+  "crit_damage": 2.5,
   "crit_rate": 0.01,
   "str_mod": 1.1,
   "dex_mod": 1.0,
   "rarity": 2.5,
-  "durability": 71.65,
-  "max_durability": 120.0,
-  "volatility": 0.43000000000000016,
+  "durability": 66.65,
+  "max_durability": 115.0,
+  "volatility": 0.44000000000000017,
   "resilience": 0.55,
   "worth": 100,
   "affinities": {
     "Order": 0.2,
-    "Stability": 0.1,
+    "Stability": 0.2,
     "Scarceness": 0.1
   }
 }

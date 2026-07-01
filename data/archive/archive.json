@@ -1927,5 +1927,33 @@
       "STR": 0.4,
       "Chaos": 0.3
     }
+  },
+  {
+    "id": "57ac5242-08eb-4cb7-9e98-c61e4351b34a",
+    "name": "Mundane Spear of the Deep",
+    "type": "Polearm",
+    "generation": 28,
+    "damage": 7.0,
+    "damage_type": [
+      "Physical",
+      "Piercing",
+      "Water"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.01,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 1.75,
+    "rarity": 1,
+    "durability": -0.410000000000009,
+    "max_durability": 125.0,
+    "volatility": 0.46000000000000035,
+    "resilience": 0.75,
+    "worth": 1500,
+    "affinities": {
+      "Chaos": 0.2,
+      "DEX": 0.1,
+      "Stability": 0.2,
+      "STR": 0.1
+    }
   }
 ]
