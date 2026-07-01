@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-6657
+6682
 
 ## Oldest Item
-Fractured Axe of the Deep
+Feral Relic of Silence
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.25
-- Average Volatility: 0.39
-- Average Durability: 53.35
+- Average Rarity: 1.3
+- Average Volatility: 0.38
+- Average Durability: 59.79
 
 ## Dominant Factions
-- Order: 0.7
 - Stability: 0.7
-- Chaos: 0.7
+- Order: 0.6
+- Chaos: 0.4
 
 ## Extremes
-- Most Stable Item: Fractured Axe of the Deep
+- Most Stable Item: Mundane Rapier of Embers
 - Most Volatile Item: Nimble Shard of Pestilence
 
 ## Recent Events
-- STABLE: 'Blessed Blade of Venom' did not mutate this tick.
-- MUTATED: 'Shattered Axe of Grace' evolved to generation 21.
+- STABLE: 'Fractured Axe of the Deep' did not mutate this tick.
 - STABLE: 'Mundane Rapier of Embers' did not mutate this tick.
+- MUTATED: 'Mundane Spear of the Deep' evolved to generation 24.
 
 ## Lifecycle Stats
-- Items Created: 79
-- Items Archived: 69
+- Items Created: 80
+- Items Archived: 70
 - Avg Lifespan (ticks): 39.9
 
 ### Distribution chart
@@ -40,9 +40,9 @@ Fractured Axe of the Deep
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 6657
-- Successful Mutations: 2848
-- Failure Rate: 57.2%
+- Mutations Attempted: 6682
+- Successful Mutations: 2855
+- Failure Rate: 57.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -56,8 +56,8 @@ Fractured Axe of the Deep
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 144700
-- Currency per Tick (avg): 21.74
+- Total Currency: 146600
+- Currency per Tick (avg): 21.94
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
