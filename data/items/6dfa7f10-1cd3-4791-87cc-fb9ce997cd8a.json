@@ -2,22 +2,25 @@
   "id": "6dfa7f10-1cd3-4791-87cc-fb9ce997cd8a",
   "name": "Fractured Axe of the Deep",
   "type": "HeavyWeapon",
-  "generation": 12,
+  "generation": 16,
   "damage": 16.5,
   "damage_type": [
     "Physical",
     "Slashing",
     "Water"
   ],
-  "crit_damage": 2.5,
+  "crit_damage": 3.0,
   "crit_rate": 0.01,
   "str_mod": 1.25,
   "dex_mod": 1.0,
   "rarity": 1,
-  "durability": 57.770000000000024,
-  "max_durability": 107.0,
-  "volatility": 0.5300000000000001,
+  "durability": 63.770000000000024,
+  "max_durability": 102.0,
+  "volatility": 0.5400000000000001,
   "resilience": 0.6299999999999999,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "STR": 0.1,
+    "Stability": 0.1
+  }
 }

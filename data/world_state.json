@@ -1,23 +1,23 @@
 {
-  "currency": 148100,
-  "tick": 6907,
+  "currency": 151700,
+  "tick": 6932,
   "mutation_stats": {
-    "attempted": 6907,
-    "success": 2948
+    "attempted": 6932,
+    "success": 2957
   },
   "recent_events": [
+    "MUTATED: 'Fractured Axe of the Deep' evolved to generation 14.",
     "STABLE: 'Mundane Rapier of Embers' did not mutate this tick.",
+    "STABLE: 'Gilded Rapier of Silence' did not mutate this tick.",
+    "MUTATED: 'Fractured Axe of the Deep' evolved to generation 15.",
     "STABLE: 'Fractured Axe of the Deep' did not mutate this tick.",
-    "STABLE: 'Blessed Blade of Venom' did not mutate this tick.",
-    "MUTATED: 'Shattered Axe of Grace' evolved to generation 31.",
-    "MUTATED: 'Blessed Blade of Venom' evolved to generation 38.",
-    "MUTATED: 'Feral Relic of Silence' evolved to generation 10.",
-    "STABLE: 'Fractured Axe of the Deep' did not mutate this tick.",
-    "STABLE: 'Fractured Axe of the Deep' did not mutate this tick.",
-    "STABLE: 'Glacial Edge of Ruins' did not mutate this tick.",
-    "STABLE: 'Shattered Axe of Grace' did not mutate this tick."
+    "MUTATED: 'Fractured Axe of the Deep' evolved to generation 16.",
+    "STABLE: 'Zealous Edge of Frost' did not mutate this tick.",
+    "STABLE: 'Zealous Edge of Frost' did not mutate this tick.",
+    "STABLE: 'Feral Relic of Silence' did not mutate this tick.",
+    "MUTATED: 'Gilded Rapier of Silence' evolved to generation 2."
   ],
-  "created": 81,
-  "avg_lifespan": 39.71830985915493,
-  "archived": 71
+  "created": 83,
+  "avg_lifespan": 39.56164383561644,
+  "archived": 73
 }
