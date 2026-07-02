@@ -1,23 +1,23 @@
 {
-  "currency": 151700,
-  "tick": 6957,
+  "currency": 156250,
+  "tick": 6982,
   "mutation_stats": {
-    "attempted": 6957,
-    "success": 2968
+    "attempted": 6982,
+    "success": 2978
   },
   "recent_events": [
-    "STABLE: 'Searing Rapier of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Feral Relic of Silence' evolved to generation 11.",
-    "STABLE: 'Gilded Core of Flame' did not mutate this tick.",
-    "MUTATED: 'Titanic Axe of Blood' evolved to generation 49.",
+    "MUTATED: 'Feral Relic of Silence' evolved to generation 12.",
+    "STABLE: 'Mundane Rapier of Embers' did not mutate this tick.",
     "STABLE: 'Feral Relic of Silence' did not mutate this tick.",
+    "MUTATED: 'Titanic Axe of Blood' evolved to generation 53.",
+    "REPLACED WITH: 'Singed Relic of Carnage' (cff25a91-f80b-472e-bf38-39f9aa514d40)",
+    "MUTATED: 'Gilded Rapier of Silence' evolved to generation 3.",
+    "STABLE: 'Mundane Rapier of Embers' did not mutate this tick.",
     "STABLE: 'Fractured Axe of the Deep' did not mutate this tick.",
-    "MUTATED: 'Titanic Axe of Blood' evolved to generation 50.",
-    "MUTATED: 'Shattered Axe of Grace' evolved to generation 33.",
-    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 9.",
-    "MUTATED: 'Searing Rapier of the Glacier' evolved to generation 21."
+    "MUTATED: 'Verdant Relic of Distortion' evolved to generation 3.",
+    "STABLE: 'Zealous Edge of Frost' did not mutate this tick."
   ],
-  "created": 83,
-  "avg_lifespan": 39.56164383561644,
-  "archived": 73
+  "created": 85,
+  "avg_lifespan": 39.666666666666664,
+  "archived": 75
 }
