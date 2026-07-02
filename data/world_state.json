@@ -1,21 +1,21 @@
 {
   "currency": 156250,
-  "tick": 6982,
+  "tick": 7007,
   "mutation_stats": {
-    "attempted": 6982,
-    "success": 2978
+    "attempted": 7007,
+    "success": 2986
   },
   "recent_events": [
-    "MUTATED: 'Feral Relic of Silence' evolved to generation 12.",
-    "STABLE: 'Mundane Rapier of Embers' did not mutate this tick.",
-    "STABLE: 'Feral Relic of Silence' did not mutate this tick.",
-    "MUTATED: 'Titanic Axe of Blood' evolved to generation 53.",
-    "REPLACED WITH: 'Singed Relic of Carnage' (cff25a91-f80b-472e-bf38-39f9aa514d40)",
-    "MUTATED: 'Gilded Rapier of Silence' evolved to generation 3.",
-    "STABLE: 'Mundane Rapier of Embers' did not mutate this tick.",
+    "STABLE: 'Gilded Rapier of Silence' did not mutate this tick.",
     "STABLE: 'Fractured Axe of the Deep' did not mutate this tick.",
-    "MUTATED: 'Verdant Relic of Distortion' evolved to generation 3.",
-    "STABLE: 'Zealous Edge of Frost' did not mutate this tick."
+    "STABLE: 'Searing Rapier of the Glacier' did not mutate this tick.",
+    "STABLE: 'Zealous Edge of Frost' did not mutate this tick.",
+    "STABLE: 'Singed Relic of Carnage' did not mutate this tick.",
+    "STABLE: 'Zealous Edge of Frost' did not mutate this tick.",
+    "STABLE: 'Verdant Relic of Distortion' did not mutate this tick.",
+    "MUTATED: 'Fractured Axe of the Deep' evolved to generation 21.",
+    "STABLE: 'Singed Relic of Carnage' did not mutate this tick.",
+    "MUTATED: 'Gilded Core of Flame' evolved to generation 18."
   ],
   "created": 85,
   "avg_lifespan": 39.666666666666664,
