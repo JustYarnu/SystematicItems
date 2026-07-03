@@ -2,7 +2,7 @@
   "id": "6e3af788-6e8e-4bec-b843-56dd127a6701",
   "name": "Glacial Edge of Ruins",
   "type": "Sword",
-  "generation": 8,
+  "generation": 10,
   "damage": 24.0,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.2000000000000002,
   "rarity": 2,
-  "durability": 63.19,
-  "max_durability": 105.0,
-  "volatility": 0.30000000000000016,
+  "durability": 54.739999999999995,
+  "max_durability": 110.0,
+  "volatility": 0.2700000000000002,
   "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {}

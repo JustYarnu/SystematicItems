@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-7157
+7182
 
 ## Oldest Item
-Gilded Rapier of Silence
+Zealous Edge of Frost
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.7
 - Average Volatility: 0.45
-- Average Durability: 58.5
+- Average Durability: 53.42
 
 ## Dominant Factions
-- Stability: 0.4
+- Stability: 0.5
 - Order: 0.3
-- DEX: 0.2
+- STR: 0.3
 
 ## Extremes
 - Most Stable Item: Gilded Rapier of Silence
 - Most Volatile Item: Feral Relic of Silence
 
 ## Recent Events
-- STABLE: 'Zealous Edge of Frost' did not mutate this tick.
-- MUTATED: 'Fractured Axe of the Deep' evolved to generation 32.
-- MUTATED: 'Verdant Relic of Distortion' evolved to generation 9.
+- STABLE: 'Glacial Edge of Ruins' did not mutate this tick.
+- STABLE: 'Gilded Rapier of Silence' did not mutate this tick.
+- STABLE: 'Unstable Shard of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 86
@@ -40,8 +40,8 @@ Gilded Rapier of Silence
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 7157
-- Successful Mutations: 3041
+- Mutations Attempted: 7182
+- Successful Mutations: 3052
 - Failure Rate: 57.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Gilded Rapier of Silence
 
 ## Economy
 - Total Currency: 157450
-- Currency per Tick (avg): 22.0
+- Currency per Tick (avg): 21.92
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
