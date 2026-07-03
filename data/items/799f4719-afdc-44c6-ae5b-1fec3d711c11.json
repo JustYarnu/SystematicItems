@@ -2,7 +2,7 @@
   "id": "799f4719-afdc-44c6-ae5b-1fec3d711c11",
   "name": "Feral Relic of Silence",
   "type": "Artifact",
-  "generation": 19,
+  "generation": 20,
   "damage": 14.5,
   "damage_type": [
     "Physical",
@@ -13,14 +13,14 @@
   "str_mod": 1.4000000000000004,
   "dex_mod": 1.2,
   "rarity": 1.5,
-  "durability": 30.97,
+  "durability": 26.97,
   "max_durability": 102.0,
-  "volatility": 0.5892481250360578,
+  "volatility": 0.5792481250360578,
   "resilience": 0.5299999999999999,
   "worth": 100,
   "affinities": {
     "Chaos": 0.1,
-    "DEX": 0.1,
+    "DEX": 0.2,
     "Stability": 0.2
   }
 }

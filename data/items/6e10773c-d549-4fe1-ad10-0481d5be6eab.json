@@ -2,7 +2,7 @@
   "id": "6e10773c-d549-4fe1-ad10-0481d5be6eab",
   "name": "Mundane Rapier of Embers",
   "type": "Generic",
-  "generation": 14,
+  "generation": 15,
   "damage": 14.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.0,
   "dex_mod": 1.2000000000000002,
   "rarity": 2,
-  "durability": 67.07,
+  "durability": 62.56999999999999,
   "max_durability": 90.0,
-  "volatility": 0.41000000000000036,
-  "resilience": 0.75,
+  "volatility": 0.5000000000000003,
+  "resilience": 0.7,
   "worth": 100,
   "affinities": {
     "Stability": 0.1,
