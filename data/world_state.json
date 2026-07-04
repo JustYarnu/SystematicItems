@@ -1,23 +1,23 @@
 {
-  "currency": 157450,
-  "tick": 7357,
+  "currency": 158850,
+  "tick": 7382,
   "mutation_stats": {
-    "attempted": 7357,
-    "success": 3146
+    "attempted": 7382,
+    "success": 3164
   },
   "recent_events": [
-    "STABLE: 'Gilded Rapier of Silence' did not mutate this tick.",
+    "MUTATED: 'Verdant Relic of Distortion' evolved to generation 25.",
+    "MUTATED: 'Searing Rapier of the Glacier' evolved to generation 39.",
+    "MUTATED: 'Zealous Edge of Frost' evolved to generation 16.",
+    "MUTATED: 'Zealous Edge of Frost' evolved to generation 17.",
+    "MUTATED: 'Zealous Edge of Frost' evolved to generation 18.",
+    "STABLE: 'Singed Relic of Carnage' did not mutate this tick.",
+    "MUTATED: 'Singed Relic of Carnage' evolved to generation 22.",
+    "STABLE: 'Rusty Rapier of Gales' did not mutate this tick.",
     "STABLE: 'Glacial Edge of Ruins' did not mutate this tick.",
-    "STABLE: 'Zealous Edge of Frost' did not mutate this tick.",
-    "MUTATED: 'Fractured Axe of the Deep' evolved to generation 44.",
-    "STABLE: 'Feral Relic of Silence' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 25.",
-    "MUTATED: 'Verdant Relic of Distortion' evolved to generation 23.",
-    "STABLE: 'Verdant Relic of Distortion' did not mutate this tick.",
-    "MUTATED: 'Zealous Edge of Frost' evolved to generation 14.",
-    "STABLE: 'Gilded Rapier of Silence' did not mutate this tick."
+    "MUTATED: 'Verdant Relic of Distortion' evolved to generation 26."
   ],
-  "created": 86,
-  "avg_lifespan": 39.43421052631579,
-  "archived": 76
+  "created": 87,
+  "avg_lifespan": 39.25974025974026,
+  "archived": 77
 }
