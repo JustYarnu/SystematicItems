@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-7457
+7482
 
 ## Oldest Item
 Rusty Rapier of Gales
@@ -11,13 +11,13 @@ Rusty Rapier of Gales
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.95
-- Average Volatility: 0.48
-- Average Durability: 42.7
+- Average Volatility: 0.47
+- Average Durability: 39.79
 
 ## Dominant Factions
 - Order: 1.1
+- Scarceness: 0.6
 - Stability: 0.5
-- Scarceness: 0.5
 
 ## Extremes
 - Most Stable Item: Rusty Rapier of Gales
@@ -25,8 +25,8 @@ Rusty Rapier of Gales
 
 ## Recent Events
 - STABLE: 'Rusty Rapier of Gales' did not mutate this tick.
-- STABLE: 'Gilded Rapier of Silence' did not mutate this tick.
-- STABLE: 'Gilded Rapier of Silence' did not mutate this tick.
+- MUTATED: 'Unstable Shard of Iron' evolved to generation 26.
+- STABLE: 'Glacial Edge of Ruins' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 87
@@ -40,8 +40,8 @@ Rusty Rapier of Gales
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 7457
-- Successful Mutations: 3195
+- Mutations Attempted: 7482
+- Successful Mutations: 3206
 - Failure Rate: 57.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Rusty Rapier of Gales
 
 ## Economy
 - Total Currency: 158850
-- Currency per Tick (avg): 21.3
+- Currency per Tick (avg): 21.23
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
