@@ -2,8 +2,8 @@
   "id": "66fc4853-099b-45d5-beb4-4451e94aa090",
   "name": "Searing Rapier of the Glacier",
   "type": "Generic",
-  "generation": 44,
-  "damage": 54.0,
+  "generation": 47,
+  "damage": 55.5,
   "damage_type": [
     "Physical",
     "Fire",
@@ -12,16 +12,16 @@
   ],
   "crit_damage": 2,
   "crit_rate": 0.060000000000000005,
-  "str_mod": 1.4000000000000004,
+  "str_mod": 1.5000000000000004,
   "dex_mod": 1.05,
   "rarity": 2,
-  "durability": 20.12000000000002,
+  "durability": 27.320000000000018,
   "max_durability": 125.0,
-  "volatility": 0.46000000000000063,
+  "volatility": 0.47000000000000064,
   "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {
-    "STR": 0.1,
+    "STR": 0.2,
     "Order": 0.1
   }
 }
