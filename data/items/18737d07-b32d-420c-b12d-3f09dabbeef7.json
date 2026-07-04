@@ -2,7 +2,7 @@
   "id": "18737d07-b32d-420c-b12d-3f09dabbeef7",
   "name": "Gilded Rapier of Silence",
   "type": "Generic",
-  "generation": 11,
+  "generation": 13,
   "damage": 13.0,
   "damage_type": [
     "Physical",
@@ -15,10 +15,11 @@
   "rarity": 2.5,
   "durability": 38.32999999999999,
   "max_durability": 107.0,
-  "volatility": 0.40000000000000024,
+  "volatility": 0.42000000000000026,
   "resilience": 0.58,
   "worth": 100,
   "affinities": {
-    "DEX": 0.2
+    "DEX": 0.2,
+    "STR": 0.1
   }
 }
