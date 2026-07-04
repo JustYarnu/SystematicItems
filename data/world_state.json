@@ -1,21 +1,21 @@
 {
   "currency": 157450,
-  "tick": 7307,
+  "tick": 7332,
   "mutation_stats": {
-    "attempted": 7307,
-    "success": 3120
+    "attempted": 7332,
+    "success": 3136
   },
   "recent_events": [
-    "STABLE: 'Searing Rapier of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Singed Relic of Carnage' evolved to generation 16.",
-    "MUTATED: 'Singed Relic of Carnage' evolved to generation 17.",
-    "STABLE: 'Glacial Edge of Ruins' did not mutate this tick.",
+    "STABLE: 'Singed Relic of Carnage' did not mutate this tick.",
+    "MUTATED: 'Feral Relic of Silence' evolved to generation 25.",
+    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 23.",
+    "MUTATED: 'Unstable Shard of Iron' evolved to generation 24.",
     "STABLE: 'Unstable Shard of Iron' did not mutate this tick.",
-    "MUTATED: 'Searing Rapier of the Glacier' evolved to generation 36.",
-    "MUTATED: 'Singed Relic of Carnage' evolved to generation 18.",
-    "MUTATED: 'Verdant Relic of Distortion' evolved to generation 18.",
-    "STABLE: 'Gilded Rapier of Silence' did not mutate this tick.",
-    "STABLE: 'Feral Relic of Silence' did not mutate this tick."
+    "MUTATED: 'Verdant Relic of Distortion' evolved to generation 19.",
+    "STABLE: 'Feral Relic of Silence' did not mutate this tick.",
+    "STABLE: 'Singed Relic of Carnage' did not mutate this tick.",
+    "MUTATED: 'Verdant Relic of Distortion' evolved to generation 20.",
+    "MUTATED: 'Fractured Axe of the Deep' evolved to generation 42."
   ],
   "created": 86,
   "avg_lifespan": 39.43421052631579,
