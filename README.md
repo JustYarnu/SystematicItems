@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-7257
+7282
 
 ## Oldest Item
-Zealous Edge of Frost
+Gilded Rapier of Silence
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.0
-- Average Volatility: 0.48
-- Average Durability: 52.17
+- Average Volatility: 0.49
+- Average Durability: 50.98
 
 ## Dominant Factions
 - Order: 0.6
@@ -24,9 +24,9 @@ Zealous Edge of Frost
 - Most Volatile Item: Verdant Relic of Distortion
 
 ## Recent Events
-- STABLE: 'Fractured Axe of the Deep' did not mutate this tick.
-- MUTATED: 'Searing Rapier of the Glacier' evolved to generation 31.
-- MUTATED: 'Singed Relic of Carnage' evolved to generation 15.
+- STABLE: 'Verdant Relic of Distortion' did not mutate this tick.
+- STABLE: 'Mundane Rapier of Embers' did not mutate this tick.
+- STABLE: 'Zealous Edge of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 86
@@ -40,8 +40,8 @@ Zealous Edge of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 7257
-- Successful Mutations: 3091
+- Mutations Attempted: 7282
+- Successful Mutations: 3105
 - Failure Rate: 57.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Zealous Edge of Frost
 
 ## Economy
 - Total Currency: 157450
-- Currency per Tick (avg): 21.7
+- Currency per Tick (avg): 21.62
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
