@@ -1,21 +1,21 @@
 {
   "currency": 169750,
-  "tick": 7732,
+  "tick": 7757,
   "mutation_stats": {
-    "attempted": 7732,
-    "success": 3326
+    "attempted": 7757,
+    "success": 3337
   },
   "recent_events": [
-    "STABLE: 'Gilded Rapier of Silence' did not mutate this tick.",
-    "STABLE: 'Nimble Blade of Eternity' did not mutate this tick.",
-    "STABLE: 'Nimble Blade of Eternity' did not mutate this tick.",
-    "MUTATED: 'Eldritch Blade of Whispers' evolved to generation 6.",
-    "STABLE: 'Mundane Rapier of Embers' did not mutate this tick.",
-    "STABLE: 'Eldritch Blade of Whispers' did not mutate this tick.",
+    "MUTATED: 'Unstable Shard of Iron' evolved to generation 42.",
     "STABLE: 'Mundane Blade of Embers' did not mutate this tick.",
-    "MUTATED: 'Eldritch Blade of Whispers' evolved to generation 7.",
-    "MUTATED: 'Verdant Relic of Distortion' evolved to generation 48.",
-    "STABLE: 'Gilded Rapier of Silence' did not mutate this tick."
+    "STABLE: 'Gilded Rapier of Silence' did not mutate this tick.",
+    "MUTATED: 'Rusty Rapier of Gales' evolved to generation 11.",
+    "MUTATED: 'Verdant Relic of Distortion' evolved to generation 49.",
+    "STABLE: 'Nimble Blade of Eternity' did not mutate this tick.",
+    "STABLE: 'Titanic Rapier of Silence' did not mutate this tick.",
+    "STABLE: 'Verdant Relic of Distortion' did not mutate this tick.",
+    "STABLE: 'Gilded Rapier of Silence' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Embers' did not mutate this tick."
   ],
   "created": 92,
   "avg_lifespan": 39.40243902439025,

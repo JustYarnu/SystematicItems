@@ -2,7 +2,7 @@
   "id": "4fdfd465-2f96-4828-a3d3-c469f824055c",
   "name": "Verdant Relic of Distortion",
   "type": "Artifact",
-  "generation": 48,
+  "generation": 49,
   "damage": 13.0,
   "damage_type": [
     "Physical",
@@ -16,9 +16,9 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.6000000000000005,
   "rarity": 3.5,
-  "durability": 24.18684546551028,
+  "durability": 29.18684546551028,
   "max_durability": 104.0,
-  "volatility": 0.6403677461028803,
+  "volatility": 0.6303677461028803,
   "resilience": 0.7403677461028801,
   "worth": 100,
   "affinities": {
