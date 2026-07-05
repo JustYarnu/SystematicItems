@@ -2,7 +2,7 @@
   "id": "3fa126ed-11b8-48f9-a747-d1f36515a579",
   "name": "Rusty Rapier of Gales",
   "type": "Generic",
-  "generation": 13,
+  "generation": 14,
   "damage": 21.5,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.1,
   "dex_mod": 1.3800000000000001,
   "rarity": 1,
-  "durability": 30.35000000000001,
+  "durability": 27.45000000000001,
   "max_durability": 102.0,
-  "volatility": 0.4800000000000002,
+  "volatility": 0.4300000000000002,
   "resilience": 0.55,
   "worth": 100,
   "affinities": {}

@@ -1,21 +1,21 @@
 {
   "currency": 171350,
-  "tick": 7782,
+  "tick": 7807,
   "mutation_stats": {
-    "attempted": 7782,
-    "success": 3348
+    "attempted": 7807,
+    "success": 3354
   },
   "recent_events": [
-    "MUTATED: 'Verdant Relic of Distortion' evolved to generation 51.",
-    "MUTATED: 'Titanic Shard of Plagues' evolved to generation 4.",
     "STABLE: 'Verdant Relic of Distortion' did not mutate this tick.",
-    "STABLE: 'Titanic Rapier of Silence' did not mutate this tick.",
-    "MUTATED: 'Eldritch Blade of Whispers' evolved to generation 11.",
-    "MUTATED: 'Titanic Shard of Plagues' evolved to generation 5.",
-    "STABLE: 'Unstable Shard of Iron' did not mutate this tick.",
-    "STABLE: 'Unstable Shard of Iron' did not mutate this tick.",
-    "STABLE: 'Nimble Blade of Eternity' did not mutate this tick.",
-    "STABLE: 'Titanic Shard of Plagues' did not mutate this tick."
+    "MUTATED: 'Eldritch Blade of Whispers' evolved to generation 12.",
+    "MUTATED: 'Unstable Shard of Iron' evolved to generation 43.",
+    "STABLE: 'Mundane Blade of Embers' did not mutate this tick.",
+    "STABLE: 'Verdant Relic of Distortion' did not mutate this tick.",
+    "MUTATED: 'Rusty Rapier of Gales' evolved to generation 14.",
+    "STABLE: 'Titanic Shard of Plagues' did not mutate this tick.",
+    "STABLE: 'Brittle Edge of Might' did not mutate this tick.",
+    "MUTATED: 'Verdant Relic of Distortion' evolved to generation 53.",
+    "STABLE: 'Brittle Edge of Might' did not mutate this tick."
   ],
   "created": 93,
   "avg_lifespan": 39.28915662650603,
