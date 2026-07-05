@@ -1,23 +1,23 @@
 {
-  "currency": 158850,
-  "tick": 7582,
+  "currency": 161900,
+  "tick": 7607,
   "mutation_stats": {
-    "attempted": 7582,
-    "success": 3258
+    "attempted": 7607,
+    "success": 3270
   },
   "recent_events": [
-    "STABLE: 'Verdant Relic of Distortion' did not mutate this tick.",
-    "MUTATED: 'Glacial Edge of Ruins' evolved to generation 24.",
-    "MUTATED: 'Gilded Rapier of Silence' evolved to generation 19.",
-    "MUTATED: 'Gilded Rapier of Silence' evolved to generation 20.",
-    "STABLE: 'Searing Rapier of the Glacier' did not mutate this tick.",
-    "STABLE: 'Fractured Axe of the Deep' did not mutate this tick.",
-    "STABLE: 'Searing Rapier of the Glacier' did not mutate this tick.",
-    "STABLE: 'Singed Relic of Carnage' did not mutate this tick.",
-    "STABLE: 'Glacial Edge of Ruins' did not mutate this tick.",
-    "MUTATED: 'Searing Rapier of the Glacier' evolved to generation 49."
+    "STABLE: 'Rusty Rapier of Gales' did not mutate this tick.",
+    "MUTATED: 'Zealous Edge of Frost' evolved to generation 32.",
+    "MUTATED: 'Mundane Blade of Embers' evolved to generation 3.",
+    "MUTATED: 'Verdant Relic of Distortion' evolved to generation 42.",
+    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 37.",
+    "STABLE: 'Rusty Rapier of Gales' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 38.",
+    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 39.",
+    "MUTATED: 'Singed Relic of Carnage' evolved to generation 29.",
+    "STABLE: 'Mundane Blade of Embers' did not mutate this tick."
   ],
-  "created": 87,
-  "avg_lifespan": 39.25974025974026,
-  "archived": 77
+  "created": 88,
+  "avg_lifespan": 39.51282051282051,
+  "archived": 78
 }

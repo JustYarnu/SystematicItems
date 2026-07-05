@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-7582
+7607
 
 ## Oldest Item
-Rusty Rapier of Gales
+Mundane Blade of Embers
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.05
-- Average Volatility: 0.48
-- Average Durability: 26.73
+- Average Rarity: 1.95
+- Average Volatility: 0.46
+- Average Durability: 33.5
 
 ## Dominant Factions
-- Order: 1.4
-- Stability: 0.8
-- Scarceness: 0.6
+- Order: 1.1
+- Chaos: 0.6
+- DEX: 0.6
 
 ## Extremes
-- Most Stable Item: Rusty Rapier of Gales
-- Most Volatile Item: Verdant Relic of Distortion
+- Most Stable Item: Mundane Blade of Embers
+- Most Volatile Item: Unstable Shard of Iron
 
 ## Recent Events
-- STABLE: 'Singed Relic of Carnage' did not mutate this tick.
-- STABLE: 'Glacial Edge of Ruins' did not mutate this tick.
-- MUTATED: 'Searing Rapier of the Glacier' evolved to generation 49.
+- MUTATED: 'Mundane Rapier of Embers' evolved to generation 39.
+- MUTATED: 'Singed Relic of Carnage' evolved to generation 29.
+- STABLE: 'Mundane Blade of Embers' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 87
-- Items Archived: 77
-- Avg Lifespan (ticks): 39.3
+- Items Created: 88
+- Items Archived: 78
+- Avg Lifespan (ticks): 39.5
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Rusty Rapier of Gales
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 7582
-- Successful Mutations: 3258
+- Mutations Attempted: 7607
+- Successful Mutations: 3270
 - Failure Rate: 57.0%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 2
-- Uncommon: 8
+- Common: 3
+- Uncommon: 7
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Rusty Rapier of Gales
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 158850
-- Currency per Tick (avg): 20.95
+- Total Currency: 161900
+- Currency per Tick (avg): 21.28
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
