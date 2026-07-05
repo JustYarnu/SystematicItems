@@ -1,21 +1,21 @@
 {
   "currency": 161900,
-  "tick": 7607,
+  "tick": 7632,
   "mutation_stats": {
-    "attempted": 7607,
-    "success": 3270
+    "attempted": 7632,
+    "success": 3283
   },
   "recent_events": [
-    "STABLE: 'Rusty Rapier of Gales' did not mutate this tick.",
-    "MUTATED: 'Zealous Edge of Frost' evolved to generation 32.",
-    "MUTATED: 'Mundane Blade of Embers' evolved to generation 3.",
-    "MUTATED: 'Verdant Relic of Distortion' evolved to generation 42.",
-    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 37.",
-    "STABLE: 'Rusty Rapier of Gales' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 38.",
-    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 39.",
-    "MUTATED: 'Singed Relic of Carnage' evolved to generation 29.",
-    "STABLE: 'Mundane Blade of Embers' did not mutate this tick."
+    "STABLE: 'Mundane Blade of Embers' did not mutate this tick.",
+    "MUTATED: 'Searing Rapier of the Glacier' evolved to generation 51.",
+    "STABLE: 'Singed Relic of Carnage' did not mutate this tick.",
+    "STABLE: 'Verdant Relic of Distortion' did not mutate this tick.",
+    "MUTATED: 'Rusty Rapier of Gales' evolved to generation 5.",
+    "STABLE: 'Verdant Relic of Distortion' did not mutate this tick.",
+    "STABLE: 'Glacial Edge of Ruins' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 40.",
+    "MUTATED: 'Rusty Rapier of Gales' evolved to generation 6.",
+    "MUTATED: 'Verdant Relic of Distortion' evolved to generation 44."
   ],
   "created": 88,
   "avg_lifespan": 39.51282051282051,
