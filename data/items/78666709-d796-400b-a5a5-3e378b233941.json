@@ -2,7 +2,7 @@
   "id": "78666709-d796-400b-a5a5-3e378b233941",
   "name": "Zealous Edge of Frost",
   "type": "Sword",
-  "generation": 26,
+  "generation": 31,
   "damage": 19.5,
   "damage_type": [
     "Physical",
@@ -12,15 +12,15 @@
   "crit_damage": 2.5,
   "crit_rate": 0.01,
   "str_mod": 1.4500000000000002,
-  "dex_mod": 1.3000000000000003,
+  "dex_mod": 1.4000000000000004,
   "rarity": 1,
-  "durability": 37.450000000000024,
+  "durability": 23.170000000000023,
   "max_durability": 125.0,
-  "volatility": 0.49,
+  "volatility": 0.47,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
     "Restoration": 0.1,
-    "Order": 0.1
+    "Order": 0.2
   }
 }
