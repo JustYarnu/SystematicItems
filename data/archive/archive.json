@@ -2169,5 +2169,58 @@
       "Order": 0.4,
       "Chaos": 0.1
     }
+  },
+  {
+    "id": "78666709-d796-400b-a5a5-3e378b233941",
+    "name": "Zealous Edge of Frost",
+    "type": "Sword",
+    "generation": 37,
+    "damage": 19.5,
+    "damage_type": [
+      "Physical",
+      "Holy",
+      "Cold"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.01,
+    "str_mod": 1.4500000000000002,
+    "dex_mod": 1.7000000000000006,
+    "rarity": 1,
+    "durability": -0.0799999999999772,
+    "max_durability": 125.0,
+    "volatility": 0.55,
+    "resilience": 0.75,
+    "worth": 1950,
+    "affinities": {
+      "Restoration": 0.1,
+      "Order": 0.2
+    }
+  },
+  {
+    "id": "66fc4853-099b-45d5-beb4-4451e94aa090",
+    "name": "Searing Rapier of the Glacier",
+    "type": "Generic",
+    "generation": 55,
+    "damage": 67.0,
+    "damage_type": [
+      "Physical",
+      "Fire",
+      "Piercing",
+      "Cold"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.6000000000000005,
+    "dex_mod": 1.05,
+    "rarity": 3,
+    "durability": -0.6799999999999842,
+    "max_durability": 110.0,
+    "volatility": 0.6000000000000008,
+    "resilience": 0.7999999999999999,
+    "worth": 2850,
+    "affinities": {
+      "STR": 0.3,
+      "Order": 0.1
+    }
   }
 ]
