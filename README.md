@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-7557
+7582
 
 ## Oldest Item
 Rusty Rapier of Gales
@@ -12,11 +12,11 @@ Rusty Rapier of Gales
 - Active Items: 10
 - Average Rarity: 2.05
 - Average Volatility: 0.48
-- Average Durability: 31.26
+- Average Durability: 26.73
 
 ## Dominant Factions
 - Order: 1.4
-- Stability: 0.7
+- Stability: 0.8
 - Scarceness: 0.6
 
 ## Extremes
@@ -24,9 +24,9 @@ Rusty Rapier of Gales
 - Most Volatile Item: Verdant Relic of Distortion
 
 ## Recent Events
-- MUTATED: 'Mundane Rapier of Embers' evolved to generation 36.
-- MUTATED: 'Gilded Rapier of Silence' evolved to generation 17.
-- STABLE: 'Unstable Shard of Iron' did not mutate this tick.
+- STABLE: 'Singed Relic of Carnage' did not mutate this tick.
+- STABLE: 'Glacial Edge of Ruins' did not mutate this tick.
+- MUTATED: 'Searing Rapier of the Glacier' evolved to generation 49.
 
 ## Lifecycle Stats
 - Items Created: 87
@@ -40,9 +40,9 @@ Rusty Rapier of Gales
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 7557
-- Successful Mutations: 3245
-- Failure Rate: 57.1%
+- Mutations Attempted: 7582
+- Successful Mutations: 3258
+- Failure Rate: 57.0%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Rusty Rapier of Gales
 
 ## Economy
 - Total Currency: 158850
-- Currency per Tick (avg): 21.02
+- Currency per Tick (avg): 20.95
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
