@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-7707
+7732
 
 ## Oldest Item
 Titanic Rapier of Silence
@@ -12,11 +12,11 @@ Titanic Rapier of Silence
 - Active Items: 10
 - Average Rarity: 2.05
 - Average Volatility: 0.44
-- Average Durability: 64.77
+- Average Durability: 59.66
 
 ## Dominant Factions
-- Chaos: 0.6
-- DEX: 0.6
+- Chaos: 0.7
+- DEX: 0.7
 - Stability: 0.5
 
 ## Extremes
@@ -24,9 +24,9 @@ Titanic Rapier of Silence
 - Most Volatile Item: Verdant Relic of Distortion
 
 ## Recent Events
-- STABLE: 'Mundane Blade of Embers' did not mutate this tick.
-- STABLE: 'Mundane Blade of Embers' did not mutate this tick.
-- STABLE: 'Rusty Rapier of Gales' did not mutate this tick.
+- MUTATED: 'Eldritch Blade of Whispers' evolved to generation 7.
+- MUTATED: 'Verdant Relic of Distortion' evolved to generation 48.
+- STABLE: 'Gilded Rapier of Silence' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 92
@@ -40,8 +40,8 @@ Titanic Rapier of Silence
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 7707
-- Successful Mutations: 3314
+- Mutations Attempted: 7732
+- Successful Mutations: 3326
 - Failure Rate: 57.0%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Titanic Rapier of Silence
 
 ## Economy
 - Total Currency: 169750
-- Currency per Tick (avg): 22.03
+- Currency per Tick (avg): 21.95
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
