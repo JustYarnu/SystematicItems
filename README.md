@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-7682
+7707
 
 ## Oldest Item
-Nimble Blade of Eternity
+Titanic Rapier of Silence
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.15
-- Average Volatility: 0.46
-- Average Durability: 55.77
+- Average Rarity: 2.05
+- Average Volatility: 0.44
+- Average Durability: 64.77
 
 ## Dominant Factions
+- Chaos: 0.6
 - DEX: 0.6
 - Stability: 0.5
-- Order: 0.5
 
 ## Extremes
-- Most Stable Item: Nimble Blade of Eternity
+- Most Stable Item: Titanic Rapier of Silence
 - Most Volatile Item: Verdant Relic of Distortion
 
 ## Recent Events
-- MUTATED: 'Unstable Shard of Iron' evolved to generation 38.
-- MUTATED: 'Mundane Rapier of Embers' evolved to generation 43.
-- MUTATED: 'Unstable Shard of Iron' evolved to generation 39.
+- STABLE: 'Mundane Blade of Embers' did not mutate this tick.
+- STABLE: 'Mundane Blade of Embers' did not mutate this tick.
+- STABLE: 'Rusty Rapier of Gales' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 91
-- Items Archived: 81
-- Avg Lifespan (ticks): 39.6
+- Items Created: 92
+- Items Archived: 82
+- Avg Lifespan (ticks): 39.4
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Nimble Blade of Eternity
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 7682
-- Successful Mutations: 3308
-- Failure Rate: 56.9%
+- Mutations Attempted: 7707
+- Successful Mutations: 3314
+- Failure Rate: 57.0%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 3
-- Uncommon: 7
+- Common: 4
+- Uncommon: 6
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Nimble Blade of Eternity
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 168350
-- Currency per Tick (avg): 21.91
+- Total Currency: 169750
+- Currency per Tick (avg): 22.03
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

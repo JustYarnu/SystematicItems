@@ -1,23 +1,23 @@
 {
-  "currency": 168350,
-  "tick": 7682,
+  "currency": 169750,
+  "tick": 7707,
   "mutation_stats": {
-    "attempted": 7682,
-    "success": 3308
+    "attempted": 7707,
+    "success": 3314
   },
   "recent_events": [
-    "MUTATED: 'Unstable Shard of Iron' evolved to generation 36.",
-    "MUTATED: 'Unstable Shard of Iron' evolved to generation 37.",
-    "STABLE: 'Gilded Rapier of Silence' did not mutate this tick.",
-    "MUTATED: 'Searing Rapier of the Glacier' evolved to generation 55.",
-    "REPLACED WITH: 'Eldritch Blade of Whispers' (1871d4d8-c6bd-4369-8c6c-3c346f3beba6)",
+    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 45.",
+    "STABLE: 'Nimble Blade of Eternity' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 46.",
     "STABLE: 'Eldritch Blade of Whispers' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 42.",
-    "MUTATED: 'Unstable Shard of Iron' evolved to generation 38.",
-    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 43.",
-    "MUTATED: 'Unstable Shard of Iron' evolved to generation 39."
+    "STABLE: 'Mundane Blade of Embers' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Embers' did not mutate this tick.",
+    "STABLE: 'Gilded Rapier of Silence' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Embers' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Embers' did not mutate this tick.",
+    "STABLE: 'Rusty Rapier of Gales' did not mutate this tick."
   ],
-  "created": 91,
-  "avg_lifespan": 39.5679012345679,
-  "archived": 81
+  "created": 92,
+  "avg_lifespan": 39.40243902439025,
+  "archived": 82
 }
