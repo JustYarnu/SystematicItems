@@ -1,23 +1,23 @@
 {
-  "currency": 161900,
-  "tick": 7632,
+  "currency": 163550,
+  "tick": 7657,
   "mutation_stats": {
-    "attempted": 7632,
-    "success": 3283
+    "attempted": 7657,
+    "success": 3295
   },
   "recent_events": [
+    "MUTATED: 'Rusty Rapier of Gales' evolved to generation 8.",
+    "MUTATED: 'Gilded Rapier of Silence' evolved to generation 24.",
+    "STABLE: 'Nimble Blade of Eternity' did not mutate this tick.",
+    "MUTATED: 'Searing Rapier of the Glacier' evolved to generation 52.",
+    "MUTATED: 'Verdant Relic of Distortion' evolved to generation 45.",
+    "MUTATED: 'Searing Rapier of the Glacier' evolved to generation 53.",
+    "STABLE: 'Zealous Edge of Frost' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 41.",
     "STABLE: 'Mundane Blade of Embers' did not mutate this tick.",
-    "MUTATED: 'Searing Rapier of the Glacier' evolved to generation 51.",
-    "STABLE: 'Singed Relic of Carnage' did not mutate this tick.",
-    "STABLE: 'Verdant Relic of Distortion' did not mutate this tick.",
-    "MUTATED: 'Rusty Rapier of Gales' evolved to generation 5.",
-    "STABLE: 'Verdant Relic of Distortion' did not mutate this tick.",
-    "STABLE: 'Glacial Edge of Ruins' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of Embers' evolved to generation 40.",
-    "MUTATED: 'Rusty Rapier of Gales' evolved to generation 6.",
-    "MUTATED: 'Verdant Relic of Distortion' evolved to generation 44."
+    "STABLE: 'Searing Rapier of the Glacier' did not mutate this tick."
   ],
-  "created": 88,
-  "avg_lifespan": 39.51282051282051,
-  "archived": 78
+  "created": 89,
+  "avg_lifespan": 39.40506329113924,
+  "archived": 79
 }

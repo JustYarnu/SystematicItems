@@ -2,7 +2,7 @@
   "id": "5123b7d4-4da1-44a0-8dc4-a2c1524f0e66",
   "name": "Unstable Shard of Iron",
   "type": "Dagger",
-  "generation": 33,
+  "generation": 34,
   "damage": 34.5,
   "damage_type": [
     "Physical",
@@ -14,7 +14,7 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 1.1,
   "rarity": 2,
-  "durability": 27.150000000000013,
+  "durability": 40.15000000000001,
   "max_durability": 143.0,
   "volatility": 0.58,
   "resilience": 0.6999999999999998,

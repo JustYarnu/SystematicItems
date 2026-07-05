@@ -2142,5 +2142,32 @@
       "Order": 0.3,
       "Scarceness": 0.3
     }
+  },
+  {
+    "id": "cff25a91-f80b-472e-bf38-39f9aa514d40",
+    "name": "Singed Relic of Carnage",
+    "type": "Artifact",
+    "generation": 31,
+    "damage": 40.5,
+    "damage_type": [
+      "Physical",
+      "Fire",
+      "Holy",
+      "Blood"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.01,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 0.8,
+    "rarity": 2.5,
+    "durability": -0.09999999999999964,
+    "max_durability": 94.0,
+    "volatility": 0.546096404744368,
+    "resilience": 0.6099999999999999,
+    "worth": 1650,
+    "affinities": {
+      "Order": 0.4,
+      "Chaos": 0.1
+    }
   }
 ]
