@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-7832
+7857
 
 ## Oldest Item
-Nimble Blade of Eternity
+Brittle Edge of Might
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.8
-- Average Volatility: 0.43
-- Average Durability: 54.88
+- Average Volatility: 0.45
+- Average Durability: 52.27
 
 ## Dominant Factions
-- Order: 0.6
+- Order: 0.7
 - Stability: 0.5
 - Chaos: 0.4
 
@@ -24,9 +24,9 @@ Nimble Blade of Eternity
 - Most Volatile Item: Verdant Relic of Distortion
 
 ## Recent Events
-- STABLE: 'Titanic Rapier of Silence' did not mutate this tick.
-- MUTATED: 'Verdant Relic of Distortion' evolved to generation 55.
-- STABLE: 'Mundane Blade of Embers' did not mutate this tick.
+- MUTATED: 'Unstable Shard of Iron' evolved to generation 44.
+- STABLE: 'Titanic Shard of Plagues' did not mutate this tick.
+- STABLE: 'Titanic Shard of Plagues' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 93
@@ -40,9 +40,9 @@ Nimble Blade of Eternity
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 7832
-- Successful Mutations: 3359
-- Failure Rate: 57.1%
+- Mutations Attempted: 7857
+- Successful Mutations: 3365
+- Failure Rate: 57.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Nimble Blade of Eternity
 
 ## Economy
 - Total Currency: 171350
-- Currency per Tick (avg): 21.88
+- Currency per Tick (avg): 21.81
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
