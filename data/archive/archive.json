@@ -2362,5 +2362,30 @@
       "Restoration": 0.3,
       "Scarceness": 0.2
     }
+  },
+  {
+    "id": "3fa126ed-11b8-48f9-a747-d1f36515a579",
+    "name": "Rusty Rapier of Gales",
+    "type": "Generic",
+    "generation": 21,
+    "damage": 24.5,
+    "damage_type": [
+      "Physical",
+      "Piercing",
+      "Sonic"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.01,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 1.7800000000000005,
+    "rarity": 1,
+    "durability": -1.0,
+    "max_durability": 102.0,
+    "volatility": 0.49000000000000027,
+    "resilience": 0.55,
+    "worth": 1150,
+    "affinities": {
+      "STR": 0.1
+    }
   }
 ]

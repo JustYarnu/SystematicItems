@@ -2,7 +2,7 @@
   "id": "0016e259-d234-4bd1-9de0-3d96995beebe",
   "name": "Titanic Rapier of Silence",
   "type": "Generic",
-  "generation": 7,
+  "generation": 8,
   "damage": 18.0,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "str_mod": 1.5000000000000002,
   "dex_mod": 1.0999999999999999,
   "rarity": 1,
-  "durability": 82.5,
+  "durability": 74.82,
   "max_durability": 125.0,
-  "volatility": 0.3400000000000002,
-  "resilience": 0.5,
+  "volatility": 0.3500000000000002,
+  "resilience": 0.58,
   "worth": 100,
   "affinities": {
     "Restoration": 0.1,
