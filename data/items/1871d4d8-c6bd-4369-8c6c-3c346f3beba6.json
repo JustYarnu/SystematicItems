@@ -2,7 +2,7 @@
   "id": "1871d4d8-c6bd-4369-8c6c-3c346f3beba6",
   "name": "Eldritch Blade of Whispers",
   "type": "Sword",
-  "generation": 14,
+  "generation": 15,
   "damage": 11.5,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.1500000000000001,
   "dex_mod": 1.37,
   "rarity": 2.5,
-  "durability": 40.68,
+  "durability": 38.04,
   "max_durability": 116.0,
-  "volatility": 0.54,
-  "resilience": 0.76,
+  "volatility": 0.51,
+  "resilience": 0.8160964047443681,
   "worth": 100,
   "affinities": {
     "Chaos": 0.1

@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-7882
+7907
 
 ## Oldest Item
-Nimble Blade of Eternity
+Mundane Axe of the Glacier
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.9
-- Average Volatility: 0.45
-- Average Durability: 49.97
+- Average Rarity: 2.0
+- Average Volatility: 0.41
+- Average Durability: 55.92
 
 ## Dominant Factions
-- Order: 0.7
-- Stability: 0.5
-- Chaos: 0.5
+- Order: 0.4
+- Chaos: 0.4
+- Restoration: 0.4
 
 ## Extremes
-- Most Stable Item: Brittle Edge of Might
+- Most Stable Item: Mundane Axe of the Glacier
 - Most Volatile Item: Verdant Relic of Distortion
 
 ## Recent Events
-- MUTATED: 'Mundane Rapier of Embers' evolved to generation 55.
-- MUTATED: 'Mundane Blade of Embers' evolved to generation 6.
-- STABLE: 'Brittle Edge of Might' did not mutate this tick.
+- MUTATED: 'Mundane Blade of Embers' evolved to generation 7.
+- STABLE: 'Nimble Blade of Eternity' did not mutate this tick.
+- STABLE: 'Nimble Blade of Eternity' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 93
-- Items Archived: 83
-- Avg Lifespan (ticks): 39.3
+- Items Created: 94
+- Items Archived: 84
+- Avg Lifespan (ticks): 39.5
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Nimble Blade of Eternity
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 7882
-- Successful Mutations: 3381
+- Mutations Attempted: 7907
+- Successful Mutations: 3392
 - Failure Rate: 57.1%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 4
-- Uncommon: 6
+- Common: 5
+- Uncommon: 5
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Nimble Blade of Eternity
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 171350
-- Currency per Tick (avg): 21.74
+- Total Currency: 174250
+- Currency per Tick (avg): 22.04
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
