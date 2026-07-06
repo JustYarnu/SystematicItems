@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-7932
+7957
 
 ## Oldest Item
 Mundane Axe of the Glacier
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.65
-- Average Volatility: 0.37
-- Average Durability: 64.43
+- Average Rarity: 1.45
+- Average Volatility: 0.33
+- Average Durability: 73.79
 
 ## Dominant Factions
-- Order: 0.4
-- Restoration: 0.4
-- Scarceness: 0.2
+- Order: 0.3
+- Chaos: 0.3
+- STR: 0.2
 
 ## Extremes
-- Most Stable Item: Mundane Axe of the Glacier
-- Most Volatile Item: Titanic Shard of Plagues
+- Most Stable Item: Titanic Core of Whispers
+- Most Volatile Item: Eldritch Blade of Whispers
 
 ## Recent Events
-- STABLE: 'Mundane Blade of Embers' did not mutate this tick.
-- STABLE: 'Brittle Edge of Might' did not mutate this tick.
-- STABLE: 'Nimble Blade of Eternity' did not mutate this tick.
+- STABLE: 'Eldritch Blade of Whispers' did not mutate this tick.
+- MUTATED: 'Rusty Rapier of Gales' evolved to generation 20.
+- MUTATED: 'Mundane Blade of Embers' evolved to generation 11.
 
 ## Lifecycle Stats
-- Items Created: 95
-- Items Archived: 85
-- Avg Lifespan (ticks): 39.7
+- Items Created: 96
+- Items Archived: 86
+- Avg Lifespan (ticks): 39.9
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Mundane Axe of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 7932
-- Successful Mutations: 3400
+- Mutations Attempted: 7957
+- Successful Mutations: 3412
 - Failure Rate: 57.1%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Mundane Axe of the Glacier
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 177350
-- Currency per Tick (avg): 22.36
+- Total Currency: 180100
+- Currency per Tick (avg): 22.63
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
