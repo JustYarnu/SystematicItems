@@ -2,7 +2,7 @@
   "id": "5c009908-e240-4ca2-8a1b-40c4e460e6dd",
   "name": "Mundane Blade of Embers",
   "type": "Sword",
-  "generation": 15,
+  "generation": 16,
   "damage": 25.5,
   "damage_type": [
     "Physical",
@@ -14,12 +14,12 @@
   "str_mod": 1.1500000000000001,
   "dex_mod": 1.05,
   "rarity": 2,
-  "durability": 65.5,
+  "durability": 62.5,
   "max_durability": 107.0,
-  "volatility": 0.4200000000000003,
+  "volatility": 0.4300000000000003,
   "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {
-    "Stability": 0.1
+    "Stability": 0.2
   }
 }
