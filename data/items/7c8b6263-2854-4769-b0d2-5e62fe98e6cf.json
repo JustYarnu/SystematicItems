@@ -2,20 +2,20 @@
   "id": "7c8b6263-2854-4769-b0d2-5e62fe98e6cf",
   "name": "Brittle Edge of Might",
   "type": "Sword",
-  "generation": 5,
-  "damage": 28.0,
+  "generation": 7,
+  "damage": 26.0,
   "damage_type": [
     "Physical"
   ],
   "crit_damage": 2.5,
   "crit_rate": 0.01,
   "str_mod": 1.25,
-  "dex_mod": 1.1,
+  "dex_mod": 1.25,
   "rarity": 1,
-  "durability": 64.0,
+  "durability": 56.32,
   "max_durability": 65.0,
-  "volatility": 0.29000000000000015,
-  "resilience": 0.5,
+  "volatility": 0.28000000000000014,
+  "resilience": 0.58,
   "worth": 100,
   "affinities": {
     "Order": 0.1

@@ -1,21 +1,21 @@
 {
   "currency": 181250,
-  "tick": 8082,
+  "tick": 8107,
   "mutation_stats": {
-    "attempted": 8082,
-    "success": 3449
+    "attempted": 8107,
+    "success": 3459
   },
   "recent_events": [
-    "STABLE: 'Titanic Rapier of Silence' did not mutate this tick.",
-    "MUTATED: 'Titanic Rapier of Silence' evolved to generation 12.",
+    "STABLE: 'Nimble Blade of Eternity' did not mutate this tick.",
+    "STABLE: 'Titanic Shard of Plagues' did not mutate this tick.",
     "STABLE: 'Mundane Rapier of Gales' did not mutate this tick.",
-    "STABLE: 'Titanic Core of Whispers' did not mutate this tick.",
+    "STABLE: 'Titanic Shard of Plagues' did not mutate this tick.",
     "STABLE: 'Brittle Edge of Might' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Gales' did not mutate this tick.",
-    "STABLE: 'Brittle Edge of Might' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Embers' did not mutate this tick.",
-    "STABLE: 'Titanic Core of Whispers' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Gales' did not mutate this tick."
+    "MUTATED: 'Nimble Blade of Eternity' evolved to generation 5.",
+    "MUTATED: 'Titanic Shard of Plagues' evolved to generation 23.",
+    "STABLE: 'Nimble Edge of Carnage' did not mutate this tick.",
+    "STABLE: 'Mundane Axe of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Eldritch Blade of Whispers' evolved to generation 24."
   ],
   "created": 97,
   "avg_lifespan": 39.666666666666664,
