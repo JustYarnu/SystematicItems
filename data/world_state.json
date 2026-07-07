@@ -1,21 +1,21 @@
 {
   "currency": 181250,
-  "tick": 8057,
+  "tick": 8082,
   "mutation_stats": {
-    "attempted": 8057,
-    "success": 3442
+    "attempted": 8082,
+    "success": 3449
   },
   "recent_events": [
+    "STABLE: 'Titanic Rapier of Silence' did not mutate this tick.",
+    "MUTATED: 'Titanic Rapier of Silence' evolved to generation 12.",
+    "STABLE: 'Mundane Rapier of Gales' did not mutate this tick.",
+    "STABLE: 'Titanic Core of Whispers' did not mutate this tick.",
+    "STABLE: 'Brittle Edge of Might' did not mutate this tick.",
     "STABLE: 'Mundane Rapier of Gales' did not mutate this tick.",
     "STABLE: 'Brittle Edge of Might' did not mutate this tick.",
     "STABLE: 'Mundane Blade of Embers' did not mutate this tick.",
-    "STABLE: 'Brittle Edge of Might' did not mutate this tick.",
-    "MUTATED: 'Nimble Edge of Carnage' evolved to generation 4.",
     "STABLE: 'Titanic Core of Whispers' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of Gales' evolved to generation 4.",
-    "MUTATED: 'Eldritch Blade of Whispers' evolved to generation 21.",
-    "STABLE: 'Mundane Rapier of Gales' did not mutate this tick.",
-    "MUTATED: 'Titanic Core of Whispers' evolved to generation 3."
+    "STABLE: 'Mundane Rapier of Gales' did not mutate this tick."
   ],
   "created": 97,
   "avg_lifespan": 39.666666666666664,
