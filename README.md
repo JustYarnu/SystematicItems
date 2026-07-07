@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-8182
+8207
 
 ## Oldest Item
 Titanic Core of Whispers
@@ -11,13 +11,13 @@ Titanic Core of Whispers
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.65
-- Average Volatility: 0.41
-- Average Durability: 59.75
+- Average Volatility: 0.44
+- Average Durability: 57.83
 
 ## Dominant Factions
+- Stability: 0.5
 - Chaos: 0.5
 - Order: 0.5
-- Stability: 0.4
 
 ## Extremes
 - Most Stable Item: Titanic Core of Whispers
@@ -25,8 +25,8 @@ Titanic Core of Whispers
 
 ## Recent Events
 - STABLE: 'Brittle Edge of Might' did not mutate this tick.
-- MUTATED: 'Titanic Shard of Plagues' evolved to generation 30.
-- STABLE: 'Titanic Rapier of Silence' did not mutate this tick.
+- STABLE: 'Nimble Edge of Carnage' did not mutate this tick.
+- MUTATED: 'Mundane Rapier of Gales' evolved to generation 10.
 
 ## Lifecycle Stats
 - Items Created: 97
@@ -40,9 +40,9 @@ Titanic Core of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 8182
-- Successful Mutations: 3485
-- Failure Rate: 57.4%
+- Mutations Attempted: 8207
+- Successful Mutations: 3491
+- Failure Rate: 57.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Titanic Core of Whispers
 
 ## Economy
 - Total Currency: 181250
-- Currency per Tick (avg): 22.15
+- Currency per Tick (avg): 22.08
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
