@@ -2,7 +2,7 @@
   "id": "3070d718-ab39-4897-aff0-92837322e6ea",
   "name": "Mundane Axe of the Glacier",
   "type": "HeavyWeapon",
-  "generation": 1,
+  "generation": 2,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -12,11 +12,11 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.15,
-  "dex_mod": 1.0,
+  "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 93.0,
+  "durability": 87.25,
   "max_durability": 125.0,
-  "volatility": 0.17000000000000004,
+  "volatility": 0.20000000000000007,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {}

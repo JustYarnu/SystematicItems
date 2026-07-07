@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-7982
+8007
 
 ## Oldest Item
 Mundane Axe of the Glacier
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.45
-- Average Volatility: 0.32
-- Average Durability: 83.55
+- Average Rarity: 1.55
+- Average Volatility: 0.33
+- Average Durability: 80.2
 
 ## Dominant Factions
 - Order: 0.3
+- Restoration: 0.3
 - Chaos: 0.3
-- Restoration: 0.2
 
 ## Extremes
 - Most Stable Item: Titanic Core of Whispers
 - Most Volatile Item: Eldritch Blade of Whispers
 
 ## Recent Events
-- MUTATED: 'Titanic Shard of Plagues' evolved to generation 17.
-- STABLE: 'Mundane Axe of the Glacier' did not mutate this tick.
-- MUTATED: 'Titanic Shard of Plagues' evolved to generation 18.
+- MUTATED: 'Nimble Edge of Carnage' evolved to generation 2.
+- STABLE: 'Nimble Blade of Eternity' did not mutate this tick.
+- STABLE: 'Eldritch Blade of Whispers' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 97
@@ -40,9 +40,9 @@ Mundane Axe of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 7982
-- Successful Mutations: 3421
-- Failure Rate: 57.1%
+- Mutations Attempted: 8007
+- Successful Mutations: 3429
+- Failure Rate: 57.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Mundane Axe of the Glacier
 
 ## Economy
 - Total Currency: 181250
-- Currency per Tick (avg): 22.71
+- Currency per Tick (avg): 22.64
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
