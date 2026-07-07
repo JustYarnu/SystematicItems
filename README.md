@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-8157
+8182
 
 ## Oldest Item
 Titanic Core of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.55
-- Average Volatility: 0.4
-- Average Durability: 60.91
+- Average Rarity: 1.65
+- Average Volatility: 0.41
+- Average Durability: 59.75
 
 ## Dominant Factions
+- Chaos: 0.5
+- Order: 0.5
 - Stability: 0.4
-- Order: 0.4
-- Chaos: 0.4
 
 ## Extremes
 - Most Stable Item: Titanic Core of Whispers
 - Most Volatile Item: Eldritch Blade of Whispers
 
 ## Recent Events
-- MUTATED: 'Titanic Shard of Plagues' evolved to generation 24.
-- MUTATED: 'Mundane Axe of the Glacier' evolved to generation 4.
-- MUTATED: 'Mundane Axe of the Glacier' evolved to generation 5.
+- STABLE: 'Brittle Edge of Might' did not mutate this tick.
+- MUTATED: 'Titanic Shard of Plagues' evolved to generation 30.
+- STABLE: 'Titanic Rapier of Silence' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 97
@@ -40,15 +40,15 @@ Titanic Core of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 8157
-- Successful Mutations: 3473
+- Mutations Attempted: 8182
+- Successful Mutations: 3485
 - Failure Rate: 57.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 3
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Titanic Core of Whispers
 
 ## Economy
 - Total Currency: 181250
-- Currency per Tick (avg): 22.22
+- Currency per Tick (avg): 22.15
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
