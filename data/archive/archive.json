@@ -2387,5 +2387,59 @@
     "affinities": {
       "STR": 0.1
     }
+  },
+  {
+    "id": "1871d4d8-c6bd-4369-8c6c-3c346f3beba6",
+    "name": "Eldritch Blade of Whispers",
+    "type": "Sword",
+    "generation": 38,
+    "damage": 16.0,
+    "damage_type": [
+      "Physical",
+      "Slashing",
+      "Void"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.10614709844115208,
+    "str_mod": 1.4500000000000004,
+    "dex_mod": 1.4700000000000002,
+    "rarity": 3.5,
+    "durability": -0.6323481870617425,
+    "max_durability": 116.0,
+    "volatility": 0.6300000000000001,
+    "resilience": 0.8403677461028802,
+    "worth": 2000,
+    "affinities": {
+      "Chaos": 0.2,
+      "DEX": 0.1,
+      "Stability": 0.1,
+      "STR": 0.1,
+      "Order": 0.1
+    }
+  },
+  {
+    "id": "7c8b6263-2854-4769-b0d2-5e62fe98e6cf",
+    "name": "Brittle Edge of Might",
+    "type": "Sword",
+    "generation": 19,
+    "damage": 27.5,
+    "damage_type": [
+      "Physical"
+    ],
+    "crit_damage": 3.3,
+    "crit_rate": 0.07,
+    "str_mod": 1.35,
+    "dex_mod": 1.25,
+    "rarity": 1,
+    "durability": -0.38999999999999657,
+    "max_durability": 60.0,
+    "volatility": 0.5200000000000004,
+    "resilience": 0.63,
+    "worth": 1050,
+    "affinities": {
+      "Order": 0.2,
+      "Stability": 0.2,
+      "STR": 0.1
+    }
   }
 ]

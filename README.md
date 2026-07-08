@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-8382
+8407
 
 ## Oldest Item
-Titanic Core of Whispers
+Singed Focus of Might
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.75
-- Average Volatility: 0.47
-- Average Durability: 39.69
+- Average Rarity: 1.6
+- Average Volatility: 0.4
+- Average Durability: 55.33
 
 ## Dominant Factions
-- STR: 1.0
-- Order: 0.8
-- Chaos: 0.6
+- STR: 0.8
+- Order: 0.5
+- Restoration: 0.5
 
 ## Extremes
-- Most Stable Item: Titanic Core of Whispers
-- Most Volatile Item: Eldritch Blade of Whispers
+- Most Stable Item: Ancient Rapier of Frost
+- Most Volatile Item: Titanic Shard of Plagues
 
 ## Recent Events
-- STABLE: 'Titanic Shard of Plagues' did not mutate this tick.
-- MUTATED: 'Titanic Core of Whispers' evolved to generation 5.
-- STABLE: 'Titanic Shard of Plagues' did not mutate this tick.
+- MUTATED: 'Mundane Blade of Embers' evolved to generation 34.
+- STABLE: 'Brittle Edge of Might' did not mutate this tick.
+- REPLACED WITH: 'Singed Focus of Might' (2a890c0b-e2fc-4879-9a33-55b62c769750)
 
 ## Lifecycle Stats
-- Items Created: 97
-- Items Archived: 87
-- Avg Lifespan (ticks): 39.7
+- Items Created: 99
+- Items Archived: 89
+- Avg Lifespan (ticks): 39.4
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,8 +40,8 @@ Titanic Core of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 8382
-- Successful Mutations: 3569
+- Mutations Attempted: 8407
+- Successful Mutations: 3580
 - Failure Rate: 57.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Titanic Core of Whispers
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 181250
-- Currency per Tick (avg): 21.62
-- Recent Gains: 0
+- Total Currency: 184300
+- Currency per Tick (avg): 21.92
+- Recent Gains: 1050
 
 ![CPT](assets/cpt.png)
