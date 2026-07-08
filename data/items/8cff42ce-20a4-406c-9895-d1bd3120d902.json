@@ -2,7 +2,7 @@
   "id": "8cff42ce-20a4-406c-9895-d1bd3120d902",
   "name": "Mundane Rapier of Gales",
   "type": "Generic",
-  "generation": 10,
+  "generation": 13,
   "damage": 19.5,
   "damage_type": [
     "Physical",
@@ -10,14 +10,14 @@
     "Sonic"
   ],
   "crit_damage": 2,
-  "crit_rate": 0.01,
+  "crit_rate": 0.060000000000000005,
   "str_mod": 1.1,
   "dex_mod": 1.2299999999999998,
   "rarity": 1,
-  "durability": 70.0,
+  "durability": 59.620000000000005,
   "max_durability": 100.0,
-  "volatility": 0.4200000000000002,
-  "resilience": 0.7,
+  "volatility": 0.36000000000000026,
+  "resilience": 0.75,
   "worth": 100,
   "affinities": {
     "DEX": 0.1,
