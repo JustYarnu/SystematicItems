@@ -2,7 +2,7 @@
   "id": "d1702d56-09f4-4447-b5f3-4f2401059f37",
   "name": "Nimble Blade of Eternity",
   "type": "Sword",
-  "generation": 17,
+  "generation": 18,
   "damage": 13.0,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "str_mod": 1.2500000000000002,
   "dex_mod": 1.4000000000000001,
   "rarity": 3.0,
-  "durability": 16.970000000000002,
+  "durability": 12.620000000000001,
   "max_durability": 140.0,
-  "volatility": 0.45000000000000023,
-  "resilience": 0.58,
+  "volatility": 0.5300000000000002,
+  "resilience": 0.5299999999999999,
   "worth": 100,
   "affinities": {
     "Order": 0.1,
