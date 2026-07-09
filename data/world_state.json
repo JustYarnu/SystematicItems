@@ -1,23 +1,23 @@
 {
-  "currency": 184300,
-  "tick": 8432,
+  "currency": 185450,
+  "tick": 8457,
   "mutation_stats": {
-    "attempted": 8432,
-    "success": 3591
+    "attempted": 8457,
+    "success": 3603
   },
   "recent_events": [
-    "STABLE: 'Titanic Core of Whispers' did not mutate this tick.",
-    "STABLE: 'Titanic Rapier of Silence' did not mutate this tick.",
-    "MUTATED: 'Nimble Blade of Eternity' evolved to generation 21.",
-    "MUTATED: 'Mundane Rapier of Gales' evolved to generation 17.",
-    "STABLE: 'Singed Focus of Might' did not mutate this tick.",
-    "MUTATED: 'Singed Focus of Might' evolved to generation 2.",
-    "MUTATED: 'Mundane Blade of Embers' evolved to generation 36.",
-    "MUTATED: 'Mundane Rapier of Gales' evolved to generation 18.",
-    "STABLE: 'Mundane Blade of Embers' did not mutate this tick.",
-    "STABLE: 'Nimble Edge of Carnage' did not mutate this tick."
+    "STABLE: 'Mundane Axe of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Singed Focus of Might' evolved to generation 4.",
+    "MUTATED: 'Mundane Rapier of Gales' evolved to generation 21.",
+    "STABLE: 'Mundane Axe of the Glacier' did not mutate this tick.",
+    "STABLE: 'Nimble Edge of Carnage' did not mutate this tick.",
+    "MUTATED: 'Mundane Axe of the Glacier' evolved to generation 17.",
+    "MUTATED: 'Mundane Blade of Embers' evolved to generation 38.",
+    "STABLE: 'Ancient Rapier of Frost' did not mutate this tick.",
+    "STABLE: 'Echoing Relic of Might' did not mutate this tick.",
+    "STABLE: 'Mundane Axe of the Glacier' did not mutate this tick."
   ],
-  "created": 99,
-  "avg_lifespan": 39.41573033707865,
-  "archived": 89
+  "created": 100,
+  "avg_lifespan": 39.21111111111111,
+  "archived": 90
 }
