@@ -2,7 +2,7 @@
   "id": "bc997454-eb4b-4904-8983-3f6bac5e0a03",
   "name": "Titanic Shard of Plagues",
   "type": "Dagger",
-  "generation": 50,
+  "generation": 51,
   "damage": 40.5,
   "damage_type": [
     "Physical",
@@ -14,7 +14,7 @@
   "str_mod": 2.0000000000000004,
   "dex_mod": 0.9,
   "rarity": 2,
-  "durability": 41.990000000000016,
+  "durability": 45.990000000000016,
   "max_durability": 127.0,
   "volatility": 0.61,
   "resilience": 0.7499999999999999,

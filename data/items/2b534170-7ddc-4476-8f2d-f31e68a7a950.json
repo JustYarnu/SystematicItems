@@ -2,7 +2,7 @@
   "id": "2b534170-7ddc-4476-8f2d-f31e68a7a950",
   "name": "Nimble Edge of Carnage",
   "type": "Sword",
-  "generation": 14,
+  "generation": 15,
   "damage": 23.0,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.35,
   "rarity": 1,
-  "durability": 38.16999999999999,
+  "durability": 31.469999999999985,
   "max_durability": 99.0,
-  "volatility": 0.4900000000000003,
+  "volatility": 0.45000000000000034,
   "resilience": 0.63,
   "worth": 100,
   "affinities": {
