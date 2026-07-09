@@ -1,21 +1,21 @@
 {
   "currency": 185450,
-  "tick": 8557,
+  "tick": 8582,
   "mutation_stats": {
-    "attempted": 8557,
-    "success": 3643
+    "attempted": 8582,
+    "success": 3651
   },
   "recent_events": [
-    "MUTATED: 'Titanic Rapier of Silence' evolved to generation 38.",
-    "MUTATED: 'Mundane Blade of Embers' evolved to generation 43.",
-    "STABLE: 'Titanic Shard of Plagues' did not mutate this tick.",
+    "STABLE: 'Echoing Relic of Might' did not mutate this tick.",
+    "STABLE: 'Nimble Edge of Carnage' did not mutate this tick.",
+    "STABLE: 'Echoing Relic of Might' did not mutate this tick.",
     "STABLE: 'Mundane Rapier of Gales' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of Embers' evolved to generation 44.",
+    "STABLE: 'Mundane Blade of Embers' did not mutate this tick.",
+    "MUTATED: 'Titanic Core of Whispers' evolved to generation 9.",
+    "STABLE: 'Singed Focus of Might' did not mutate this tick.",
+    "MUTATED: 'Titanic Rapier of Silence' evolved to generation 40.",
     "STABLE: 'Mundane Rapier of Gales' did not mutate this tick.",
-    "STABLE: 'Titanic Core of Whispers' did not mutate this tick.",
-    "MUTATED: 'Singed Focus of Might' evolved to generation 6.",
-    "STABLE: 'Titanic Rapier of Silence' did not mutate this tick.",
-    "STABLE: 'Titanic Shard of Plagues' did not mutate this tick."
+    "STABLE: 'Mundane Blade of Embers' did not mutate this tick."
   ],
   "created": 100,
   "avg_lifespan": 39.21111111111111,

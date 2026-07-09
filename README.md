@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-8557
+8582
 
 ## Oldest Item
 Echoing Relic of Might
@@ -11,8 +11,8 @@ Echoing Relic of Might
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.55
-- Average Volatility: 0.41
-- Average Durability: 45.5
+- Average Volatility: 0.42
+- Average Durability: 46.28
 
 ## Dominant Factions
 - STR: 1.0
@@ -20,13 +20,13 @@ Echoing Relic of Might
 - Restoration: 0.5
 
 ## Extremes
-- Most Stable Item: Echoing Relic of Might
+- Most Stable Item: Ancient Rapier of Frost
 - Most Volatile Item: Titanic Shard of Plagues
 
 ## Recent Events
-- MUTATED: 'Singed Focus of Might' evolved to generation 6.
-- STABLE: 'Titanic Rapier of Silence' did not mutate this tick.
-- STABLE: 'Titanic Shard of Plagues' did not mutate this tick.
+- MUTATED: 'Titanic Rapier of Silence' evolved to generation 40.
+- STABLE: 'Mundane Rapier of Gales' did not mutate this tick.
+- STABLE: 'Mundane Blade of Embers' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 100
@@ -40,9 +40,9 @@ Echoing Relic of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 8557
-- Successful Mutations: 3643
-- Failure Rate: 57.4%
+- Mutations Attempted: 8582
+- Successful Mutations: 3651
+- Failure Rate: 57.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Echoing Relic of Might
 
 ## Economy
 - Total Currency: 185450
-- Currency per Tick (avg): 21.67
+- Currency per Tick (avg): 21.61
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
