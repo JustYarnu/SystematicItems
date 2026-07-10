@@ -1,21 +1,21 @@
 {
   "currency": 190400,
-  "tick": 8657,
+  "tick": 8682,
   "mutation_stats": {
-    "attempted": 8657,
-    "success": 3682
+    "attempted": 8682,
+    "success": 3690
   },
   "recent_events": [
-    "MUTATED: 'Singed Focus of Might' evolved to generation 9.",
-    "STABLE: 'Nimble Edge of Carnage' did not mutate this tick.",
-    "MUTATED: 'Singed Focus of Might' evolved to generation 10.",
-    "MUTATED: 'Titanic Rapier of Silence' evolved to generation 44.",
-    "REPLACED WITH: 'Blessed Edge of Sparks' (cf3a737c-15cb-4e51-9455-63f827333f08)",
-    "MUTATED: 'Nimble Edge of Carnage' evolved to generation 21.",
+    "STABLE: 'Ancient Rapier of Frost' did not mutate this tick.",
+    "STABLE: 'Gilded Spear of Sparks' did not mutate this tick.",
+    "STABLE: 'Ancient Rapier of Frost' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Embers' did not mutate this tick.",
+    "MUTATED: 'Mundane Blade of Embers' evolved to generation 50.",
     "STABLE: 'Singed Focus of Might' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Gales' did not mutate this tick.",
-    "REPLACED WITH: 'Gilded Spear of Sparks' (f9ca2b92-3fcc-43b8-a14e-9c2ea43643d0)",
-    "MUTATED: 'Gilded Spear of Sparks' evolved to generation 2."
+    "MUTATED: 'Nimble Edge of Carnage' evolved to generation 23.",
+    "MUTATED: 'Ancient Rapier of Frost' evolved to generation 11.",
+    "STABLE: 'Broken Spear of Light' did not mutate this tick.",
+    "STABLE: 'Broken Spear of Light' did not mutate this tick."
   ],
   "created": 103,
   "avg_lifespan": 38.94623655913979,
