@@ -2,7 +2,7 @@
   "id": "cf3a737c-15cb-4e51-9455-63f827333f08",
   "name": "Blessed Edge of Sparks",
   "type": "Sword",
-  "generation": 3,
+  "generation": 4,
   "damage": 14.5,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.1,
   "dex_mod": 1.2000000000000002,
   "rarity": 1,
-  "durability": 84.89999999999999,
+  "durability": 89.89999999999999,
   "max_durability": 115.0,
-  "volatility": 0.3400000000000001,
+  "volatility": 0.33000000000000007,
   "resilience": 0.7,
   "worth": 100,
   "affinities": {}
