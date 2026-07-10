@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-8807
+8832
 
 ## Oldest Item
 Shattered Rapier of Might
@@ -12,21 +12,21 @@ Shattered Rapier of Might
 - Active Items: 10
 - Average Rarity: 1.43
 - Average Volatility: 0.43
-- Average Durability: 57.41
+- Average Durability: 53.04
 
 ## Dominant Factions
+- Chaos: 0.6
 - STR: 0.5
-- Chaos: 0.4
-- Stability: 0.3
+- Order: 0.4
 
 ## Extremes
-- Most Stable Item: Singed Focus of Might
+- Most Stable Item: Gilded Spear of Sparks
 - Most Volatile Item: Broken Spear of Light
 
 ## Recent Events
-- STABLE: 'Titanic Shard of Plagues' did not mutate this tick.
-- MUTATED: 'Ancient Rapier of Frost' evolved to generation 13.
-- STABLE: 'Broken Spear of Light' did not mutate this tick.
+- STABLE: 'Singed Focus of Might' did not mutate this tick.
+- STABLE: 'Blessed Edge of Sparks' did not mutate this tick.
+- MUTATED: 'Ancient Rapier of Frost' evolved to generation 15.
 
 ## Lifecycle Stats
 - Items Created: 104
@@ -40,8 +40,8 @@ Shattered Rapier of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 8807
-- Successful Mutations: 3739
+- Mutations Attempted: 8832
+- Successful Mutations: 3750
 - Failure Rate: 57.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Shattered Rapier of Might
 
 ## Economy
 - Total Currency: 193550
-- Currency per Tick (avg): 21.98
+- Currency per Tick (avg): 21.91
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
