@@ -1,23 +1,23 @@
 {
-  "currency": 190400,
-  "tick": 8757,
+  "currency": 193550,
+  "tick": 8782,
   "mutation_stats": {
-    "attempted": 8757,
-    "success": 3720
+    "attempted": 8782,
+    "success": 3729
   },
   "recent_events": [
-    "MUTATED: 'Titanic Shard of Plagues' evolved to generation 59.",
-    "STABLE: 'Nimble Edge of Carnage' did not mutate this tick.",
+    "STABLE: 'Gilded Spear of Sparks' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Embers' did not mutate this tick.",
+    "REPLACED WITH: 'Shattered Rapier of Might' (b4676c33-a613-4986-9673-ad25183aebb6)",
+    "STABLE: 'Titanic Core of Whispers' did not mutate this tick.",
     "STABLE: 'Broken Spear of Light' did not mutate this tick.",
-    "STABLE: 'Echoing Relic of Might' did not mutate this tick.",
-    "STABLE: 'Echoing Relic of Might' did not mutate this tick.",
-    "MUTATED: 'Nimble Edge of Carnage' evolved to generation 27.",
-    "STABLE: 'Echoing Relic of Might' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of Embers' evolved to generation 58.",
-    "MUTATED: 'Nimble Edge of Carnage' evolved to generation 28.",
+    "STABLE: 'Shattered Rapier of Might' did not mutate this tick.",
+    "STABLE: 'Singed Focus of Might' did not mutate this tick.",
+    "STABLE: 'Broken Spear of Light' did not mutate this tick.",
+    "STABLE: 'Singed Focus of Might' did not mutate this tick.",
     "STABLE: 'Ancient Rapier of Frost' did not mutate this tick."
   ],
-  "created": 103,
-  "avg_lifespan": 38.94623655913979,
-  "archived": 93
+  "created": 104,
+  "avg_lifespan": 39.18085106382979,
+  "archived": 94
 }
