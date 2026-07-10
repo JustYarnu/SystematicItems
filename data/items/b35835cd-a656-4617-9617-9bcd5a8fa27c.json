@@ -2,7 +2,7 @@
   "id": "b35835cd-a656-4617-9617-9bcd5a8fa27c",
   "name": "Titanic Core of Whispers",
   "type": "Artifact",
-  "generation": 11,
+  "generation": 12,
   "damage": 18.0,
   "damage_type": [
     "Physical",
@@ -13,7 +13,7 @@
   "str_mod": 1.5000000000000002,
   "dex_mod": 0.92,
   "rarity": 1,
-  "durability": 70.56,
+  "durability": 74.56,
   "max_durability": 125.0,
   "volatility": 0.4300000000000002,
   "resilience": 0.58,
