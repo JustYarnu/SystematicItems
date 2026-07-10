@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-8707
+8732
 
 ## Oldest Item
 Blessed Edge of Sparks
@@ -12,7 +12,7 @@ Blessed Edge of Sparks
 - Active Items: 10
 - Average Rarity: 1.63
 - Average Volatility: 0.43
-- Average Durability: 64.13
+- Average Durability: 61.39
 
 ## Dominant Factions
 - STR: 0.6
@@ -21,12 +21,12 @@ Blessed Edge of Sparks
 
 ## Extremes
 - Most Stable Item: Ancient Rapier of Frost
-- Most Volatile Item: Broken Spear of Light
+- Most Volatile Item: Titanic Shard of Plagues
 
 ## Recent Events
-- STABLE: 'Titanic Shard of Plagues' did not mutate this tick.
-- MUTATED: 'Titanic Shard of Plagues' evolved to generation 55.
 - STABLE: 'Titanic Core of Whispers' did not mutate this tick.
+- STABLE: 'Broken Spear of Light' did not mutate this tick.
+- MUTATED: 'Nimble Edge of Carnage' evolved to generation 25.
 
 ## Lifecycle Stats
 - Items Created: 103
@@ -40,8 +40,8 @@ Blessed Edge of Sparks
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 8707
-- Successful Mutations: 3699
+- Mutations Attempted: 8732
+- Successful Mutations: 3709
 - Failure Rate: 57.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Blessed Edge of Sparks
 
 ## Economy
 - Total Currency: 190400
-- Currency per Tick (avg): 21.87
+- Currency per Tick (avg): 21.8
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
