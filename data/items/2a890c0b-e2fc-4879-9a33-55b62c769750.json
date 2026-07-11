@@ -2,7 +2,7 @@
   "id": "2a890c0b-e2fc-4879-9a33-55b62c769750",
   "name": "Singed Focus of Might",
   "type": "Focus",
-  "generation": 21,
+  "generation": 23,
   "damage": 26.5,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "crit_rate": 0.01,
   "str_mod": 1.5500000000000003,
   "dex_mod": 1.0,
-  "rarity": 1,
-  "durability": 44.9,
-  "max_durability": 104.0,
-  "volatility": 0.41000000000000036,
+  "rarity": 2,
+  "durability": 37.0,
+  "max_durability": 94.0,
+  "volatility": 0.4400000000000004,
   "resilience": 0.55,
   "worth": 100,
   "affinities": {
