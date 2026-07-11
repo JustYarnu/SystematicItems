@@ -1,21 +1,21 @@
 {
   "currency": 200700,
-  "tick": 9182,
+  "tick": 9207,
   "mutation_stats": {
-    "attempted": 9182,
-    "success": 3884
+    "attempted": 9207,
+    "success": 3892
   },
   "recent_events": [
-    "STABLE: 'Gilded Spear of Sparks' did not mutate this tick.",
-    "MUTATED: 'Titanic Core of Whispers' evolved to generation 33.",
+    "MUTATED: 'Blessed Edge of Sparks' evolved to generation 16.",
+    "STABLE: 'Shattered Rapier of Might' did not mutate this tick.",
     "STABLE: 'Glowing Edge of Frost' did not mutate this tick.",
-    "STABLE: 'Resolute Shard of Grace' did not mutate this tick.",
+    "MUTATED: 'Glowing Edge of Frost' evolved to generation 4.",
     "STABLE: 'Ancient Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Broken Spear of Light' evolved to generation 22.",
-    "MUTATED: 'Heavy Relic of Iron' evolved to generation 9.",
+    "STABLE: 'Resolute Shard of Grace' did not mutate this tick.",
     "STABLE: 'Glowing Edge of Frost' did not mutate this tick.",
-    "STABLE: 'Glowing Edge of Frost' did not mutate this tick.",
-    "STABLE: 'Resolute Shard of Grace' did not mutate this tick."
+    "STABLE: 'Ancient Rapier of Frost' did not mutate this tick.",
+    "STABLE: 'Blessed Edge of Sparks' did not mutate this tick.",
+    "STABLE: 'Glowing Edge of Frost' did not mutate this tick."
   ],
   "created": 107,
   "avg_lifespan": 39.381443298969074,
