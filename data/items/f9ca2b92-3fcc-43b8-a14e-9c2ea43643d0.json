@@ -2,7 +2,7 @@
   "id": "f9ca2b92-3fcc-43b8-a14e-9c2ea43643d0",
   "name": "Gilded Spear of Sparks",
   "type": "Polearm",
-  "generation": 11,
+  "generation": 13,
   "damage": 21.5,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.0,
   "rarity": 3.5,
-  "durability": 35.29999999999999,
-  "max_durability": 102.0,
+  "durability": 45.57999999999999,
+  "max_durability": 107.0,
   "volatility": 0.4500000000000003,
-  "resilience": 0.71,
+  "resilience": 0.76,
   "worth": 100,
   "affinities": {}
 }

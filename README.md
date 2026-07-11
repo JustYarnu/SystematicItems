@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-9107
+9132
 
 ## Oldest Item
-Heavy Relic of Iron
+Glowing Edge of Frost
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.78
-- Average Volatility: 0.44
-- Average Durability: 44.53
+- Average Rarity: 1.68
+- Average Volatility: 0.41
+- Average Durability: 54.0
 
 ## Dominant Factions
 - Order: 0.5
+- DEX: 0.4
 - Restoration: 0.4
-- DEX: 0.3
 
 ## Extremes
-- Most Stable Item: Heavy Relic of Iron
-- Most Volatile Item: Echoing Relic of Might
+- Most Stable Item: Glowing Edge of Frost
+- Most Volatile Item: Broken Spear of Light
 
 ## Recent Events
-- STABLE: 'Heavy Relic of Iron' did not mutate this tick.
-- MUTATED: 'Ancient Rapier of Frost' evolved to generation 21.
-- MUTATED: 'Titanic Core of Whispers' evolved to generation 29.
+- STABLE: 'Titanic Core of Whispers' did not mutate this tick.
+- MUTATED: 'Heavy Relic of Iron' evolved to generation 7.
+- MUTATED: 'Gilded Spear of Sparks' evolved to generation 13.
 
 ## Lifecycle Stats
-- Items Created: 106
-- Items Archived: 96
-- Avg Lifespan (ticks): 39.5
+- Items Created: 107
+- Items Archived: 97
+- Avg Lifespan (ticks): 39.4
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Heavy Relic of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 9107
-- Successful Mutations: 3857
-- Failure Rate: 57.6%
+- Mutations Attempted: 9132
+- Successful Mutations: 3866
+- Failure Rate: 57.7%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 5
-- Uncommon: 5
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Heavy Relic of Iron
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 199400
-- Currency per Tick (avg): 21.9
+- Total Currency: 200700
+- Currency per Tick (avg): 21.98
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
