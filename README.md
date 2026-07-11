@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-8957
+8982
 
 ## Oldest Item
 Resolute Shard of Grace
@@ -12,7 +12,7 @@ Resolute Shard of Grace
 - Active Items: 10
 - Average Rarity: 1.48
 - Average Volatility: 0.4
-- Average Durability: 64.1
+- Average Durability: 59.66
 
 ## Dominant Factions
 - Order: 0.4
@@ -24,9 +24,9 @@ Resolute Shard of Grace
 - Most Volatile Item: Echoing Relic of Might
 
 ## Recent Events
+- STABLE: 'Resolute Shard of Grace' did not mutate this tick.
+- STABLE: 'Shattered Rapier of Might' did not mutate this tick.
 - STABLE: 'Heavy Relic of Iron' did not mutate this tick.
-- STABLE: 'Resolute Shard of Grace' did not mutate this tick.
-- STABLE: 'Resolute Shard of Grace' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 106
@@ -40,8 +40,8 @@ Resolute Shard of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 8957
-- Successful Mutations: 3801
+- Mutations Attempted: 8982
+- Successful Mutations: 3807
 - Failure Rate: 57.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Resolute Shard of Grace
 
 ## Economy
 - Total Currency: 199400
-- Currency per Tick (avg): 22.26
+- Currency per Tick (avg): 22.2
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
