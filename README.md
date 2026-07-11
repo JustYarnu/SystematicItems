@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-8982
+9007
 
 ## Oldest Item
-Resolute Shard of Grace
+Heavy Relic of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.48
-- Average Volatility: 0.4
-- Average Durability: 59.66
+- Average Rarity: 1.58
+- Average Volatility: 0.42
+- Average Durability: 56.5
 
 ## Dominant Factions
-- Order: 0.4
+- Order: 0.5
 - Restoration: 0.4
 - STR: 0.3
 
@@ -25,8 +25,8 @@ Resolute Shard of Grace
 
 ## Recent Events
 - STABLE: 'Resolute Shard of Grace' did not mutate this tick.
-- STABLE: 'Shattered Rapier of Might' did not mutate this tick.
-- STABLE: 'Heavy Relic of Iron' did not mutate this tick.
+- STABLE: 'Broken Spear of Light' did not mutate this tick.
+- MUTATED: 'Blessed Edge of Sparks' evolved to generation 8.
 
 ## Lifecycle Stats
 - Items Created: 106
@@ -40,15 +40,15 @@ Resolute Shard of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 8982
-- Successful Mutations: 3807
+- Mutations Attempted: 9007
+- Successful Mutations: 3815
 - Failure Rate: 57.6%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 8
-- Uncommon: 2
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Resolute Shard of Grace
 
 ## Economy
 - Total Currency: 199400
-- Currency per Tick (avg): 22.2
+- Currency per Tick (avg): 22.14
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
