@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-8857
+8882
 
 ## Oldest Item
-Shattered Rapier of Might
+Heavy Relic of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.43
-- Average Volatility: 0.44
-- Average Durability: 51.32
+- Average Rarity: 1.38
+- Average Volatility: 0.4
+- Average Durability: 58.79
 
 ## Dominant Factions
-- STR: 0.6
-- Chaos: 0.6
-- Order: 0.4
+- Stability: 0.4
+- Restoration: 0.4
+- STR: 0.3
 
 ## Extremes
-- Most Stable Item: Gilded Spear of Sparks
+- Most Stable Item: Heavy Relic of Iron
 - Most Volatile Item: Broken Spear of Light
 
 ## Recent Events
-- STABLE: 'Titanic Shard of Plagues' did not mutate this tick.
-- MUTATED: 'Singed Focus of Might' evolved to generation 13.
-- MUTATED: 'Titanic Shard of Plagues' evolved to generation 69.
+- MUTATED: 'Nimble Edge of Carnage' evolved to generation 36.
+- STABLE: 'Nimble Edge of Carnage' did not mutate this tick.
+- STABLE: 'Ancient Rapier of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 104
-- Items Archived: 94
-- Avg Lifespan (ticks): 39.2
+- Items Created: 105
+- Items Archived: 95
+- Avg Lifespan (ticks): 39.5
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Shattered Rapier of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 8857
-- Successful Mutations: 3759
+- Mutations Attempted: 8882
+- Successful Mutations: 3770
 - Failure Rate: 57.6%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 3
+- Common: 8
+- Uncommon: 2
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Shattered Rapier of Might
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 193550
-- Currency per Tick (avg): 21.85
+- Total Currency: 197300
+- Currency per Tick (avg): 22.21
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
