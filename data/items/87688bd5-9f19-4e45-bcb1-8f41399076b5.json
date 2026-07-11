@@ -2,7 +2,7 @@
   "id": "87688bd5-9f19-4e45-bcb1-8f41399076b5",
   "name": "Ancient Rapier of Frost",
   "type": "Generic",
-  "generation": 16,
+  "generation": 18,
   "damage": 8.0,
   "damage_type": [
     "Physical",
@@ -14,14 +14,15 @@
   "str_mod": 1.0,
   "dex_mod": 1.35,
   "rarity": 2.0,
-  "durability": 48.87000000000001,
+  "durability": 58.87000000000001,
   "max_durability": 144.0,
-  "volatility": 0.3800000000000003,
+  "volatility": 0.3900000000000003,
   "resilience": 0.6799999999999999,
   "worth": 100,
   "affinities": {
     "DEX": 0.1,
     "Chaos": 0.1,
-    "Restoration": 0.1
+    "Restoration": 0.1,
+    "Order": 0.1
   }
 }
