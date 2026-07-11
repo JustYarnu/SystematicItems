@@ -2,7 +2,7 @@
   "id": "61332cac-3be4-4a17-bbc9-9403e43b5b1a",
   "name": "Echoing Relic of Might",
   "type": "Artifact",
-  "generation": 21,
+  "generation": 22,
   "damage": 28.0,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "crit_rate": 0.060000000000000005,
   "str_mod": 1.25,
   "dex_mod": 1.0,
-  "rarity": 1.5,
-  "durability": 8.57,
-  "max_durability": 120.0,
-  "volatility": 0.5592481250360578,
+  "rarity": 2.5,
+  "durability": 6.57,
+  "max_durability": 110.0,
+  "volatility": 0.6092481250360579,
   "resilience": 0.71,
   "worth": 100,
   "affinities": {
