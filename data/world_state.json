@@ -1,21 +1,21 @@
 {
   "currency": 200700,
-  "tick": 9132,
+  "tick": 9157,
   "mutation_stats": {
-    "attempted": 9132,
-    "success": 3866
+    "attempted": 9157,
+    "success": 3876
   },
   "recent_events": [
-    "MUTATED: 'Singed Focus of Might' evolved to generation 25.",
-    "MUTATED: 'Gilded Spear of Sparks' evolved to generation 12.",
-    "STABLE: 'Ancient Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Blessed Edge of Sparks' evolved to generation 13.",
-    "MUTATED: 'Resolute Shard of Grace' evolved to generation 9.",
+    "MUTATED: 'Shattered Rapier of Might' evolved to generation 16.",
+    "MUTATED: 'Titanic Core of Whispers' evolved to generation 30.",
+    "MUTATED: 'Gilded Spear of Sparks' evolved to generation 15.",
     "STABLE: 'Glowing Edge of Frost' did not mutate this tick.",
-    "STABLE: 'Resolute Shard of Grace' did not mutate this tick.",
+    "STABLE: 'Singed Focus of Might' did not mutate this tick.",
+    "STABLE: 'Glowing Edge of Frost' did not mutate this tick.",
     "STABLE: 'Titanic Core of Whispers' did not mutate this tick.",
-    "MUTATED: 'Heavy Relic of Iron' evolved to generation 7.",
-    "MUTATED: 'Gilded Spear of Sparks' evolved to generation 13."
+    "MUTATED: 'Heavy Relic of Iron' evolved to generation 8.",
+    "STABLE: 'Resolute Shard of Grace' did not mutate this tick.",
+    "STABLE: 'Shattered Rapier of Might' did not mutate this tick."
   ],
   "created": 107,
   "avg_lifespan": 39.381443298969074,
