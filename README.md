@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-9082
+9107
 
 ## Oldest Item
 Heavy Relic of Iron
@@ -11,8 +11,8 @@ Heavy Relic of Iron
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.78
-- Average Volatility: 0.43
-- Average Durability: 48.13
+- Average Volatility: 0.44
+- Average Durability: 44.53
 
 ## Dominant Factions
 - Order: 0.5
@@ -24,9 +24,9 @@ Heavy Relic of Iron
 - Most Volatile Item: Echoing Relic of Might
 
 ## Recent Events
-- MUTATED: 'Blessed Edge of Sparks' evolved to generation 12.
-- STABLE: 'Blessed Edge of Sparks' did not mutate this tick.
-- MUTATED: 'Shattered Rapier of Might' evolved to generation 13.
+- STABLE: 'Heavy Relic of Iron' did not mutate this tick.
+- MUTATED: 'Ancient Rapier of Frost' evolved to generation 21.
+- MUTATED: 'Titanic Core of Whispers' evolved to generation 29.
 
 ## Lifecycle Stats
 - Items Created: 106
@@ -40,8 +40,8 @@ Heavy Relic of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 9082
-- Successful Mutations: 3847
+- Mutations Attempted: 9107
+- Successful Mutations: 3857
 - Failure Rate: 57.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Heavy Relic of Iron
 
 ## Economy
 - Total Currency: 199400
-- Currency per Tick (avg): 21.96
+- Currency per Tick (avg): 21.9
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
