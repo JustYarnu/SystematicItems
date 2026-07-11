@@ -1,21 +1,21 @@
 {
   "currency": 197300,
-  "tick": 8882,
+  "tick": 8907,
   "mutation_stats": {
-    "attempted": 8882,
-    "success": 3770
+    "attempted": 8907,
+    "success": 3779
   },
   "recent_events": [
-    "STABLE: 'Ancient Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Titanic Core of Whispers' evolved to generation 17.",
-    "MUTATED: 'Titanic Shard of Plagues' evolved to generation 73.",
-    "REPLACED WITH: 'Heavy Relic of Iron' (07cb150a-7c93-46d7-8b69-1065a2b28f7a)",
-    "STABLE: 'Gilded Spear of Sparks' did not mutate this tick.",
-    "STABLE: 'Blessed Edge of Sparks' did not mutate this tick.",
     "STABLE: 'Echoing Relic of Might' did not mutate this tick.",
-    "MUTATED: 'Nimble Edge of Carnage' evolved to generation 36.",
-    "STABLE: 'Nimble Edge of Carnage' did not mutate this tick.",
-    "STABLE: 'Ancient Rapier of Frost' did not mutate this tick."
+    "MUTATED: 'Shattered Rapier of Might' evolved to generation 4.",
+    "STABLE: 'Heavy Relic of Iron' did not mutate this tick.",
+    "MUTATED: 'Broken Spear of Light' evolved to generation 8.",
+    "STABLE: 'Blessed Edge of Sparks' did not mutate this tick.",
+    "STABLE: 'Broken Spear of Light' did not mutate this tick.",
+    "STABLE: 'Singed Focus of Might' did not mutate this tick.",
+    "STABLE: 'Gilded Spear of Sparks' did not mutate this tick.",
+    "MUTATED: 'Echoing Relic of Might' evolved to generation 14.",
+    "STABLE: 'Nimble Edge of Carnage' did not mutate this tick."
   ],
   "created": 105,
   "avg_lifespan": 39.53684210526316,

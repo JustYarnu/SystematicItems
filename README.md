@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-8882
+8907
 
 ## Oldest Item
 Heavy Relic of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.38
-- Average Volatility: 0.4
-- Average Durability: 58.79
+- Average Rarity: 1.48
+- Average Volatility: 0.42
+- Average Durability: 56.73
 
 ## Dominant Factions
 - Stability: 0.4
@@ -21,12 +21,12 @@ Heavy Relic of Iron
 
 ## Extremes
 - Most Stable Item: Heavy Relic of Iron
-- Most Volatile Item: Broken Spear of Light
+- Most Volatile Item: Echoing Relic of Might
 
 ## Recent Events
-- MUTATED: 'Nimble Edge of Carnage' evolved to generation 36.
+- STABLE: 'Gilded Spear of Sparks' did not mutate this tick.
+- MUTATED: 'Echoing Relic of Might' evolved to generation 14.
 - STABLE: 'Nimble Edge of Carnage' did not mutate this tick.
-- STABLE: 'Ancient Rapier of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 105
@@ -40,8 +40,8 @@ Heavy Relic of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 8882
-- Successful Mutations: 3770
+- Mutations Attempted: 8907
+- Successful Mutations: 3779
 - Failure Rate: 57.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Heavy Relic of Iron
 
 ## Economy
 - Total Currency: 197300
-- Currency per Tick (avg): 22.21
+- Currency per Tick (avg): 22.15
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
