@@ -1,21 +1,21 @@
 {
   "currency": 206050,
-  "tick": 9507,
+  "tick": 9532,
   "mutation_stats": {
-    "attempted": 9507,
-    "success": 4010
+    "attempted": 9532,
+    "success": 4020
   },
   "recent_events": [
-    "STABLE: 'Mundane Axe of Ruins' did not mutate this tick.",
-    "MUTATED: 'Verdant Focus of the Glacier' evolved to generation 6.",
-    "MUTATED: 'Broken Spear of Light' evolved to generation 39.",
+    "MUTATED: 'Verdant Focus of the Glacier' evolved to generation 7.",
+    "MUTATED: 'Singed Focus of Might' evolved to generation 46.",
+    "STABLE: 'Resolute Shard of Grace' did not mutate this tick.",
     "STABLE: 'Broken Spear of Light' did not mutate this tick.",
+    "STABLE: 'Resolute Shard of Grace' did not mutate this tick.",
+    "MUTATED: 'Singed Focus of Might' evolved to generation 47.",
     "STABLE: 'Singed Focus of Might' did not mutate this tick.",
-    "MUTATED: 'Gilded Spear of Sparks' evolved to generation 23.",
-    "MUTATED: 'Blessed Edge of Sparks' evolved to generation 28.",
-    "STABLE: 'Singed Focus of Might' did not mutate this tick.",
-    "STABLE: 'Blessed Edge of Sparks' did not mutate this tick.",
-    "MUTATED: 'Broken Spear of Light' evolved to generation 40."
+    "MUTATED: 'Blessed Edge of Sparks' evolved to generation 30.",
+    "STABLE: 'Verdant Focus of the Glacier' did not mutate this tick.",
+    "STABLE: 'Heavy Relic of Iron' did not mutate this tick."
   ],
   "created": 110,
   "avg_lifespan": 39.21,

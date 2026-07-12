@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-9507
+9532
 
 ## Oldest Item
 Feral Edge of Echoes
@@ -11,11 +11,11 @@ Feral Edge of Echoes
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.81
-- Average Volatility: 0.43
-- Average Durability: 49.19
+- Average Volatility: 0.44
+- Average Durability: 46.74
 
 ## Dominant Factions
-- STR: 0.7
+- STR: 0.8
 - Order: 0.6
 - Chaos: 0.4
 
@@ -24,9 +24,9 @@ Feral Edge of Echoes
 - Most Volatile Item: Blessed Edge of Sparks
 
 ## Recent Events
-- STABLE: 'Singed Focus of Might' did not mutate this tick.
-- STABLE: 'Blessed Edge of Sparks' did not mutate this tick.
-- MUTATED: 'Broken Spear of Light' evolved to generation 40.
+- MUTATED: 'Blessed Edge of Sparks' evolved to generation 30.
+- STABLE: 'Verdant Focus of the Glacier' did not mutate this tick.
+- STABLE: 'Heavy Relic of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 110
@@ -40,8 +40,8 @@ Feral Edge of Echoes
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 9507
-- Successful Mutations: 4010
+- Mutations Attempted: 9532
+- Successful Mutations: 4020
 - Failure Rate: 57.8%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Feral Edge of Echoes
 
 ## Economy
 - Total Currency: 206050
-- Currency per Tick (avg): 21.67
+- Currency per Tick (avg): 21.62
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
