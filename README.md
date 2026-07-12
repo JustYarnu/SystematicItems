@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-9532
+9557
 
 ## Oldest Item
-Feral Edge of Echoes
+Vampiric Axe of Grace
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.81
-- Average Volatility: 0.44
-- Average Durability: 46.74
+- Average Rarity: 1.71
+- Average Volatility: 0.41
+- Average Durability: 51.72
 
 ## Dominant Factions
-- STR: 0.8
-- Order: 0.6
 - Chaos: 0.4
+- STR: 0.4
+- Order: 0.4
 
 ## Extremes
-- Most Stable Item: Mundane Axe of Ruins
+- Most Stable Item: Vampiric Axe of Grace
 - Most Volatile Item: Blessed Edge of Sparks
 
 ## Recent Events
-- MUTATED: 'Blessed Edge of Sparks' evolved to generation 30.
-- STABLE: 'Verdant Focus of the Glacier' did not mutate this tick.
-- STABLE: 'Heavy Relic of Iron' did not mutate this tick.
+- MUTATED: 'Resolute Shard of Grace' evolved to generation 27.
+- STABLE: 'Blessed Edge of Sparks' did not mutate this tick.
+- MUTATED: 'Blessed Edge of Sparks' evolved to generation 31.
 
 ## Lifecycle Stats
-- Items Created: 110
-- Items Archived: 100
-- Avg Lifespan (ticks): 39.2
+- Items Created: 111
+- Items Archived: 101
+- Avg Lifespan (ticks): 39.3
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Feral Edge of Echoes
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 9532
-- Successful Mutations: 4020
+- Mutations Attempted: 9557
+- Successful Mutations: 4031
 - Failure Rate: 57.8%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Feral Edge of Echoes
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 206050
-- Currency per Tick (avg): 21.62
+- Total Currency: 208550
+- Currency per Tick (avg): 21.82
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
