@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-9482
+9507
 
 ## Oldest Item
 Feral Edge of Echoes
@@ -12,7 +12,7 @@ Feral Edge of Echoes
 - Active Items: 10
 - Average Rarity: 1.81
 - Average Volatility: 0.43
-- Average Durability: 52.81
+- Average Durability: 49.19
 
 ## Dominant Factions
 - STR: 0.7
@@ -24,9 +24,9 @@ Feral Edge of Echoes
 - Most Volatile Item: Blessed Edge of Sparks
 
 ## Recent Events
-- MUTATED: 'Blessed Edge of Sparks' evolved to generation 27.
-- MUTATED: 'Resolute Shard of Grace' evolved to generation 24.
-- STABLE: 'Mundane Axe of Ruins' did not mutate this tick.
+- STABLE: 'Singed Focus of Might' did not mutate this tick.
+- STABLE: 'Blessed Edge of Sparks' did not mutate this tick.
+- MUTATED: 'Broken Spear of Light' evolved to generation 40.
 
 ## Lifecycle Stats
 - Items Created: 110
@@ -40,8 +40,8 @@ Feral Edge of Echoes
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 9482
-- Successful Mutations: 4000
+- Mutations Attempted: 9507
+- Successful Mutations: 4010
 - Failure Rate: 57.8%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Feral Edge of Echoes
 
 ## Economy
 - Total Currency: 206050
-- Currency per Tick (avg): 21.73
+- Currency per Tick (avg): 21.67
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
