@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-9432
+9457
 
 ## Oldest Item
 Mundane Axe of Ruins
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.71
-- Average Volatility: 0.41
-- Average Durability: 56.66
+- Average Rarity: 1.81
+- Average Volatility: 0.43
+- Average Durability: 54.09
 
 ## Dominant Factions
 - STR: 0.6
@@ -24,9 +24,9 @@ Mundane Axe of Ruins
 - Most Volatile Item: Blessed Edge of Sparks
 
 ## Recent Events
-- MUTATED: 'Gilded Spear of Sparks' evolved to generation 21.
-- STABLE: 'Resolute Shard of Grace' did not mutate this tick.
-- MUTATED: 'Resolute Shard of Grace' evolved to generation 21.
+- STABLE: 'Feral Edge of Echoes' did not mutate this tick.
+- STABLE: 'Mundane Axe of Ruins' did not mutate this tick.
+- MUTATED: 'Singed Focus of Might' evolved to generation 42.
 
 ## Lifecycle Stats
 - Items Created: 110
@@ -40,15 +40,15 @@ Mundane Axe of Ruins
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 9432
-- Successful Mutations: 3983
+- Mutations Attempted: 9457
+- Successful Mutations: 3989
 - Failure Rate: 57.8%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 3
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Mundane Axe of Ruins
 
 ## Economy
 - Total Currency: 206050
-- Currency per Tick (avg): 21.85
+- Currency per Tick (avg): 21.79
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
