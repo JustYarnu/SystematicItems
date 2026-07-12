@@ -1,23 +1,23 @@
 {
-  "currency": 204500,
-  "tick": 9407,
+  "currency": 206050,
+  "tick": 9432,
   "mutation_stats": {
-    "attempted": 9407,
-    "success": 3974
+    "attempted": 9432,
+    "success": 3983
   },
   "recent_events": [
-    "STABLE: 'Broken Spear of Light' did not mutate this tick.",
-    "MUTATED: 'Singed Focus of Might' evolved to generation 37.",
-    "MUTATED: 'Singed Focus of Might' evolved to generation 38.",
-    "MUTATED: 'Singed Focus of Might' evolved to generation 39.",
-    "STABLE: 'Broken Spear of Light' did not mutate this tick.",
     "STABLE: 'Gilded Spear of Sparks' did not mutate this tick.",
-    "MUTATED: 'Ancient Rapier of Frost' evolved to generation 28.",
-    "REPLACED WITH: 'Verdant Focus of the Glacier' (13adbf8f-5cad-4f65-b8ed-e0f146a93afe)",
-    "STABLE: 'Heavy Relic of Iron' did not mutate this tick.",
-    "STABLE: 'Broken Spear of Light' did not mutate this tick."
+    "MUTATED: 'Shattered Rapier of Might' evolved to generation 29.",
+    "REPLACED WITH: 'Mundane Axe of Ruins' (a2b0c850-b966-4712-b587-98d21a1076e8)",
+    "STABLE: 'Verdant Focus of the Glacier' did not mutate this tick.",
+    "STABLE: 'Resolute Shard of Grace' did not mutate this tick.",
+    "STABLE: 'Resolute Shard of Grace' did not mutate this tick.",
+    "STABLE: 'Verdant Focus of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Gilded Spear of Sparks' evolved to generation 21.",
+    "STABLE: 'Resolute Shard of Grace' did not mutate this tick.",
+    "MUTATED: 'Resolute Shard of Grace' evolved to generation 21."
   ],
-  "created": 109,
-  "avg_lifespan": 39.313131313131315,
-  "archived": 99
+  "created": 110,
+  "avg_lifespan": 39.21,
+  "archived": 100
 }

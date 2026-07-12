@@ -2715,5 +2715,33 @@
       "Order": 0.4,
       "Scarceness": 0.1
     }
+  },
+  {
+    "id": "b4676c33-a613-4986-9673-ad25183aebb6",
+    "name": "Shattered Rapier of Might",
+    "type": "Generic",
+    "generation": 29,
+    "damage": 30.0,
+    "damage_type": [
+      "Physical",
+      "Piercing"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.4500000000000002,
+    "dex_mod": 1.5000000000000004,
+    "rarity": 1,
+    "durability": -1.0,
+    "max_durability": 86.0,
+    "volatility": 0.55,
+    "resilience": 0.45,
+    "worth": 1550,
+    "affinities": {
+      "DEX": 0.1,
+      "Chaos": 0.1,
+      "STR": 0.1,
+      "Order": 0.1,
+      "Stability": 0.1
+    }
   }
 ]
