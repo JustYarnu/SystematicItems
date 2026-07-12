@@ -2,8 +2,8 @@
   "id": "3d30cc7b-ca5e-4b33-a7f0-b8ecd22c0c9c",
   "name": "Resolute Shard of Grace",
   "type": "Dagger",
-  "generation": 11,
-  "damage": 8.0,
+  "generation": 14,
+  "damage": 13.0,
   "damage_type": [
     "Physical",
     "Slashing"
@@ -13,9 +13,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.5,
   "rarity": 1,
-  "durability": 71.82,
+  "durability": 61.31999999999999,
   "max_durability": 112.0,
-  "volatility": 0.41000000000000036,
+  "volatility": 0.3800000000000004,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
