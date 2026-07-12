@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-9357
+9382
 
 ## Oldest Item
-Glowing Edge of Frost
+Feral Edge of Echoes
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.78
-- Average Volatility: 0.48
-- Average Durability: 32.62
+- Average Rarity: 1.81
+- Average Volatility: 0.46
+- Average Durability: 40.98
 
 ## Dominant Factions
 - Order: 0.9
-- Restoration: 0.7
-- Stability: 0.6
+- STR: 0.6
+- DEX: 0.5
 
 ## Extremes
-- Most Stable Item: Glowing Edge of Frost
+- Most Stable Item: Feral Edge of Echoes
 - Most Volatile Item: Blessed Edge of Sparks
 
 ## Recent Events
-- MUTATED: 'Blessed Edge of Sparks' evolved to generation 23.
-- MUTATED: 'Resolute Shard of Grace' evolved to generation 17.
 - STABLE: 'Resolute Shard of Grace' did not mutate this tick.
+- MUTATED: 'Shattered Rapier of Might' evolved to generation 26.
+- MUTATED: 'Resolute Shard of Grace' evolved to generation 18.
 
 ## Lifecycle Stats
-- Items Created: 107
-- Items Archived: 97
+- Items Created: 108
+- Items Archived: 98
 - Avg Lifespan (ticks): 39.4
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Glowing Edge of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 9357
-- Successful Mutations: 3950
+- Mutations Attempted: 9382
+- Successful Mutations: 3963
 - Failure Rate: 57.8%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Glowing Edge of Frost
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 200700
-- Currency per Tick (avg): 21.45
+- Total Currency: 203000
+- Currency per Tick (avg): 21.64
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
