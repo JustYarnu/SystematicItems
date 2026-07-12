@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-9382
+9407
 
 ## Oldest Item
-Feral Edge of Echoes
+Verdant Focus of the Glacier
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.81
-- Average Volatility: 0.46
-- Average Durability: 40.98
+- Average Rarity: 1.71
+- Average Volatility: 0.44
+- Average Durability: 47.81
 
 ## Dominant Factions
-- Order: 0.9
-- STR: 0.6
-- DEX: 0.5
+- STR: 0.7
+- Order: 0.6
+- Stability: 0.5
 
 ## Extremes
-- Most Stable Item: Feral Edge of Echoes
+- Most Stable Item: Verdant Focus of the Glacier
 - Most Volatile Item: Blessed Edge of Sparks
 
 ## Recent Events
-- STABLE: 'Resolute Shard of Grace' did not mutate this tick.
-- MUTATED: 'Shattered Rapier of Might' evolved to generation 26.
-- MUTATED: 'Resolute Shard of Grace' evolved to generation 18.
+- REPLACED WITH: 'Verdant Focus of the Glacier' (13adbf8f-5cad-4f65-b8ed-e0f146a93afe)
+- STABLE: 'Heavy Relic of Iron' did not mutate this tick.
+- STABLE: 'Broken Spear of Light' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 108
-- Items Archived: 98
-- Avg Lifespan (ticks): 39.4
+- Items Created: 109
+- Items Archived: 99
+- Avg Lifespan (ticks): 39.3
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Feral Edge of Echoes
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 9382
-- Successful Mutations: 3963
+- Mutations Attempted: 9407
+- Successful Mutations: 3974
 - Failure Rate: 57.8%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Feral Edge of Echoes
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 203000
-- Currency per Tick (avg): 21.64
+- Total Currency: 204500
+- Currency per Tick (avg): 21.74
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

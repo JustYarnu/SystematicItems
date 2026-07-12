@@ -1,23 +1,23 @@
 {
-  "currency": 203000,
-  "tick": 9382,
+  "currency": 204500,
+  "tick": 9407,
   "mutation_stats": {
-    "attempted": 9382,
-    "success": 3963
+    "attempted": 9407,
+    "success": 3974
   },
   "recent_events": [
-    "STABLE: 'Heavy Relic of Iron' did not mutate this tick.",
     "STABLE: 'Broken Spear of Light' did not mutate this tick.",
-    "STABLE: 'Resolute Shard of Grace' did not mutate this tick.",
-    "MUTATED: 'Broken Spear of Light' evolved to generation 35.",
-    "MUTATED: 'Ancient Rapier of Frost' evolved to generation 27.",
-    "STABLE: 'Glowing Edge of Frost' did not mutate this tick.",
-    "MUTATED: 'Singed Focus of Might' evolved to generation 34.",
-    "STABLE: 'Resolute Shard of Grace' did not mutate this tick.",
-    "MUTATED: 'Shattered Rapier of Might' evolved to generation 26.",
-    "MUTATED: 'Resolute Shard of Grace' evolved to generation 18."
+    "MUTATED: 'Singed Focus of Might' evolved to generation 37.",
+    "MUTATED: 'Singed Focus of Might' evolved to generation 38.",
+    "MUTATED: 'Singed Focus of Might' evolved to generation 39.",
+    "STABLE: 'Broken Spear of Light' did not mutate this tick.",
+    "STABLE: 'Gilded Spear of Sparks' did not mutate this tick.",
+    "MUTATED: 'Ancient Rapier of Frost' evolved to generation 28.",
+    "REPLACED WITH: 'Verdant Focus of the Glacier' (13adbf8f-5cad-4f65-b8ed-e0f146a93afe)",
+    "STABLE: 'Heavy Relic of Iron' did not mutate this tick.",
+    "STABLE: 'Broken Spear of Light' did not mutate this tick."
   ],
-  "created": 108,
-  "avg_lifespan": 39.42857142857143,
-  "archived": 98
+  "created": 109,
+  "avg_lifespan": 39.313131313131315,
+  "archived": 99
 }
