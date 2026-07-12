@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-9207
+9232
 
 ## Oldest Item
 Glowing Edge of Frost
@@ -11,8 +11,8 @@ Glowing Edge of Frost
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.78
-- Average Volatility: 0.44
-- Average Durability: 49.27
+- Average Volatility: 0.46
+- Average Durability: 45.76
 
 ## Dominant Factions
 - DEX: 0.5
@@ -24,9 +24,9 @@ Glowing Edge of Frost
 - Most Volatile Item: Shattered Rapier of Might
 
 ## Recent Events
-- STABLE: 'Ancient Rapier of Frost' did not mutate this tick.
-- STABLE: 'Blessed Edge of Sparks' did not mutate this tick.
-- STABLE: 'Glowing Edge of Frost' did not mutate this tick.
+- STABLE: 'Shattered Rapier of Might' did not mutate this tick.
+- STABLE: 'Titanic Core of Whispers' did not mutate this tick.
+- STABLE: 'Heavy Relic of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 107
@@ -40,9 +40,9 @@ Glowing Edge of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 9207
-- Successful Mutations: 3892
-- Failure Rate: 57.7%
+- Mutations Attempted: 9232
+- Successful Mutations: 3897
+- Failure Rate: 57.8%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Glowing Edge of Frost
 
 ## Economy
 - Total Currency: 200700
-- Currency per Tick (avg): 21.8
+- Currency per Tick (avg): 21.74
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
