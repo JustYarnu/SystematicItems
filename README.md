@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-9757
+9782
 
 ## Oldest Item
 Zealous Spear of Whispers
@@ -11,8 +11,8 @@ Zealous Spear of Whispers
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.68
-- Average Volatility: 0.36
-- Average Durability: 58.18
+- Average Volatility: 0.37
+- Average Durability: 57.21
 
 ## Dominant Factions
 - Order: 0.6
@@ -24,9 +24,9 @@ Zealous Spear of Whispers
 - Most Volatile Item: Gilded Spear of Sparks
 
 ## Recent Events
-- MUTATED: 'Gilded Spear of Sparks' evolved to generation 37.
-- MUTATED: 'Vampiric Axe of Grace' evolved to generation 4.
-- MUTATED: 'Glowing Edge of Frost' evolved to generation 21.
+- MUTATED: 'Gilded Spear of Sparks' evolved to generation 38.
+- MUTATED: 'Mundane Axe of Ruins' evolved to generation 8.
+- MUTATED: 'Gilded Spear of Sparks' evolved to generation 39.
 
 ## Lifecycle Stats
 - Items Created: 114
@@ -40,8 +40,8 @@ Zealous Spear of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 9757
-- Successful Mutations: 4108
+- Mutations Attempted: 9782
+- Successful Mutations: 4115
 - Failure Rate: 57.9%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Zealous Spear of Whispers
 
 ## Economy
 - Total Currency: 215000
-- Currency per Tick (avg): 22.04
+- Currency per Tick (avg): 21.98
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
