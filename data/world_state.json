@@ -1,21 +1,21 @@
 {
   "currency": 210350,
-  "tick": 9607,
+  "tick": 9632,
   "mutation_stats": {
-    "attempted": 9607,
-    "success": 4048
+    "attempted": 9632,
+    "success": 4058
   },
   "recent_events": [
-    "STABLE: 'Glowing Edge of Frost' did not mutate this tick.",
-    "MUTATED: 'Gilded Spear of Sparks' evolved to generation 29.",
+    "STABLE: 'Broken Spear of Light' did not mutate this tick.",
     "STABLE: 'Vampiric Axe of Grace' did not mutate this tick.",
-    "STABLE: 'Vampiric Axe of Grace' did not mutate this tick.",
-    "STABLE: 'Feral Edge of Echoes' did not mutate this tick.",
+    "MUTATED: 'Gilded Spear of Sparks' evolved to generation 30.",
+    "MUTATED: 'Gilded Spear of Sparks' evolved to generation 31.",
+    "STABLE: 'Heavy Relic of Iron' did not mutate this tick.",
+    "MUTATED: 'Resolute Shard of Grace' evolved to generation 30.",
+    "MUTATED: 'Heavy Relic of Iron' evolved to generation 23.",
     "STABLE: 'Gilded Spear of Sparks' did not mutate this tick.",
-    "MUTATED: 'Heavy Relic of Iron' evolved to generation 21.",
-    "MUTATED: 'Feral Edge of Echoes' evolved to generation 9.",
-    "MUTATED: 'Resolute Shard of Grace' evolved to generation 29.",
-    "STABLE: 'Mundane Axe of Ruins' did not mutate this tick."
+    "STABLE: 'Mundane Axe of Ruins' did not mutate this tick.",
+    "MUTATED: 'Glowing Edge of Frost' evolved to generation 12."
   ],
   "created": 112,
   "avg_lifespan": 39.245098039215684,
