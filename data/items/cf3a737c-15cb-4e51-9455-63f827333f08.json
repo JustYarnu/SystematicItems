@@ -2,25 +2,25 @@
   "id": "cf3a737c-15cb-4e51-9455-63f827333f08",
   "name": "Blessed Edge of Sparks",
   "type": "Sword",
-  "generation": 31,
+  "generation": 33,
   "damage": 24.0,
   "damage_type": [
     "Physical",
     "Lightning"
   ],
-  "crit_damage": 2.5,
+  "crit_damage": 3.0,
   "crit_rate": 0.060000000000000005,
   "str_mod": 1.4000000000000004,
   "dex_mod": 1.5000000000000004,
   "rarity": 2,
-  "durability": 8.649999999999991,
-  "max_durability": 111.0,
-  "volatility": 0.6,
+  "durability": 3.6499999999999915,
+  "max_durability": 106.0,
+  "volatility": 0.61,
   "resilience": 0.7,
   "worth": 100,
   "affinities": {
     "DEX": 0.3,
     "Chaos": 0.1,
-    "Scarceness": 0.1
+    "Scarceness": 0.2
   }
 }

@@ -2,7 +2,7 @@
   "id": "a757ccd4-eb26-4c70-9469-05680923efc4",
   "name": "Broken Spear of Light",
   "type": "Polearm",
-  "generation": 41,
+  "generation": 42,
   "damage": 19.5,
   "damage_type": [
     "Physical",
@@ -13,11 +13,11 @@
   "crit_rate": 0.060000000000000005,
   "str_mod": 1.4000000000000004,
   "dex_mod": 1.0,
-  "rarity": 1.3,
-  "durability": 29.42181392789552,
+  "rarity": 2.3,
+  "durability": 27.42181392789552,
   "max_durability": 73.0,
   "volatility": 0.5889255811626866,
-  "resilience": 0.7189255811626865,
+  "resilience": 0.8100816930584824,
   "worth": 100,
   "affinities": {
     "Order": 0.2,
