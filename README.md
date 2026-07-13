@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-9682
+9707
 
 ## Oldest Item
 Vampiric Axe of Grace
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.91
+- Average Rarity: 2.01
 - Average Volatility: 0.41
-- Average Durability: 47.72
+- Average Durability: 47.03
 
 ## Dominant Factions
 - Order: 0.7
@@ -21,12 +21,12 @@ Vampiric Axe of Grace
 
 ## Extremes
 - Most Stable Item: Brittle Axe of the Glacier
-- Most Volatile Item: Broken Spear of Light
+- Most Volatile Item: Resolute Shard of Grace
 
 ## Recent Events
-- STABLE: 'Glowing Edge of Frost' did not mutate this tick.
-- STABLE: 'Mundane Axe of Ruins' did not mutate this tick.
-- MUTATED: 'Brittle Axe of the Glacier' evolved to generation 3.
+- STABLE: 'Heavy Relic of Iron' did not mutate this tick.
+- MUTATED: 'Glowing Edge of Frost' evolved to generation 18.
+- MUTATED: 'Broken Spear of Light' evolved to generation 51.
 
 ## Lifecycle Stats
 - Items Created: 112
@@ -40,15 +40,15 @@ Vampiric Axe of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 9682
-- Successful Mutations: 4078
+- Mutations Attempted: 9707
+- Successful Mutations: 4088
 - Failure Rate: 57.9%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 2
+- Common: 6
+- Uncommon: 3
 - Rare: 1
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Vampiric Axe of Grace
 
 ## Economy
 - Total Currency: 210350
-- Currency per Tick (avg): 21.73
+- Currency per Tick (avg): 21.67
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
