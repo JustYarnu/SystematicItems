@@ -2,8 +2,8 @@
   "id": "2862ceea-d60c-46b7-b8ed-2e6d0f280d97",
   "name": "Glowing Edge of Frost",
   "type": "Sword",
-  "generation": 12,
-  "damage": 25.0,
+  "generation": 16,
+  "damage": 30.0,
   "damage_type": [
     "Physical",
     "Cold"
@@ -13,9 +13,9 @@
   "str_mod": 1.0,
   "dex_mod": 0.8,
   "rarity": 1.5,
-  "durability": 26.124436251225966,
-  "max_durability": 125.0,
-  "volatility": 0.4600000000000004,
+  "durability": 13.846165626622602,
+  "max_durability": 139.6240625180289,
+  "volatility": 0.38000000000000045,
   "resilience": 0.7792481250360578,
   "worth": 100,
   "affinities": {

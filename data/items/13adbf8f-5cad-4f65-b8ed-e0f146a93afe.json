@@ -2,7 +2,7 @@
   "id": "13adbf8f-5cad-4f65-b8ed-e0f146a93afe",
   "name": "Verdant Focus of the Glacier",
   "type": "Focus",
-  "generation": 10,
+  "generation": 11,
   "damage": 30.0,
   "damage_type": [
     "Physical",
@@ -15,10 +15,12 @@
   "str_mod": 1.0,
   "dex_mod": 0.8,
   "rarity": 1,
-  "durability": 55.5,
+  "durability": 52.5,
   "max_durability": 125.0,
-  "volatility": 0.30000000000000016,
+  "volatility": 0.31000000000000016,
   "resilience": 0.75,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Chaos": 0.1
+  }
 }

@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-9632
+9657
 
 ## Oldest Item
 Brittle Axe of the Glacier
@@ -11,22 +11,22 @@ Brittle Axe of the Glacier
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.81
-- Average Volatility: 0.4
-- Average Durability: 53.33
+- Average Volatility: 0.39
+- Average Durability: 50.7
 
 ## Dominant Factions
 - Order: 0.6
+- Chaos: 0.4
 - STR: 0.4
-- Stability: 0.3
 
 ## Extremes
 - Most Stable Item: Brittle Axe of the Glacier
 - Most Volatile Item: Broken Spear of Light
 
 ## Recent Events
-- STABLE: 'Gilded Spear of Sparks' did not mutate this tick.
-- STABLE: 'Mundane Axe of Ruins' did not mutate this tick.
-- MUTATED: 'Glowing Edge of Frost' evolved to generation 12.
+- MUTATED: 'Verdant Focus of the Glacier' evolved to generation 11.
+- STABLE: 'Brittle Axe of the Glacier' did not mutate this tick.
+- MUTATED: 'Resolute Shard of Grace' evolved to generation 31.
 
 ## Lifecycle Stats
 - Items Created: 112
@@ -40,8 +40,8 @@ Brittle Axe of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 9632
-- Successful Mutations: 4058
+- Mutations Attempted: 9657
+- Successful Mutations: 4069
 - Failure Rate: 57.9%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Brittle Axe of the Glacier
 
 ## Economy
 - Total Currency: 210350
-- Currency per Tick (avg): 21.84
+- Currency per Tick (avg): 21.78
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
