@@ -1,21 +1,21 @@
 {
   "currency": 215000,
-  "tick": 9782,
+  "tick": 9807,
   "mutation_stats": {
-    "attempted": 9782,
-    "success": 4115
+    "attempted": 9807,
+    "success": 4125
   },
   "recent_events": [
-    "MUTATED: 'Verdant Focus of the Glacier' evolved to generation 16.",
-    "STABLE: 'Feral Edge of Echoes' did not mutate this tick.",
-    "MUTATED: 'Mundane Axe of Ruins' evolved to generation 7.",
-    "STABLE: 'Mundane Axe of Ruins' did not mutate this tick.",
-    "STABLE: 'Heavy Relic of Iron' did not mutate this tick.",
     "STABLE: 'Glowing Edge of Frost' did not mutate this tick.",
-    "MUTATED: 'Feral Edge of Echoes' evolved to generation 16.",
-    "MUTATED: 'Gilded Spear of Sparks' evolved to generation 38.",
-    "MUTATED: 'Mundane Axe of Ruins' evolved to generation 8.",
-    "MUTATED: 'Gilded Spear of Sparks' evolved to generation 39."
+    "STABLE: 'Zealous Spear of Whispers' did not mutate this tick.",
+    "MUTATED: 'Glowing Edge of Frost' evolved to generation 22.",
+    "STABLE: 'Glowing Edge of Frost' did not mutate this tick.",
+    "MUTATED: 'Gilded Spear of Sparks' evolved to generation 40.",
+    "MUTATED: 'Mundane Axe of Ruins' evolved to generation 10.",
+    "MUTATED: 'Glowing Edge of Frost' evolved to generation 23.",
+    "STABLE: 'Mundane Axe of Ruins' did not mutate this tick.",
+    "MUTATED: 'Heavy Relic of Iron' evolved to generation 29.",
+    "STABLE: 'Heavy Relic of Iron' did not mutate this tick."
   ],
   "created": 114,
   "avg_lifespan": 39.34615384615385,

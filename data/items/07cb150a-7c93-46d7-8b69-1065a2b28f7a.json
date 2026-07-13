@@ -2,7 +2,7 @@
   "id": "07cb150a-7c93-46d7-8b69-1065a2b28f7a",
   "name": "Heavy Relic of Iron",
   "type": "Artifact",
-  "generation": 26,
+  "generation": 29,
   "damage": 26.0,
   "damage_type": [
     "Physical",
@@ -11,11 +11,11 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.6000000000000003,
-  "dex_mod": 0.85,
+  "dex_mod": 0.95,
   "rarity": 1.5,
-  "durability": 59.40691750158655,
+  "durability": 49.66939875194712,
   "max_durability": 139.6240625180289,
-  "volatility": 0.4900000000000005,
+  "volatility": 0.4800000000000004,
   "resilience": 0.7792481250360578,
   "worth": 100,
   "affinities": {
