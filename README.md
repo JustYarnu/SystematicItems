@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-9882
+9907
 
 ## Oldest Item
-Brittle Blade of Stone
+Dread Core of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.33
 - Average Volatility: 0.34
-- Average Durability: 59.45
+- Average Durability: 57.48
 
 ## Dominant Factions
-- Order: 0.4
+- Order: 0.5
 - Chaos: 0.3
 - STR: 0.2
 
@@ -25,8 +25,8 @@ Brittle Blade of Stone
 
 ## Recent Events
 - STABLE: 'Mundane Axe of Ruins' did not mutate this tick.
-- MUTATED: 'Brittle Axe of the Glacier' evolved to generation 8.
-- STABLE: 'Zealous Spear of Whispers' did not mutate this tick.
+- STABLE: 'Dread Core of Whispers' did not mutate this tick.
+- STABLE: 'Vampiric Axe of Grace' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 115
@@ -40,8 +40,8 @@ Brittle Blade of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 9882
-- Successful Mutations: 4153
+- Mutations Attempted: 9907
+- Successful Mutations: 4163
 - Failure Rate: 58.0%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Brittle Blade of Stone
 
 ## Economy
 - Total Currency: 217150
-- Currency per Tick (avg): 21.97
+- Currency per Tick (avg): 21.92
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
