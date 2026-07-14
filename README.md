@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-9857
+9882
 
 ## Oldest Item
 Brittle Blade of Stone
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.23
+- Average Rarity: 1.33
 - Average Volatility: 0.34
-- Average Durability: 61.87
+- Average Durability: 59.45
 
 ## Dominant Factions
 - Order: 0.4
@@ -24,9 +24,9 @@ Brittle Blade of Stone
 - Most Volatile Item: Feral Edge of Echoes
 
 ## Recent Events
-- MUTATED: 'Verdant Focus of the Glacier' evolved to generation 20.
-- MUTATED: 'Feral Edge of Echoes' evolved to generation 17.
-- STABLE: 'Brittle Blade of Stone' did not mutate this tick.
+- STABLE: 'Mundane Axe of Ruins' did not mutate this tick.
+- MUTATED: 'Brittle Axe of the Glacier' evolved to generation 8.
+- STABLE: 'Zealous Spear of Whispers' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 115
@@ -40,15 +40,15 @@ Brittle Blade of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 9857
-- Successful Mutations: 4146
-- Failure Rate: 57.9%
+- Mutations Attempted: 9882
+- Successful Mutations: 4153
+- Failure Rate: 58.0%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 9
-- Uncommon: 1
+- Common: 8
+- Uncommon: 2
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Brittle Blade of Stone
 
 ## Economy
 - Total Currency: 217150
-- Currency per Tick (avg): 22.03
+- Currency per Tick (avg): 21.97
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

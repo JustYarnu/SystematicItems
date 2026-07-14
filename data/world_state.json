@@ -1,21 +1,21 @@
 {
   "currency": 217150,
-  "tick": 9857,
+  "tick": 9882,
   "mutation_stats": {
-    "attempted": 9857,
-    "success": 4146
+    "attempted": 9882,
+    "success": 4153
   },
   "recent_events": [
-    "MUTATED: 'Verdant Focus of the Glacier' evolved to generation 18.",
-    "STABLE: 'Zealous Spear of Whispers' did not mutate this tick.",
-    "MUTATED: 'Verdant Focus of the Glacier' evolved to generation 19.",
-    "STABLE: 'Brittle Blade of Stone' did not mutate this tick.",
-    "MUTATED: 'Glowing Edge of Frost' evolved to generation 26.",
-    "STABLE: 'Zealous Spear of Whispers' did not mutate this tick.",
-    "MUTATED: 'Heavy Relic of Iron' evolved to generation 30.",
-    "MUTATED: 'Verdant Focus of the Glacier' evolved to generation 20.",
-    "MUTATED: 'Feral Edge of Echoes' evolved to generation 17.",
-    "STABLE: 'Brittle Blade of Stone' did not mutate this tick."
+    "MUTATED: 'Vampiric Axe of Grace' evolved to generation 7.",
+    "STABLE: 'Mundane Axe of Ruins' did not mutate this tick.",
+    "MUTATED: 'Glowing Edge of Frost' evolved to generation 27.",
+    "STABLE: 'Mundane Axe of Ruins' did not mutate this tick.",
+    "STABLE: 'Brittle Axe of the Glacier' did not mutate this tick.",
+    "STABLE: 'Heavy Relic of Iron' did not mutate this tick.",
+    "STABLE: 'Dread Core of Whispers' did not mutate this tick.",
+    "STABLE: 'Mundane Axe of Ruins' did not mutate this tick.",
+    "MUTATED: 'Brittle Axe of the Glacier' evolved to generation 8.",
+    "STABLE: 'Zealous Spear of Whispers' did not mutate this tick."
   ],
   "created": 115,
   "avg_lifespan": 39.36190476190476,
