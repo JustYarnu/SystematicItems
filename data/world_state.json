@@ -1,21 +1,21 @@
 {
   "currency": 217150,
-  "tick": 9957,
+  "tick": 9982,
   "mutation_stats": {
-    "attempted": 9957,
-    "success": 4178
+    "attempted": 9982,
+    "success": 4188
   },
   "recent_events": [
-    "STABLE: 'Zealous Spear of Whispers' did not mutate this tick.",
-    "MUTATED: 'Glowing Edge of Frost' evolved to generation 30.",
-    "MUTATED: 'Feral Edge of Echoes' evolved to generation 24.",
     "STABLE: 'Mundane Axe of Ruins' did not mutate this tick.",
-    "STABLE: 'Glowing Edge of Frost' did not mutate this tick.",
-    "STABLE: 'Verdant Focus of the Glacier' did not mutate this tick.",
-    "STABLE: 'Brittle Blade of Stone' did not mutate this tick.",
-    "STABLE: 'Verdant Focus of the Glacier' did not mutate this tick.",
-    "STABLE: 'Verdant Focus of the Glacier' did not mutate this tick.",
-    "STABLE: 'Glowing Edge of Frost' did not mutate this tick."
+    "MUTATED: 'Feral Edge of Echoes' evolved to generation 25.",
+    "STABLE: 'Vampiric Axe of Grace' did not mutate this tick.",
+    "STABLE: 'Vampiric Axe of Grace' did not mutate this tick.",
+    "STABLE: 'Zealous Spear of Whispers' did not mutate this tick.",
+    "STABLE: 'Vampiric Axe of Grace' did not mutate this tick.",
+    "MUTATED: 'Vampiric Axe of Grace' evolved to generation 9.",
+    "STABLE: 'Dread Core of Whispers' did not mutate this tick.",
+    "MUTATED: 'Verdant Focus of the Glacier' evolved to generation 26.",
+    "MUTATED: 'Vampiric Axe of Grace' evolved to generation 10."
   ],
   "created": 115,
   "avg_lifespan": 39.36190476190476,
