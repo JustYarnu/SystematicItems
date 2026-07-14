@@ -1,23 +1,23 @@
 {
-  "currency": 217150,
-  "tick": 10032,
+  "currency": 218850,
+  "tick": 10057,
   "mutation_stats": {
-    "attempted": 10032,
-    "success": 4210
+    "attempted": 10057,
+    "success": 4220
   },
   "recent_events": [
-    "STABLE: 'Verdant Focus of the Glacier' did not mutate this tick.",
-    "STABLE: 'Dread Core of Whispers' did not mutate this tick.",
+    "MUTATED: 'Feral Edge of Echoes' evolved to generation 29.",
+    "MUTATED: 'Mundane Axe of Ruins' evolved to generation 17.",
+    "MUTATED: 'Verdant Focus of the Glacier' evolved to generation 32.",
+    "MUTATED: 'Glowing Edge of Frost' evolved to generation 32.",
+    "REPLACED WITH: 'Mundane Spear of Frost' (851ac4c5-0e46-48bf-baa7-d1c2767f8abb)",
+    "MUTATED: 'Verdant Focus of the Glacier' evolved to generation 33.",
+    "MUTATED: 'Mundane Spear of Frost' evolved to generation 2.",
     "STABLE: 'Brittle Axe of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Feral Edge of Echoes' evolved to generation 28.",
-    "MUTATED: 'Vampiric Axe of Grace' evolved to generation 11.",
-    "MUTATED: 'Zealous Spear of Whispers' evolved to generation 12.",
-    "STABLE: 'Heavy Relic of Iron' did not mutate this tick.",
-    "MUTATED: 'Dread Core of Whispers' evolved to generation 8.",
-    "STABLE: 'Zealous Spear of Whispers' did not mutate this tick.",
-    "STABLE: 'Zealous Spear of Whispers' did not mutate this tick."
+    "STABLE: 'Dread Core of Whispers' did not mutate this tick.",
+    "STABLE: 'Mundane Axe of Ruins' did not mutate this tick."
   ],
-  "created": 115,
-  "avg_lifespan": 39.36190476190476,
-  "archived": 105
+  "created": 116,
+  "avg_lifespan": 39.29245283018868,
+  "archived": 106
 }

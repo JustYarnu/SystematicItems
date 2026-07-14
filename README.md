@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-10032
+10057
 
 ## Oldest Item
-Brittle Blade of Stone
+Mundane Spear of Frost
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.43
-- Average Volatility: 0.4
-- Average Durability: 40.81
+- Average Rarity: 1.38
+- Average Volatility: 0.37
+- Average Durability: 46.6
 
 ## Dominant Factions
-- Order: 0.6
-- Chaos: 0.5
+- Order: 0.7
 - STR: 0.3
+- Chaos: 0.3
 
 ## Extremes
-- Most Stable Item: Dread Core of Whispers
-- Most Volatile Item: Glowing Edge of Frost
+- Most Stable Item: Mundane Spear of Frost
+- Most Volatile Item: Verdant Focus of the Glacier
 
 ## Recent Events
-- MUTATED: 'Dread Core of Whispers' evolved to generation 8.
-- STABLE: 'Zealous Spear of Whispers' did not mutate this tick.
-- STABLE: 'Zealous Spear of Whispers' did not mutate this tick.
+- STABLE: 'Brittle Axe of the Glacier' did not mutate this tick.
+- STABLE: 'Dread Core of Whispers' did not mutate this tick.
+- STABLE: 'Mundane Axe of Ruins' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 115
-- Items Archived: 105
-- Avg Lifespan (ticks): 39.4
+- Items Created: 116
+- Items Archived: 106
+- Avg Lifespan (ticks): 39.3
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,8 +40,8 @@ Brittle Blade of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 10032
-- Successful Mutations: 4210
+- Mutations Attempted: 10057
+- Successful Mutations: 4220
 - Failure Rate: 58.0%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Brittle Blade of Stone
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 217150
-- Currency per Tick (avg): 21.65
+- Total Currency: 218850
+- Currency per Tick (avg): 21.76
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
