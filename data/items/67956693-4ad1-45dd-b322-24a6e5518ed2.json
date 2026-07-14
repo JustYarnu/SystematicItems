@@ -2,7 +2,7 @@
   "id": "67956693-4ad1-45dd-b322-24a6e5518ed2",
   "name": "Brittle Axe of the Glacier",
   "type": "HeavyWeapon",
-  "generation": 10,
+  "generation": 11,
   "damage": 20.0,
   "damage_type": [
     "Physical",
@@ -12,11 +12,11 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.15,
-  "dex_mod": 1.4,
+  "dex_mod": 1.5,
   "rarity": 1,
-  "durability": 43.9,
+  "durability": 39.15,
   "max_durability": 125.0,
-  "volatility": 0.1900000000000002,
+  "volatility": 0.21000000000000021,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {}
