@@ -2,7 +2,7 @@
   "id": "b54af4d1-96bc-423b-b97c-ec8a62b3b7c6",
   "name": "Vampiric Axe of Grace",
   "type": "HeavyWeapon",
-  "generation": 12,
+  "generation": 14,
   "damage": 16.0,
   "damage_type": [
     "Physical",
@@ -10,14 +10,14 @@
     "Slashing"
   ],
   "crit_damage": 2.5,
-  "crit_rate": 0.01,
+  "crit_rate": 0.060000000000000005,
   "str_mod": 1.2999999999999998,
   "dex_mod": 1.25,
   "rarity": 1,
-  "durability": 59.51999999999999,
+  "durability": 50.48999999999999,
   "max_durability": 94.0,
-  "volatility": 0.34000000000000036,
-  "resilience": 0.58,
+  "volatility": 0.4300000000000004,
+  "resilience": 0.5299999999999999,
   "worth": 100,
   "affinities": {
     "STR": 0.1,

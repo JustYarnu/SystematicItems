@@ -1,0 +1,24 @@
+{
+  "id": "d9b813ca-bcba-4f41-9837-cbb1f2b38ac8",
+  "name": "Echoing Sigil of Sparks",
+  "type": "Focus",
+  "generation": 1,
+  "damage": 17.0,
+  "damage_type": [
+    "Physical",
+    "Sonic",
+    "Magic",
+    "Lightning"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.1,
+  "rarity": 1.5,
+  "durability": 99.0,
+  "max_durability": 100.0,
+  "volatility": 0.41000000000000003,
+  "resilience": 0.5,
+  "worth": 100,
+  "affinities": {}
+}

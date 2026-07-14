@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-10082
+10107
 
 ## Oldest Item
-Mundane Spear of Frost
+Echoing Sigil of Sparks
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.38
+- Average Rarity: 1.23
 - Average Volatility: 0.38
-- Average Durability: 45.33
+- Average Durability: 51.73
 
 ## Dominant Factions
-- Order: 0.7
+- Order: 0.6
 - STR: 0.4
 - Stability: 0.3
 
 ## Extremes
 - Most Stable Item: Mundane Spear of Frost
-- Most Volatile Item: Verdant Focus of the Glacier
+- Most Volatile Item: Feral Edge of Echoes
 
 ## Recent Events
-- STABLE: 'Brittle Blade of Stone' did not mutate this tick.
-- STABLE: 'Brittle Blade of Stone' did not mutate this tick.
-- MUTATED: 'Zealous Spear of Whispers' evolved to generation 14.
+- STABLE: 'Brittle Axe of the Glacier' did not mutate this tick.
+- STABLE: 'Dread Core of Whispers' did not mutate this tick.
+- STABLE: 'Vampiric Axe of Grace' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 116
-- Items Archived: 106
+- Items Created: 117
+- Items Archived: 107
 - Avg Lifespan (ticks): 39.3
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Mundane Spear of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 10082
-- Successful Mutations: 4228
-- Failure Rate: 58.1%
+- Mutations Attempted: 10107
+- Successful Mutations: 4241
+- Failure Rate: 58.0%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 8
-- Uncommon: 2
+- Common: 9
+- Uncommon: 1
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Mundane Spear of Frost
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 218850
-- Currency per Tick (avg): 21.71
+- Total Currency: 220750
+- Currency per Tick (avg): 21.84
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
