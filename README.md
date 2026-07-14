@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-9807
+9832
 
 ## Oldest Item
 Zealous Spear of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.68
-- Average Volatility: 0.38
-- Average Durability: 55.58
+- Average Rarity: 1.23
+- Average Volatility: 0.33
+- Average Durability: 62.43
 
 ## Dominant Factions
-- Order: 0.6
+- Order: 0.4
 - Chaos: 0.3
 - STR: 0.2
 
 ## Extremes
-- Most Stable Item: Brittle Blade of Stone
-- Most Volatile Item: Gilded Spear of Sparks
+- Most Stable Item: Dread Core of Whispers
+- Most Volatile Item: Feral Edge of Echoes
 
 ## Recent Events
-- STABLE: 'Mundane Axe of Ruins' did not mutate this tick.
-- MUTATED: 'Heavy Relic of Iron' evolved to generation 29.
-- STABLE: 'Heavy Relic of Iron' did not mutate this tick.
+- STABLE: 'Zealous Spear of Whispers' did not mutate this tick.
+- STABLE: 'Brittle Axe of the Glacier' did not mutate this tick.
+- MUTATED: 'Dread Core of Whispers' evolved to generation 3.
 
 ## Lifecycle Stats
-- Items Created: 114
-- Items Archived: 104
-- Avg Lifespan (ticks): 39.3
+- Items Created: 115
+- Items Archived: 105
+- Avg Lifespan (ticks): 39.4
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,24 +40,24 @@ Zealous Spear of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 9807
-- Successful Mutations: 4125
+- Mutations Attempted: 9832
+- Successful Mutations: 4135
 - Failure Rate: 57.9%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 8
+- Common: 9
 - Uncommon: 1
-- Rare: 1
+- Rare: 0
 - Epic: 0
 - Legendary+: 0
 
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 215000
-- Currency per Tick (avg): 21.92
+- Total Currency: 217150
+- Currency per Tick (avg): 22.09
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

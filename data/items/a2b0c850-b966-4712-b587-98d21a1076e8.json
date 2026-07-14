@@ -2,23 +2,23 @@
   "id": "a2b0c850-b966-4712-b587-98d21a1076e8",
   "name": "Mundane Axe of Ruins",
   "type": "HeavyWeapon",
-  "generation": 10,
-  "damage": 24.0,
+  "generation": 12,
+  "damage": 25.5,
   "damage_type": [
     "Physical",
     "Slashing"
   ],
   "crit_damage": 2.5,
   "crit_rate": 0.01,
-  "str_mod": 1.15,
+  "str_mod": 1.25,
   "dex_mod": 1.0,
   "rarity": 1,
-  "durability": 65.65,
+  "durability": 60.650000000000006,
   "max_durability": 77.0,
   "volatility": 0.2700000000000003,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
-    "Stability": 0.1
+    "Stability": 0.2
   }
 }
