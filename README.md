@@ -3,20 +3,20 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-10007
+10032
 
 ## Oldest Item
-Dread Core of Whispers
+Brittle Blade of Stone
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.43
 - Average Volatility: 0.4
-- Average Durability: 45.51
+- Average Durability: 40.81
 
 ## Dominant Factions
-- Order: 0.5
-- Chaos: 0.4
+- Order: 0.6
+- Chaos: 0.5
 - STR: 0.3
 
 ## Extremes
@@ -24,9 +24,9 @@ Dread Core of Whispers
 - Most Volatile Item: Glowing Edge of Frost
 
 ## Recent Events
-- MUTATED: 'Brittle Axe of the Glacier' evolved to generation 13.
-- STABLE: 'Feral Edge of Echoes' did not mutate this tick.
-- MUTATED: 'Verdant Focus of the Glacier' evolved to generation 28.
+- MUTATED: 'Dread Core of Whispers' evolved to generation 8.
+- STABLE: 'Zealous Spear of Whispers' did not mutate this tick.
+- STABLE: 'Zealous Spear of Whispers' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 115
@@ -40,8 +40,8 @@ Dread Core of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 10007
-- Successful Mutations: 4198
+- Mutations Attempted: 10032
+- Successful Mutations: 4210
 - Failure Rate: 58.0%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Dread Core of Whispers
 
 ## Economy
 - Total Currency: 217150
-- Currency per Tick (avg): 21.7
+- Currency per Tick (avg): 21.65
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
