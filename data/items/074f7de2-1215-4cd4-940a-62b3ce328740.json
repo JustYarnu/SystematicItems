@@ -2,7 +2,7 @@
   "id": "074f7de2-1215-4cd4-940a-62b3ce328740",
   "name": "Dread Core of Whispers",
   "type": "Artifact",
-  "generation": 8,
+  "generation": 9,
   "damage": 8.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,12 @@
   "str_mod": 1.2,
   "dex_mod": 1.37,
   "rarity": 1,
-  "durability": 69.2,
+  "durability": 64.2,
   "max_durability": 120.0,
-  "volatility": 0.2600000000000002,
+  "volatility": 0.2900000000000002,
   "resilience": 0.4,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Stability": 0.1
+  }
 }
