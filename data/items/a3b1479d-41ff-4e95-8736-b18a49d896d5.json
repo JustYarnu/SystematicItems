@@ -2,7 +2,7 @@
   "id": "a3b1479d-41ff-4e95-8736-b18a49d896d5",
   "name": "Brittle Blade of Stone",
   "type": "Sword",
-  "generation": 2,
+  "generation": 3,
   "damage": 24.0,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "str_mod": 1.05,
   "dex_mod": 1.1500000000000001,
   "rarity": 1,
-  "durability": 61.95,
+  "durability": 54.870000000000005,
   "max_durability": 100.0,
-  "volatility": 0.15000000000000002,
-  "resilience": 0.65,
+  "volatility": 0.16000000000000006,
+  "resilience": 0.73,
   "worth": 100,
   "affinities": {}
 }
