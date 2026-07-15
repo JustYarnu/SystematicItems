@@ -2,7 +2,7 @@
   "id": "b62c3a34-3cf2-4adf-bb9b-9f2df8863c04",
   "name": "Zealous Spear of Whispers",
   "type": "Polearm",
-  "generation": 21,
+  "generation": 22,
   "damage": 24.5,
   "damage_type": [
     "Physical",
@@ -13,11 +13,11 @@
   "crit_damage": 3.0,
   "crit_rate": 0.01,
   "str_mod": 1.35,
-  "dex_mod": 0.9699999999999999,
+  "dex_mod": 1.0699999999999998,
   "rarity": 1,
-  "durability": 28.83999999999999,
+  "durability": 24.81999999999999,
   "max_durability": 96.0,
-  "volatility": 0.35000000000000026,
+  "volatility": 0.36000000000000026,
   "resilience": 0.6599999999999999,
   "worth": 100,
   "affinities": {

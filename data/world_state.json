@@ -1,21 +1,21 @@
 {
   "currency": 222700,
-  "tick": 10257,
+  "tick": 10282,
   "mutation_stats": {
-    "attempted": 10257,
-    "success": 4299
+    "attempted": 10282,
+    "success": 4310
   },
   "recent_events": [
-    "MUTATED: 'Dread Core of Whispers' evolved to generation 18.",
-    "STABLE: 'Heavy Relic of Iron' did not mutate this tick.",
-    "MUTATED: 'Brittle Axe of the Glacier' evolved to generation 22.",
-    "STABLE: 'Mundane Axe of Ruins' did not mutate this tick.",
+    "MUTATED: 'Heavy Relic of Iron' evolved to generation 44.",
+    "MUTATED: 'Dread Core of Whispers' evolved to generation 21.",
+    "STABLE: 'Mundane Spear of Frost' did not mutate this tick.",
     "STABLE: 'Zealous Spear of Whispers' did not mutate this tick.",
-    "STABLE: 'Brittle Axe of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Dread Core of Whispers' evolved to generation 19.",
-    "MUTATED: 'Corrosive Focus of Flame' evolved to generation 4.",
-    "MUTATED: 'Vampiric Axe of Grace' evolved to generation 22.",
-    "STABLE: 'Brittle Blade of Stone' did not mutate this tick."
+    "MUTATED: 'Mundane Axe of Ruins' evolved to generation 25.",
+    "MUTATED: 'Heavy Relic of Iron' evolved to generation 45.",
+    "STABLE: 'Mundane Axe of Ruins' did not mutate this tick.",
+    "MUTATED: 'Vampiric Axe of Grace' evolved to generation 23.",
+    "MUTATED: 'Dread Core of Whispers' evolved to generation 22.",
+    "MUTATED: 'Corrosive Focus of Flame' evolved to generation 5."
   ],
   "created": 118,
   "avg_lifespan": 39.24074074074074,
