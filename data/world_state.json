@@ -1,23 +1,23 @@
 {
-  "currency": 222700,
-  "tick": 10282,
+  "currency": 224000,
+  "tick": 10307,
   "mutation_stats": {
-    "attempted": 10282,
-    "success": 4310
+    "attempted": 10307,
+    "success": 4318
   },
   "recent_events": [
-    "MUTATED: 'Heavy Relic of Iron' evolved to generation 44.",
-    "MUTATED: 'Dread Core of Whispers' evolved to generation 21.",
-    "STABLE: 'Mundane Spear of Frost' did not mutate this tick.",
-    "STABLE: 'Zealous Spear of Whispers' did not mutate this tick.",
-    "MUTATED: 'Mundane Axe of Ruins' evolved to generation 25.",
-    "MUTATED: 'Heavy Relic of Iron' evolved to generation 45.",
-    "STABLE: 'Mundane Axe of Ruins' did not mutate this tick.",
-    "MUTATED: 'Vampiric Axe of Grace' evolved to generation 23.",
-    "MUTATED: 'Dread Core of Whispers' evolved to generation 22.",
-    "MUTATED: 'Corrosive Focus of Flame' evolved to generation 5."
+    "STABLE: 'Dread Core of Whispers' did not mutate this tick.",
+    "MUTATED: 'Zealous Spear of Whispers' evolved to generation 23.",
+    "STABLE: 'Dread Core of Whispers' did not mutate this tick.",
+    "STABLE: 'Corrosive Focus of Flame' did not mutate this tick.",
+    "MUTATED: 'Echoing Sigil of Sparks' evolved to generation 8.",
+    "STABLE: 'Heavy Relic of Iron' did not mutate this tick.",
+    "MUTATED: 'Dread Core of Whispers' evolved to generation 24.",
+    "STABLE: 'Heavy Relic of Iron' did not mutate this tick.",
+    "STABLE: 'Vampiric Axe of Grace' did not mutate this tick.",
+    "MUTATED: 'Vampiric Axe of Grace' evolved to generation 24."
   ],
-  "created": 118,
-  "avg_lifespan": 39.24074074074074,
-  "archived": 108
+  "created": 119,
+  "avg_lifespan": 39.10091743119266,
+  "archived": 109
 }

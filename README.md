@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-10282
+10307
 
 ## Oldest Item
-Mundane Spear of Frost
+Verdant Core of Decay
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.2
-- Average Volatility: 0.42
-- Average Durability: 41.1
+- Average Rarity: 1.1
+- Average Volatility: 0.39
+- Average Durability: 45.26
 
 ## Dominant Factions
-- Order: 0.8
-- STR: 0.5
-- Stability: 0.4
+- Order: 0.7
+- STR: 0.6
+- Stability: 0.5
 
 ## Extremes
-- Most Stable Item: Mundane Spear of Frost
+- Most Stable Item: Verdant Core of Decay
 - Most Volatile Item: Mundane Axe of Ruins
 
 ## Recent Events
-- MUTATED: 'Vampiric Axe of Grace' evolved to generation 23.
-- MUTATED: 'Dread Core of Whispers' evolved to generation 22.
-- MUTATED: 'Corrosive Focus of Flame' evolved to generation 5.
+- STABLE: 'Heavy Relic of Iron' did not mutate this tick.
+- STABLE: 'Vampiric Axe of Grace' did not mutate this tick.
+- MUTATED: 'Vampiric Axe of Grace' evolved to generation 24.
 
 ## Lifecycle Stats
-- Items Created: 118
-- Items Archived: 108
-- Avg Lifespan (ticks): 39.2
+- Items Created: 119
+- Items Archived: 109
+- Avg Lifespan (ticks): 39.1
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Mundane Spear of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 10282
-- Successful Mutations: 4310
+- Mutations Attempted: 10307
+- Successful Mutations: 4318
 - Failure Rate: 58.1%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 9
-- Uncommon: 1
+- Common: 10
+- Uncommon: 0
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Mundane Spear of Frost
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 222700
-- Currency per Tick (avg): 21.66
+- Total Currency: 224000
+- Currency per Tick (avg): 21.73
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
