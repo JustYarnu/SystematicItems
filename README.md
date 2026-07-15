@@ -3,29 +3,29 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-10157
+10182
 
 ## Oldest Item
 Mundane Spear of Frost
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.23
-- Average Volatility: 0.36
-- Average Durability: 44.76
+- Average Rarity: 1.33
+- Average Volatility: 0.38
+- Average Durability: 40.34
 
 ## Dominant Factions
-- Order: 0.8
+- Order: 0.9
 - STR: 0.5
-- Chaos: 0.4
+- Stability: 0.4
 
 ## Extremes
 - Most Stable Item: Mundane Spear of Frost
 - Most Volatile Item: Feral Edge of Echoes
 
 ## Recent Events
-- MUTATED: 'Mundane Axe of Ruins' evolved to generation 22.
-- MUTATED: 'Dread Core of Whispers' evolved to generation 13.
+- STABLE: 'Brittle Axe of the Glacier' did not mutate this tick.
+- STABLE: 'Feral Edge of Echoes' did not mutate this tick.
 - STABLE: 'Feral Edge of Echoes' did not mutate this tick.
 
 ## Lifecycle Stats
@@ -40,15 +40,15 @@ Mundane Spear of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 10157
-- Successful Mutations: 4265
+- Mutations Attempted: 10182
+- Successful Mutations: 4274
 - Failure Rate: 58.0%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 9
-- Uncommon: 1
+- Common: 8
+- Uncommon: 2
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Mundane Spear of Frost
 
 ## Economy
 - Total Currency: 220750
-- Currency per Tick (avg): 21.73
+- Currency per Tick (avg): 21.68
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
