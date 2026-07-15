@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-10332
+10357
 
 ## Oldest Item
 Mundane Relic of Mirage
@@ -11,22 +11,22 @@ Mundane Relic of Mirage
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.25
-- Average Volatility: 0.4
-- Average Durability: 51.23
+- Average Volatility: 0.38
+- Average Durability: 47.96
 
 ## Dominant Factions
-- Order: 0.7
+- Order: 0.8
+- Stability: 0.6
 - STR: 0.6
-- Stability: 0.5
 
 ## Extremes
 - Most Stable Item: Verdant Core of Decay
 - Most Volatile Item: Mundane Axe of Ruins
 
 ## Recent Events
-- STABLE: 'Echoing Sigil of Sparks' did not mutate this tick.
-- STABLE: 'Corrosive Focus of Flame' did not mutate this tick.
-- STABLE: 'Dread Core of Whispers' did not mutate this tick.
+- MUTATED: 'Echoing Sigil of Sparks' evolved to generation 13.
+- STABLE: 'Mundane Axe of Ruins' did not mutate this tick.
+- MUTATED: 'Heavy Relic of Iron' evolved to generation 51.
 
 ## Lifecycle Stats
 - Items Created: 120
@@ -40,9 +40,9 @@ Mundane Relic of Mirage
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 10332
-- Successful Mutations: 4329
-- Failure Rate: 58.1%
+- Mutations Attempted: 10357
+- Successful Mutations: 4345
+- Failure Rate: 58.0%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Mundane Relic of Mirage
 
 ## Economy
 - Total Currency: 224950
-- Currency per Tick (avg): 21.77
+- Currency per Tick (avg): 21.72
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
