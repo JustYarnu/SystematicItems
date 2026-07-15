@@ -1,23 +1,23 @@
 {
-  "currency": 224000,
-  "tick": 10307,
+  "currency": 224950,
+  "tick": 10332,
   "mutation_stats": {
-    "attempted": 10307,
-    "success": 4318
+    "attempted": 10332,
+    "success": 4329
   },
   "recent_events": [
-    "STABLE: 'Dread Core of Whispers' did not mutate this tick.",
-    "MUTATED: 'Zealous Spear of Whispers' evolved to generation 23.",
-    "STABLE: 'Dread Core of Whispers' did not mutate this tick.",
     "STABLE: 'Corrosive Focus of Flame' did not mutate this tick.",
-    "MUTATED: 'Echoing Sigil of Sparks' evolved to generation 8.",
-    "STABLE: 'Heavy Relic of Iron' did not mutate this tick.",
-    "MUTATED: 'Dread Core of Whispers' evolved to generation 24.",
-    "STABLE: 'Heavy Relic of Iron' did not mutate this tick.",
-    "STABLE: 'Vampiric Axe of Grace' did not mutate this tick.",
-    "MUTATED: 'Vampiric Axe of Grace' evolved to generation 24."
+    "STABLE: 'Dread Core of Whispers' did not mutate this tick.",
+    "MUTATED: 'Echoing Sigil of Sparks' evolved to generation 10.",
+    "MUTATED: 'Brittle Blade of Stone' evolved to generation 17.",
+    "REPLACED WITH: 'Mundane Relic of Mirage' (4f3534db-533a-470a-96d9-5cec5b9a48a7)",
+    "STABLE: 'Echoing Sigil of Sparks' did not mutate this tick.",
+    "MUTATED: 'Dread Core of Whispers' evolved to generation 27.",
+    "STABLE: 'Echoing Sigil of Sparks' did not mutate this tick.",
+    "STABLE: 'Corrosive Focus of Flame' did not mutate this tick.",
+    "STABLE: 'Dread Core of Whispers' did not mutate this tick."
   ],
-  "created": 119,
-  "avg_lifespan": 39.10091743119266,
-  "archived": 109
+  "created": 120,
+  "avg_lifespan": 38.9,
+  "archived": 110
 }
