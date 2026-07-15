@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-10132
+10157
 
 ## Oldest Item
-Echoing Sigil of Sparks
+Mundane Spear of Frost
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.23
 - Average Volatility: 0.36
-- Average Durability: 47.06
+- Average Durability: 44.76
 
 ## Dominant Factions
 - Order: 0.8
@@ -24,8 +24,8 @@ Echoing Sigil of Sparks
 - Most Volatile Item: Feral Edge of Echoes
 
 ## Recent Events
-- STABLE: 'Mundane Spear of Frost' did not mutate this tick.
-- MUTATED: 'Zealous Spear of Whispers' evolved to generation 18.
+- MUTATED: 'Mundane Axe of Ruins' evolved to generation 22.
+- MUTATED: 'Dread Core of Whispers' evolved to generation 13.
 - STABLE: 'Feral Edge of Echoes' did not mutate this tick.
 
 ## Lifecycle Stats
@@ -40,8 +40,8 @@ Echoing Sigil of Sparks
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 10132
-- Successful Mutations: 4254
+- Mutations Attempted: 10157
+- Successful Mutations: 4265
 - Failure Rate: 58.0%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Echoing Sigil of Sparks
 
 ## Economy
 - Total Currency: 220750
-- Currency per Tick (avg): 21.79
+- Currency per Tick (avg): 21.73
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

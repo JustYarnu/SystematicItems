@@ -1,20 +1,20 @@
 {
   "currency": 220750,
-  "tick": 10132,
+  "tick": 10157,
   "mutation_stats": {
-    "attempted": 10132,
-    "success": 4254
+    "attempted": 10157,
+    "success": 4265
   },
   "recent_events": [
-    "MUTATED: 'Brittle Blade of Stone' evolved to generation 10.",
-    "MUTATED: 'Zealous Spear of Whispers' evolved to generation 17.",
-    "STABLE: 'Brittle Blade of Stone' did not mutate this tick.",
-    "MUTATED: 'Vampiric Axe of Grace' evolved to generation 15.",
-    "STABLE: 'Vampiric Axe of Grace' did not mutate this tick.",
     "STABLE: 'Dread Core of Whispers' did not mutate this tick.",
-    "STABLE: 'Mundane Spear of Frost' did not mutate this tick.",
-    "STABLE: 'Mundane Spear of Frost' did not mutate this tick.",
-    "MUTATED: 'Zealous Spear of Whispers' evolved to generation 18.",
+    "STABLE: 'Vampiric Axe of Grace' did not mutate this tick.",
+    "STABLE: 'Heavy Relic of Iron' did not mutate this tick.",
+    "STABLE: 'Echoing Sigil of Sparks' did not mutate this tick.",
+    "MUTATED: 'Brittle Axe of the Glacier' evolved to generation 18.",
+    "STABLE: 'Echoing Sigil of Sparks' did not mutate this tick.",
+    "MUTATED: 'Dread Core of Whispers' evolved to generation 12.",
+    "MUTATED: 'Mundane Axe of Ruins' evolved to generation 22.",
+    "MUTATED: 'Dread Core of Whispers' evolved to generation 13.",
     "STABLE: 'Feral Edge of Echoes' did not mutate this tick."
   ],
   "created": 117,
