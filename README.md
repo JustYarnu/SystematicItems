@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-10232
+10257
 
 ## Oldest Item
 Corrosive Focus of Flame
@@ -11,8 +11,8 @@ Corrosive Focus of Flame
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.2
-- Average Volatility: 0.41
-- Average Durability: 48.26
+- Average Volatility: 0.42
+- Average Durability: 44.79
 
 ## Dominant Factions
 - Order: 0.7
@@ -24,9 +24,9 @@ Corrosive Focus of Flame
 - Most Volatile Item: Corrosive Focus of Flame
 
 ## Recent Events
-- STABLE: 'Brittle Axe of the Glacier' did not mutate this tick.
-- STABLE: 'Brittle Axe of the Glacier' did not mutate this tick.
-- STABLE: 'Corrosive Focus of Flame' did not mutate this tick.
+- MUTATED: 'Corrosive Focus of Flame' evolved to generation 4.
+- MUTATED: 'Vampiric Axe of Grace' evolved to generation 22.
+- STABLE: 'Brittle Blade of Stone' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 118
@@ -40,8 +40,8 @@ Corrosive Focus of Flame
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 10232
-- Successful Mutations: 4289
+- Mutations Attempted: 10257
+- Successful Mutations: 4299
 - Failure Rate: 58.1%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Corrosive Focus of Flame
 
 ## Economy
 - Total Currency: 222700
-- Currency per Tick (avg): 21.77
+- Currency per Tick (avg): 21.71
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
