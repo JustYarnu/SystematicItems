@@ -3034,5 +3034,58 @@
       "STR": 0.1,
       "Stability": 0.2
     }
+  },
+  {
+    "id": "b62c3a34-3cf2-4adf-bb9b-9f2df8863c04",
+    "name": "Zealous Spear of Whispers",
+    "type": "Polearm",
+    "generation": 27,
+    "damage": 24.5,
+    "damage_type": [
+      "Physical",
+      "Holy",
+      "Piercing",
+      "Void"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.01,
+    "str_mod": 1.35,
+    "dex_mod": 1.17,
+    "rarity": 1,
+    "durability": -0.7000000000000139,
+    "max_durability": 96.0,
+    "volatility": 0.48000000000000037,
+    "resilience": 0.6099999999999999,
+    "worth": 1450,
+    "affinities": {
+      "STR": 0.4
+    }
+  },
+  {
+    "id": "074f7de2-1215-4cd4-940a-62b3ce328740",
+    "name": "Dread Core of Whispers",
+    "type": "Artifact",
+    "generation": 32,
+    "damage": 21.0,
+    "damage_type": [
+      "Physical",
+      "Dark",
+      "Void"
+    ],
+    "crit_damage": 3.3,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.4000000000000001,
+    "dex_mod": 1.27,
+    "rarity": 1,
+    "durability": -1.0,
+    "max_durability": 118.0,
+    "volatility": 0.4900000000000005,
+    "resilience": 0.43000000000000005,
+    "worth": 1700,
+    "affinities": {
+      "Stability": 0.2,
+      "DEX": 0.1,
+      "Order": 0.1
+    }
   }
 ]

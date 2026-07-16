@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-10407
+10432
 
 ## Oldest Item
-Abyssal Bow of Blight
+Mundane Rapier of Frost
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.4
-- Average Volatility: 0.39
-- Average Durability: 47.85
+- Average Rarity: 1.45
+- Average Volatility: 0.35
+- Average Durability: 64.12
 
 ## Dominant Factions
-- STR: 0.7
-- Order: 0.6
-- Stability: 0.5
+- Order: 0.5
+- STR: 0.3
+- Stability: 0.3
 
 ## Extremes
-- Most Stable Item: Verdant Core of Decay
+- Most Stable Item: Mundane Rapier of Frost
 - Most Volatile Item: Mundane Axe of Ruins
 
 ## Recent Events
-- MUTATED: 'Zealous Spear of Whispers' evolved to generation 27.
-- STABLE: 'Echoing Sigil of Sparks' did not mutate this tick.
-- MUTATED: 'Dread Core of Whispers' evolved to generation 31.
+- STABLE: 'Mundane Axe of Ruins' did not mutate this tick.
+- STABLE: 'Abyssal Bow of Blight' did not mutate this tick.
+- STABLE: 'Verdant Core of Decay' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 121
-- Items Archived: 111
-- Avg Lifespan (ticks): 39.0
+- Items Created: 123
+- Items Archived: 113
+- Avg Lifespan (ticks): 38.9
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,9 +40,9 @@ Abyssal Bow of Blight
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 10407
-- Successful Mutations: 4368
-- Failure Rate: 58.0%
+- Mutations Attempted: 10432
+- Successful Mutations: 4373
+- Failure Rate: 58.1%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -56,8 +56,8 @@ Abyssal Bow of Blight
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 227800
-- Currency per Tick (avg): 21.89
+- Total Currency: 230950
+- Currency per Tick (avg): 22.14
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

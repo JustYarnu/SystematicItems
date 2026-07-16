@@ -1,23 +1,23 @@
 {
-  "currency": 227800,
-  "tick": 10407,
+  "currency": 230950,
+  "tick": 10432,
   "mutation_stats": {
-    "attempted": 10407,
-    "success": 4368
+    "attempted": 10432,
+    "success": 4373
   },
   "recent_events": [
-    "MUTATED: 'Echoing Sigil of Sparks' evolved to generation 18.",
-    "STABLE: 'Mundane Relic of Mirage' did not mutate this tick.",
-    "MUTATED: 'Mundane Axe of Ruins' evolved to generation 27.",
+    "STABLE: 'Dread Core of Whispers' did not mutate this tick.",
+    "MUTATED: 'Dread Core of Whispers' evolved to generation 32.",
+    "REPLACED WITH: 'Glowing Blade of Might' (88b0e7a6-9db6-4745-9249-af1c409e2daa)",
+    "MUTATED: 'Vampiric Axe of Grace' evolved to generation 29.",
+    "STABLE: 'Glowing Blade of Might' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Frost' did not mutate this tick.",
+    "MUTATED: 'Vampiric Axe of Grace' evolved to generation 30.",
     "STABLE: 'Mundane Axe of Ruins' did not mutate this tick.",
-    "STABLE: 'Mundane Spear of Frost' did not mutate this tick.",
-    "STABLE: 'Zealous Spear of Whispers' did not mutate this tick.",
-    "MUTATED: 'Mundane Axe of Ruins' evolved to generation 28.",
-    "MUTATED: 'Zealous Spear of Whispers' evolved to generation 27.",
-    "STABLE: 'Echoing Sigil of Sparks' did not mutate this tick.",
-    "MUTATED: 'Dread Core of Whispers' evolved to generation 31."
+    "STABLE: 'Abyssal Bow of Blight' did not mutate this tick.",
+    "STABLE: 'Verdant Core of Decay' did not mutate this tick."
   ],
-  "created": 121,
-  "avg_lifespan": 39.04504504504504,
-  "archived": 111
+  "created": 123,
+  "avg_lifespan": 38.876106194690266,
+  "archived": 113
 }
