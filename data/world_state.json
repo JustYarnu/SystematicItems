@@ -1,21 +1,21 @@
 {
   "currency": 232700,
-  "tick": 10607,
+  "tick": 10632,
   "mutation_stats": {
-    "attempted": 10607,
-    "success": 4433
+    "attempted": 10632,
+    "success": 4442
   },
   "recent_events": [
-    "REPLACED WITH: 'Ancient Core of Echoes' (ec7ee038-e443-432f-af08-4f4be0394968)",
-    "STABLE: 'Abyssal Bow of Blight' did not mutate this tick.",
-    "STABLE: 'Echoing Sigil of Sparks' did not mutate this tick.",
     "STABLE: 'Verdant Core of Decay' did not mutate this tick.",
+    "MUTATED: 'Mundane Relic of Mirage' evolved to generation 12.",
+    "STABLE: 'Mundane Spear of Frost' did not mutate this tick.",
     "STABLE: 'Abyssal Bow of Blight' did not mutate this tick.",
+    "MUTATED: 'Abyssal Bow of Blight' evolved to generation 8.",
+    "MUTATED: 'Glowing Blade of Might' evolved to generation 5.",
+    "STABLE: 'Abyssal Bow of Blight' did not mutate this tick.",
+    "MUTATED: 'Corrosive Focus of Flame' evolved to generation 22.",
     "STABLE: 'Ancient Core of Echoes' did not mutate this tick.",
-    "STABLE: 'Corrosive Focus of Flame' did not mutate this tick.",
-    "STABLE: 'Verdant Core of Decay' did not mutate this tick.",
-    "STABLE: 'Ancient Core of Echoes' did not mutate this tick.",
-    "STABLE: 'Echoing Sigil of Sparks' did not mutate this tick."
+    "MUTATED: 'Ancient Core of Echoes' evolved to generation 2."
   ],
   "created": 124,
   "avg_lifespan": 38.824561403508774,

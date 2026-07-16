@@ -2,7 +2,7 @@
   "id": "9311fe23-9032-4f3f-9d59-9a3604f3ee73",
   "name": "Corrosive Focus of Flame",
   "type": "Focus",
-  "generation": 21,
+  "generation": 22,
   "damage": 24.5,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 1.0,
   "rarity": 1,
-  "durability": 16.299999999999997,
-  "max_durability": 100.0,
-  "volatility": 0.56,
-  "resilience": 0.5,
+  "durability": 12.949999999999998,
+  "max_durability": 105.0,
+  "volatility": 0.55,
+  "resilience": 0.55,
   "worth": 100,
   "affinities": {
     "Order": 0.1,
