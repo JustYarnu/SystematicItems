@@ -1,20 +1,20 @@
 {
   "currency": 230950,
-  "tick": 10432,
+  "tick": 10457,
   "mutation_stats": {
-    "attempted": 10432,
-    "success": 4373
+    "attempted": 10457,
+    "success": 4383
   },
   "recent_events": [
-    "STABLE: 'Dread Core of Whispers' did not mutate this tick.",
-    "MUTATED: 'Dread Core of Whispers' evolved to generation 32.",
-    "REPLACED WITH: 'Glowing Blade of Might' (88b0e7a6-9db6-4745-9249-af1c409e2daa)",
-    "MUTATED: 'Vampiric Axe of Grace' evolved to generation 29.",
-    "STABLE: 'Glowing Blade of Might' did not mutate this tick.",
     "STABLE: 'Mundane Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Vampiric Axe of Grace' evolved to generation 30.",
-    "STABLE: 'Mundane Axe of Ruins' did not mutate this tick.",
-    "STABLE: 'Abyssal Bow of Blight' did not mutate this tick.",
+    "MUTATED: 'Echoing Sigil of Sparks' evolved to generation 20.",
+    "MUTATED: 'Mundane Rapier of Frost' evolved to generation 3.",
+    "MUTATED: 'Mundane Rapier of Frost' evolved to generation 4.",
+    "STABLE: 'Mundane Rapier of Frost' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Frost' did not mutate this tick.",
+    "STABLE: 'Echoing Sigil of Sparks' did not mutate this tick.",
+    "MUTATED: 'Verdant Core of Decay' evolved to generation 4.",
+    "MUTATED: 'Vampiric Axe of Grace' evolved to generation 32.",
     "STABLE: 'Verdant Core of Decay' did not mutate this tick."
   ],
   "created": 123,
