@@ -1,21 +1,21 @@
 {
   "currency": 230950,
-  "tick": 10557,
+  "tick": 10582,
   "mutation_stats": {
-    "attempted": 10557,
-    "success": 4412
+    "attempted": 10582,
+    "success": 4425
   },
   "recent_events": [
+    "MUTATED: 'Mundane Rapier of Frost' evolved to generation 7.",
+    "MUTATED: 'Echoing Sigil of Sparks' evolved to generation 25.",
     "STABLE: 'Corrosive Focus of Flame' did not mutate this tick.",
+    "STABLE: 'Abyssal Bow of Blight' did not mutate this tick.",
     "STABLE: 'Mundane Relic of Mirage' did not mutate this tick.",
-    "MUTATED: 'Verdant Core of Decay' evolved to generation 7.",
-    "STABLE: 'Corrosive Focus of Flame' did not mutate this tick.",
-    "STABLE: 'Mundane Relic of Mirage' did not mutate this tick.",
-    "STABLE: 'Mundane Relic of Mirage' did not mutate this tick.",
-    "STABLE: 'Mundane Relic of Mirage' did not mutate this tick.",
-    "STABLE: 'Mundane Spear of Frost' did not mutate this tick.",
-    "STABLE: 'Mundane Relic of Mirage' did not mutate this tick.",
-    "MUTATED: 'Corrosive Focus of Flame' evolved to generation 18."
+    "STABLE: 'Verdant Core of Decay' did not mutate this tick.",
+    "MUTATED: 'Mundane Spear of Frost' evolved to generation 7.",
+    "STABLE: 'Abyssal Bow of Blight' did not mutate this tick.",
+    "STABLE: 'Verdant Core of Decay' did not mutate this tick.",
+    "STABLE: 'Mundane Spear of Frost' did not mutate this tick."
   ],
   "created": 123,
   "avg_lifespan": 38.876106194690266,
