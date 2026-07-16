@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-10632
+10657
 
 ## Oldest Item
 Ancient Core of Echoes
@@ -12,21 +12,21 @@ Ancient Core of Echoes
 - Active Items: 10
 - Average Rarity: 1.88
 - Average Volatility: 0.37
-- Average Durability: 45.52
+- Average Durability: 42.36
 
 ## Dominant Factions
 - Order: 0.7
-- STR: 0.5
-- Stability: 0.3
+- STR: 0.6
+- Chaos: 0.3
 
 ## Extremes
 - Most Stable Item: Ancient Core of Echoes
 - Most Volatile Item: Corrosive Focus of Flame
 
 ## Recent Events
-- MUTATED: 'Corrosive Focus of Flame' evolved to generation 22.
-- STABLE: 'Ancient Core of Echoes' did not mutate this tick.
-- MUTATED: 'Ancient Core of Echoes' evolved to generation 2.
+- STABLE: 'Glowing Blade of Might' did not mutate this tick.
+- STABLE: 'Vampiric Axe of Grace' did not mutate this tick.
+- MUTATED: 'Echoing Sigil of Sparks' evolved to generation 29.
 
 ## Lifecycle Stats
 - Items Created: 124
@@ -40,8 +40,8 @@ Ancient Core of Echoes
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 10632
-- Successful Mutations: 4442
+- Mutations Attempted: 10657
+- Successful Mutations: 4454
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Ancient Core of Echoes
 
 ## Economy
 - Total Currency: 232700
-- Currency per Tick (avg): 21.89
+- Currency per Tick (avg): 21.84
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
