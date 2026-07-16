@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-10382
+10407
 
 ## Oldest Item
-Mundane Relic of Mirage
+Abyssal Bow of Blight
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.25
-- Average Volatility: 0.38
-- Average Durability: 44.33
+- Average Rarity: 1.4
+- Average Volatility: 0.39
+- Average Durability: 47.85
 
 ## Dominant Factions
-- Order: 0.8
-- Stability: 0.7
 - STR: 0.7
+- Order: 0.6
+- Stability: 0.5
 
 ## Extremes
 - Most Stable Item: Verdant Core of Decay
 - Most Volatile Item: Mundane Axe of Ruins
 
 ## Recent Events
-- STABLE: 'Mundane Spear of Frost' did not mutate this tick.
+- MUTATED: 'Zealous Spear of Whispers' evolved to generation 27.
 - STABLE: 'Echoing Sigil of Sparks' did not mutate this tick.
-- MUTATED: 'Echoing Sigil of Sparks' evolved to generation 16.
+- MUTATED: 'Dread Core of Whispers' evolved to generation 31.
 
 ## Lifecycle Stats
-- Items Created: 120
-- Items Archived: 110
-- Avg Lifespan (ticks): 38.9
+- Items Created: 121
+- Items Archived: 111
+- Avg Lifespan (ticks): 39.0
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Mundane Relic of Mirage
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 10382
-- Successful Mutations: 4352
-- Failure Rate: 58.1%
+- Mutations Attempted: 10407
+- Successful Mutations: 4368
+- Failure Rate: 58.0%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 9
-- Uncommon: 1
+- Common: 8
+- Uncommon: 2
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Mundane Relic of Mirage
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 224950
-- Currency per Tick (avg): 21.67
+- Total Currency: 227800
+- Currency per Tick (avg): 21.89
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
