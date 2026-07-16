@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-10582
+10607
 
 ## Oldest Item
-Glowing Blade of Might
+Ancient Core of Echoes
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.75
-- Average Volatility: 0.39
-- Average Durability: 42.52
+- Average Rarity: 1.88
+- Average Volatility: 0.36
+- Average Durability: 48.93
 
 ## Dominant Factions
-- STR: 0.7
-- Order: 0.7
-- Stability: 0.5
+- Order: 0.6
+- STR: 0.5
+- Stability: 0.3
 
 ## Extremes
-- Most Stable Item: Mundane Rapier of Frost
+- Most Stable Item: Ancient Core of Echoes
 - Most Volatile Item: Corrosive Focus of Flame
 
 ## Recent Events
-- STABLE: 'Abyssal Bow of Blight' did not mutate this tick.
 - STABLE: 'Verdant Core of Decay' did not mutate this tick.
-- STABLE: 'Mundane Spear of Frost' did not mutate this tick.
+- STABLE: 'Ancient Core of Echoes' did not mutate this tick.
+- STABLE: 'Echoing Sigil of Sparks' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 123
-- Items Archived: 113
-- Avg Lifespan (ticks): 38.9
+- Items Created: 124
+- Items Archived: 114
+- Avg Lifespan (ticks): 38.8
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Glowing Blade of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 10582
-- Successful Mutations: 4425
+- Mutations Attempted: 10607
+- Successful Mutations: 4433
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 5
+- Uncommon: 5
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Glowing Blade of Might
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 230950
-- Currency per Tick (avg): 21.82
+- Total Currency: 232700
+- Currency per Tick (avg): 21.94
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
