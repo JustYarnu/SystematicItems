@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-10507
+10532
 
 ## Oldest Item
 Glowing Blade of Might
@@ -12,11 +12,11 @@ Glowing Blade of Might
 - Active Items: 10
 - Average Rarity: 1.45
 - Average Volatility: 0.36
-- Average Durability: 54.19
+- Average Durability: 50.9
 
 ## Dominant Factions
+- Order: 0.7
 - STR: 0.6
-- Order: 0.6
 - Stability: 0.4
 
 ## Extremes
@@ -24,9 +24,9 @@ Glowing Blade of Might
 - Most Volatile Item: Mundane Axe of Ruins
 
 ## Recent Events
-- MUTATED: 'Corrosive Focus of Flame' evolved to generation 15.
+- MUTATED: 'Mundane Rapier of Frost' evolved to generation 6.
 - STABLE: 'Mundane Rapier of Frost' did not mutate this tick.
-- MUTATED: 'Mundane Relic of Mirage' evolved to generation 7.
+- STABLE: 'Verdant Core of Decay' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 123
@@ -40,9 +40,9 @@ Glowing Blade of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 10507
-- Successful Mutations: 4398
-- Failure Rate: 58.1%
+- Mutations Attempted: 10532
+- Successful Mutations: 4407
+- Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Glowing Blade of Might
 
 ## Economy
 - Total Currency: 230950
-- Currency per Tick (avg): 21.98
+- Currency per Tick (avg): 21.93
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

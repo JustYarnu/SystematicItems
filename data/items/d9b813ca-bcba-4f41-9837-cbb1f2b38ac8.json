@@ -2,7 +2,7 @@
   "id": "d9b813ca-bcba-4f41-9837-cbb1f2b38ac8",
   "name": "Echoing Sigil of Sparks",
   "type": "Focus",
-  "generation": 21,
+  "generation": 22,
   "damage": 28.0,
   "damage_type": [
     "Physical",
@@ -15,7 +15,7 @@
   "str_mod": 1.4000000000000004,
   "dex_mod": 1.1,
   "rarity": 2.5,
-  "durability": 29.740000000000002,
+  "durability": 24.324385618977473,
   "max_durability": 115.0,
   "volatility": 0.39000000000000024,
   "resilience": 0.8160964047443681,
