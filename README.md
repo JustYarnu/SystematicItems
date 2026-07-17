@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-10932
+10957
 
 ## Oldest Item
 Glacial Edge of the Deep
@@ -11,8 +11,8 @@ Glacial Edge of the Deep
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.78
-- Average Volatility: 0.31
-- Average Durability: 62.57
+- Average Volatility: 0.34
+- Average Durability: 58.46
 
 ## Dominant Factions
 - Order: 0.4
@@ -21,12 +21,12 @@ Glacial Edge of the Deep
 
 ## Extremes
 - Most Stable Item: Glacial Edge of the Deep
-- Most Volatile Item: Verdant Core of Decay
+- Most Volatile Item: Searing Sigil of Torment
 
 ## Recent Events
-- STABLE: 'Glacial Edge of the Deep' did not mutate this tick.
-- STABLE: 'Zealous Spear of Frost' did not mutate this tick.
-- STABLE: 'Zealous Spear of Frost' did not mutate this tick.
+- STABLE: 'Mundane Rapier of Frost' did not mutate this tick.
+- MUTATED: 'Ancient Core of Echoes' evolved to generation 9.
+- MUTATED: 'Mundane Rapier of Frost' evolved to generation 19.
 
 ## Lifecycle Stats
 - Items Created: 130
@@ -40,8 +40,8 @@ Glacial Edge of the Deep
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 10932
-- Successful Mutations: 4563
+- Mutations Attempted: 10957
+- Successful Mutations: 4570
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Glacial Edge of the Deep
 
 ## Economy
 - Total Currency: 241500
-- Currency per Tick (avg): 22.09
+- Currency per Tick (avg): 22.04
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
