@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-10757
+10782
 
 ## Oldest Item
-Ancient Core of Echoes
+Echoing Blade of Ruins
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.98
-- Average Volatility: 0.41
-- Average Durability: 36.48
+- Average Volatility: 0.38
+- Average Durability: 42.06
 
 ## Dominant Factions
-- STR: 0.7
-- Order: 0.5
-- Chaos: 0.4
+- STR: 0.6
+- Order: 0.4
+- DEX: 0.3
 
 ## Extremes
-- Most Stable Item: Ancient Core of Echoes
-- Most Volatile Item: Corrosive Focus of Flame
+- Most Stable Item: Echoing Blade of Ruins
+- Most Volatile Item: Vampiric Axe of Grace
 
 ## Recent Events
-- STABLE: 'Mundane Rapier of Frost' did not mutate this tick.
-- STABLE: 'Corrosive Focus of Flame' did not mutate this tick.
-- MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 7.
+- MUTATED: 'Verdant Core of Decay' evolved to generation 17.
+- STABLE: 'Echoing Blade of Ruins' did not mutate this tick.
+- MUTATED: 'Abyssal Bow of Blight' evolved to generation 16.
 
 ## Lifecycle Stats
-- Items Created: 125
-- Items Archived: 115
-- Avg Lifespan (ticks): 38.7
+- Items Created: 126
+- Items Archived: 116
+- Avg Lifespan (ticks): 38.6
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,8 +40,8 @@ Ancient Core of Echoes
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 10757
-- Successful Mutations: 4495
+- Mutations Attempted: 10782
+- Successful Mutations: 4504
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Ancient Core of Echoes
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 234250
-- Currency per Tick (avg): 21.78
+- Total Currency: 235650
+- Currency per Tick (avg): 21.86
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

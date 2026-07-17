@@ -2,7 +2,7 @@
   "id": "4f3534db-533a-470a-96d9-5cec5b9a48a7",
   "name": "Mundane Relic of Mirage",
   "type": "Artifact",
-  "generation": 19,
+  "generation": 20,
   "damage": 12.5,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 1.2999999999999998,
   "rarity": 1.5,
-  "durability": 26.0399250014423,
+  "durability": 21.68616562662259,
   "max_durability": 107.0,
-  "volatility": 0.44000000000000034,
-  "resilience": 0.7792481250360578,
+  "volatility": 0.5300000000000004,
+  "resilience": 0.7292481250360577,
   "worth": 100,
   "affinities": {
     "STR": 0.3,

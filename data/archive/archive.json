@@ -3142,5 +3142,33 @@
       "Scarceness": 0.1,
       "STR": 0.1
     }
+  },
+  {
+    "id": "9311fe23-9032-4f3f-9d59-9a3604f3ee73",
+    "name": "Corrosive Focus of Flame",
+    "type": "Focus",
+    "generation": 26,
+    "damage": 24.5,
+    "damage_type": [
+      "Physical",
+      "Acid",
+      "Magic"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.01,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 1.0,
+    "rarity": 2,
+    "durability": -0.5000000000000018,
+    "max_durability": 95.0,
+    "volatility": 0.61,
+    "resilience": 0.55,
+    "worth": 1400,
+    "affinities": {
+      "Order": 0.1,
+      "Chaos": 0.1,
+      "STR": 0.1,
+      "Stability": 0.1
+    }
   }
 ]

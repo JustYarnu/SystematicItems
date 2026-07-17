@@ -2,7 +2,7 @@
   "id": "40fd10ed-8edf-4a5d-9aaf-f50aa62c5b8a",
   "name": "Abyssal Bow of Blight",
   "type": "Ranged",
-  "generation": 13,
+  "generation": 16,
   "damage": 17.0,
   "damage_type": [
     "Physical",
@@ -15,13 +15,14 @@
   "str_mod": 1.0,
   "dex_mod": 1.25,
   "rarity": 3.0,
-  "durability": 21.599999999999984,
+  "durability": 12.119999999999983,
   "max_durability": 111.0,
-  "volatility": 0.4600000000000002,
+  "volatility": 0.3600000000000002,
   "resilience": 0.71,
   "worth": 100,
   "affinities": {
     "Stability": 0.1,
-    "Scarceness": 0.1
+    "Scarceness": 0.1,
+    "DEX": 0.1
   }
 }
