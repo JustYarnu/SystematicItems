@@ -3224,5 +3224,33 @@
       "Order": 0.3,
       "Stability": 0.1
     }
+  },
+  {
+    "id": "40fd10ed-8edf-4a5d-9aaf-f50aa62c5b8a",
+    "name": "Abyssal Bow of Blight",
+    "type": "Ranged",
+    "generation": 19,
+    "damage": 17.0,
+    "damage_type": [
+      "Physical",
+      "Shadow",
+      "Piercing",
+      "Dark"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.01,
+    "str_mod": 1.0,
+    "dex_mod": 1.35,
+    "rarity": 3.0,
+    "durability": -1.0,
+    "max_durability": 113.0,
+    "volatility": 0.41000000000000025,
+    "resilience": 0.71,
+    "worth": 1050,
+    "affinities": {
+      "Stability": 0.1,
+      "Scarceness": 0.1,
+      "DEX": 0.2
+    }
   }
 ]
