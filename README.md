@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-10907
+10932
 
 ## Oldest Item
-Zealous Spear of Frost
+Glacial Edge of the Deep
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.88
-- Average Volatility: 0.35
-- Average Durability: 53.35
+- Average Rarity: 1.78
+- Average Volatility: 0.31
+- Average Durability: 62.57
 
 ## Dominant Factions
 - Order: 0.4
-- Stability: 0.3
 - Chaos: 0.2
+- STR: 0.2
 
 ## Extremes
-- Most Stable Item: Ancient Bow of Grace
-- Most Volatile Item: Mundane Spear of Frost
+- Most Stable Item: Glacial Edge of the Deep
+- Most Volatile Item: Verdant Core of Decay
 
 ## Recent Events
-- MUTATED: 'Echoing Blade of Ruins' evolved to generation 4.
-- MUTATED: 'Zealous Spear of Frost' evolved to generation 3.
-- STABLE: 'Ancient Core of Echoes' did not mutate this tick.
+- STABLE: 'Glacial Edge of the Deep' did not mutate this tick.
+- STABLE: 'Zealous Spear of Frost' did not mutate this tick.
+- STABLE: 'Zealous Spear of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 129
-- Items Archived: 119
-- Avg Lifespan (ticks): 38.4
+- Items Created: 130
+- Items Archived: 120
+- Avg Lifespan (ticks): 38.2
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Zealous Spear of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 10907
-- Successful Mutations: 4552
+- Mutations Attempted: 10932
+- Successful Mutations: 4563
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 4
-- Uncommon: 6
+- Common: 5
+- Uncommon: 5
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Zealous Spear of Frost
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 240500
-- Currency per Tick (avg): 22.05
+- Total Currency: 241500
+- Currency per Tick (avg): 22.09
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
