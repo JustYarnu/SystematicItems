@@ -3,21 +3,21 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-10707
+10732
 
 ## Oldest Item
-Stormcharged Relic of Sparks
+Ancient Core of Echoes
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.98
-- Average Volatility: 0.41
-- Average Durability: 43.97
+- Average Volatility: 0.4
+- Average Durability: 39.25
 
 ## Dominant Factions
-- STR: 0.6
+- STR: 0.7
 - Order: 0.5
-- Chaos: 0.3
+- Chaos: 0.4
 
 ## Extremes
 - Most Stable Item: Ancient Core of Echoes
@@ -25,8 +25,8 @@ Stormcharged Relic of Sparks
 
 ## Recent Events
 - STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick.
-- STABLE: 'Ancient Core of Echoes' did not mutate this tick.
-- MUTATED: 'Verdant Core of Decay' evolved to generation 13.
+- MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 4.
+- STABLE: 'Abyssal Bow of Blight' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 125
@@ -40,8 +40,8 @@ Stormcharged Relic of Sparks
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 10707
-- Successful Mutations: 4475
+- Mutations Attempted: 10732
+- Successful Mutations: 4487
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Stormcharged Relic of Sparks
 
 ## Economy
 - Total Currency: 234250
-- Currency per Tick (avg): 21.88
+- Currency per Tick (avg): 21.83
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
