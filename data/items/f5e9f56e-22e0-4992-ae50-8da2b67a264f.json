@@ -1,0 +1,22 @@
+{
+  "id": "f5e9f56e-22e0-4992-ae50-8da2b67a264f",
+  "name": "Ancient Bow of Grace",
+  "type": "Ranged",
+  "generation": 2,
+  "damage": 10.0,
+  "damage_type": [
+    "Physical",
+    "Piercing"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.5,
+  "rarity": 2.0,
+  "durability": 95.5,
+  "max_durability": 115.0,
+  "volatility": 0.11,
+  "resilience": 0.5,
+  "worth": 100,
+  "affinities": {}
+}

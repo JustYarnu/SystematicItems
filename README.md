@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-10807
+10832
 
 ## Oldest Item
 Echoing Blade of Ruins
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.03
-- Average Volatility: 0.36
-- Average Durability: 46.8
+- Average Rarity: 1.98
+- Average Volatility: 0.34
+- Average Durability: 53.7
 
 ## Dominant Factions
-- STR: 0.6
-- Order: 0.4
-- Stability: 0.4
+- Order: 0.3
+- Stability: 0.3
+- Scarceness: 0.2
 
 ## Extremes
-- Most Stable Item: Echoing Blade of Ruins
-- Most Volatile Item: Mundane Relic of Mirage
+- Most Stable Item: Ancient Bow of Grace
+- Most Volatile Item: Glowing Blade of Might
 
 ## Recent Events
-- MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 9.
-- MUTATED: 'Mundane Relic of Mirage' evolved to generation 26.
-- STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick.
+- STABLE: 'Echoing Blade of Ruins' did not mutate this tick.
+- STABLE: 'Abyssal Bow of Blight' did not mutate this tick.
+- MUTATED: 'Ancient Bow of Grace' evolved to generation 2.
 
 ## Lifecycle Stats
-- Items Created: 127
-- Items Archived: 117
-- Avg Lifespan (ticks): 38.7
+- Items Created: 128
+- Items Archived: 118
+- Avg Lifespan (ticks): 38.6
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,9 +40,9 @@ Echoing Blade of Ruins
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 10807
-- Successful Mutations: 4516
-- Failure Rate: 58.2%
+- Mutations Attempted: 10832
+- Successful Mutations: 4520
+- Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -56,8 +56,8 @@ Echoing Blade of Ruins
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 237950
-- Currency per Tick (avg): 22.02
+- Total Currency: 239450
+- Currency per Tick (avg): 22.11
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
