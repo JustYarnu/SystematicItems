@@ -1,23 +1,23 @@
 {
-  "currency": 232700,
-  "tick": 10657,
+  "currency": 234250,
+  "tick": 10682,
   "mutation_stats": {
-    "attempted": 10657,
-    "success": 4454
+    "attempted": 10682,
+    "success": 4464
   },
   "recent_events": [
-    "MUTATED: 'Glowing Blade of Might' evolved to generation 7.",
-    "MUTATED: 'Glowing Blade of Might' evolved to generation 8.",
-    "STABLE: 'Echoing Sigil of Sparks' did not mutate this tick.",
+    "MUTATED: 'Glowing Blade of Might' evolved to generation 11.",
+    "MUTATED: 'Ancient Core of Echoes' evolved to generation 3.",
+    "STABLE: 'Abyssal Bow of Blight' did not mutate this tick.",
+    "STABLE: 'Mundane Spear of Frost' did not mutate this tick.",
+    "MUTATED: 'Abyssal Bow of Blight' evolved to generation 10.",
+    "STABLE: 'Abyssal Bow of Blight' did not mutate this tick.",
+    "STABLE: 'Abyssal Bow of Blight' did not mutate this tick.",
     "STABLE: 'Mundane Relic of Mirage' did not mutate this tick.",
-    "MUTATED: 'Echoing Sigil of Sparks' evolved to generation 28.",
-    "MUTATED: 'Glowing Blade of Might' evolved to generation 9.",
-    "MUTATED: 'Mundane Rapier of Frost' evolved to generation 10.",
-    "STABLE: 'Glowing Blade of Might' did not mutate this tick.",
-    "STABLE: 'Vampiric Axe of Grace' did not mutate this tick.",
-    "MUTATED: 'Echoing Sigil of Sparks' evolved to generation 29."
+    "MUTATED: 'Mundane Rapier of Frost' evolved to generation 12.",
+    "MUTATED: 'Ancient Core of Echoes' evolved to generation 4."
   ],
-  "created": 124,
-  "avg_lifespan": 38.824561403508774,
-  "archived": 114
+  "created": 125,
+  "avg_lifespan": 38.73913043478261,
+  "archived": 115
 }

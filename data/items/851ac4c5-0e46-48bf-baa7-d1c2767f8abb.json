@@ -2,7 +2,7 @@
   "id": "851ac4c5-0e46-48bf-baa7-d1c2767f8abb",
   "name": "Mundane Spear of Frost",
   "type": "Polearm",
-  "generation": 9,
+  "generation": 10,
   "damage": 14.5,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.4000000000000004,
   "dex_mod": 1.0,
   "rarity": 1,
-  "durability": 38.370000000000005,
+  "durability": 33.77,
   "max_durability": 125.0,
-  "volatility": 0.39000000000000035,
+  "volatility": 0.41000000000000036,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {}

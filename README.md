@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-10657
+10682
 
 ## Oldest Item
-Ancient Core of Echoes
+Stormcharged Relic of Sparks
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.88
-- Average Volatility: 0.37
-- Average Durability: 42.36
+- Average Rarity: 1.68
+- Average Volatility: 0.39
+- Average Durability: 48.16
 
 ## Dominant Factions
-- Order: 0.7
 - STR: 0.6
+- Order: 0.5
 - Chaos: 0.3
 
 ## Extremes
 - Most Stable Item: Ancient Core of Echoes
-- Most Volatile Item: Corrosive Focus of Flame
+- Most Volatile Item: Stormcharged Relic of Sparks
 
 ## Recent Events
-- STABLE: 'Glowing Blade of Might' did not mutate this tick.
-- STABLE: 'Vampiric Axe of Grace' did not mutate this tick.
-- MUTATED: 'Echoing Sigil of Sparks' evolved to generation 29.
+- STABLE: 'Mundane Relic of Mirage' did not mutate this tick.
+- MUTATED: 'Mundane Rapier of Frost' evolved to generation 12.
+- MUTATED: 'Ancient Core of Echoes' evolved to generation 4.
 
 ## Lifecycle Stats
-- Items Created: 124
-- Items Archived: 114
-- Avg Lifespan (ticks): 38.8
+- Items Created: 125
+- Items Archived: 115
+- Avg Lifespan (ticks): 38.7
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Ancient Core of Echoes
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 10657
-- Successful Mutations: 4454
+- Mutations Attempted: 10682
+- Successful Mutations: 4464
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 5
-- Uncommon: 5
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Ancient Core of Echoes
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 232700
-- Currency per Tick (avg): 21.84
+- Total Currency: 234250
+- Currency per Tick (avg): 21.93
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
