@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-10882
+10907
 
 ## Oldest Item
 Zealous Spear of Frost
@@ -11,8 +11,8 @@ Zealous Spear of Frost
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.88
-- Average Volatility: 0.34
-- Average Durability: 56.89
+- Average Volatility: 0.35
+- Average Durability: 53.35
 
 ## Dominant Factions
 - Order: 0.4
@@ -24,9 +24,9 @@ Zealous Spear of Frost
 - Most Volatile Item: Mundane Spear of Frost
 
 ## Recent Events
+- MUTATED: 'Echoing Blade of Ruins' evolved to generation 4.
+- MUTATED: 'Zealous Spear of Frost' evolved to generation 3.
 - STABLE: 'Ancient Core of Echoes' did not mutate this tick.
-- STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick.
-- STABLE: 'Zealous Spear of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 129
@@ -40,9 +40,9 @@ Zealous Spear of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 10882
-- Successful Mutations: 4544
-- Failure Rate: 58.2%
+- Mutations Attempted: 10907
+- Successful Mutations: 4552
+- Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Zealous Spear of Frost
 
 ## Economy
 - Total Currency: 240500
-- Currency per Tick (avg): 22.1
+- Currency per Tick (avg): 22.05
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
