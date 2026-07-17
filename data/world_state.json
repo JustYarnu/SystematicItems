@@ -1,21 +1,21 @@
 {
   "currency": 239450,
-  "tick": 10832,
+  "tick": 10857,
   "mutation_stats": {
-    "attempted": 10832,
-    "success": 4520
+    "attempted": 10857,
+    "success": 4533
   },
   "recent_events": [
-    "REPLACED WITH: 'Ancient Bow of Grace' (f5e9f56e-22e0-4992-ae50-8da2b67a264f)",
-    "STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick.",
-    "STABLE: 'Ancient Bow of Grace' did not mutate this tick.",
+    "MUTATED: 'Ancient Bow of Grace' evolved to generation 3.",
+    "MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 13.",
+    "STABLE: 'Abyssal Bow of Blight' did not mutate this tick.",
+    "STABLE: 'Mundane Spear of Frost' did not mutate this tick.",
     "STABLE: 'Glowing Blade of Might' did not mutate this tick.",
-    "STABLE: 'Searing Sigil of Torment' did not mutate this tick.",
-    "STABLE: 'Searing Sigil of Torment' did not mutate this tick.",
-    "STABLE: 'Abyssal Bow of Blight' did not mutate this tick.",
-    "STABLE: 'Echoing Blade of Ruins' did not mutate this tick.",
-    "STABLE: 'Abyssal Bow of Blight' did not mutate this tick.",
-    "MUTATED: 'Ancient Bow of Grace' evolved to generation 2."
+    "MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 14.",
+    "MUTATED: 'Mundane Rapier of Frost' evolved to generation 16.",
+    "MUTATED: 'Glowing Blade of Might' evolved to generation 15.",
+    "MUTATED: 'Abyssal Bow of Blight' evolved to generation 17.",
+    "STABLE: 'Verdant Core of Decay' did not mutate this tick."
   ],
   "created": 128,
   "avg_lifespan": 38.58474576271186,
