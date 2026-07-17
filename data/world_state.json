@@ -1,23 +1,23 @@
 {
-  "currency": 235650,
-  "tick": 10782,
+  "currency": 237950,
+  "tick": 10807,
   "mutation_stats": {
-    "attempted": 10782,
-    "success": 4504
+    "attempted": 10807,
+    "success": 4516
   },
   "recent_events": [
-    "MUTATED: 'Mundane Spear of Frost' evolved to generation 14.",
-    "STABLE: 'Vampiric Axe of Grace' did not mutate this tick.",
-    "STABLE: 'Vampiric Axe of Grace' did not mutate this tick.",
-    "MUTATED: 'Abyssal Bow of Blight' evolved to generation 15.",
-    "STABLE: 'Mundane Spear of Frost' did not mutate this tick.",
-    "STABLE: 'Mundane Spear of Frost' did not mutate this tick.",
-    "STABLE: 'Vampiric Axe of Grace' did not mutate this tick.",
-    "MUTATED: 'Verdant Core of Decay' evolved to generation 17.",
-    "STABLE: 'Echoing Blade of Ruins' did not mutate this tick.",
-    "MUTATED: 'Abyssal Bow of Blight' evolved to generation 16."
+    "STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick.",
+    "MUTATED: 'Mundane Relic of Mirage' evolved to generation 25.",
+    "MUTATED: 'Glowing Blade of Might' evolved to generation 12.",
+    "MUTATED: 'Verdant Core of Decay' evolved to generation 19.",
+    "STABLE: 'Mundane Rapier of Frost' did not mutate this tick.",
+    "STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick.",
+    "MUTATED: 'Ancient Core of Echoes' evolved to generation 6.",
+    "MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 9.",
+    "MUTATED: 'Mundane Relic of Mirage' evolved to generation 26.",
+    "STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick."
   ],
-  "created": 126,
-  "avg_lifespan": 38.62931034482759,
-  "archived": 116
+  "created": 127,
+  "avg_lifespan": 38.675213675213676,
+  "archived": 117
 }

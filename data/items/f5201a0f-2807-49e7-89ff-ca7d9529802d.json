@@ -2,7 +2,7 @@
   "id": "f5201a0f-2807-49e7-89ff-ca7d9529802d",
   "name": "Verdant Core of Decay",
   "type": "Artifact",
-  "generation": 17,
+  "generation": 19,
   "damage": 9.5,
   "damage_type": [
     "Physical",
@@ -13,14 +13,14 @@
   "str_mod": 1.1,
   "dex_mod": 1.35,
   "rarity": 2,
-  "durability": 24.350000000000005,
+  "durability": 17.350000000000005,
   "max_durability": 117.0,
-  "volatility": 0.39000000000000024,
+  "volatility": 0.34000000000000025,
   "resilience": 0.7000000000000001,
   "worth": 100,
   "affinities": {
     "Order": 0.2,
-    "Stability": 0.1,
+    "Stability": 0.2,
     "Chaos": 0.1,
     "Scarceness": 0.1
   }
