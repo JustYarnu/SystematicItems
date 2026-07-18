@@ -2,7 +2,7 @@
   "id": "9ebc51b6-e1d2-441a-93f1-8b656a635697",
   "name": "Searing Sigil of Torment",
   "type": "Focus",
-  "generation": 13,
+  "generation": 14,
   "damage": 40.5,
   "damage_type": [
     "Physical",
@@ -15,9 +15,9 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 1.0,
   "rarity": 2.5,
-  "durability": 52.07000000000001,
-  "max_durability": 92.0,
-  "volatility": 0.5900000000000001,
+  "durability": 46.720000000000006,
+  "max_durability": 94.0,
+  "volatility": 0.6000000000000001,
   "resilience": 0.5299999999999999,
   "worth": 100,
   "affinities": {
