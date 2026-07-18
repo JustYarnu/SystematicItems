@@ -2,7 +2,7 @@
   "id": "9201b44e-e571-4a8b-a3bb-8529d8564083",
   "name": "Mundane Rapier of Frost",
   "type": "Generic",
-  "generation": 22,
+  "generation": 23,
   "damage": 18.0,
   "damage_type": [
     "Physical",
@@ -14,12 +14,13 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.3000000000000003,
   "rarity": 3,
-  "durability": 11.440977500432684,
+  "durability": 6.440977500432684,
   "max_durability": 135.0,
-  "volatility": 0.3200000000000004,
+  "volatility": 0.3500000000000004,
   "resilience": 0.8292481250360577,
   "worth": 100,
   "affinities": {
-    "Order": 0.1
+    "Order": 0.1,
+    "Chaos": 0.1
   }
 }

@@ -1,21 +1,21 @@
 {
   "currency": 243100,
-  "tick": 11132,
+  "tick": 11157,
   "mutation_stats": {
-    "attempted": 11132,
-    "success": 4635
+    "attempted": 11157,
+    "success": 4645
   },
   "recent_events": [
-    "STABLE: 'Mundane Rapier of Frost' did not mutate this tick.",
-    "STABLE: 'Ancient Bow of Grace' did not mutate this tick.",
-    "MUTATED: 'Glacial Edge of the Deep' evolved to generation 5.",
-    "STABLE: 'Echoing Blade of Ruins' did not mutate this tick.",
-    "STABLE: 'Ancient Bow of Grace' did not mutate this tick.",
-    "MUTATED: 'Glowing Blade of Might' evolved to generation 28.",
-    "MUTATED: 'Nimble Blade of the Glacier' evolved to generation 5.",
-    "STABLE: 'Glacial Edge of the Deep' did not mutate this tick.",
     "STABLE: 'Zealous Spear of Frost' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of Frost' evolved to generation 22."
+    "MUTATED: 'Glowing Blade of Might' evolved to generation 30.",
+    "STABLE: 'Glowing Blade of Might' did not mutate this tick.",
+    "STABLE: 'Echoing Blade of Ruins' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Frost' did not mutate this tick.",
+    "STABLE: 'Nimble Blade of the Glacier' did not mutate this tick.",
+    "STABLE: 'Glacial Edge of the Deep' did not mutate this tick.",
+    "STABLE: 'Ancient Core of Echoes' did not mutate this tick.",
+    "STABLE: 'Ancient Bow of Grace' did not mutate this tick.",
+    "MUTATED: 'Ancient Core of Echoes' evolved to generation 19."
   ],
   "created": 131,
   "avg_lifespan": 38.18181818181818,

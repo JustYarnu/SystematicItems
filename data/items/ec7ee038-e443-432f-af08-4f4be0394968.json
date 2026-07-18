@@ -2,7 +2,7 @@
   "id": "ec7ee038-e443-432f-af08-4f4be0394968",
   "name": "Ancient Core of Echoes",
   "type": "Artifact",
-  "generation": 18,
+  "generation": 19,
   "damage": 24.5,
   "damage_type": [
     "Physical"
@@ -12,9 +12,9 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 1.05,
   "rarity": 2.3,
-  "durability": 22.349999999999987,
+  "durability": 34.34999999999999,
   "max_durability": 130.0,
-  "volatility": 0.5300000000000002,
+  "volatility": 0.5400000000000003,
   "resilience": 0.5299999999999999,
   "worth": 100,
   "affinities": {
