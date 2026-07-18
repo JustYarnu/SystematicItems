@@ -1,20 +1,20 @@
 {
   "currency": 244450,
-  "tick": 11207,
+  "tick": 11232,
   "mutation_stats": {
-    "attempted": 11207,
-    "success": 4663
+    "attempted": 11232,
+    "success": 4678
   },
   "recent_events": [
-    "STABLE: 'Dread Shard of Blight' did not mutate this tick.",
-    "STABLE: 'Searing Sigil of Torment' did not mutate this tick.",
-    "STABLE: 'Echoing Blade of Ruins' did not mutate this tick.",
-    "STABLE: 'Zealous Spear of Frost' did not mutate this tick.",
+    "MUTATED: 'Zealous Spear of Frost' evolved to generation 14.",
+    "MUTATED: 'Glacial Edge of the Deep' evolved to generation 6.",
     "STABLE: 'Glacial Edge of the Deep' did not mutate this tick.",
-    "MUTATED: 'Echoing Blade of Ruins' evolved to generation 13.",
+    "MUTATED: 'Echoing Blade of Ruins' evolved to generation 14.",
+    "STABLE: 'Glacial Edge of the Deep' did not mutate this tick.",
+    "MUTATED: 'Ancient Bow of Grace' evolved to generation 12.",
     "STABLE: 'Dread Shard of Blight' did not mutate this tick.",
-    "STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick.",
-    "STABLE: 'Glowing Blade of Might' did not mutate this tick.",
+    "MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 28.",
+    "MUTATED: 'Ancient Bow of Grace' evolved to generation 13.",
     "STABLE: 'Glacial Edge of the Deep' did not mutate this tick."
   ],
   "created": 132,
