@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-11032
+11057
 
 ## Oldest Item
 Nimble Blade of the Glacier
@@ -11,8 +11,8 @@ Nimble Blade of the Glacier
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.68
-- Average Volatility: 0.35
-- Average Durability: 60.73
+- Average Volatility: 0.38
+- Average Durability: 56.39
 
 ## Dominant Factions
 - STR: 0.3
@@ -24,9 +24,9 @@ Nimble Blade of the Glacier
 - Most Volatile Item: Searing Sigil of Torment
 
 ## Recent Events
-- STABLE: 'Echoing Blade of Ruins' did not mutate this tick.
-- MUTATED: 'Ancient Bow of Grace' evolved to generation 4.
-- MUTATED: 'Zealous Spear of Frost' evolved to generation 10.
+- STABLE: 'Nimble Blade of the Glacier' did not mutate this tick.
+- STABLE: 'Ancient Bow of Grace' did not mutate this tick.
+- STABLE: 'Zealous Spear of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 131
@@ -40,9 +40,9 @@ Nimble Blade of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 11032
-- Successful Mutations: 4598
-- Failure Rate: 58.3%
+- Mutations Attempted: 11057
+- Successful Mutations: 4605
+- Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Nimble Blade of the Glacier
 
 ## Economy
 - Total Currency: 243100
-- Currency per Tick (avg): 22.04
+- Currency per Tick (avg): 21.99
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

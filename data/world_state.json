@@ -1,21 +1,21 @@
 {
   "currency": 243100,
-  "tick": 11032,
+  "tick": 11057,
   "mutation_stats": {
-    "attempted": 11032,
-    "success": 4598
+    "attempted": 11057,
+    "success": 4605
   },
   "recent_events": [
+    "MUTATED: 'Ancient Bow of Grace' evolved to generation 5.",
     "STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick.",
-    "STABLE: 'Ancient Core of Echoes' did not mutate this tick.",
+    "STABLE: 'Ancient Bow of Grace' did not mutate this tick.",
+    "MUTATED: 'Glacial Edge of the Deep' evolved to generation 4.",
+    "MUTATED: 'Nimble Blade of the Glacier' evolved to generation 3.",
+    "STABLE: 'Glacial Edge of the Deep' did not mutate this tick.",
+    "STABLE: 'Zealous Spear of Frost' did not mutate this tick.",
     "STABLE: 'Nimble Blade of the Glacier' did not mutate this tick.",
-    "STABLE: 'Nimble Blade of the Glacier' did not mutate this tick.",
-    "STABLE: 'Glowing Blade of Might' did not mutate this tick.",
-    "MUTATED: 'Ancient Core of Echoes' evolved to generation 16.",
-    "STABLE: 'Nimble Blade of the Glacier' did not mutate this tick.",
-    "STABLE: 'Echoing Blade of Ruins' did not mutate this tick.",
-    "MUTATED: 'Ancient Bow of Grace' evolved to generation 4.",
-    "MUTATED: 'Zealous Spear of Frost' evolved to generation 10."
+    "STABLE: 'Ancient Bow of Grace' did not mutate this tick.",
+    "STABLE: 'Zealous Spear of Frost' did not mutate this tick."
   ],
   "created": 131,
   "avg_lifespan": 38.18181818181818,
