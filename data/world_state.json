@@ -1,23 +1,23 @@
 {
-  "currency": 241500,
-  "tick": 10957,
+  "currency": 243100,
+  "tick": 10982,
   "mutation_stats": {
-    "attempted": 10957,
-    "success": 4570
+    "attempted": 10982,
+    "success": 4582
   },
   "recent_events": [
+    "MUTATED: 'Zealous Spear of Frost' evolved to generation 7.",
+    "MUTATED: 'Searing Sigil of Torment' evolved to generation 6.",
+    "STABLE: 'Glowing Blade of Might' did not mutate this tick.",
+    "STABLE: 'Glacial Edge of the Deep' did not mutate this tick.",
+    "MUTATED: 'Glowing Blade of Might' evolved to generation 21.",
+    "MUTATED: 'Ancient Core of Echoes' evolved to generation 11.",
+    "MUTATED: 'Ancient Core of Echoes' evolved to generation 12.",
     "STABLE: 'Mundane Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Verdant Core of Decay' evolved to generation 27.",
-    "MUTATED: 'Searing Sigil of Torment' evolved to generation 4.",
-    "STABLE: 'Mundane Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Ancient Core of Echoes' evolved to generation 8.",
-    "STABLE: 'Echoing Blade of Ruins' did not mutate this tick.",
     "STABLE: 'Ancient Bow of Grace' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Ancient Core of Echoes' evolved to generation 9.",
-    "MUTATED: 'Mundane Rapier of Frost' evolved to generation 19."
+    "STABLE: 'Searing Sigil of Torment' did not mutate this tick."
   ],
-  "created": 130,
-  "avg_lifespan": 38.25,
-  "archived": 120
+  "created": 131,
+  "avg_lifespan": 38.18181818181818,
+  "archived": 121
 }

@@ -1,22 +1,22 @@
 {
-  "id": "0ec4e5fc-c3bb-4a5d-a7a1-522a35be4375",
-  "name": "Glacial Edge of the Deep",
+  "id": "a3d1950d-c8e0-4b99-8c3b-b23e1e6f26a6",
+  "name": "Nimble Blade of the Glacier",
   "type": "Sword",
-  "generation": 2,
+  "generation": 1,
   "damage": 10.0,
   "damage_type": [
     "Physical",
-    "Cold",
-    "Water"
+    "Slashing",
+    "Cold"
   ],
   "crit_damage": 2,
   "crit_rate": 0.01,
-  "str_mod": 1.0,
-  "dex_mod": 1.1,
+  "str_mod": 1.05,
+  "dex_mod": 1.3,
   "rarity": 1,
-  "durability": 92.0,
+  "durability": 100.0,
   "max_durability": 125.0,
-  "volatility": 0.06,
+  "volatility": 0.1,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {}
