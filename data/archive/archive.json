@@ -3358,5 +3358,56 @@
       "STR": 0.1,
       "Order": 0.1
     }
+  },
+  {
+    "id": "ec7ee038-e443-432f-af08-4f4be0394968",
+    "name": "Ancient Core of Echoes",
+    "type": "Artifact",
+    "generation": 28,
+    "damage": 31.0,
+    "damage_type": [
+      "Physical"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.4000000000000004,
+    "dex_mod": 1.1500000000000001,
+    "rarity": 3.3,
+    "durability": -0.5800000000000143,
+    "max_durability": 120.0,
+    "volatility": 0.6361233012235545,
+    "resilience": 0.5299999999999999,
+    "worth": 1500,
+    "affinities": {
+      "Restoration": 0.3,
+      "Chaos": 0.1,
+      "STR": 0.1,
+      "Order": 0.1
+    }
+  },
+  {
+    "id": "88b0e7a6-9db6-4745-9249-af1c409e2daa",
+    "name": "Glowing Blade of Might",
+    "type": "Sword",
+    "generation": 35,
+    "damage": 39.5,
+    "damage_type": [
+      "Physical",
+      "Slashing"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.01,
+    "str_mod": 2.0000000000000004,
+    "dex_mod": 1.05,
+    "rarity": 1.5,
+    "durability": -0.06481187381010578,
+    "max_durability": 117.0,
+    "volatility": 0.5992481250360578,
+    "resilience": 0.7792481250360578,
+    "worth": 1850,
+    "affinities": {
+      "Chaos": 0.2,
+      "STR": 0.3
+    }
   }
 ]

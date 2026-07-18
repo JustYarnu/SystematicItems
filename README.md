@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-11307
+11332
 
 ## Oldest Item
-Broken Focus of the Void
+Silent Blade of the Glacier
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.93
-- Average Volatility: 0.5
-- Average Durability: 43.47
+- Average Rarity: 1.65
+- Average Volatility: 0.44
+- Average Durability: 56.32
 
 ## Dominant Factions
-- Chaos: 0.7
-- STR: 0.4
-- Restoration: 0.3
+- Chaos: 0.4
+- DEX: 0.2
+- Scarceness: 0.2
 
 ## Extremes
-- Most Stable Item: Glacial Edge of the Deep
-- Most Volatile Item: Ancient Core of Echoes
+- Most Stable Item: Silent Blade of the Glacier
+- Most Volatile Item: Broken Focus of the Void
 
 ## Recent Events
-- STABLE: 'Dread Shard of Blight' did not mutate this tick.
-- STABLE: 'Broken Focus of the Void' did not mutate this tick.
-- MUTATED: 'Echoing Blade of Ruins' evolved to generation 16.
+- STABLE: 'Glowing Blade of Might' did not mutate this tick.
+- REPLACED WITH: 'Silent Blade of the Glacier' (c654a887-9e7c-407a-941a-8dd007e67c3f)
+- MUTATED: 'Unstable Axe of Iron' evolved to generation 2.
 
 ## Lifecycle Stats
-- Items Created: 133
-- Items Archived: 123
-- Avg Lifespan (ticks): 38.0
+- Items Created: 135
+- Items Archived: 125
+- Avg Lifespan (ticks): 37.9
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Broken Focus of the Void
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 11307
-- Successful Mutations: 4708
-- Failure Rate: 58.4%
+- Mutations Attempted: 11332
+- Successful Mutations: 4721
+- Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 5
-- Uncommon: 5
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Broken Focus of the Void
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 246050
-- Currency per Tick (avg): 21.76
+- Total Currency: 249400
+- Currency per Tick (avg): 22.01
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
