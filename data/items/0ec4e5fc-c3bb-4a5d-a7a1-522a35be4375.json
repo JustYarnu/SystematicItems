@@ -2,7 +2,7 @@
   "id": "0ec4e5fc-c3bb-4a5d-a7a1-522a35be4375",
   "name": "Glacial Edge of the Deep",
   "type": "Sword",
-  "generation": 2,
+  "generation": 3,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -10,13 +10,13 @@
     "Water"
   ],
   "crit_damage": 2,
-  "crit_rate": 0.01,
+  "crit_rate": 0.060000000000000005,
   "str_mod": 1.0,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 92.0,
+  "durability": 87.0,
   "max_durability": 125.0,
-  "volatility": 0.06,
+  "volatility": 0.07999999999999999,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {}
