@@ -3,20 +3,20 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-11282
+11307
 
 ## Oldest Item
-Glacial Edge of the Deep
+Broken Focus of the Void
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.88
-- Average Volatility: 0.49
-- Average Durability: 37.07
+- Average Rarity: 1.93
+- Average Volatility: 0.5
+- Average Durability: 43.47
 
 ## Dominant Factions
-- Chaos: 0.6
-- STR: 0.5
+- Chaos: 0.7
+- STR: 0.4
 - Restoration: 0.3
 
 ## Extremes
@@ -24,14 +24,14 @@ Glacial Edge of the Deep
 - Most Volatile Item: Ancient Core of Echoes
 
 ## Recent Events
-- STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick.
-- MUTATED: 'Dread Shard of Blight' evolved to generation 7.
-- STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick.
+- STABLE: 'Dread Shard of Blight' did not mutate this tick.
+- STABLE: 'Broken Focus of the Void' did not mutate this tick.
+- MUTATED: 'Echoing Blade of Ruins' evolved to generation 16.
 
 ## Lifecycle Stats
-- Items Created: 132
-- Items Archived: 122
-- Avg Lifespan (ticks): 38.1
+- Items Created: 133
+- Items Archived: 123
+- Avg Lifespan (ticks): 38.0
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,9 +40,9 @@ Glacial Edge of the Deep
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 11282
-- Successful Mutations: 4699
-- Failure Rate: 58.3%
+- Mutations Attempted: 11307
+- Successful Mutations: 4708
+- Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -56,8 +56,8 @@ Glacial Edge of the Deep
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 244450
-- Currency per Tick (avg): 21.67
+- Total Currency: 246050
+- Currency per Tick (avg): 21.76
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

@@ -3330,5 +3330,33 @@
       "Order": 0.1,
       "Chaos": 0.1
     }
+  },
+  {
+    "id": "9ebc51b6-e1d2-441a-93f1-8b656a635697",
+    "name": "Searing Sigil of Torment",
+    "type": "Focus",
+    "generation": 30,
+    "damage": 43.5,
+    "damage_type": [
+      "Physical",
+      "Fire",
+      "Magic",
+      "Shadow"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.01,
+    "str_mod": 1.5000000000000004,
+    "dex_mod": 1.2000000000000002,
+    "rarity": 2.5,
+    "durability": -0.3899999999999886,
+    "max_durability": 113.0,
+    "volatility": 0.6260964047443681,
+    "resilience": 0.58,
+    "worth": 1600,
+    "affinities": {
+      "Stability": 0.3,
+      "STR": 0.1,
+      "Order": 0.1
+    }
   }
 ]

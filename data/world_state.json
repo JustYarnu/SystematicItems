@@ -1,23 +1,23 @@
 {
-  "currency": 244450,
-  "tick": 11282,
+  "currency": 246050,
+  "tick": 11307,
   "mutation_stats": {
-    "attempted": 11282,
-    "success": 4699
+    "attempted": 11307,
+    "success": 4708
   },
   "recent_events": [
-    "STABLE: 'Nimble Blade of the Glacier' did not mutate this tick.",
-    "STABLE: 'Echoing Blade of Ruins' did not mutate this tick.",
-    "MUTATED: 'Nimble Blade of the Glacier' evolved to generation 8.",
-    "MUTATED: 'Searing Sigil of Torment' evolved to generation 29.",
+    "MUTATED: 'Glowing Blade of Might' evolved to generation 35.",
+    "MUTATED: 'Zealous Spear of Frost' evolved to generation 20.",
+    "STABLE: 'Ancient Bow of Grace' did not mutate this tick.",
+    "MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 32.",
+    "STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick.",
     "STABLE: 'Zealous Spear of Frost' did not mutate this tick.",
     "STABLE: 'Ancient Bow of Grace' did not mutate this tick.",
-    "STABLE: 'Echoing Blade of Ruins' did not mutate this tick.",
-    "STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick.",
-    "MUTATED: 'Dread Shard of Blight' evolved to generation 7.",
-    "STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick."
+    "STABLE: 'Dread Shard of Blight' did not mutate this tick.",
+    "STABLE: 'Broken Focus of the Void' did not mutate this tick.",
+    "MUTATED: 'Echoing Blade of Ruins' evolved to generation 16."
   ],
-  "created": 132,
-  "avg_lifespan": 38.07377049180328,
-  "archived": 122
+  "created": 133,
+  "avg_lifespan": 38.00813008130081,
+  "archived": 123
 }
