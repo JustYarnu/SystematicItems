@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-11182
+11207
 
 ## Oldest Item
 Dread Shard of Blight
@@ -11,8 +11,8 @@ Dread Shard of Blight
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.68
-- Average Volatility: 0.43
-- Average Durability: 51.37
+- Average Volatility: 0.46
+- Average Durability: 48.55
 
 ## Dominant Factions
 - Chaos: 0.5
@@ -24,9 +24,9 @@ Dread Shard of Blight
 - Most Volatile Item: Searing Sigil of Torment
 
 ## Recent Events
-- MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 26.
-- STABLE: 'Ancient Core of Echoes' did not mutate this tick.
+- STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick.
 - STABLE: 'Glowing Blade of Might' did not mutate this tick.
+- STABLE: 'Glacial Edge of the Deep' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 132
@@ -40,9 +40,9 @@ Dread Shard of Blight
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 11182
-- Successful Mutations: 4658
-- Failure Rate: 58.3%
+- Mutations Attempted: 11207
+- Successful Mutations: 4663
+- Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Dread Shard of Blight
 
 ## Economy
 - Total Currency: 244450
-- Currency per Tick (avg): 21.86
+- Currency per Tick (avg): 21.81
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
