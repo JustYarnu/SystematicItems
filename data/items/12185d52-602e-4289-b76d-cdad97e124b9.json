@@ -1,0 +1,23 @@
+{
+  "id": "12185d52-602e-4289-b76d-cdad97e124b9",
+  "name": "Dread Shard of Blight",
+  "type": "Dagger",
+  "generation": 2,
+  "damage": 17.0,
+  "damage_type": [
+    "Physical",
+    "Dark",
+    "Slashing"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.2,
+  "dex_mod": 1.0,
+  "rarity": 1,
+  "durability": 76.75,
+  "max_durability": 95.0,
+  "volatility": 0.38000000000000006,
+  "resilience": 0.35000000000000003,
+  "worth": 100,
+  "affinities": {}
+}
