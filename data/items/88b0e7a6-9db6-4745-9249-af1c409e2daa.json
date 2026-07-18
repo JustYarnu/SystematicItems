@@ -2,7 +2,7 @@
   "id": "88b0e7a6-9db6-4745-9249-af1c409e2daa",
   "name": "Glowing Blade of Might",
   "type": "Sword",
-  "generation": 22,
+  "generation": 24,
   "damage": 31.5,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.8000000000000005,
   "dex_mod": 0.9500000000000001,
   "rarity": 1.5,
-  "durability": 20.153985000288447,
-  "max_durability": 112.0,
-  "volatility": 0.49000000000000027,
+  "durability": 20.641729375396622,
+  "max_durability": 117.0,
+  "volatility": 0.5000000000000002,
   "resilience": 0.7792481250360578,
   "worth": 100,
   "affinities": {
