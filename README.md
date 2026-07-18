@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-11257
+11282
 
 ## Oldest Item
-Dread Shard of Blight
+Glacial Edge of the Deep
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.88
-- Average Volatility: 0.48
-- Average Durability: 39.51
+- Average Volatility: 0.49
+- Average Durability: 37.07
 
 ## Dominant Factions
-- Chaos: 0.5
+- Chaos: 0.6
 - STR: 0.5
 - Restoration: 0.3
 
@@ -25,8 +25,8 @@ Dread Shard of Blight
 
 ## Recent Events
 - STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick.
-- STABLE: 'Glowing Blade of Might' did not mutate this tick.
-- MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 30.
+- MUTATED: 'Dread Shard of Blight' evolved to generation 7.
+- STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 132
@@ -40,8 +40,8 @@ Dread Shard of Blight
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 11257
-- Successful Mutations: 4689
+- Mutations Attempted: 11282
+- Successful Mutations: 4699
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Dread Shard of Blight
 
 ## Economy
 - Total Currency: 244450
-- Currency per Tick (avg): 21.72
+- Currency per Tick (avg): 21.67
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
