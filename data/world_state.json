@@ -1,21 +1,21 @@
 {
   "currency": 250400,
-  "tick": 11482,
+  "tick": 11507,
   "mutation_stats": {
-    "attempted": 11482,
-    "success": 4784
+    "attempted": 11507,
+    "success": 4800
   },
   "recent_events": [
+    "MUTATED: 'Glacial Edge of the Deep' evolved to generation 14.",
+    "MUTATED: 'Unstable Axe of Iron' evolved to generation 11.",
+    "STABLE: 'Silent Blade of the Glacier' did not mutate this tick.",
+    "STABLE: 'Ancient Bow of Grace' did not mutate this tick.",
+    "MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 42.",
+    "MUTATED: 'Zealous Spear of Frost' evolved to generation 31.",
+    "MUTATED: 'Brittle Edge of the Glacier' evolved to generation 7.",
+    "MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 43.",
     "STABLE: 'Brittle Edge of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Brittle Edge of the Glacier' evolved to generation 5.",
-    "STABLE: 'Brittle Edge of the Glacier' did not mutate this tick.",
-    "STABLE: 'Unstable Axe of Iron' did not mutate this tick.",
-    "MUTATED: 'Zealous Spear of Frost' evolved to generation 29.",
-    "STABLE: 'Glacial Edge of the Deep' did not mutate this tick.",
-    "STABLE: 'Brittle Edge of the Glacier' did not mutate this tick.",
-    "STABLE: 'Nimble Blade of the Glacier' did not mutate this tick.",
-    "STABLE: 'Brittle Edge of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Silent Blade of the Glacier' evolved to generation 4."
+    "MUTATED: 'Nimble Blade of the Glacier' evolved to generation 17."
   ],
   "created": 136,
   "avg_lifespan": 37.74603174603175,
