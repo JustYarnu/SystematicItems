@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-11407
+11432
 
 ## Oldest Item
 Silent Blade of the Glacier
@@ -11,8 +11,8 @@ Silent Blade of the Glacier
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.75
-- Average Volatility: 0.43
-- Average Durability: 56.17
+- Average Volatility: 0.44
+- Average Durability: 54.89
 
 ## Dominant Factions
 - DEX: 0.4
@@ -24,9 +24,9 @@ Silent Blade of the Glacier
 - Most Volatile Item: Stormcharged Relic of Sparks
 
 ## Recent Events
-- STABLE: 'Zealous Spear of Frost' did not mutate this tick.
-- STABLE: 'Brittle Edge of the Glacier' did not mutate this tick.
-- MUTATED: 'Ancient Bow of Grace' evolved to generation 20.
+- STABLE: 'Glacial Edge of the Deep' did not mutate this tick.
+- MUTATED: 'Broken Focus of the Void' evolved to generation 9.
+- STABLE: 'Broken Focus of the Void' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 136
@@ -40,8 +40,8 @@ Silent Blade of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 11407
-- Successful Mutations: 4751
+- Mutations Attempted: 11432
+- Successful Mutations: 4761
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Silent Blade of the Glacier
 
 ## Economy
 - Total Currency: 250400
-- Currency per Tick (avg): 21.95
+- Currency per Tick (avg): 21.9
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
