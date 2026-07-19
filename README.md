@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-11357
+11382
 
 ## Oldest Item
-Brittle Edge of the Glacier
+Silent Blade of the Glacier
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.65
 - Average Volatility: 0.41
-- Average Durability: 60.45
+- Average Durability: 59.92
 
 ## Dominant Factions
-- DEX: 0.3
+- DEX: 0.4
 - Chaos: 0.3
 - Scarceness: 0.2
 
 ## Extremes
-- Most Stable Item: Silent Blade of the Glacier
+- Most Stable Item: Brittle Edge of the Glacier
 - Most Volatile Item: Stormcharged Relic of Sparks
 
 ## Recent Events
-- STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick.
 - STABLE: 'Silent Blade of the Glacier' did not mutate this tick.
-- STABLE: 'Nimble Blade of the Glacier' did not mutate this tick.
+- MUTATED: 'Nimble Blade of the Glacier' evolved to generation 13.
+- MUTATED: 'Glacial Edge of the Deep' evolved to generation 9.
 
 ## Lifecycle Stats
 - Items Created: 136
@@ -40,8 +40,8 @@ Brittle Edge of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 11357
-- Successful Mutations: 4731
+- Mutations Attempted: 11382
+- Successful Mutations: 4742
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Brittle Edge of the Glacier
 
 ## Economy
 - Total Currency: 250400
-- Currency per Tick (avg): 22.05
+- Currency per Tick (avg): 22.0
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
