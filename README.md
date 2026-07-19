@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-11607
+11632
 
 ## Oldest Item
 Mundane Bow of Blight
@@ -12,21 +12,21 @@ Mundane Bow of Blight
 - Active Items: 10
 - Average Rarity: 1.95
 - Average Volatility: 0.47
-- Average Durability: 43.5
+- Average Durability: 39.7
 
 ## Dominant Factions
 - Chaos: 0.7
+- Stability: 0.5
 - Scarceness: 0.5
-- STR: 0.5
 
 ## Extremes
 - Most Stable Item: Mundane Bow of Blight
 - Most Volatile Item: Stormcharged Relic of Sparks
 
 ## Recent Events
-- MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 50.
+- MUTATED: 'Brittle Edge of the Glacier' evolved to generation 11.
+- MUTATED: 'Glacial Edge of the Deep' evolved to generation 16.
 - STABLE: 'Zealous Spear of Frost' did not mutate this tick.
-- STABLE: 'Broken Focus of the Void' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 137
@@ -40,8 +40,8 @@ Mundane Bow of Blight
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 11607
-- Successful Mutations: 4840
+- Mutations Attempted: 11632
+- Successful Mutations: 4852
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Bow of Blight
 
 ## Economy
 - Total Currency: 251450
-- Currency per Tick (avg): 21.66
+- Currency per Tick (avg): 21.62
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
