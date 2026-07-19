@@ -1,0 +1,23 @@
+{
+  "id": "51bbaa92-a9a3-488a-8d84-d13195f23a88",
+  "name": "Mundane Bow of Blight",
+  "type": "Ranged",
+  "generation": 1,
+  "damage": 17.0,
+  "damage_type": [
+    "Physical",
+    "Piercing",
+    "Dark"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.15,
+  "rarity": 1,
+  "durability": 82.0,
+  "max_durability": 100.0,
+  "volatility": 0.1,
+  "resilience": 0.75,
+  "worth": 100,
+  "affinities": {}
+}

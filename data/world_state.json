@@ -1,23 +1,23 @@
 {
-  "currency": 250400,
-  "tick": 11582,
+  "currency": 251450,
+  "tick": 11607,
   "mutation_stats": {
-    "attempted": 11582,
-    "success": 4831
+    "attempted": 11607,
+    "success": 4840
   },
   "recent_events": [
-    "STABLE: 'Broken Focus of the Void' did not mutate this tick.",
     "STABLE: 'Brittle Edge of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Dread Shard of Blight' evolved to generation 17.",
-    "MUTATED: 'Brittle Edge of the Glacier' evolved to generation 9.",
-    "STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick.",
-    "STABLE: 'Dread Shard of Blight' did not mutate this tick.",
-    "STABLE: 'Dread Shard of Blight' did not mutate this tick.",
-    "STABLE: 'Dread Shard of Blight' did not mutate this tick.",
-    "STABLE: 'Unstable Axe of Iron' did not mutate this tick.",
-    "MUTATED: 'Ancient Bow of Grace' evolved to generation 29."
+    "STABLE: 'Nimble Blade of the Glacier' did not mutate this tick.",
+    "STABLE: 'Nimble Blade of the Glacier' did not mutate this tick.",
+    "REPLACED WITH: 'Mundane Bow of Blight' (51bbaa92-a9a3-488a-8d84-d13195f23a88)",
+    "MUTATED: 'Silent Blade of the Glacier' evolved to generation 5.",
+    "MUTATED: 'Broken Focus of the Void' evolved to generation 28.",
+    "STABLE: 'Brittle Edge of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 50.",
+    "STABLE: 'Zealous Spear of Frost' did not mutate this tick.",
+    "STABLE: 'Broken Focus of the Void' did not mutate this tick."
   ],
-  "created": 136,
-  "avg_lifespan": 37.74603174603175,
-  "archived": 126
+  "created": 137,
+  "avg_lifespan": 37.59842519685039,
+  "archived": 127
 }
