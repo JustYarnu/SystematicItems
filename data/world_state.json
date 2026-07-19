@@ -1,21 +1,21 @@
 {
   "currency": 250400,
-  "tick": 11432,
+  "tick": 11457,
   "mutation_stats": {
-    "attempted": 11432,
-    "success": 4761
+    "attempted": 11457,
+    "success": 4772
   },
   "recent_events": [
+    "MUTATED: 'Glacial Edge of the Deep' evolved to generation 12.",
+    "MUTATED: 'Brittle Edge of the Glacier' evolved to generation 4.",
+    "STABLE: 'Brittle Edge of the Glacier' did not mutate this tick.",
     "STABLE: 'Ancient Bow of Grace' did not mutate this tick.",
-    "STABLE: 'Dread Shard of Blight' did not mutate this tick.",
-    "MUTATED: 'Unstable Axe of Iron' evolved to generation 6.",
-    "MUTATED: 'Silent Blade of the Glacier' evolved to generation 3.",
-    "STABLE: 'Nimble Blade of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Dread Shard of Blight' evolved to generation 14.",
-    "MUTATED: 'Unstable Axe of Iron' evolved to generation 7.",
-    "STABLE: 'Glacial Edge of the Deep' did not mutate this tick.",
-    "MUTATED: 'Broken Focus of the Void' evolved to generation 9.",
-    "STABLE: 'Broken Focus of the Void' did not mutate this tick."
+    "STABLE: 'Zealous Spear of Frost' did not mutate this tick.",
+    "MUTATED: 'Zealous Spear of Frost' evolved to generation 27.",
+    "STABLE: 'Silent Blade of the Glacier' did not mutate this tick.",
+    "STABLE: 'Zealous Spear of Frost' did not mutate this tick.",
+    "MUTATED: 'Zealous Spear of Frost' evolved to generation 28.",
+    "MUTATED: 'Ancient Bow of Grace' evolved to generation 22."
   ],
   "created": 136,
   "avg_lifespan": 37.74603174603175,
