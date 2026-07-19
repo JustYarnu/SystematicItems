@@ -2,7 +2,7 @@
   "id": "9d5f868d-5cee-4f8e-ae48-71352ddd3e67",
   "name": "Brittle Edge of the Glacier",
   "type": "Sword",
-  "generation": 2,
+  "generation": 3,
   "damage": 24.0,
   "damage_type": [
     "Physical",
@@ -13,10 +13,12 @@
   "str_mod": 1.0,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 64.4,
+  "durability": 59.400000000000006,
   "max_durability": 115.0,
-  "volatility": 0.13,
+  "volatility": 0.16000000000000003,
   "resilience": 0.75,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Order": 0.1
+  }
 }
