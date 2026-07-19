@@ -2,7 +2,7 @@
   "id": "61e363d7-4db7-4e12-a627-6835bea328bd",
   "name": "Stormcharged Relic of Sparks",
   "type": "Artifact",
-  "generation": 34,
+  "generation": 35,
   "damage": 29.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.4000000000000004,
   "dex_mod": 1.15,
   "rarity": 2.5,
-  "durability": 68.4213986656846,
+  "durability": 64.25188068940645,
   "max_durability": 114.0,
-  "volatility": 0.5500000000000002,
-  "resilience": 0.8160964047443681,
+  "volatility": 0.6260964047443681,
+  "resilience": 0.766096404744368,
   "worth": 100,
   "affinities": {
     "Scarceness": 0.1

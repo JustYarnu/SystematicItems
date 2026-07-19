@@ -2,7 +2,7 @@
   "id": "0d049046-9a07-4daf-bcd3-0600fd7b0568",
   "name": "Broken Focus of the Void",
   "type": "Focus",
-  "generation": 5,
+  "generation": 6,
   "damage": 16.5,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "str_mod": 1.1,
   "dex_mod": 0.9,
   "rarity": 2.0,
-  "durability": 80.25,
+  "durability": 74.0,
   "max_durability": 50.0,
   "volatility": 0.6,
-  "resilience": 0.4,
+  "resilience": 0.35000000000000003,
   "worth": 100,
   "affinities": {}
 }

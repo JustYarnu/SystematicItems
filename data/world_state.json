@@ -1,23 +1,23 @@
 {
-  "currency": 249400,
-  "tick": 11332,
+  "currency": 250400,
+  "tick": 11357,
   "mutation_stats": {
-    "attempted": 11332,
-    "success": 4721
+    "attempted": 11357,
+    "success": 4731
   },
   "recent_events": [
-    "STABLE: 'Ancient Core of Echoes' did not mutate this tick.",
-    "MUTATED: 'Nimble Blade of the Glacier' evolved to generation 10.",
-    "STABLE: 'Echoing Blade of Ruins' did not mutate this tick.",
-    "MUTATED: 'Echoing Blade of Ruins' evolved to generation 17.",
-    "MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 34.",
-    "MUTATED: 'Ancient Core of Echoes' evolved to generation 28.",
-    "REPLACED WITH: 'Unstable Axe of Iron' (dcb3a2bc-7c28-40a1-9f6f-66c7d607eea5)",
-    "STABLE: 'Glowing Blade of Might' did not mutate this tick.",
-    "REPLACED WITH: 'Silent Blade of the Glacier' (c654a887-9e7c-407a-941a-8dd007e67c3f)",
-    "MUTATED: 'Unstable Axe of Iron' evolved to generation 2."
+    "STABLE: 'Broken Focus of the Void' did not mutate this tick.",
+    "STABLE: 'Ancient Bow of Grace' did not mutate this tick.",
+    "STABLE: 'Brittle Edge of the Glacier' did not mutate this tick.",
+    "STABLE: 'Nimble Blade of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Glacial Edge of the Deep' evolved to generation 7.",
+    "MUTATED: 'Broken Focus of the Void' evolved to generation 6.",
+    "STABLE: 'Unstable Axe of Iron' did not mutate this tick.",
+    "STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick.",
+    "STABLE: 'Silent Blade of the Glacier' did not mutate this tick.",
+    "STABLE: 'Nimble Blade of the Glacier' did not mutate this tick."
   ],
-  "created": 135,
-  "avg_lifespan": 37.904,
-  "archived": 125
+  "created": 136,
+  "avg_lifespan": 37.74603174603175,
+  "archived": 126
 }

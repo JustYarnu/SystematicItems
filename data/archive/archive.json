@@ -3409,5 +3409,31 @@
       "Chaos": 0.2,
       "STR": 0.3
     }
+  },
+  {
+    "id": "fc45a62f-7e68-4f5c-beb7-b765818e630b",
+    "name": "Echoing Blade of Ruins",
+    "type": "Sword",
+    "generation": 18,
+    "damage": 47.5,
+    "damage_type": [
+      "Physical",
+      "Sonic",
+      "Slashing"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.01,
+    "str_mod": 1.3500000000000003,
+    "dex_mod": 0.9500000000000001,
+    "rarity": 1,
+    "durability": -1.0,
+    "max_durability": 82.0,
+    "volatility": 0.5400000000000004,
+    "resilience": 0.53,
+    "worth": 1000,
+    "affinities": {
+      "Chaos": 0.1,
+      "Order": 0.1
+    }
   }
 ]
