@@ -1,21 +1,21 @@
 {
   "currency": 250400,
-  "tick": 11532,
+  "tick": 11557,
   "mutation_stats": {
-    "attempted": 11532,
-    "success": 4812
+    "attempted": 11557,
+    "success": 4823
   },
   "recent_events": [
-    "MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 45.",
-    "MUTATED: 'Broken Focus of the Void' evolved to generation 20.",
-    "MUTATED: 'Broken Focus of the Void' evolved to generation 21.",
-    "MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 46.",
-    "STABLE: 'Silent Blade of the Glacier' did not mutate this tick.",
-    "STABLE: 'Silent Blade of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Broken Focus of the Void' evolved to generation 22.",
-    "MUTATED: 'Broken Focus of the Void' evolved to generation 23.",
-    "STABLE: 'Silent Blade of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Ancient Bow of Grace' evolved to generation 23."
+    "STABLE: 'Brittle Edge of the Glacier' did not mutate this tick.",
+    "STABLE: 'Nimble Blade of the Glacier' did not mutate this tick.",
+    "STABLE: 'Broken Focus of the Void' did not mutate this tick.",
+    "MUTATED: 'Brittle Edge of the Glacier' evolved to generation 8.",
+    "MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 47.",
+    "STABLE: 'Brittle Edge of the Glacier' did not mutate this tick.",
+    "STABLE: 'Nimble Blade of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Broken Focus of the Void' evolved to generation 24.",
+    "STABLE: 'Brittle Edge of the Glacier' did not mutate this tick.",
+    "STABLE: 'Ancient Bow of Grace' did not mutate this tick."
   ],
   "created": 136,
   "avg_lifespan": 37.74603174603175,
