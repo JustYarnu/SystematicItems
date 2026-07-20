@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-11882
+11907
 
 ## Oldest Item
-Dread Spear of Gales
+Brittle Blade of Pestilence
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.33
-- Average Volatility: 0.3
-- Average Durability: 74.34
+- Average Rarity: 1.23
+- Average Volatility: 0.27
+- Average Durability: 77.82
 
 ## Dominant Factions
-- Order: 0.5
-- Stability: 0.4
-- Chaos: 0.2
+- Stability: 0.3
+- Order: 0.2
+- Restoration: 0.1
 
 ## Extremes
-- Most Stable Item: Titanic Blade of Light
+- Most Stable Item: Brittle Blade of Pestilence
 - Most Volatile Item: Unstable Axe of Iron
 
 ## Recent Events
-- MUTATED: 'Broken Focus of the Void' evolved to generation 48.
+- REPLACED WITH: 'Brittle Blade of Pestilence' (1630c961-4eef-4724-8644-ab9d7077e3fd)
 - STABLE: 'Titanic Blade of Frost' did not mutate this tick.
-- STABLE: 'Resolute Sigil of Might' did not mutate this tick.
+- MUTATED: 'Unstable Axe of Iron' evolved to generation 34.
 
 ## Lifecycle Stats
-- Items Created: 143
-- Items Archived: 133
-- Avg Lifespan (ticks): 37.5
+- Items Created: 144
+- Items Archived: 134
+- Avg Lifespan (ticks): 37.6
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Dread Spear of Gales
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 11882
-- Successful Mutations: 4951
+- Mutations Attempted: 11907
+- Successful Mutations: 4962
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 8
-- Uncommon: 2
+- Common: 9
+- Uncommon: 1
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Dread Spear of Gales
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 262550
-- Currency per Tick (avg): 22.1
+- Total Currency: 265150
+- Currency per Tick (avg): 22.27
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
