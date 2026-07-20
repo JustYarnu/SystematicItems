@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-11807
+11832
 
 ## Oldest Item
 Mortal Edge of Grace
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.3
+- Average Rarity: 1.4
 - Average Volatility: 0.37
-- Average Durability: 62.68
+- Average Durability: 58.44
 
 ## Dominant Factions
 - Order: 0.5
@@ -24,9 +24,9 @@ Mortal Edge of Grace
 - Most Volatile Item: Glacial Edge of the Deep
 
 ## Recent Events
-- MUTATED: 'Unstable Axe of Iron' evolved to generation 28.
-- MUTATED: 'Resolute Sigil of Might' evolved to generation 2.
-- STABLE: 'Mundane Bow of Blight' did not mutate this tick.
+- STABLE: 'Glacial Relic of Judgement' did not mutate this tick.
+- MUTATED: 'Unstable Axe of Iron' evolved to generation 29.
+- MUTATED: 'Silent Blade of the Glacier' evolved to generation 10.
 
 ## Lifecycle Stats
 - Items Created: 141
@@ -40,15 +40,15 @@ Mortal Edge of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 11807
-- Successful Mutations: 4923
+- Mutations Attempted: 11832
+- Successful Mutations: 4931
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 8
-- Uncommon: 2
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Mortal Edge of Grace
 
 ## Economy
 - Total Currency: 259800
-- Currency per Tick (avg): 22.0
+- Currency per Tick (avg): 21.96
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
