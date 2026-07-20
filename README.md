@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-11732
+11757
 
 ## Oldest Item
-Mortal Edge of Grace
+Glacial Relic of Judgement
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.15
-- Average Volatility: 0.48
-- Average Durability: 38.41
+- Average Rarity: 1.55
+- Average Volatility: 0.38
+- Average Durability: 58.34
 
 ## Dominant Factions
-- Chaos: 0.7
-- Scarceness: 0.6
-- Stability: 0.5
+- Chaos: 0.8
+- Order: 0.5
+- Stability: 0.4
 
 ## Extremes
-- Most Stable Item: Mortal Edge of Grace
-- Most Volatile Item: Stormcharged Relic of Sparks
+- Most Stable Item: Glacial Relic of Judgement
+- Most Volatile Item: Broken Focus of the Void
 
 ## Recent Events
-- STABLE: 'Mundane Bow of Blight' did not mutate this tick.
-- STABLE: 'Zealous Spear of Frost' did not mutate this tick.
-- MUTATED: 'Unstable Axe of Iron' evolved to generation 23.
+- STABLE: 'Silent Blade of the Glacier' did not mutate this tick.
+- MUTATED: 'Brittle Edge of the Glacier' evolved to generation 14.
+- STABLE: 'Broken Focus of the Void' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 138
-- Items Archived: 128
-- Avg Lifespan (ticks): 37.5
+- Items Created: 140
+- Items Archived: 130
+- Avg Lifespan (ticks): 37.6
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,24 +40,24 @@ Mortal Edge of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 11732
-- Successful Mutations: 4895
+- Mutations Attempted: 11757
+- Successful Mutations: 4901
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 5
-- Uncommon: 4
-- Rare: 1
+- Common: 7
+- Uncommon: 3
+- Rare: 0
 - Epic: 0
 - Legendary+: 0
 
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 252750
-- Currency per Tick (avg): 21.54
+- Total Currency: 257450
+- Currency per Tick (avg): 21.9
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

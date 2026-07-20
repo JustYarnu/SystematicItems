@@ -1,23 +1,23 @@
 {
-  "currency": 252750,
-  "tick": 11732,
+  "currency": 257450,
+  "tick": 11757,
   "mutation_stats": {
-    "attempted": 11732,
-    "success": 4895
+    "attempted": 11757,
+    "success": 4901
   },
   "recent_events": [
-    "STABLE: 'Mundane Bow of Blight' did not mutate this tick.",
-    "STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick.",
-    "MUTATED: 'Unstable Axe of Iron' evolved to generation 22.",
-    "MUTATED: 'Silent Blade of the Glacier' evolved to generation 6.",
-    "MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 55.",
-    "STABLE: 'Mortal Edge of Grace' did not mutate this tick.",
-    "STABLE: 'Stormcharged Relic of Sparks' did not mutate this tick.",
-    "STABLE: 'Mundane Bow of Blight' did not mutate this tick.",
     "STABLE: 'Zealous Spear of Frost' did not mutate this tick.",
-    "MUTATED: 'Unstable Axe of Iron' evolved to generation 23."
+    "MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 56.",
+    "MUTATED: 'Stormcharged Relic of Sparks' evolved to generation 57.",
+    "REPLACED WITH: 'Glacial Relic of Judgement' (36d2f1be-59fc-483d-b983-0901583c1a75)",
+    "STABLE: 'Glacial Relic of Judgement' did not mutate this tick.",
+    "MUTATED: 'Brittle Edge of the Glacier' evolved to generation 13.",
+    "STABLE: 'Unstable Axe of Iron' did not mutate this tick.",
+    "STABLE: 'Silent Blade of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Brittle Edge of the Glacier' evolved to generation 14.",
+    "STABLE: 'Broken Focus of the Void' did not mutate this tick."
   ],
-  "created": 138,
-  "avg_lifespan": 37.4921875,
-  "archived": 128
+  "created": 140,
+  "avg_lifespan": 37.60769230769231,
+  "archived": 130
 }

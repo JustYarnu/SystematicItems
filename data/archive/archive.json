@@ -3488,5 +3488,58 @@
       "STR": 0.2,
       "Chaos": 0.1
     }
+  },
+  {
+    "id": "f5e9f56e-22e0-4992-ae50-8da2b67a264f",
+    "name": "Ancient Bow of Grace",
+    "type": "Ranged",
+    "generation": 33,
+    "damage": 19.0,
+    "damage_type": [
+      "Physical",
+      "Piercing"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.6000000000000005,
+    "dex_mod": 1.6,
+    "rarity": 3.0,
+    "durability": -0.1900000000000026,
+    "max_durability": 114.0,
+    "volatility": 0.5792481250360577,
+    "resilience": 0.6599999999999999,
+    "worth": 1750,
+    "affinities": {
+      "DEX": 0.3,
+      "Scarceness": 0.3,
+      "STR": 0.1
+    }
+  },
+  {
+    "id": "61e363d7-4db7-4e12-a627-6835bea328bd",
+    "name": "Stormcharged Relic of Sparks",
+    "type": "Artifact",
+    "generation": 57,
+    "damage": 50.0,
+    "damage_type": [
+      "Physical",
+      "Lightning",
+      "Holy"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.01,
+    "str_mod": 1.8000000000000007,
+    "dex_mod": 0.9499999999999998,
+    "rarity": 5.5,
+    "durability": -1.0,
+    "max_durability": 84.0,
+    "volatility": 0.6729715809318648,
+    "resilience": 0.6660964047443679,
+    "worth": 2950,
+    "affinities": {
+      "Scarceness": 0.1,
+      "Stability": 0.1,
+      "STR": 0.2
+    }
   }
 ]
