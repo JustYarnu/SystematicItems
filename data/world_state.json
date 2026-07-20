@@ -1,21 +1,21 @@
 {
   "currency": 259800,
-  "tick": 11832,
+  "tick": 11857,
   "mutation_stats": {
-    "attempted": 11832,
-    "success": 4931
+    "attempted": 11857,
+    "success": 4942
   },
   "recent_events": [
-    "STABLE: 'Silent Blade of the Glacier' did not mutate this tick.",
-    "STABLE: 'Glacial Relic of Judgement' did not mutate this tick.",
-    "MUTATED: 'Resolute Sigil of Might' evolved to generation 3.",
-    "MUTATED: 'Glacial Edge of the Deep' evolved to generation 26.",
-    "STABLE: 'Silent Blade of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Brittle Edge of the Glacier' evolved to generation 20.",
-    "STABLE: 'Mortal Edge of Grace' did not mutate this tick.",
-    "STABLE: 'Glacial Relic of Judgement' did not mutate this tick.",
-    "MUTATED: 'Unstable Axe of Iron' evolved to generation 29.",
-    "MUTATED: 'Silent Blade of the Glacier' evolved to generation 10."
+    "MUTATED: 'Broken Focus of the Void' evolved to generation 43.",
+    "MUTATED: 'Broken Focus of the Void' evolved to generation 44.",
+    "STABLE: 'Glacial Edge of the Deep' did not mutate this tick.",
+    "MUTATED: 'Broken Focus of the Void' evolved to generation 45.",
+    "STABLE: 'Glacial Edge of the Deep' did not mutate this tick.",
+    "MUTATED: 'Mundane Bow of Blight' evolved to generation 7.",
+    "MUTATED: 'Unstable Axe of Iron' evolved to generation 30.",
+    "MUTATED: 'Glacial Edge of the Deep' evolved to generation 27.",
+    "STABLE: 'Glacial Edge of the Deep' did not mutate this tick.",
+    "MUTATED: 'Brittle Edge of the Glacier' evolved to generation 23."
   ],
   "created": 141,
   "avg_lifespan": 37.66412213740458,
