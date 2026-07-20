@@ -2,18 +2,18 @@
   "id": "0d049046-9a07-4daf-bcd3-0600fd7b0568",
   "name": "Broken Focus of the Void",
   "type": "Focus",
-  "generation": 33,
-  "damage": 34.5,
+  "generation": 37,
+  "damage": 41.0,
   "damage_type": [
     "Physical",
     "Magic"
   ],
   "crit_damage": 3.0,
   "crit_rate": 0.01,
-  "str_mod": 1.3000000000000003,
-  "dex_mod": 0.7000000000000001,
+  "str_mod": 1.4000000000000004,
+  "dex_mod": 0.6000000000000001,
   "rarity": 2.0,
-  "durability": 31.19999999999999,
+  "durability": 16.69999999999999,
   "max_durability": 68.0,
   "volatility": 0.6,
   "resilience": 0.5,
@@ -21,6 +21,7 @@
   "affinities": {
     "Chaos": 0.1,
     "Scarceness": 0.1,
-    "Order": 0.2
+    "Order": 0.3,
+    "Stability": 0.1
   }
 }
