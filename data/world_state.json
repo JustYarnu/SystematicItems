@@ -1,23 +1,23 @@
 {
-  "currency": 257450,
-  "tick": 11782,
+  "currency": 259800,
+  "tick": 11807,
   "mutation_stats": {
-    "attempted": 11782,
-    "success": 4914
+    "attempted": 11807,
+    "success": 4923
   },
   "recent_events": [
-    "MUTATED: 'Zealous Spear of Frost' evolved to generation 42.",
-    "MUTATED: 'Brittle Edge of the Glacier' evolved to generation 15.",
-    "STABLE: 'Titanic Blade of Frost' did not mutate this tick.",
-    "MUTATED: 'Zealous Spear of Frost' evolved to generation 43.",
-    "MUTATED: 'Silent Blade of the Glacier' evolved to generation 8.",
-    "STABLE: 'Broken Focus of the Void' did not mutate this tick.",
-    "MUTATED: 'Glacial Edge of the Deep' evolved to generation 23.",
-    "MUTATED: 'Glacial Edge of the Deep' evolved to generation 24.",
-    "STABLE: 'Titanic Blade of Frost' did not mutate this tick.",
-    "MUTATED: 'Zealous Spear of Frost' evolved to generation 44."
+    "MUTATED: 'Brittle Edge of the Glacier' evolved to generation 17.",
+    "STABLE: 'Glacial Relic of Judgement' did not mutate this tick.",
+    "STABLE: 'Mortal Edge of Grace' did not mutate this tick.",
+    "STABLE: 'Brittle Edge of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Silent Blade of the Glacier' evolved to generation 9.",
+    "STABLE: 'Zealous Spear of Frost' did not mutate this tick.",
+    "REPLACED WITH: 'Resolute Sigil of Might' (66aa833e-b253-4b1d-93b6-6f225694d907)",
+    "MUTATED: 'Unstable Axe of Iron' evolved to generation 28.",
+    "MUTATED: 'Resolute Sigil of Might' evolved to generation 2.",
+    "STABLE: 'Mundane Bow of Blight' did not mutate this tick."
   ],
-  "created": 140,
-  "avg_lifespan": 37.60769230769231,
-  "archived": 130
+  "created": 141,
+  "avg_lifespan": 37.66412213740458,
+  "archived": 131
 }

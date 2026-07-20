@@ -3541,5 +3541,32 @@
       "Stability": 0.1,
       "STR": 0.2
     }
+  },
+  {
+    "id": "360bb9b2-1a9a-41a5-9e64-b88dbd3640a2",
+    "name": "Zealous Spear of Frost",
+    "type": "Polearm",
+    "generation": 45,
+    "damage": 18.5,
+    "damage_type": [
+      "Physical",
+      "Holy",
+      "Piercing",
+      "Cold"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.11,
+    "str_mod": 1.7500000000000004,
+    "dex_mod": 1.5,
+    "rarity": 4,
+    "durability": -0.033834373377397586,
+    "max_durability": 112.0,
+    "volatility": 0.5100000000000003,
+    "resilience": 0.85,
+    "worth": 2350,
+    "affinities": {
+      "Chaos": 0.5,
+      "Scarceness": 0.1
+    }
   }
 ]
