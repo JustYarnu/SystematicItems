@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-11757
+11782
 
 ## Oldest Item
-Glacial Relic of Judgement
+Mortal Edge of Grace
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.55
-- Average Volatility: 0.38
-- Average Durability: 58.34
+- Average Volatility: 0.39
+- Average Durability: 53.17
 
 ## Dominant Factions
-- Chaos: 0.8
+- Chaos: 0.9
 - Order: 0.5
 - Stability: 0.4
 
@@ -24,9 +24,9 @@ Glacial Relic of Judgement
 - Most Volatile Item: Broken Focus of the Void
 
 ## Recent Events
-- STABLE: 'Silent Blade of the Glacier' did not mutate this tick.
-- MUTATED: 'Brittle Edge of the Glacier' evolved to generation 14.
-- STABLE: 'Broken Focus of the Void' did not mutate this tick.
+- MUTATED: 'Glacial Edge of the Deep' evolved to generation 24.
+- STABLE: 'Titanic Blade of Frost' did not mutate this tick.
+- MUTATED: 'Zealous Spear of Frost' evolved to generation 44.
 
 ## Lifecycle Stats
 - Items Created: 140
@@ -40,8 +40,8 @@ Glacial Relic of Judgement
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 11757
-- Successful Mutations: 4901
+- Mutations Attempted: 11782
+- Successful Mutations: 4914
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Glacial Relic of Judgement
 
 ## Economy
 - Total Currency: 257450
-- Currency per Tick (avg): 21.9
+- Currency per Tick (avg): 21.85
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
