@@ -1,23 +1,23 @@
 {
-  "currency": 265150,
-  "tick": 11907,
+  "currency": 267050,
+  "tick": 11932,
   "mutation_stats": {
-    "attempted": 11907,
-    "success": 4962
+    "attempted": 11932,
+    "success": 4969
   },
   "recent_events": [
-    "MUTATED: 'Resolute Sigil of Might' evolved to generation 4.",
-    "STABLE: 'Glacial Relic of Judgement' did not mutate this tick.",
-    "MUTATED: 'Unstable Axe of Iron' evolved to generation 33.",
-    "STABLE: 'Resolute Sigil of Might' did not mutate this tick.",
-    "STABLE: 'Mortal Edge of Grace' did not mutate this tick.",
-    "STABLE: 'Broken Focus of the Void' did not mutate this tick.",
-    "MUTATED: 'Broken Focus of the Void' evolved to generation 50.",
-    "REPLACED WITH: 'Brittle Blade of Pestilence' (1630c961-4eef-4724-8644-ab9d7077e3fd)",
+    "STABLE: 'Brittle Axe of Blight' did not mutate this tick.",
     "STABLE: 'Titanic Blade of Frost' did not mutate this tick.",
-    "MUTATED: 'Unstable Axe of Iron' evolved to generation 34."
+    "MUTATED: 'Brittle Axe of Blight' evolved to generation 2.",
+    "MUTATED: 'Silent Blade of the Glacier' evolved to generation 15.",
+    "STABLE: 'Brittle Blade of Pestilence' did not mutate this tick.",
+    "STABLE: 'Brittle Axe of Blight' did not mutate this tick.",
+    "MUTATED: 'Mortal Edge of Grace' evolved to generation 3.",
+    "STABLE: 'Resolute Sigil of Might' did not mutate this tick.",
+    "MUTATED: 'Silent Blade of the Glacier' evolved to generation 16.",
+    "STABLE: 'Titanic Blade of Light' did not mutate this tick."
   ],
-  "created": 144,
-  "avg_lifespan": 37.57462686567165,
-  "archived": 134
+  "created": 145,
+  "avg_lifespan": 37.56296296296297,
+  "archived": 135
 }
