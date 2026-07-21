@@ -2,7 +2,7 @@
   "id": "fce03fbe-e7d6-4836-8c0d-63c56da422af",
   "name": "Brittle Axe of Blight",
   "type": "HeavyWeapon",
-  "generation": 6,
+  "generation": 8,
   "damage": 31.0,
   "damage_type": [
     "Physical",
@@ -14,13 +14,13 @@
   "str_mod": 1.15,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 18.65,
-  "max_durability": 77.0,
+  "durability": 13.45,
+  "max_durability": 82.0,
   "volatility": 0.28000000000000014,
-  "resilience": 0.55,
+  "resilience": 0.6000000000000001,
   "worth": 100,
   "affinities": {
-    "Order": 0.1,
+    "Order": 0.2,
     "Stability": 0.1
   }
 }
