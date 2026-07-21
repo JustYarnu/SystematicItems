@@ -2,7 +2,7 @@
   "id": "1630c961-4eef-4724-8644-ab9d7077e3fd",
   "name": "Brittle Blade of Pestilence",
   "type": "Sword",
-  "generation": 3,
+  "generation": 4,
   "damage": 35.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.05,
   "dex_mod": 0.9500000000000001,
   "rarity": 1,
-  "durability": 46.15,
+  "durability": 41.25,
   "max_durability": 63.0,
-  "volatility": 0.2600000000000001,
+  "volatility": 0.23000000000000015,
   "resilience": 0.55,
   "worth": 100,
   "affinities": {}

@@ -2,8 +2,8 @@
   "id": "fdf5eee6-f46b-434f-bfea-cf3fa73ca2c7",
   "name": "Dread Spear of Gales",
   "type": "Polearm",
-  "generation": 5,
-  "damage": 13.5,
+  "generation": 7,
+  "damage": 18.5,
   "damage_type": [
     "Physical",
     "Dark",
@@ -11,13 +11,13 @@
     "Sonic"
   ],
   "crit_damage": 2,
-  "crit_rate": 0.01,
+  "crit_rate": 0.060000000000000005,
   "str_mod": 1.4000000000000001,
-  "dex_mod": 1.18,
+  "dex_mod": 1.0799999999999998,
   "rarity": 1,
-  "durability": 79.94999999999999,
+  "durability": 69.99999999999999,
   "max_durability": 105.0,
-  "volatility": 0.3400000000000002,
+  "volatility": 0.3500000000000002,
   "resilience": 0.45,
   "worth": 100,
   "affinities": {}
