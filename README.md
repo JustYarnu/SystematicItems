@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-11957
+11982
 
 ## Oldest Item
 Titanic Blade of Light
@@ -11,22 +11,22 @@ Titanic Blade of Light
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.13
-- Average Volatility: 0.26
-- Average Durability: 76.53
+- Average Volatility: 0.28
+- Average Durability: 72.57
 
 ## Dominant Factions
+- Order: 0.3
 - Stability: 0.1
 - DEX: 0.1
-- Order: 0.1
 
 ## Extremes
-- Most Stable Item: Brittle Blade of Pestilence
+- Most Stable Item: Titanic Blade of Light
 - Most Volatile Item: Mundane Bow of Blight
 
 ## Recent Events
-- STABLE: 'Brittle Axe of Blight' did not mutate this tick.
-- STABLE: 'Mortal Edge of Grace' did not mutate this tick.
-- STABLE: 'Dread Spear of Gales' did not mutate this tick.
+- STABLE: 'Mundane Bow of Blight' did not mutate this tick.
+- MUTATED: 'Dread Spear of Gales' evolved to generation 3.
+- MUTATED: 'Resolute Sigil of Might' evolved to generation 6.
 
 ## Lifecycle Stats
 - Items Created: 145
@@ -40,8 +40,8 @@ Titanic Blade of Light
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 11957
-- Successful Mutations: 4974
+- Mutations Attempted: 11982
+- Successful Mutations: 4982
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Titanic Blade of Light
 
 ## Economy
 - Total Currency: 267050
-- Currency per Tick (avg): 22.33
+- Currency per Tick (avg): 22.29
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
