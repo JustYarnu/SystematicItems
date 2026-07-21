@@ -3676,5 +3676,31 @@
       "DEX": 0.1,
       "Order": 0.2
     }
+  },
+  {
+    "id": "c654a887-9e7c-407a-941a-8dd007e67c3f",
+    "name": "Silent Blade of the Glacier",
+    "type": "Sword",
+    "generation": 20,
+    "damage": 31.5,
+    "damage_type": [
+      "Physical",
+      "Slashing",
+      "Cold"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.01,
+    "str_mod": 1.1500000000000001,
+    "dex_mod": 0.8999999999999999,
+    "rarity": 1,
+    "durability": -0.6300000000000026,
+    "max_durability": 125.0,
+    "volatility": 0.48000000000000037,
+    "resilience": 0.75,
+    "worth": 1100,
+    "affinities": {
+      "Stability": 0.1,
+      "Restoration": 0.1
+    }
   }
 ]
