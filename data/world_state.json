@@ -1,21 +1,21 @@
 {
   "currency": 267050,
-  "tick": 11982,
+  "tick": 12007,
   "mutation_stats": {
-    "attempted": 11982,
-    "success": 4982
+    "attempted": 12007,
+    "success": 4985
   },
   "recent_events": [
-    "STABLE: 'Mortal Edge of Grace' did not mutate this tick.",
-    "STABLE: 'Resolute Sigil of Might' did not mutate this tick.",
-    "MUTATED: 'Mortal Edge of Grace' evolved to generation 7.",
-    "STABLE: 'Brittle Axe of Blight' did not mutate this tick.",
     "STABLE: 'Brittle Blade of Pestilence' did not mutate this tick.",
-    "MUTATED: 'Brittle Blade of Pestilence' evolved to generation 3.",
+    "STABLE: 'Titanic Blade of Frost' did not mutate this tick.",
+    "STABLE: 'Brittle Blade of Pestilence' did not mutate this tick.",
     "STABLE: 'Silent Blade of the Glacier' did not mutate this tick.",
-    "STABLE: 'Mundane Bow of Blight' did not mutate this tick.",
-    "MUTATED: 'Dread Spear of Gales' evolved to generation 3.",
-    "MUTATED: 'Resolute Sigil of Might' evolved to generation 6."
+    "STABLE: 'Titanic Blade of Light' did not mutate this tick.",
+    "STABLE: 'Silent Blade of the Glacier' did not mutate this tick.",
+    "STABLE: 'Glacial Relic of Judgement' did not mutate this tick.",
+    "STABLE: 'Mortal Edge of Grace' did not mutate this tick.",
+    "MUTATED: 'Silent Blade of the Glacier' evolved to generation 17.",
+    "MUTATED: 'Glacial Relic of Judgement' evolved to generation 5."
   ],
   "created": 145,
   "avg_lifespan": 37.56296296296297,
