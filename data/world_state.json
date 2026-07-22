@@ -1,21 +1,21 @@
 {
   "currency": 268800,
-  "tick": 12307,
+  "tick": 12332,
   "mutation_stats": {
-    "attempted": 12307,
-    "success": 5090
+    "attempted": 12332,
+    "success": 5100
   },
   "recent_events": [
-    "STABLE: 'Titanic Blade of Light' did not mutate this tick.",
-    "MUTATED: 'Singed Shard of Carnage' evolved to generation 17.",
-    "STABLE: 'Mortal Edge of Grace' did not mutate this tick.",
-    "STABLE: 'Glacial Relic of Judgement' did not mutate this tick.",
-    "MUTATED: 'Resolute Sigil of Might' evolved to generation 18.",
-    "MUTATED: 'Dread Spear of Gales' evolved to generation 13.",
-    "MUTATED: 'Glacial Relic of Judgement' evolved to generation 16.",
-    "MUTATED: 'Glacial Relic of Judgement' evolved to generation 17.",
+    "MUTATED: 'Singed Shard of Carnage' evolved to generation 18.",
+    "STABLE: 'Mundane Bow of Blight' did not mutate this tick.",
+    "MUTATED: 'Mundane Bow of Blight' evolved to generation 21.",
     "STABLE: 'Resolute Sigil of Might' did not mutate this tick.",
-    "MUTATED: 'Resolute Sigil of Might' evolved to generation 19."
+    "MUTATED: 'Resolute Sigil of Might' evolved to generation 21.",
+    "MUTATED: 'Mundane Rapier of Pestilence' evolved to generation 5.",
+    "STABLE: 'Titanic Blade of Light' did not mutate this tick.",
+    "MUTATED: 'Titanic Blade of Frost' evolved to generation 20.",
+    "MUTATED: 'Mundane Rapier of Pestilence' evolved to generation 6.",
+    "STABLE: 'Mundane Rapier of Pestilence' did not mutate this tick."
   ],
   "created": 147,
   "avg_lifespan": 37.24087591240876,

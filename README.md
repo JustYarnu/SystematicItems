@@ -3,20 +3,20 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-12307
+12332
 
 ## Oldest Item
-Mundane Rapier of Pestilence
+Titanic Blade of Light
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.23
-- Average Volatility: 0.43
-- Average Durability: 57.31
+- Average Volatility: 0.44
+- Average Durability: 52.76
 
 ## Dominant Factions
 - Order: 0.7
-- DEX: 0.2
+- DEX: 0.3
 - Stability: 0.1
 
 ## Extremes
@@ -24,9 +24,9 @@ Mundane Rapier of Pestilence
 - Most Volatile Item: Singed Shard of Carnage
 
 ## Recent Events
-- MUTATED: 'Glacial Relic of Judgement' evolved to generation 17.
-- STABLE: 'Resolute Sigil of Might' did not mutate this tick.
-- MUTATED: 'Resolute Sigil of Might' evolved to generation 19.
+- MUTATED: 'Titanic Blade of Frost' evolved to generation 20.
+- MUTATED: 'Mundane Rapier of Pestilence' evolved to generation 6.
+- STABLE: 'Mundane Rapier of Pestilence' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 147
@@ -40,8 +40,8 @@ Mundane Rapier of Pestilence
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 12307
-- Successful Mutations: 5090
+- Mutations Attempted: 12332
+- Successful Mutations: 5100
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Rapier of Pestilence
 
 ## Economy
 - Total Currency: 268800
-- Currency per Tick (avg): 21.84
+- Currency per Tick (avg): 21.8
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
