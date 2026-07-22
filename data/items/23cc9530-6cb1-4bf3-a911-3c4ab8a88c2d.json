@@ -2,7 +2,7 @@
   "id": "23cc9530-6cb1-4bf3-a911-3c4ab8a88c2d",
   "name": "Singed Shard of Carnage",
   "type": "Dagger",
-  "generation": 11,
+  "generation": 13,
   "damage": 27.5,
   "damage_type": [
     "Physical",
@@ -15,10 +15,10 @@
   "str_mod": 1.1,
   "dex_mod": 1.0,
   "rarity": 2,
-  "durability": 44.15,
-  "max_durability": 87.0,
+  "durability": 50.8,
+  "max_durability": 92.0,
   "volatility": 0.62,
-  "resilience": 0.5,
+  "resilience": 0.55,
   "worth": 100,
   "affinities": {}
 }
