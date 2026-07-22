@@ -1,20 +1,20 @@
 {
   "currency": 268150,
-  "tick": 12182,
+  "tick": 12207,
   "mutation_stats": {
-    "attempted": 12182,
-    "success": 5040
+    "attempted": 12207,
+    "success": 5049
   },
   "recent_events": [
-    "STABLE: 'Brittle Axe of Blight' did not mutate this tick.",
-    "MUTATED: 'Titanic Blade of Frost' evolved to generation 7.",
-    "STABLE: 'Glacial Relic of Judgement' did not mutate this tick.",
-    "MUTATED: 'Titanic Blade of Frost' evolved to generation 8.",
     "STABLE: 'Brittle Blade of Pestilence' did not mutate this tick.",
-    "MUTATED: 'Glacial Relic of Judgement' evolved to generation 13.",
-    "STABLE: 'Brittle Blade of Pestilence' did not mutate this tick.",
-    "STABLE: 'Resolute Sigil of Might' did not mutate this tick.",
-    "MUTATED: 'Brittle Axe of Blight' evolved to generation 10.",
+    "STABLE: 'Singed Shard of Carnage' did not mutate this tick.",
+    "MUTATED: 'Singed Shard of Carnage' evolved to generation 11.",
+    "STABLE: 'Singed Shard of Carnage' did not mutate this tick.",
+    "STABLE: 'Singed Shard of Carnage' did not mutate this tick.",
+    "STABLE: 'Titanic Blade of Frost' did not mutate this tick.",
+    "MUTATED: 'Titanic Blade of Frost' evolved to generation 10.",
+    "MUTATED: 'Glacial Relic of Judgement' evolved to generation 14.",
+    "MUTATED: 'Resolute Sigil of Might' evolved to generation 13.",
     "STABLE: 'Mundane Bow of Blight' did not mutate this tick."
   ],
   "created": 146,
