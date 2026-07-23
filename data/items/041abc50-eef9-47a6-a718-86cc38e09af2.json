@@ -2,7 +2,7 @@
   "id": "041abc50-eef9-47a6-a718-86cc38e09af2",
   "name": "Titanic Blade of Frost",
   "type": "Sword",
-  "generation": 31,
+  "generation": 32,
   "damage": 28.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.5500000000000003,
   "dex_mod": 0.9500000000000001,
   "rarity": 2,
-  "durability": 26.520000000000028,
+  "durability": 20.32000000000003,
   "max_durability": 117.0,
-  "volatility": 0.58,
+  "volatility": 0.5299999999999999,
   "resilience": 0.5799999999999998,
   "worth": 100,
   "affinities": {

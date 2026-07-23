@@ -2,7 +2,7 @@
   "id": "36d2f1be-59fc-483d-b983-0901583c1a75",
   "name": "Glacial Relic of Judgement",
   "type": "Artifact",
-  "generation": 25,
+  "generation": 26,
   "damage": 19.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.4000000000000001,
   "dex_mod": 1.35,
   "rarity": 1.5,
-  "durability": 14.464887502163457,
+  "durability": 9.257368752524034,
   "max_durability": 134.6240625180289,
-  "volatility": 0.5992481250360578,
+  "volatility": 0.5492481250360578,
   "resilience": 0.6792481250360577,
   "worth": 100,
   "affinities": {
