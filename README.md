@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-12457
+12482
 
 ## Oldest Item
-Titanic Blade of Light
+Mundane Rapier of Pestilence
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.33
-- Average Volatility: 0.49
-- Average Durability: 37.74
+- Average Rarity: 1.53
+- Average Volatility: 0.5
+- Average Durability: 34.37
 
 ## Dominant Factions
 - Order: 1.0
@@ -24,9 +24,9 @@ Titanic Blade of Light
 - Most Volatile Item: Singed Shard of Carnage
 
 ## Recent Events
-- MUTATED: 'Mundane Bow of Blight' evolved to generation 25.
-- STABLE: 'Resolute Sigil of Might' did not mutate this tick.
-- STABLE: 'Dread Spear of Gales' did not mutate this tick.
+- MUTATED: 'Mundane Bow of Blight' evolved to generation 27.
+- MUTATED: 'Titanic Blade of Frost' evolved to generation 28.
+- STABLE: 'Singed Shard of Carnage' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 147
@@ -40,15 +40,15 @@ Titanic Blade of Light
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 12457
-- Successful Mutations: 5158
+- Mutations Attempted: 12482
+- Successful Mutations: 5171
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 9
-- Uncommon: 1
+- Common: 8
+- Uncommon: 2
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Titanic Blade of Light
 
 ## Economy
 - Total Currency: 268800
-- Currency per Tick (avg): 21.58
+- Currency per Tick (avg): 21.54
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
