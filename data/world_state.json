@@ -1,23 +1,23 @@
 {
-  "currency": 270350,
-  "tick": 12607,
+  "currency": 272000,
+  "tick": 12632,
   "mutation_stats": {
-    "attempted": 12607,
-    "success": 5236
+    "attempted": 12632,
+    "success": 5252
   },
   "recent_events": [
-    "MUTATED: 'Mundane Bow of Blight' evolved to generation 33.",
-    "STABLE: 'Singed Shard of Carnage' did not mutate this tick.",
-    "STABLE: 'Titanic Blade of Frost' did not mutate this tick.",
-    "STABLE: 'Titanic Blade of Frost' did not mutate this tick.",
-    "STABLE: 'Silent Shard of Grace' did not mutate this tick.",
-    "STABLE: 'Mundane Bow of Blight' did not mutate this tick.",
-    "STABLE: 'Silent Shard of Grace' did not mutate this tick.",
-    "STABLE: 'Singed Shard of Carnage' did not mutate this tick.",
-    "STABLE: 'Mortal Edge of Grace' did not mutate this tick.",
-    "STABLE: 'Brittle Blade of Pestilence' did not mutate this tick."
+    "MUTATED: 'Mortal Edge of Grace' evolved to generation 28.",
+    "MUTATED: 'Mundane Bow of Blight' evolved to generation 36.",
+    "MUTATED: 'Mundane Bow of Blight' evolved to generation 37.",
+    "STABLE: 'Resolute Sigil of Might' did not mutate this tick.",
+    "MUTATED: 'Singed Shard of Carnage' evolved to generation 40.",
+    "MUTATED: 'Glacial Relic of Decay' evolved to generation 2.",
+    "MUTATED: 'Titanic Blade of Light' evolved to generation 22.",
+    "MUTATED: 'Resolute Sigil of Might' evolved to generation 37.",
+    "STABLE: 'Titanic Blade of Light' did not mutate this tick.",
+    "STABLE: 'Resolute Sigil of Might' did not mutate this tick."
   ],
-  "created": 148,
-  "avg_lifespan": 37.18115942028985,
-  "archived": 138
+  "created": 149,
+  "avg_lifespan": 37.13669064748201,
+  "archived": 139
 }

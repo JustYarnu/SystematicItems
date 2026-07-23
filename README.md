@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-12607
+12632
 
 ## Oldest Item
-Silent Shard of Grace
+Glacial Relic of Decay
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.58
-- Average Volatility: 0.5
-- Average Durability: 28.36
+- Average Rarity: 1.63
+- Average Volatility: 0.45
+- Average Durability: 37.86
 
 ## Dominant Factions
-- Order: 0.9
-- STR: 0.4
+- Order: 0.7
 - Restoration: 0.3
+- Chaos: 0.3
 
 ## Extremes
-- Most Stable Item: Silent Shard of Grace
+- Most Stable Item: Glacial Relic of Decay
 - Most Volatile Item: Singed Shard of Carnage
 
 ## Recent Events
-- STABLE: 'Singed Shard of Carnage' did not mutate this tick.
-- STABLE: 'Mortal Edge of Grace' did not mutate this tick.
-- STABLE: 'Brittle Blade of Pestilence' did not mutate this tick.
+- MUTATED: 'Resolute Sigil of Might' evolved to generation 37.
+- STABLE: 'Titanic Blade of Light' did not mutate this tick.
+- STABLE: 'Resolute Sigil of Might' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 148
-- Items Archived: 138
-- Avg Lifespan (ticks): 37.2
+- Items Created: 149
+- Items Archived: 139
+- Avg Lifespan (ticks): 37.1
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,9 +40,9 @@ Silent Shard of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 12607
-- Successful Mutations: 5236
-- Failure Rate: 58.5%
+- Mutations Attempted: 12632
+- Successful Mutations: 5252
+- Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -56,8 +56,8 @@ Silent Shard of Grace
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 270350
-- Currency per Tick (avg): 21.44
+- Total Currency: 272000
+- Currency per Tick (avg): 21.53
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
