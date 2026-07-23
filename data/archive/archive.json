@@ -3785,5 +3785,57 @@
       "STR": 0.1,
       "Chaos": 0.2
     }
+  },
+  {
+    "id": "51bbaa92-a9a3-488a-8d84-d13195f23a88",
+    "name": "Mundane Bow of Blight",
+    "type": "Ranged",
+    "generation": 38,
+    "damage": 33.5,
+    "damage_type": [
+      "Physical",
+      "Piercing",
+      "Dark"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.01,
+    "str_mod": 1.1,
+    "dex_mod": 1.7500000000000004,
+    "rarity": 1,
+    "durability": -0.4199999999999964,
+    "max_durability": 109.0,
+    "volatility": 0.43000000000000005,
+    "resilience": 0.7,
+    "worth": 2000,
+    "affinities": {
+      "Order": 0.2,
+      "Chaos": 0.1,
+      "DEX": 0.1
+    }
+  },
+  {
+    "id": "041abc50-eef9-47a6-a718-86cc38e09af2",
+    "name": "Titanic Blade of Frost",
+    "type": "Sword",
+    "generation": 41,
+    "damage": 29.5,
+    "damage_type": [
+      "Physical",
+      "Slashing",
+      "Cold"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.01,
+    "str_mod": 1.6500000000000004,
+    "dex_mod": 1.1500000000000001,
+    "rarity": 3,
+    "durability": -1.0,
+    "max_durability": 104.0,
+    "volatility": 0.5599999999999999,
+    "resilience": 0.7399999999999998,
+    "worth": 2150,
+    "affinities": {
+      "Restoration": 0.2
+    }
   }
 ]
