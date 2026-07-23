@@ -2,7 +2,7 @@
   "id": "87c7f3bf-0497-4c67-a241-12da33534d05",
   "name": "Mortal Edge of Grace",
   "type": "Sword",
-  "generation": 28,
+  "generation": 29,
   "damage": 38.0,
   "damage_type": [
     "Physical"
@@ -12,7 +12,7 @@
   "str_mod": 1.4000000000000004,
   "dex_mod": 1.25,
   "rarity": 1,
-  "durability": 4.129999999999985,
+  "durability": 8.129999999999985,
   "max_durability": 83.0,
   "volatility": 0.5500000000000004,
   "resilience": 0.75,

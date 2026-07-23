@@ -2,7 +2,7 @@
   "id": "d3bc5e81-85b1-484b-8189-fea3f65bf66c",
   "name": "Mundane Rapier of Pestilence",
   "type": "Generic",
-  "generation": 16,
+  "generation": 18,
   "damage": 24.0,
   "damage_type": [
     "Physical",
@@ -10,13 +10,13 @@
     "Acid"
   ],
   "crit_damage": 2,
-  "crit_rate": 0.060000000000000005,
+  "crit_rate": 0.07,
   "str_mod": 1.2000000000000002,
-  "dex_mod": 1.4000000000000004,
+  "dex_mod": 1.5000000000000004,
   "rarity": 1,
-  "durability": 44.32,
+  "durability": 35.57,
   "max_durability": 90.0,
-  "volatility": 0.4600000000000004,
+  "volatility": 0.49000000000000044,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
