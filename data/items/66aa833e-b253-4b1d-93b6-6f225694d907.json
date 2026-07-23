@@ -2,7 +2,7 @@
   "id": "66aa833e-b253-4b1d-93b6-6f225694d907",
   "name": "Resolute Sigil of Might",
   "type": "Focus",
-  "generation": 26,
+  "generation": 28,
   "damage": 17.0,
   "damage_type": [
     "Physical",
@@ -13,12 +13,13 @@
   "str_mod": 1.4500000000000002,
   "dex_mod": 1.5000000000000004,
   "rarity": 1.5,
-  "durability": 52.91285750274039,
+  "durability": 46.3713537528125,
   "max_durability": 124.0,
-  "volatility": 0.5000000000000003,
+  "volatility": 0.47000000000000036,
   "resilience": 0.7292481250360577,
   "worth": 100,
   "affinities": {
-    "Chaos": 0.1
+    "Chaos": 0.1,
+    "STR": 0.1
   }
 }
