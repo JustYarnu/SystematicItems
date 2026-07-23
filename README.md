@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-12582
+12607
 
 ## Oldest Item
-Mundane Rapier of Pestilence
+Silent Shard of Grace
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.63
-- Average Volatility: 0.51
-- Average Durability: 22.37
+- Average Rarity: 1.58
+- Average Volatility: 0.5
+- Average Durability: 28.36
 
 ## Dominant Factions
-- Order: 1.1
-- STR: 0.6
-- Stability: 0.4
+- Order: 0.9
+- STR: 0.4
+- Restoration: 0.3
 
 ## Extremes
-- Most Stable Item: Brittle Blade of Pestilence
+- Most Stable Item: Silent Shard of Grace
 - Most Volatile Item: Singed Shard of Carnage
 
 ## Recent Events
-- MUTATED: 'Glacial Relic of Judgement' evolved to generation 28.
+- STABLE: 'Singed Shard of Carnage' did not mutate this tick.
 - STABLE: 'Mortal Edge of Grace' did not mutate this tick.
-- STABLE: 'Mundane Rapier of Pestilence' did not mutate this tick.
+- STABLE: 'Brittle Blade of Pestilence' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 147
-- Items Archived: 137
+- Items Created: 148
+- Items Archived: 138
 - Avg Lifespan (ticks): 37.2
 
 ### Distribution chart
@@ -40,9 +40,9 @@ Mundane Rapier of Pestilence
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 12582
-- Successful Mutations: 5228
-- Failure Rate: 58.4%
+- Mutations Attempted: 12607
+- Successful Mutations: 5236
+- Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -56,8 +56,8 @@ Mundane Rapier of Pestilence
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 268800
-- Currency per Tick (avg): 21.36
+- Total Currency: 270350
+- Currency per Tick (avg): 21.44
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

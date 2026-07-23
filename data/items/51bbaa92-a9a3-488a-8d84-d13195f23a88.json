@@ -2,7 +2,7 @@
   "id": "51bbaa92-a9a3-488a-8d84-d13195f23a88",
   "name": "Mundane Bow of Blight",
   "type": "Ranged",
-  "generation": 32,
+  "generation": 33,
   "damage": 28.5,
   "damage_type": [
     "Physical",
@@ -12,11 +12,11 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.1,
-  "dex_mod": 1.6500000000000004,
+  "dex_mod": 1.7500000000000004,
   "rarity": 1,
-  "durability": 16.480000000000004,
+  "durability": 12.580000000000004,
   "max_durability": 109.0,
-  "volatility": 0.47000000000000003,
+  "volatility": 0.48000000000000004,
   "resilience": 0.7,
   "worth": 100,
   "affinities": {
