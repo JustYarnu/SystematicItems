@@ -2,7 +2,7 @@
   "id": "3431bf98-ac02-4cb1-90d6-46225a8feb89",
   "name": "Zealous Rapier of Grace",
   "type": "Generic",
-  "generation": 5,
+  "generation": 7,
   "damage": 15.0,
   "damage_type": [
     "Physical",
@@ -14,12 +14,13 @@
   "str_mod": 1.15,
   "dex_mod": 1.25,
   "rarity": 1,
-  "durability": 79.65,
+  "durability": 74.65,
   "max_durability": 100.0,
-  "volatility": 0.39000000000000007,
+  "volatility": 0.4000000000000001,
   "resilience": 0.5,
   "worth": 100,
   "affinities": {
-    "Order": 0.1
+    "Order": 0.2,
+    "DEX": 0.1
   }
 }

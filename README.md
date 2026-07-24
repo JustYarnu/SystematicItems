@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-12782
+12807
 
 ## Oldest Item
 Unstable Rapier of Storms
@@ -11,22 +11,22 @@ Unstable Rapier of Storms
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.43
-- Average Volatility: 0.42
-- Average Durability: 65.48
+- Average Volatility: 0.43
+- Average Durability: 62.26
 
 ## Dominant Factions
-- Order: 0.3
+- Order: 0.5
+- DEX: 0.3
 - Scarceness: 0.3
-- Stability: 0.2
 
 ## Extremes
-- Most Stable Item: Glacial Relic of Decay
+- Most Stable Item: Nimble Blade of Decay
 - Most Volatile Item: Unstable Rapier of Storms
 
 ## Recent Events
-- STABLE: 'Nimble Blade of Decay' did not mutate this tick.
-- MUTATED: 'Titanic Blade of Light' evolved to generation 35.
-- STABLE: 'Unstable Rapier of Storms' did not mutate this tick.
+- STABLE: 'Nimble Rapier of Blood' did not mutate this tick.
+- MUTATED: 'Nimble Blade of Decay' evolved to generation 2.
+- STABLE: 'Silent Shard of Grace' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 154
@@ -40,8 +40,8 @@ Unstable Rapier of Storms
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 12782
-- Successful Mutations: 5314
+- Mutations Attempted: 12807
+- Successful Mutations: 5326
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Unstable Rapier of Storms
 
 ## Economy
 - Total Currency: 281200
-- Currency per Tick (avg): 22.0
+- Currency per Tick (avg): 21.96
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
