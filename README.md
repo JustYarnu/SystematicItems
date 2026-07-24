@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-12682
+12707
 
 ## Oldest Item
 Zealous Rapier of Grace
@@ -11,12 +11,12 @@ Zealous Rapier of Grace
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.48
-- Average Volatility: 0.42
-- Average Durability: 60.57
+- Average Volatility: 0.44
+- Average Durability: 59.51
 
 ## Dominant Factions
-- Order: 0.5
-- STR: 0.3
+- Order: 0.6
+- Stability: 0.3
 - DEX: 0.3
 
 ## Extremes
@@ -24,9 +24,9 @@ Zealous Rapier of Grace
 - Most Volatile Item: Singed Shard of Carnage
 
 ## Recent Events
-- REPLACED WITH: 'Unstable Relic of Grace' (10f588df-70a0-4cf6-aae7-c162979b50e3)
-- STABLE: 'Mundane Rapier of Pestilence' did not mutate this tick.
-- MUTATED: 'Singed Shard of Carnage' evolved to generation 42.
+- MUTATED: 'Resolute Sigil of Might' evolved to generation 40.
+- MUTATED: 'Resolute Sigil of Might' evolved to generation 41.
+- MUTATED: 'Zealous Rapier of Grace' evolved to generation 2.
 
 ## Lifecycle Stats
 - Items Created: 152
@@ -40,8 +40,8 @@ Zealous Rapier of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 12682
-- Successful Mutations: 5271
+- Mutations Attempted: 12707
+- Successful Mutations: 5285
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Zealous Rapier of Grace
 
 ## Economy
 - Total Currency: 277200
-- Currency per Tick (avg): 21.86
+- Currency per Tick (avg): 21.81
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
