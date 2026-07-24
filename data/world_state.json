@@ -1,23 +1,23 @@
 {
-  "currency": 278850,
-  "tick": 12732,
+  "currency": 281200,
+  "tick": 12757,
   "mutation_stats": {
-    "attempted": 12732,
-    "success": 5293
+    "attempted": 12757,
+    "success": 5301
   },
   "recent_events": [
-    "STABLE: 'Resolute Sigil of Might' did not mutate this tick.",
-    "STABLE: 'Titanic Blade of Light' did not mutate this tick.",
-    "STABLE: 'Zealous Rapier of Grace' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of Pestilence' evolved to generation 22.",
-    "STABLE: 'Singed Shard of Carnage' did not mutate this tick.",
-    "STABLE: 'Glacial Relic of Decay' did not mutate this tick.",
-    "STABLE: 'Unstable Rapier of Storms' did not mutate this tick.",
-    "STABLE: 'Zealous Rapier of Grace' did not mutate this tick.",
+    "STABLE: 'Silent Shard of Grace' did not mutate this tick.",
     "STABLE: 'Unstable Relic of Grace' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Pestilence' did not mutate this tick."
+    "MUTATED: 'Silent Shard of Grace' evolved to generation 6.",
+    "MUTATED: 'Singed Shard of Carnage' evolved to generation 43.",
+    "STABLE: 'Silent Shard of Grace' did not mutate this tick.",
+    "MUTATED: 'Unstable Relic of Grace' evolved to generation 4.",
+    "STABLE: 'Unstable Relic of Grace' did not mutate this tick.",
+    "STABLE: 'Resolute Sigil of Might' did not mutate this tick.",
+    "REPLACED WITH: 'Nimble Blade of Decay' (8c571369-0e45-4ccb-bf35-f1f6bdd10ec4)",
+    "STABLE: 'Nimble Blade of Decay' did not mutate this tick."
   ],
-  "created": 153,
-  "avg_lifespan": 37.0,
-  "archived": 143
+  "created": 154,
+  "avg_lifespan": 37.05555555555556,
+  "archived": 144
 }
