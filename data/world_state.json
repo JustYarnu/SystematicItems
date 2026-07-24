@@ -1,21 +1,21 @@
 {
   "currency": 283700,
-  "tick": 12857,
+  "tick": 12882,
   "mutation_stats": {
-    "attempted": 12857,
-    "success": 5346
+    "attempted": 12882,
+    "success": 5352
   },
   "recent_events": [
-    "MUTATED: 'Mundane Rapier of Pestilence' evolved to generation 28.",
-    "STABLE: 'Nimble Rapier of Blood' did not mutate this tick.",
-    "MUTATED: 'Titanic Blade of Light' evolved to generation 39.",
+    "STABLE: 'Zealous Rapier of Grace' did not mutate this tick.",
+    "MUTATED: 'Unstable Relic of Grace' evolved to generation 6.",
+    "MUTATED: 'Nimble Rapier of Blood' evolved to generation 5.",
+    "STABLE: 'Unstable Relic of Grace' did not mutate this tick.",
     "STABLE: 'Zealous Rapier of Grace' did not mutate this tick.",
     "STABLE: 'Nimble Rapier of Blood' did not mutate this tick.",
-    "MUTATED: 'Titanic Blade of Light' evolved to generation 40.",
-    "MUTATED: 'Unstable Rapier of Storms' evolved to generation 5.",
-    "MUTATED: 'Mundane Rapier of Pestilence' evolved to generation 29.",
-    "MUTATED: 'Titanic Blade of Light' evolved to generation 41.",
-    "MUTATED: 'Silent Shard of Grace' evolved to generation 15."
+    "STABLE: 'Rusty Relic of Frost' did not mutate this tick.",
+    "STABLE: 'Nimble Blade of Decay' did not mutate this tick.",
+    "STABLE: 'Glacial Relic of Decay' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Pestilence' did not mutate this tick."
   ],
   "created": 155,
   "avg_lifespan": 37.13103448275862,
