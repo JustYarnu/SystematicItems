@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-12907
+12932
 
 ## Oldest Item
 Rusty Relic of Frost
@@ -11,22 +11,22 @@ Rusty Relic of Frost
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.18
-- Average Volatility: 0.39
-- Average Durability: 62.88
+- Average Volatility: 0.42
+- Average Durability: 60.1
 
 ## Dominant Factions
 - Order: 0.8
 - Chaos: 0.4
-- DEX: 0.3
+- DEX: 0.4
 
 ## Extremes
-- Most Stable Item: Rusty Relic of Frost
-- Most Volatile Item: Titanic Blade of Light
+- Most Stable Item: Nimble Blade of Decay
+- Most Volatile Item: Unstable Relic of Grace
 
 ## Recent Events
-- MUTATED: 'Unstable Relic of Grace' evolved to generation 8.
-- STABLE: 'Mundane Rapier of Pestilence' did not mutate this tick.
-- MUTATED: 'Silent Shard of Grace' evolved to generation 18.
+- STABLE: 'Nimble Blade of Decay' did not mutate this tick.
+- STABLE: 'Unstable Rapier of Storms' did not mutate this tick.
+- STABLE: 'Titanic Blade of Light' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 155
@@ -40,8 +40,8 @@ Rusty Relic of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 12907
-- Successful Mutations: 5364
+- Mutations Attempted: 12932
+- Successful Mutations: 5374
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Rusty Relic of Frost
 
 ## Economy
 - Total Currency: 283700
-- Currency per Tick (avg): 21.98
+- Currency per Tick (avg): 21.94
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

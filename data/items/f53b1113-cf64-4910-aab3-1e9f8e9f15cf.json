@@ -2,8 +2,8 @@
   "id": "f53b1113-cf64-4910-aab3-1e9f8e9f15cf",
   "name": "Rusty Relic of Frost",
   "type": "Artifact",
-  "generation": 1,
-  "damage": 10.0,
+  "generation": 3,
+  "damage": 11.5,
   "damage_type": [
     "Physical",
     "Holy",
@@ -11,13 +11,13 @@
   ],
   "crit_damage": 2,
   "crit_rate": 0.01,
-  "str_mod": 1.0,
+  "str_mod": 1.1,
   "dex_mod": 1.0,
   "rarity": 1.5,
-  "durability": 79.0,
+  "durability": 70.12,
   "max_durability": 105.0,
-  "volatility": 0.16000000000000003,
-  "resilience": 0.73,
+  "volatility": 0.26000000000000006,
+  "resilience": 0.6799999999999999,
   "worth": 100,
   "affinities": {}
 }
