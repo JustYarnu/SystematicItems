@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-12832
+12857
 
 ## Oldest Item
-Unstable Rapier of Storms
+Rusty Relic of Frost
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.18
-- Average Volatility: 0.4
-- Average Durability: 67.19
+- Average Volatility: 0.38
+- Average Durability: 67.44
 
 ## Dominant Factions
-- Order: 0.4
+- Order: 0.5
+- Chaos: 0.3
 - DEX: 0.3
-- Stability: 0.2
 
 ## Extremes
 - Most Stable Item: Rusty Relic of Frost
-- Most Volatile Item: Unstable Rapier of Storms
+- Most Volatile Item: Unstable Relic of Grace
 
 ## Recent Events
-- STABLE: 'Glacial Relic of Decay' did not mutate this tick.
-- STABLE: 'Glacial Relic of Decay' did not mutate this tick.
-- STABLE: 'Nimble Blade of Decay' did not mutate this tick.
+- MUTATED: 'Mundane Rapier of Pestilence' evolved to generation 29.
+- MUTATED: 'Titanic Blade of Light' evolved to generation 41.
+- MUTATED: 'Silent Shard of Grace' evolved to generation 15.
 
 ## Lifecycle Stats
 - Items Created: 155
@@ -40,9 +40,9 @@ Unstable Rapier of Storms
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 12832
-- Successful Mutations: 5331
-- Failure Rate: 58.5%
+- Mutations Attempted: 12857
+- Successful Mutations: 5346
+- Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Unstable Rapier of Storms
 
 ## Economy
 - Total Currency: 283700
-- Currency per Tick (avg): 22.11
+- Currency per Tick (avg): 22.07
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
