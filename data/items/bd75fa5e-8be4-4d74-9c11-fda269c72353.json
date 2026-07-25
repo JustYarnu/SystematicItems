@@ -2,8 +2,8 @@
   "id": "bd75fa5e-8be4-4d74-9c11-fda269c72353",
   "name": "Glacial Relic of Decay",
   "type": "Artifact",
-  "generation": 16,
-  "damage": 23.0,
+  "generation": 19,
+  "damage": 24.5,
   "damage_type": [
     "Physical",
     "Cold",
@@ -11,15 +11,16 @@
   ],
   "crit_damage": 2,
   "crit_rate": 0.01,
-  "str_mod": 1.0,
+  "str_mod": 1.1,
   "dex_mod": 0.8500000000000001,
   "rarity": 1.5,
-  "durability": 35.63917312647836,
-  "max_durability": 127.0,
-  "volatility": 0.4300000000000002,
-  "resilience": 0.7292481250360577,
+  "durability": 26.893910001730767,
+  "max_durability": 132.0,
+  "volatility": 0.4400000000000002,
+  "resilience": 0.7792481250360578,
   "worth": 100,
   "affinities": {
-    "Order": 0.2
+    "Order": 0.2,
+    "Stability": 0.1
   }
 }
