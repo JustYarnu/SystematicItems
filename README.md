@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-13207
+13232
 
 ## Oldest Item
 Brittle Relic of Iron
@@ -11,12 +11,12 @@ Brittle Relic of Iron
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.53
-- Average Volatility: 0.47
-- Average Durability: 32.75
+- Average Volatility: 0.45
+- Average Durability: 29.18
 
 ## Dominant Factions
 - Order: 1.2
-- Chaos: 0.8
+- Chaos: 1.0
 - Stability: 0.5
 
 ## Extremes
@@ -24,9 +24,9 @@ Brittle Relic of Iron
 - Most Volatile Item: Unstable Relic of Grace
 
 ## Recent Events
-- STABLE: 'Nimble Rapier of Blood' did not mutate this tick.
-- STABLE: 'Silent Shard of Grace' did not mutate this tick.
-- STABLE: 'Zealous Rapier of Grace' did not mutate this tick.
+- MUTATED: 'Zealous Rapier of Grace' evolved to generation 24.
+- MUTATED: 'Glacial Relic of Decay' evolved to generation 24.
+- MUTATED: 'Rusty Relic of Frost' evolved to generation 10.
 
 ## Lifecycle Stats
 - Items Created: 156
@@ -40,8 +40,8 @@ Brittle Relic of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 13207
-- Successful Mutations: 5502
+- Mutations Attempted: 13232
+- Successful Mutations: 5518
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Brittle Relic of Iron
 
 ## Economy
 - Total Currency: 286250
-- Currency per Tick (avg): 21.67
+- Currency per Tick (avg): 21.63
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
