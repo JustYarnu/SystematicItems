@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-12982
+13007
 
 ## Oldest Item
 Nimble Blade of Decay
@@ -12,21 +12,21 @@ Nimble Blade of Decay
 - Active Items: 10
 - Average Rarity: 1.18
 - Average Volatility: 0.42
-- Average Durability: 54.9
+- Average Durability: 48.99
 
 ## Dominant Factions
-- Order: 0.8
+- Order: 0.9
 - DEX: 0.5
 - Chaos: 0.4
 
 ## Extremes
 - Most Stable Item: Nimble Blade of Decay
-- Most Volatile Item: Titanic Blade of Light
+- Most Volatile Item: Unstable Rapier of Storms
 
 ## Recent Events
-- STABLE: 'Zealous Rapier of Grace' did not mutate this tick.
-- STABLE: 'Glacial Relic of Decay' did not mutate this tick.
-- STABLE: 'Zealous Rapier of Grace' did not mutate this tick.
+- MUTATED: 'Unstable Rapier of Storms' evolved to generation 13.
+- STABLE: 'Nimble Rapier of Blood' did not mutate this tick.
+- MUTATED: 'Silent Shard of Grace' evolved to generation 29.
 
 ## Lifecycle Stats
 - Items Created: 155
@@ -40,9 +40,9 @@ Nimble Blade of Decay
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 12982
-- Successful Mutations: 5393
-- Failure Rate: 58.5%
+- Mutations Attempted: 13007
+- Successful Mutations: 5408
+- Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Nimble Blade of Decay
 
 ## Economy
 - Total Currency: 283700
-- Currency per Tick (avg): 21.85
+- Currency per Tick (avg): 21.81
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
