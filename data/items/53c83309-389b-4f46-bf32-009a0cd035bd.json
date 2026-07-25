@@ -2,7 +2,7 @@
   "id": "53c83309-389b-4f46-bf32-009a0cd035bd",
   "name": "Unstable Rapier of Storms",
   "type": "Generic",
-  "generation": 16,
+  "generation": 18,
   "damage": 38.0,
   "damage_type": [
     "Physical",
@@ -12,12 +12,12 @@
   "crit_damage": 2.5,
   "crit_rate": 0.01,
   "str_mod": 1.2000000000000002,
-  "dex_mod": 1.1,
+  "dex_mod": 1.2000000000000002,
   "rarity": 1,
-  "durability": 34.75,
+  "durability": 25.509999999999998,
   "max_durability": 107.0,
   "volatility": 0.51,
-  "resilience": 0.6000000000000001,
+  "resilience": 0.68,
   "worth": 100,
   "affinities": {
     "Chaos": 0.2
