@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-13357
+13382
 
 ## Oldest Item
 Echoing Shard of Iron
@@ -11,22 +11,22 @@ Echoing Shard of Iron
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.48
-- Average Volatility: 0.4
-- Average Durability: 43.79
+- Average Volatility: 0.41
+- Average Durability: 39.36
 
 ## Dominant Factions
 - DEX: 0.8
 - Order: 0.7
-- Stability: 0.3
+- Stability: 0.4
 
 ## Extremes
-- Most Stable Item: Brittle Relic of Iron
+- Most Stable Item: Silent Spear of Gales
 - Most Volatile Item: Silent Shard of Grace
 
 ## Recent Events
-- MUTATED: 'Rusty Relic of Frost' evolved to generation 14.
-- MUTATED: 'Phantom Shard of Light' evolved to generation 3.
-- MUTATED: 'Zealous Rapier of Grace' evolved to generation 35.
+- STABLE: 'Rusty Relic of Frost' did not mutate this tick.
+- STABLE: 'Brittle Relic of Iron' did not mutate this tick.
+- MUTATED: 'Brittle Relic of Iron' evolved to generation 3.
 
 ## Lifecycle Stats
 - Items Created: 159
@@ -40,8 +40,8 @@ Echoing Shard of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 13357
-- Successful Mutations: 5574
+- Mutations Attempted: 13382
+- Successful Mutations: 5584
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Echoing Shard of Iron
 
 ## Economy
 - Total Currency: 293000
-- Currency per Tick (avg): 21.94
+- Currency per Tick (avg): 21.9
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

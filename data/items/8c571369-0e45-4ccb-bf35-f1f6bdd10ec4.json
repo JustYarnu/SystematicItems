@@ -2,7 +2,7 @@
   "id": "8c571369-0e45-4ccb-bf35-f1f6bdd10ec4",
   "name": "Nimble Blade of Decay",
   "type": "Sword",
-  "generation": 15,
+  "generation": 16,
   "damage": 9.5,
   "damage_type": [
     "Physical",
@@ -13,13 +13,14 @@
   "str_mod": 1.1500000000000001,
   "dex_mod": 1.6500000000000001,
   "rarity": 1,
-  "durability": 11.069999999999993,
+  "durability": 8.069999999999993,
   "max_durability": 85.0,
-  "volatility": 0.4800000000000003,
+  "volatility": 0.4900000000000003,
   "resilience": 0.58,
   "worth": 100,
   "affinities": {
     "Order": 0.1,
-    "DEX": 0.2
+    "DEX": 0.2,
+    "Stability": 0.1
   }
 }
