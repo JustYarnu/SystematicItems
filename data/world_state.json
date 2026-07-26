@@ -1,21 +1,21 @@
 {
   "currency": 295400,
-  "tick": 13432,
+  "tick": 13457,
   "mutation_stats": {
-    "attempted": 13432,
-    "success": 5603
+    "attempted": 13457,
+    "success": 5609
   },
   "recent_events": [
-    "MUTATED: 'Zealous Sigil of the Deep' evolved to generation 2.",
-    "MUTATED: 'Echoing Shard of Iron' evolved to generation 4.",
     "STABLE: 'Zealous Sigil of the Deep' did not mutate this tick.",
-    "MUTATED: 'Zealous Rapier of Grace' evolved to generation 37.",
-    "MUTATED: 'Rusty Relic of Frost' evolved to generation 17.",
+    "MUTATED: 'Nimble Rapier of Blood' evolved to generation 29.",
+    "STABLE: 'Silent Spear of Gales' did not mutate this tick.",
+    "STABLE: 'Rusty Relic of Frost' did not mutate this tick.",
+    "STABLE: 'Echoing Shard of Iron' did not mutate this tick.",
     "STABLE: 'Mundane Blade of Eternity' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Eternity' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Eternity' did not mutate this tick.",
-    "MUTATED: 'Echoing Shard of Iron' evolved to generation 5.",
-    "STABLE: 'Brittle Relic of Iron' did not mutate this tick."
+    "STABLE: 'Echoing Shard of Iron' did not mutate this tick.",
+    "STABLE: 'Phantom Shard of Light' did not mutate this tick.",
+    "STABLE: 'Silent Spear of Gales' did not mutate this tick.",
+    "STABLE: 'Silent Shard of Grace' did not mutate this tick."
   ],
   "created": 161,
   "avg_lifespan": 37.12582781456954,
