@@ -2,7 +2,7 @@
   "id": "3a2bcbed-1100-4156-84a4-980de61ae38a",
   "name": "Silent Shard of Grace",
   "type": "Dagger",
-  "generation": 58,
+  "generation": 60,
   "damage": 16.0,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "str_mod": 1.4000000000000004,
   "dex_mod": 1.9000000000000004,
   "rarity": 1,
-  "durability": 10.219999999999976,
-  "max_durability": 90.0,
-  "volatility": 0.53,
-  "resilience": 0.75,
+  "durability": 3.7199999999999758,
+  "max_durability": 85.0,
+  "volatility": 0.55,
+  "resilience": 0.7,
   "worth": 100,
   "affinities": {
     "Stability": 0.2,
