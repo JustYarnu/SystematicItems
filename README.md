@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-13307
+13332
 
 ## Oldest Item
 Silent Spear of Gales
@@ -11,21 +11,21 @@ Silent Spear of Gales
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.63
-- Average Volatility: 0.43
-- Average Durability: 29.75
+- Average Volatility: 0.42
+- Average Durability: 28.29
 
 ## Dominant Factions
 - Order: 1.0
 - Chaos: 0.8
-- Stability: 0.6
+- DEX: 0.7
 
 ## Extremes
 - Most Stable Item: Brittle Relic of Iron
-- Most Volatile Item: Unstable Relic of Grace
+- Most Volatile Item: Titanic Blade of Light
 
 ## Recent Events
-- STABLE: 'Nimble Blade of Decay' did not mutate this tick.
-- STABLE: 'Nimble Rapier of Blood' did not mutate this tick.
+- MUTATED: 'Nimble Blade of Decay' evolved to generation 15.
+- MUTATED: 'Zealous Rapier of Grace' evolved to generation 33.
 - STABLE: 'Titanic Blade of Light' did not mutate this tick.
 
 ## Lifecycle Stats
@@ -40,8 +40,8 @@ Silent Spear of Gales
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 13307
-- Successful Mutations: 5554
+- Mutations Attempted: 13332
+- Successful Mutations: 5563
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Silent Spear of Gales
 
 ## Economy
 - Total Currency: 287950
-- Currency per Tick (avg): 21.64
+- Currency per Tick (avg): 21.6
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

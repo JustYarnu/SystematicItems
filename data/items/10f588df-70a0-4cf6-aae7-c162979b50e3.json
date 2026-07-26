@@ -2,7 +2,7 @@
   "id": "10f588df-70a0-4cf6-aae7-c162979b50e3",
   "name": "Unstable Relic of Grace",
   "type": "Artifact",
-  "generation": 30,
+  "generation": 31,
   "damage": 26.5,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.1,
   "dex_mod": 1.4500000000000002,
   "rarity": 2.5,
-  "durability": 4.420000000000009,
-  "max_durability": 92.0,
-  "volatility": 0.5860964047443681,
-  "resilience": 0.76,
+  "durability": 0.4200000000000088,
+  "max_durability": 102.0,
+  "volatility": 0.5060964047443681,
+  "resilience": 0.8160964047443681,
   "worth": 100,
   "affinities": {
     "Order": 0.1,
