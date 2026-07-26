@@ -3,20 +3,20 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-13407
+13432
 
 ## Oldest Item
-Zealous Sigil of the Deep
+Mundane Blade of Eternity
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.68
-- Average Volatility: 0.38
-- Average Durability: 55.54
+- Average Rarity: 1.78
+- Average Volatility: 0.37
+- Average Durability: 53.63
 
 ## Dominant Factions
 - DEX: 0.6
-- Order: 0.4
+- Order: 0.5
 - STR: 0.3
 
 ## Extremes
@@ -24,9 +24,9 @@ Zealous Sigil of the Deep
 - Most Volatile Item: Silent Shard of Grace
 
 ## Recent Events
-- MUTATED: 'Phantom Shard of Light' evolved to generation 7.
-- STABLE: 'Silent Spear of Gales' did not mutate this tick.
-- MUTATED: 'Nimble Rapier of Blood' evolved to generation 27.
+- STABLE: 'Mundane Blade of Eternity' did not mutate this tick.
+- MUTATED: 'Echoing Shard of Iron' evolved to generation 5.
+- STABLE: 'Brittle Relic of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 161
@@ -40,15 +40,15 @@ Zealous Sigil of the Deep
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 13407
-- Successful Mutations: 5593
+- Mutations Attempted: 13432
+- Successful Mutations: 5603
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 3
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Zealous Sigil of the Deep
 
 ## Economy
 - Total Currency: 295400
-- Currency per Tick (avg): 22.03
+- Currency per Tick (avg): 21.99
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
