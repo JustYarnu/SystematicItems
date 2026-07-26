@@ -1,23 +1,23 @@
 {
-  "currency": 293000,
-  "tick": 13382,
+  "currency": 295400,
+  "tick": 13407,
   "mutation_stats": {
-    "attempted": 13382,
-    "success": 5584
+    "attempted": 13407,
+    "success": 5593
   },
   "recent_events": [
-    "MUTATED: 'Zealous Rapier of Grace' evolved to generation 36.",
-    "STABLE: 'Nimble Rapier of Blood' did not mutate this tick.",
-    "MUTATED: 'Nimble Rapier of Blood' evolved to generation 26.",
-    "STABLE: 'Glacial Relic of Decay' did not mutate this tick.",
-    "MUTATED: 'Nimble Blade of Decay' evolved to generation 16.",
-    "STABLE: 'Echoing Shard of Iron' did not mutate this tick.",
-    "STABLE: 'Glacial Relic of Decay' did not mutate this tick.",
-    "STABLE: 'Rusty Relic of Frost' did not mutate this tick.",
+    "MUTATED: 'Nimble Blade of Decay' evolved to generation 17.",
+    "MUTATED: 'Nimble Blade of Decay' evolved to generation 18.",
+    "MUTATED: 'Brittle Relic of Iron' evolved to generation 4.",
     "STABLE: 'Brittle Relic of Iron' did not mutate this tick.",
-    "MUTATED: 'Brittle Relic of Iron' evolved to generation 3."
+    "STABLE: 'Echoing Shard of Iron' did not mutate this tick.",
+    "STABLE: 'Nimble Blade of Decay' did not mutate this tick.",
+    "REPLACED WITH: 'Zealous Sigil of the Deep' (097ce1c4-4264-4733-807e-e2a6a3cd948d)",
+    "MUTATED: 'Phantom Shard of Light' evolved to generation 7.",
+    "STABLE: 'Silent Spear of Gales' did not mutate this tick.",
+    "MUTATED: 'Nimble Rapier of Blood' evolved to generation 27."
   ],
-  "created": 159,
-  "avg_lifespan": 37.328859060402685,
-  "archived": 149
+  "created": 161,
+  "avg_lifespan": 37.12582781456954,
+  "archived": 151
 }
