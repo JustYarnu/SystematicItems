@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-13657
+13682
 
 ## Oldest Item
 Singed Edge of Grace
@@ -11,8 +11,8 @@ Singed Edge of Grace
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.46
-- Average Volatility: 0.33
-- Average Durability: 74.31
+- Average Volatility: 0.34
+- Average Durability: 72.05
 
 ## Dominant Factions
 - DEX: 0.3
@@ -24,9 +24,9 @@ Singed Edge of Grace
 - Most Volatile Item: Echoing Shard of Iron
 
 ## Recent Events
-- STABLE: 'Mundane Rapier of Flame' did not mutate this tick.
-- MUTATED: 'Verdant Blade of Light' evolved to generation 2.
-- MUTATED: 'Mundane Blade of Eternity' evolved to generation 7.
+- STABLE: 'Silent Spear of Gales' did not mutate this tick.
+- MUTATED: 'Silent Spear of Gales' evolved to generation 14.
+- STABLE: 'Titanic Axe of Whispers' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 165
@@ -40,8 +40,8 @@ Singed Edge of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 13657
-- Successful Mutations: 5684
+- Mutations Attempted: 13682
+- Successful Mutations: 5691
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Singed Edge of Grace
 
 ## Economy
 - Total Currency: 303950
-- Currency per Tick (avg): 22.26
+- Currency per Tick (avg): 22.22
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
