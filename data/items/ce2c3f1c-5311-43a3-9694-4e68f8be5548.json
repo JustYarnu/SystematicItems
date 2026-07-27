@@ -2,7 +2,7 @@
   "id": "ce2c3f1c-5311-43a3-9694-4e68f8be5548",
   "name": "Silent Spear of Gales",
   "type": "Polearm",
-  "generation": 16,
+  "generation": 18,
   "damage": 14.5,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.4799999999999998,
   "rarity": 1,
-  "durability": 20.439999999999994,
+  "durability": 27.359999999999992,
   "max_durability": 104.0,
-  "volatility": 0.46000000000000035,
+  "volatility": 0.48000000000000037,
   "resilience": 0.4799999999999999,
   "worth": 100,
   "affinities": {
