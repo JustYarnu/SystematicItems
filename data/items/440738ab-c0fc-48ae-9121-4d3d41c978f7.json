@@ -2,8 +2,8 @@
   "id": "440738ab-c0fc-48ae-9121-4d3d41c978f7",
   "name": "Singed Edge of Grace",
   "type": "Sword",
-  "generation": 2,
-  "damage": 13.0,
+  "generation": 4,
+  "damage": 18.0,
   "damage_type": [
     "Physical",
     "Fire"
@@ -11,12 +11,14 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.0,
-  "dex_mod": 1.4500000000000002,
+  "dex_mod": 1.35,
   "rarity": 1,
-  "durability": 80.5,
+  "durability": 72.0,
   "max_durability": 95.0,
-  "volatility": 0.21000000000000008,
+  "volatility": 0.2300000000000001,
   "resilience": 0.5,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "DEX": 0.1
+  }
 }
