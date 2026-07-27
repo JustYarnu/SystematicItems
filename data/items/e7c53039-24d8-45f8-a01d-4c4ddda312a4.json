@@ -2,7 +2,7 @@
   "id": "e7c53039-24d8-45f8-a01d-4c4ddda312a4",
   "name": "Brittle Relic of Iron",
   "type": "Artifact",
-  "generation": 8,
+  "generation": 9,
   "damage": 24.0,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.1,
   "rarity": 1.5,
-  "durability": 38.379473750504815,
+  "durability": 34.83797000057693,
   "max_durability": 120.0,
-  "volatility": 0.29000000000000026,
+  "volatility": 0.2500000000000003,
   "resilience": 0.7292481250360577,
   "worth": 100,
   "affinities": {}
