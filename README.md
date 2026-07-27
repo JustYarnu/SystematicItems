@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-13682
+13707
 
 ## Oldest Item
-Singed Edge of Grace
+Titanic Axe of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.46
-- Average Volatility: 0.34
-- Average Durability: 72.05
+- Average Volatility: 0.35
+- Average Durability: 67.54
 
 ## Dominant Factions
 - DEX: 0.3
 - Chaos: 0.2
-- STR: 0.1
+- Order: 0.2
 
 ## Extremes
 - Most Stable Item: Titanic Axe of Whispers
-- Most Volatile Item: Echoing Shard of Iron
+- Most Volatile Item: Silent Spear of Gales
 
 ## Recent Events
-- STABLE: 'Silent Spear of Gales' did not mutate this tick.
-- MUTATED: 'Silent Spear of Gales' evolved to generation 14.
-- STABLE: 'Titanic Axe of Whispers' did not mutate this tick.
+- STABLE: 'Brittle Relic of Iron' did not mutate this tick.
+- STABLE: 'Brittle Relic of Iron' did not mutate this tick.
+- MUTATED: 'Singed Edge of Grace' evolved to generation 2.
 
 ## Lifecycle Stats
 - Items Created: 165
@@ -40,8 +40,8 @@ Singed Edge of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 13682
-- Successful Mutations: 5691
+- Mutations Attempted: 13707
+- Successful Mutations: 5700
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Singed Edge of Grace
 
 ## Economy
 - Total Currency: 303950
-- Currency per Tick (avg): 22.22
+- Currency per Tick (avg): 22.17
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
