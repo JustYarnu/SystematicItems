@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-13707
+13732
 
 ## Oldest Item
 Titanic Axe of Whispers
@@ -11,8 +11,8 @@ Titanic Axe of Whispers
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.46
-- Average Volatility: 0.35
-- Average Durability: 67.54
+- Average Volatility: 0.36
+- Average Durability: 62.84
 
 ## Dominant Factions
 - DEX: 0.3
@@ -21,12 +21,12 @@ Titanic Axe of Whispers
 
 ## Extremes
 - Most Stable Item: Titanic Axe of Whispers
-- Most Volatile Item: Silent Spear of Gales
+- Most Volatile Item: Phantom Shard of Light
 
 ## Recent Events
-- STABLE: 'Brittle Relic of Iron' did not mutate this tick.
-- STABLE: 'Brittle Relic of Iron' did not mutate this tick.
-- MUTATED: 'Singed Edge of Grace' evolved to generation 2.
+- STABLE: 'Verdant Blade of Light' did not mutate this tick.
+- MUTATED: 'Echoing Shard of Iron' evolved to generation 21.
+- STABLE: 'Mundane Rapier of Flame' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 165
@@ -40,8 +40,8 @@ Titanic Axe of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 13707
-- Successful Mutations: 5700
+- Mutations Attempted: 13732
+- Successful Mutations: 5708
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Titanic Axe of Whispers
 
 ## Economy
 - Total Currency: 303950
-- Currency per Tick (avg): 22.17
+- Currency per Tick (avg): 22.13
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
