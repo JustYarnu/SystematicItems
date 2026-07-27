@@ -1,23 +1,23 @@
 {
-  "currency": 302500,
-  "tick": 13632,
+  "currency": 303950,
+  "tick": 13657,
   "mutation_stats": {
-    "attempted": 13632,
-    "success": 5677
+    "attempted": 13657,
+    "success": 5684
   },
   "recent_events": [
-    "STABLE: 'Singed Edge of Grace' did not mutate this tick.",
-    "MUTATED: 'Brittle Relic of Iron' evolved to generation 10.",
     "STABLE: 'Echoing Shard of Iron' did not mutate this tick.",
     "STABLE: 'Singed Edge of Grace' did not mutate this tick.",
-    "MUTATED: 'Phantom Shard of Light' evolved to generation 13.",
-    "STABLE: 'Silent Spear of Gales' did not mutate this tick.",
-    "MUTATED: 'Phantom Shard of Light' evolved to generation 14.",
-    "STABLE: 'Mundane Blade of Eternity' did not mutate this tick.",
+    "STABLE: 'Singed Edge of Grace' did not mutate this tick.",
+    "STABLE: 'Titanic Axe of Whispers' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Flame' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Flame' did not mutate this tick.",
     "STABLE: 'Verdant Blade of Light' did not mutate this tick.",
-    "STABLE: 'Phantom Shard of Light' did not mutate this tick."
+    "STABLE: 'Mundane Rapier of Flame' did not mutate this tick.",
+    "MUTATED: 'Verdant Blade of Light' evolved to generation 2.",
+    "MUTATED: 'Mundane Blade of Eternity' evolved to generation 7."
   ],
-  "created": 164,
-  "avg_lifespan": 37.28571428571429,
-  "archived": 154
+  "created": 165,
+  "avg_lifespan": 37.219354838709684,
+  "archived": 155
 }

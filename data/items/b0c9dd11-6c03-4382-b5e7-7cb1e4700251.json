@@ -2,7 +2,7 @@
   "id": "b0c9dd11-6c03-4382-b5e7-7cb1e4700251",
   "name": "Phantom Shard of Light",
   "type": "Dagger",
-  "generation": 14,
+  "generation": 15,
   "damage": 16.5,
   "damage_type": [
     "Physical",
@@ -15,10 +15,10 @@
   "str_mod": 1.1,
   "dex_mod": 1.2,
   "rarity": 1.3,
-  "durability": 70.48603255511492,
-  "max_durability": 102.0,
-  "volatility": 0.5789255811626866,
-  "resilience": 0.7189255811626865,
+  "durability": 67.48603255511492,
+  "max_durability": 112.0,
+  "volatility": 0.4889255811626866,
+  "resilience": 0.7689255811626865,
   "worth": 100,
   "affinities": {
     "DEX": 0.2,
