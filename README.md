@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-13557
+13582
 
 ## Oldest Item
-Mundane Rapier of Flame
+Singed Edge of Grace
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.61
-- Average Volatility: 0.36
-- Average Durability: 61.61
+- Average Volatility: 0.33
+- Average Durability: 68.81
 
 ## Dominant Factions
-- DEX: 0.5
 - Chaos: 0.4
-- STR: 0.3
+- DEX: 0.3
+- STR: 0.2
 
 ## Extremes
-- Most Stable Item: Verdant Blade of Light
-- Most Volatile Item: Silent Shard of Grace
+- Most Stable Item: Singed Edge of Grace
+- Most Volatile Item: Phantom Shard of Light
 
 ## Recent Events
-- STABLE: 'Echoing Shard of Iron' did not mutate this tick.
-- MUTATED: 'Silent Shard of Grace' evolved to generation 60.
-- STABLE: 'Echoing Shard of Iron' did not mutate this tick.
+- MUTATED: 'Rusty Relic of Frost' evolved to generation 25.
+- STABLE: 'Silent Spear of Gales' did not mutate this tick.
+- STABLE: 'Brittle Relic of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 163
-- Items Archived: 153
-- Avg Lifespan (ticks): 37.1
+- Items Created: 164
+- Items Archived: 154
+- Avg Lifespan (ticks): 37.3
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,8 +40,8 @@ Mundane Rapier of Flame
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 13557
-- Successful Mutations: 5650
+- Mutations Attempted: 13582
+- Successful Mutations: 5659
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Mundane Rapier of Flame
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 299300
-- Currency per Tick (avg): 22.08
+- Total Currency: 302500
+- Currency per Tick (avg): 22.27
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

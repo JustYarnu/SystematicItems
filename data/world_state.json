@@ -1,23 +1,23 @@
 {
-  "currency": 299300,
-  "tick": 13557,
+  "currency": 302500,
+  "tick": 13582,
   "mutation_stats": {
-    "attempted": 13557,
-    "success": 5650
+    "attempted": 13582,
+    "success": 5659
   },
   "recent_events": [
-    "STABLE: 'Verdant Blade of Light' did not mutate this tick.",
-    "STABLE: 'Brittle Relic of Iron' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of Eternity' evolved to generation 2.",
-    "STABLE: 'Echoing Shard of Iron' did not mutate this tick.",
-    "STABLE: 'Rusty Relic of Frost' did not mutate this tick.",
-    "MUTATED: 'Brittle Relic of Iron' evolved to generation 8.",
+    "MUTATED: 'Silent Shard of Grace' evolved to generation 61.",
+    "MUTATED: 'Phantom Shard of Light' evolved to generation 12.",
+    "MUTATED: 'Echoing Shard of Iron' evolved to generation 13.",
     "STABLE: 'Phantom Shard of Light' did not mutate this tick.",
-    "STABLE: 'Echoing Shard of Iron' did not mutate this tick.",
-    "MUTATED: 'Silent Shard of Grace' evolved to generation 60.",
-    "STABLE: 'Echoing Shard of Iron' did not mutate this tick."
+    "MUTATED: 'Rusty Relic of Frost' evolved to generation 24.",
+    "MUTATED: 'Silent Shard of Grace' evolved to generation 62.",
+    "REPLACED WITH: 'Singed Edge of Grace' (440738ab-c0fc-48ae-9121-4d3d41c978f7)",
+    "MUTATED: 'Rusty Relic of Frost' evolved to generation 25.",
+    "STABLE: 'Silent Spear of Gales' did not mutate this tick.",
+    "STABLE: 'Brittle Relic of Iron' did not mutate this tick."
   ],
-  "created": 163,
-  "avg_lifespan": 37.12418300653595,
-  "archived": 153
+  "created": 164,
+  "avg_lifespan": 37.28571428571429,
+  "archived": 154
 }
