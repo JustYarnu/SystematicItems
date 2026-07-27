@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-13607
+13632
 
 ## Oldest Item
 Singed Edge of Grace
@@ -11,8 +11,8 @@ Singed Edge of Grace
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.71
-- Average Volatility: 0.35
-- Average Durability: 65.82
+- Average Volatility: 0.36
+- Average Durability: 63.09
 
 ## Dominant Factions
 - Chaos: 0.4
@@ -24,9 +24,9 @@ Singed Edge of Grace
 - Most Volatile Item: Phantom Shard of Light
 
 ## Recent Events
-- STABLE: 'Rusty Relic of Frost' did not mutate this tick.
-- MUTATED: 'Zealous Sigil of the Deep' evolved to generation 9.
-- MUTATED: 'Mundane Rapier of Flame' evolved to generation 5.
+- STABLE: 'Mundane Blade of Eternity' did not mutate this tick.
+- STABLE: 'Verdant Blade of Light' did not mutate this tick.
+- STABLE: 'Phantom Shard of Light' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 164
@@ -40,9 +40,9 @@ Singed Edge of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 13607
-- Successful Mutations: 5670
-- Failure Rate: 58.3%
+- Mutations Attempted: 13632
+- Successful Mutations: 5677
+- Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Singed Edge of Grace
 
 ## Economy
 - Total Currency: 302500
-- Currency per Tick (avg): 22.23
+- Currency per Tick (avg): 22.19
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
