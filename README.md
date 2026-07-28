@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-13832
+13857
 
 ## Oldest Item
-Titanic Axe of Whispers
+Blessed Edge of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.46
-- Average Volatility: 0.41
-- Average Durability: 56.56
+- Average Rarity: 1.41
+- Average Volatility: 0.4
+- Average Durability: 63.57
 
 ## Dominant Factions
 - DEX: 0.5
-- Chaos: 0.3
+- Order: 0.3
 - Stability: 0.3
 
 ## Extremes
-- Most Stable Item: Titanic Axe of Whispers
+- Most Stable Item: Blessed Edge of Whispers
 - Most Volatile Item: Zealous Sigil of the Deep
 
 ## Recent Events
-- MUTATED: 'Phantom Shard of Light' evolved to generation 23.
-- STABLE: 'Echoing Shard of Iron' did not mutate this tick.
-- STABLE: 'Echoing Shard of Iron' did not mutate this tick.
+- MUTATED: 'Titanic Axe of Whispers' evolved to generation 2.
+- MUTATED: 'Zealous Sigil of the Deep' evolved to generation 15.
+- STABLE: 'Mundane Rapier of Flame' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 165
-- Items Archived: 155
-- Avg Lifespan (ticks): 37.2
+- Items Created: 166
+- Items Archived: 156
+- Avg Lifespan (ticks): 37.1
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,8 +40,8 @@ Titanic Axe of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 13832
-- Successful Mutations: 5734
+- Mutations Attempted: 13857
+- Successful Mutations: 5745
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Titanic Axe of Whispers
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 303950
-- Currency per Tick (avg): 21.97
+- Total Currency: 304850
+- Currency per Tick (avg): 22.0
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

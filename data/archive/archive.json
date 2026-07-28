@@ -4209,5 +4209,29 @@
       "STR": 0.2,
       "Chaos": 0.2
     }
+  },
+  {
+    "id": "e7c53039-24d8-45f8-a01d-4c4ddda312a4",
+    "name": "Brittle Relic of Iron",
+    "type": "Artifact",
+    "generation": 16,
+    "damage": 30.0,
+    "damage_type": [
+      "Physical",
+      "Holy"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.01,
+    "str_mod": 1.2000000000000002,
+    "dex_mod": 1.15,
+    "rarity": 1.5,
+    "durability": -0.7648118738100826,
+    "max_durability": 120.0,
+    "volatility": 0.32000000000000045,
+    "resilience": 0.7292481250360577,
+    "worth": 900,
+    "affinities": {
+      "Chaos": 0.1
+    }
   }
 ]
