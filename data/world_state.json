@@ -1,21 +1,21 @@
 {
   "currency": 303950,
-  "tick": 13782,
+  "tick": 13807,
   "mutation_stats": {
-    "attempted": 13782,
-    "success": 5720
+    "attempted": 13807,
+    "success": 5729
   },
   "recent_events": [
-    "STABLE: 'Mundane Blade of Eternity' did not mutate this tick.",
-    "MUTATED: 'Phantom Shard of Light' evolved to generation 20.",
-    "MUTATED: 'Phantom Shard of Light' evolved to generation 21.",
-    "STABLE: 'Titanic Axe of Whispers' did not mutate this tick.",
     "STABLE: 'Phantom Shard of Light' did not mutate this tick.",
-    "MUTATED: 'Zealous Sigil of the Deep' evolved to generation 13.",
-    "STABLE: 'Mundane Blade of Eternity' did not mutate this tick.",
-    "STABLE: 'Verdant Blade of Light' did not mutate this tick.",
+    "STABLE: 'Phantom Shard of Light' did not mutate this tick.",
+    "MUTATED: 'Phantom Shard of Light' evolved to generation 22.",
+    "STABLE: 'Brittle Relic of Iron' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Flame' evolved to generation 12.",
+    "STABLE: 'Singed Edge of Grace' did not mutate this tick.",
     "STABLE: 'Zealous Sigil of the Deep' did not mutate this tick.",
-    "STABLE: 'Titanic Axe of Whispers' did not mutate this tick."
+    "MUTATED: 'Zealous Sigil of the Deep' evolved to generation 14.",
+    "STABLE: 'Brittle Relic of Iron' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Eternity' did not mutate this tick."
   ],
   "created": 165,
   "avg_lifespan": 37.219354838709684,
