@@ -2,7 +2,7 @@
   "id": "9f104d97-8a9c-4c09-8169-9c44d08aa74d",
   "name": "Verdant Blade of Light",
   "type": "Sword",
-  "generation": 11,
+  "generation": 12,
   "damage": 11.5,
   "damage_type": [
     "Physical",
@@ -15,9 +15,9 @@
   "str_mod": 1.1500000000000001,
   "dex_mod": 1.1500000000000001,
   "rarity": 2.3,
-  "durability": 51.12313952906716,
+  "durability": 47.68346630130109,
   "max_durability": 117.0,
-  "volatility": 0.47000000000000025,
+  "volatility": 0.4500000000000003,
   "resilience": 0.8100816930584824,
   "worth": 100,
   "affinities": {
