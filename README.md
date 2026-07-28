@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-13957
+13982
 
 ## Oldest Item
-Ancient Edge of Frost
+Blessed Edge of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.61
 - Average Volatility: 0.4
-- Average Durability: 63.29
+- Average Durability: 58.94
 
 ## Dominant Factions
-- Order: 0.5
+- Order: 0.8
 - Stability: 0.5
 - DEX: 0.4
 
 ## Extremes
 - Most Stable Item: Blessed Edge of Whispers
-- Most Volatile Item: Phantom Shard of Light
+- Most Volatile Item: Mundane Rapier of Flame
 
 ## Recent Events
-- STABLE: 'Ancient Edge of Frost' did not mutate this tick.
-- STABLE: 'Ancient Edge of Frost' did not mutate this tick.
-- MUTATED: 'Titanic Axe of Whispers' evolved to generation 7.
+- STABLE: 'Mundane Blade of Eternity' did not mutate this tick.
+- MUTATED: 'Phantom Shard of Light' evolved to generation 31.
+- MUTATED: 'Mundane Rapier of Flame' evolved to generation 22.
 
 ## Lifecycle Stats
 - Items Created: 167
@@ -40,8 +40,8 @@ Ancient Edge of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 13957
-- Successful Mutations: 5791
+- Mutations Attempted: 13982
+- Successful Mutations: 5802
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Ancient Edge of Frost
 
 ## Economy
 - Total Currency: 306150
-- Currency per Tick (avg): 21.94
+- Currency per Tick (avg): 21.9
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
