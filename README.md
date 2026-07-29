@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-14107
+14132
 
 ## Oldest Item
-Blessed Edge of Whispers
+Nimble Focus of Gales
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.61
-- Average Volatility: 0.47
-- Average Durability: 42.59
+- Average Rarity: 1.58
+- Average Volatility: 0.45
+- Average Durability: 48.21
 
 ## Dominant Factions
 - Order: 1.0
-- Stability: 0.7
+- Stability: 0.8
 - Chaos: 0.4
 
 ## Extremes
-- Most Stable Item: Ancient Edge of Frost
+- Most Stable Item: Nimble Focus of Gales
 - Most Volatile Item: Mundane Blade of Eternity
 
 ## Recent Events
-- STABLE: 'Phantom Shard of Light' did not mutate this tick.
-- MUTATED: 'Mundane Rapier of Flame' evolved to generation 30.
-- MUTATED: 'Zealous Sigil of the Deep' evolved to generation 30.
+- STABLE: 'Blessed Edge of Whispers' did not mutate this tick.
+- STABLE: 'Verdant Blade of Light' did not mutate this tick.
+- STABLE: 'Mundane Rapier of Flame' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 167
-- Items Archived: 157
+- Items Created: 168
+- Items Archived: 158
 - Avg Lifespan (ticks): 37.0
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Blessed Edge of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 14107
-- Successful Mutations: 5858
+- Mutations Attempted: 14132
+- Successful Mutations: 5868
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Blessed Edge of Whispers
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 306150
-- Currency per Tick (avg): 21.7
+- Total Currency: 308250
+- Currency per Tick (avg): 21.81
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
