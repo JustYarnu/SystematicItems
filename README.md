@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-14282
+14307
 
 ## Oldest Item
 Mundane Rapier of Sparks
@@ -11,8 +11,8 @@ Mundane Rapier of Sparks
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.68
-- Average Volatility: 0.44
-- Average Durability: 46.69
+- Average Volatility: 0.45
+- Average Durability: 44.66
 
 ## Dominant Factions
 - Order: 0.7
@@ -24,9 +24,9 @@ Mundane Rapier of Sparks
 - Most Volatile Item: Mundane Blade of Eternity
 
 ## Recent Events
-- STABLE: 'Blessed Edge of Whispers' did not mutate this tick.
-- STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.
-- STABLE: 'Ancient Edge of Frost' did not mutate this tick.
+- MUTATED: 'Verdant Blade of Light' evolved to generation 30.
+- STABLE: 'Verdant Blade of Light' did not mutate this tick.
+- MUTATED: 'Titanic Axe of Whispers' evolved to generation 17.
 
 ## Lifecycle Stats
 - Items Created: 170
@@ -40,8 +40,8 @@ Mundane Rapier of Sparks
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 14282
-- Successful Mutations: 5930
+- Mutations Attempted: 14307
+- Successful Mutations: 5944
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Rapier of Sparks
 
 ## Economy
 - Total Currency: 311250
-- Currency per Tick (avg): 21.79
+- Currency per Tick (avg): 21.76
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
