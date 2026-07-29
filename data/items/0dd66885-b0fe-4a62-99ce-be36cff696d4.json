@@ -2,7 +2,7 @@
   "id": "0dd66885-b0fe-4a62-99ce-be36cff696d4",
   "name": "Echoing Shard of Iron",
   "type": "Dagger",
-  "generation": 39,
+  "generation": 40,
   "damage": 33.0,
   "damage_type": [
     "Physical",
@@ -14,14 +14,14 @@
   "str_mod": 1.6000000000000005,
   "dex_mod": 1.0,
   "rarity": 2,
-  "durability": 56.099999999999994,
+  "durability": 52.099999999999994,
   "max_durability": 133.0,
-  "volatility": 0.44000000000000034,
+  "volatility": 0.46000000000000035,
   "resilience": 0.7499999999999999,
   "worth": 100,
   "affinities": {
     "STR": 0.1,
-    "Scarceness": 0.2,
+    "Scarceness": 0.3,
     "Stability": 0.1
   }
 }
