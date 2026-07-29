@@ -4289,5 +4289,32 @@
       "Restoration": 0.2,
       "Stability": 0.1
     }
+  },
+  {
+    "id": "4ec3ab49-b5b2-410a-96ca-50ccd32f880f",
+    "name": "Mundane Rapier of Flame",
+    "type": "Generic",
+    "generation": 33,
+    "damage": 18.0,
+    "damage_type": [
+      "Physical",
+      "Piercing"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.2000000000000002,
+    "dex_mod": 1.5000000000000004,
+    "rarity": 1,
+    "durability": -1.0,
+    "max_durability": 111.0,
+    "volatility": 0.53,
+    "resilience": 0.7299999999999999,
+    "worth": 1750,
+    "affinities": {
+      "Order": 0.3,
+      "Stability": 0.3,
+      "DEX": 0.1,
+      "STR": 0.1
+    }
   }
 ]

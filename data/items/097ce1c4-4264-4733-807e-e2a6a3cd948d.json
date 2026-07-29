@@ -2,7 +2,7 @@
   "id": "097ce1c4-4264-4733-807e-e2a6a3cd948d",
   "name": "Zealous Sigil of the Deep",
   "type": "Focus",
-  "generation": 31,
+  "generation": 37,
   "damage": 22.5,
   "damage_type": [
     "Physical",
@@ -10,18 +10,18 @@
     "Magic",
     "Water"
   ],
-  "crit_damage": 3.0,
-  "crit_rate": 0.01,
+  "crit_damage": 3.4754887502163467,
+  "crit_rate": 0.060000000000000005,
   "str_mod": 1.6500000000000004,
-  "dex_mod": 1.1,
+  "dex_mod": 1.2000000000000002,
   "rarity": 1.5,
-  "durability": 43.907143127055285,
-  "max_durability": 126.0,
-  "volatility": 0.5592481250360578,
-  "resilience": 0.7292481250360577,
+  "durability": 27.25812062748798,
+  "max_durability": 116.0,
+  "volatility": 0.5792481250360578,
+  "resilience": 0.6792481250360577,
   "worth": 100,
   "affinities": {
-    "Chaos": 0.2,
+    "Chaos": 0.3,
     "Restoration": 0.1,
     "Order": 0.2
   }
