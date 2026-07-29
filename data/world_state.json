@@ -1,21 +1,21 @@
 {
   "currency": 306150,
-  "tick": 14057,
+  "tick": 14082,
   "mutation_stats": {
-    "attempted": 14057,
-    "success": 5838
+    "attempted": 14082,
+    "success": 5845
   },
   "recent_events": [
+    "STABLE: 'Verdant Blade of Light' did not mutate this tick.",
     "STABLE: 'Zealous Sigil of the Deep' did not mutate this tick.",
-    "STABLE: 'Verdant Blade of Light' did not mutate this tick.",
-    "MUTATED: 'Echoing Shard of Iron' evolved to generation 39.",
-    "STABLE: 'Verdant Blade of Light' did not mutate this tick.",
-    "STABLE: 'Echoing Shard of Iron' did not mutate this tick.",
-    "MUTATED: 'Blessed Edge of Whispers' evolved to generation 5.",
-    "STABLE: 'Mundane Blade of Eternity' did not mutate this tick.",
-    "MUTATED: 'Singed Edge of Grace' evolved to generation 12.",
-    "MUTATED: 'Mundane Blade of Eternity' evolved to generation 18.",
-    "MUTATED: 'Mundane Blade of Eternity' evolved to generation 19."
+    "MUTATED: 'Ancient Edge of Frost' evolved to generation 7.",
+    "STABLE: 'Zealous Sigil of the Deep' did not mutate this tick.",
+    "STABLE: 'Blessed Edge of Whispers' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Flame' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Flame' did not mutate this tick.",
+    "STABLE: 'Phantom Shard of Light' did not mutate this tick.",
+    "STABLE: 'Blessed Edge of Whispers' did not mutate this tick.",
+    "MUTATED: 'Zealous Sigil of the Deep' evolved to generation 29."
   ],
   "created": 167,
   "avg_lifespan": 37.0,

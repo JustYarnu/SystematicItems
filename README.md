@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-14057
+14082
 
 ## Oldest Item
 Blessed Edge of Whispers
@@ -11,8 +11,8 @@ Blessed Edge of Whispers
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.61
-- Average Volatility: 0.44
-- Average Durability: 48.5
+- Average Volatility: 0.46
+- Average Durability: 45.36
 
 ## Dominant Factions
 - Order: 0.9
@@ -21,12 +21,12 @@ Blessed Edge of Whispers
 
 ## Extremes
 - Most Stable Item: Ancient Edge of Frost
-- Most Volatile Item: Zealous Sigil of the Deep
+- Most Volatile Item: Phantom Shard of Light
 
 ## Recent Events
-- MUTATED: 'Singed Edge of Grace' evolved to generation 12.
-- MUTATED: 'Mundane Blade of Eternity' evolved to generation 18.
-- MUTATED: 'Mundane Blade of Eternity' evolved to generation 19.
+- STABLE: 'Phantom Shard of Light' did not mutate this tick.
+- STABLE: 'Blessed Edge of Whispers' did not mutate this tick.
+- MUTATED: 'Zealous Sigil of the Deep' evolved to generation 29.
 
 ## Lifecycle Stats
 - Items Created: 167
@@ -40,8 +40,8 @@ Blessed Edge of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 14057
-- Successful Mutations: 5838
+- Mutations Attempted: 14082
+- Successful Mutations: 5845
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Blessed Edge of Whispers
 
 ## Economy
 - Total Currency: 306150
-- Currency per Tick (avg): 21.78
+- Currency per Tick (avg): 21.74
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
