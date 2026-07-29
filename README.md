@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-14182
+14207
 
 ## Oldest Item
 Ancient Edge of the Deep
@@ -11,8 +11,8 @@ Ancient Edge of the Deep
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.68
-- Average Volatility: 0.42
-- Average Durability: 48.82
+- Average Volatility: 0.43
+- Average Durability: 44.2
 
 ## Dominant Factions
 - Order: 0.7
@@ -24,9 +24,9 @@ Ancient Edge of the Deep
 - Most Volatile Item: Mundane Blade of Eternity
 
 ## Recent Events
-- MUTATED: 'Singed Edge of Grace' evolved to generation 19.
-- MUTATED: 'Mundane Blade of Eternity' evolved to generation 27.
-- MUTATED: 'Blessed Edge of Whispers' evolved to generation 7.
+- STABLE: 'Mundane Blade of Eternity' did not mutate this tick.
+- STABLE: 'Nimble Focus of Gales' did not mutate this tick.
+- STABLE: 'Echoing Shard of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 169
@@ -40,9 +40,9 @@ Ancient Edge of the Deep
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 14182
-- Successful Mutations: 5894
-- Failure Rate: 58.4%
+- Mutations Attempted: 14207
+- Successful Mutations: 5902
+- Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Ancient Edge of the Deep
 
 ## Economy
 - Total Currency: 310000
-- Currency per Tick (avg): 21.86
+- Currency per Tick (avg): 21.82
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
