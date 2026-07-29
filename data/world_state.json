@@ -1,23 +1,23 @@
 {
-  "currency": 310000,
-  "tick": 14232,
+  "currency": 311250,
+  "tick": 14257,
   "mutation_stats": {
-    "attempted": 14232,
-    "success": 5911
+    "attempted": 14257,
+    "success": 5921
   },
   "recent_events": [
-    "STABLE: 'Ancient Edge of the Deep' did not mutate this tick.",
+    "STABLE: 'Titanic Axe of Whispers' did not mutate this tick.",
+    "MUTATED: 'Nimble Focus of Gales' evolved to generation 5.",
+    "MUTATED: 'Singed Edge of Grace' evolved to generation 23.",
+    "REPLACED WITH: 'Mundane Rapier of Sparks' (567f8e7b-e9ce-4ab0-b4d9-20123d50bb03)",
+    "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
     "STABLE: 'Zealous Sigil of the Deep' did not mutate this tick.",
-    "STABLE: 'Blessed Edge of Whispers' did not mutate this tick.",
     "STABLE: 'Ancient Edge of the Deep' did not mutate this tick.",
+    "STABLE: 'Echoing Shard of Iron' did not mutate this tick.",
     "STABLE: 'Blessed Edge of Whispers' did not mutate this tick.",
-    "STABLE: 'Verdant Blade of Light' did not mutate this tick.",
-    "STABLE: 'Ancient Edge of the Deep' did not mutate this tick.",
-    "STABLE: 'Nimble Focus of Gales' did not mutate this tick.",
-    "STABLE: 'Blessed Edge of Whispers' did not mutate this tick.",
-    "MUTATED: 'Verdant Blade of Light' evolved to generation 24."
+    "STABLE: 'Ancient Edge of the Deep' did not mutate this tick."
   ],
-  "created": 169,
-  "avg_lifespan": 36.9937106918239,
-  "archived": 159
+  "created": 170,
+  "avg_lifespan": 36.90625,
+  "archived": 160
 }

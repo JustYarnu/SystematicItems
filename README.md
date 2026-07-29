@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-14232
+14257
 
 ## Oldest Item
-Ancient Edge of the Deep
+Mundane Rapier of Sparks
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.68
 - Average Volatility: 0.44
-- Average Durability: 42.5
+- Average Durability: 48.15
 
 ## Dominant Factions
-- Order: 0.8
+- Order: 0.7
 - Chaos: 0.5
 - Stability: 0.5
 
@@ -24,14 +24,14 @@ Ancient Edge of the Deep
 - Most Volatile Item: Mundane Blade of Eternity
 
 ## Recent Events
-- STABLE: 'Nimble Focus of Gales' did not mutate this tick.
+- STABLE: 'Echoing Shard of Iron' did not mutate this tick.
 - STABLE: 'Blessed Edge of Whispers' did not mutate this tick.
-- MUTATED: 'Verdant Blade of Light' evolved to generation 24.
+- STABLE: 'Ancient Edge of the Deep' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 169
-- Items Archived: 159
-- Avg Lifespan (ticks): 37.0
+- Items Created: 170
+- Items Archived: 160
+- Avg Lifespan (ticks): 36.9
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,8 +40,8 @@ Ancient Edge of the Deep
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 14232
-- Successful Mutations: 5911
+- Mutations Attempted: 14257
+- Successful Mutations: 5921
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Ancient Edge of the Deep
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 310000
-- Currency per Tick (avg): 21.78
+- Total Currency: 311250
+- Currency per Tick (avg): 21.83
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
