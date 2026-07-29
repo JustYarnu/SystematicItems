@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-14157
+14182
 
 ## Oldest Item
-Nimble Focus of Gales
+Ancient Edge of the Deep
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.68
-- Average Volatility: 0.41
-- Average Durability: 53.44
+- Average Volatility: 0.42
+- Average Durability: 48.82
 
 ## Dominant Factions
 - Order: 0.7
@@ -24,9 +24,9 @@ Nimble Focus of Gales
 - Most Volatile Item: Mundane Blade of Eternity
 
 ## Recent Events
-- MUTATED: 'Zealous Sigil of the Deep' evolved to generation 37.
-- STABLE: 'Verdant Blade of Light' did not mutate this tick.
-- STABLE: 'Nimble Focus of Gales' did not mutate this tick.
+- MUTATED: 'Singed Edge of Grace' evolved to generation 19.
+- MUTATED: 'Mundane Blade of Eternity' evolved to generation 27.
+- MUTATED: 'Blessed Edge of Whispers' evolved to generation 7.
 
 ## Lifecycle Stats
 - Items Created: 169
@@ -40,9 +40,9 @@ Nimble Focus of Gales
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 14157
-- Successful Mutations: 5880
-- Failure Rate: 58.5%
+- Mutations Attempted: 14182
+- Successful Mutations: 5894
+- Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Nimble Focus of Gales
 
 ## Economy
 - Total Currency: 310000
-- Currency per Tick (avg): 21.9
+- Currency per Tick (avg): 21.86
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
