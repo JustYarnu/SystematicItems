@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-14432
+14457
 
 ## Oldest Item
 Mundane Rapier of Sparks
@@ -12,21 +12,21 @@ Mundane Rapier of Sparks
 - Active Items: 10
 - Average Rarity: 1.85
 - Average Volatility: 0.43
-- Average Durability: 46.18
+- Average Durability: 41.59
 
 ## Dominant Factions
 - Order: 1.1
+- STR: 0.6
 - Chaos: 0.5
-- Restoration: 0.5
 
 ## Extremes
-- Most Stable Item: Ancient Edge of the Deep
+- Most Stable Item: Mundane Rapier of Sparks
 - Most Volatile Item: Echoing Shard of Iron
 
 ## Recent Events
-- MUTATED: 'Blessed Edge of Whispers' evolved to generation 22.
-- MUTATED: 'Titanic Axe of Whispers' evolved to generation 25.
-- MUTATED: 'Ancient Edge of Frost' evolved to generation 27.
+- STABLE: 'Titanic Axe of Whispers' did not mutate this tick.
+- MUTATED: 'Mundane Rapier of Sparks' evolved to generation 6.
+- MUTATED: 'Ancient Edge of the Deep' evolved to generation 10.
 
 ## Lifecycle Stats
 - Items Created: 171
@@ -40,8 +40,8 @@ Mundane Rapier of Sparks
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 14432
-- Successful Mutations: 6008
+- Mutations Attempted: 14457
+- Successful Mutations: 6020
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Rapier of Sparks
 
 ## Economy
 - Total Currency: 312950
-- Currency per Tick (avg): 21.68
+- Currency per Tick (avg): 21.65
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

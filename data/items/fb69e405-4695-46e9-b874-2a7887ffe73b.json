@@ -2,7 +2,7 @@
   "id": "fb69e405-4695-46e9-b874-2a7887ffe73b",
   "name": "Blessed Edge of Whispers",
   "type": "Sword",
-  "generation": 22,
+  "generation": 23,
   "damage": 14.0,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.4000000000000004,
   "dex_mod": 1.5700000000000003,
   "rarity": 1,
-  "durability": 19.689999999999984,
+  "durability": 16.189999999999984,
   "max_durability": 122.0,
-  "volatility": 0.52,
+  "volatility": 0.48000000000000004,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
