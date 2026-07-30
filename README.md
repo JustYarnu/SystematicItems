@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-14357
+14382
 
 ## Oldest Item
-Volcanic Bow of Grace
+Mundane Rapier of Sparks
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.55
-- Average Volatility: 0.44
-- Average Durability: 53.33
+- Average Volatility: 0.43
+- Average Durability: 51.86
 
 ## Dominant Factions
-- Order: 0.8
+- Order: 1.0
 - Chaos: 0.5
 - Stability: 0.5
 
@@ -24,9 +24,9 @@ Volcanic Bow of Grace
 - Most Volatile Item: Echoing Shard of Iron
 
 ## Recent Events
-- MUTATED: 'Blessed Edge of Whispers' evolved to generation 18.
-- MUTATED: 'Mundane Rapier of Sparks' evolved to generation 5.
 - STABLE: 'Nimble Focus of Gales' did not mutate this tick.
+- MUTATED: 'Titanic Axe of Whispers' evolved to generation 20.
+- STABLE: 'Echoing Shard of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 171
@@ -40,8 +40,8 @@ Volcanic Bow of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 14357
-- Successful Mutations: 5970
+- Mutations Attempted: 14382
+- Successful Mutations: 5982
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Volcanic Bow of Grace
 
 ## Economy
 - Total Currency: 312950
-- Currency per Tick (avg): 21.8
+- Currency per Tick (avg): 21.76
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
