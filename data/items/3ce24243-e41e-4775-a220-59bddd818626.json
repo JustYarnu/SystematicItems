@@ -2,7 +2,7 @@
   "id": "3ce24243-e41e-4775-a220-59bddd818626",
   "name": "Titanic Axe of Whispers",
   "type": "HeavyWeapon",
-  "generation": 20,
+  "generation": 22,
   "damage": 17.5,
   "damage_type": [
     "Physical",
@@ -13,11 +13,11 @@
   "crit_rate": 0.07,
   "str_mod": 1.55,
   "dex_mod": 1.3199999999999998,
-  "rarity": 1,
-  "durability": 31.02000000000001,
-  "max_durability": 125.0,
-  "volatility": 0.41000000000000036,
-  "resilience": 0.7300000000000001,
+  "rarity": 2,
+  "durability": 22.260000000000012,
+  "max_durability": 115.0,
+  "volatility": 0.47000000000000036,
+  "resilience": 0.75,
   "worth": 100,
   "affinities": {
     "Order": 0.1

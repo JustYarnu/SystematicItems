@@ -1,21 +1,21 @@
 {
   "currency": 312950,
-  "tick": 14382,
+  "tick": 14407,
   "mutation_stats": {
-    "attempted": 14382,
-    "success": 5982
+    "attempted": 14407,
+    "success": 5991
   },
   "recent_events": [
+    "MUTATED: 'Volcanic Bow of Grace' evolved to generation 7.",
     "STABLE: 'Nimble Focus of Gales' did not mutate this tick.",
     "STABLE: 'Titanic Axe of Whispers' did not mutate this tick.",
-    "STABLE: 'Nimble Focus of Gales' did not mutate this tick.",
-    "MUTATED: 'Ancient Edge of Frost' evolved to generation 21.",
-    "STABLE: 'Ancient Edge of the Deep' did not mutate this tick.",
-    "STABLE: 'Volcanic Bow of Grace' did not mutate this tick.",
-    "MUTATED: 'Echoing Shard of Iron' evolved to generation 48.",
-    "STABLE: 'Nimble Focus of Gales' did not mutate this tick.",
-    "MUTATED: 'Titanic Axe of Whispers' evolved to generation 20.",
-    "STABLE: 'Echoing Shard of Iron' did not mutate this tick."
+    "STABLE: 'Echoing Shard of Iron' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Eternity' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Eternity' did not mutate this tick.",
+    "MUTATED: 'Titanic Axe of Whispers' evolved to generation 22.",
+    "STABLE: 'Echoing Shard of Iron' did not mutate this tick.",
+    "MUTATED: 'Ancient Edge of Frost' evolved to generation 23.",
+    "STABLE: 'Volcanic Bow of Grace' did not mutate this tick."
   ],
   "created": 171,
   "avg_lifespan": 36.87577639751553,
