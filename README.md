@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-14507
+14532
 
 ## Oldest Item
 Cursed Blade of Gales
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.95
-- Average Volatility: 0.44
-- Average Durability: 42.62
+- Average Rarity: 2.15
+- Average Volatility: 0.46
+- Average Durability: 39.52
 
 ## Dominant Factions
 - Order: 1.0
@@ -25,7 +25,7 @@ Cursed Blade of Gales
 
 ## Recent Events
 - STABLE: 'Nimble Focus of Gales' did not mutate this tick.
-- MUTATED: 'Cursed Blade of Gales' evolved to generation 2.
+- MUTATED: 'Echoing Shard of Iron' evolved to generation 59.
 - STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.
 
 ## Lifecycle Stats
@@ -40,15 +40,15 @@ Cursed Blade of Gales
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 14507
-- Successful Mutations: 6045
+- Mutations Attempted: 14532
+- Successful Mutations: 6059
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 5
+- Uncommon: 5
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Cursed Blade of Gales
 
 ## Economy
 - Total Currency: 314450
-- Currency per Tick (avg): 21.68
+- Currency per Tick (avg): 21.64
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
