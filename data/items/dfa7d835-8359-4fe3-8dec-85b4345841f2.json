@@ -2,7 +2,7 @@
   "id": "dfa7d835-8359-4fe3-8dec-85b4345841f2",
   "name": "Ancient Edge of Frost",
   "type": "Sword",
-  "generation": 28,
+  "generation": 29,
   "damage": 28.0,
   "damage_type": [
     "Physical",
@@ -13,7 +13,7 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.0,
   "rarity": 4.0,
-  "durability": 36.710000000000015,
+  "durability": 34.710000000000015,
   "max_durability": 135.0,
   "volatility": 0.3300000000000003,
   "resilience": 0.7299999999999999,
@@ -23,6 +23,6 @@
     "Scarceness": 0.1,
     "Chaos": 0.1,
     "Restoration": 0.1,
-    "STR": 0.1
+    "STR": 0.2
   }
 }

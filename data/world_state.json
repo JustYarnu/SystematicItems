@@ -1,21 +1,21 @@
 {
   "currency": 312950,
-  "tick": 14457,
+  "tick": 14482,
   "mutation_stats": {
-    "attempted": 14457,
-    "success": 6020
+    "attempted": 14482,
+    "success": 6034
   },
   "recent_events": [
+    "MUTATED: 'Mundane Rapier of Sparks' evolved to generation 9.",
     "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
+    "STABLE: 'Blessed Edge of Whispers' did not mutate this tick.",
+    "MUTATED: 'Blessed Edge of Whispers' evolved to generation 24.",
+    "MUTATED: 'Ancient Edge of Frost' evolved to generation 29.",
     "STABLE: 'Mundane Blade of Eternity' did not mutate this tick.",
-    "STABLE: 'Zealous Sigil of the Deep' did not mutate this tick.",
-    "STABLE: 'Titanic Axe of Whispers' did not mutate this tick.",
-    "MUTATED: 'Zealous Sigil of the Deep' evolved to generation 51.",
-    "MUTATED: 'Ancient Edge of Frost' evolved to generation 28.",
-    "MUTATED: 'Mundane Blade of Eternity' evolved to generation 41.",
-    "STABLE: 'Titanic Axe of Whispers' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of Sparks' evolved to generation 6.",
-    "MUTATED: 'Ancient Edge of the Deep' evolved to generation 10."
+    "MUTATED: 'Echoing Shard of Iron' evolved to generation 54.",
+    "MUTATED: 'Titanic Axe of Whispers' evolved to generation 27.",
+    "MUTATED: 'Blessed Edge of Whispers' evolved to generation 25.",
+    "MUTATED: 'Titanic Axe of Whispers' evolved to generation 28."
   ],
   "created": 171,
   "avg_lifespan": 36.87577639751553,
