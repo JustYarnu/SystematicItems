@@ -1,21 +1,21 @@
 {
   "currency": 321800,
-  "tick": 14682,
+  "tick": 14707,
   "mutation_stats": {
-    "attempted": 14682,
-    "success": 6126
+    "attempted": 14707,
+    "success": 6140
   },
   "recent_events": [
-    "MUTATED: 'Ancient Edge of Frost' evolved to generation 36.",
+    "STABLE: 'Ancient Edge of Frost' did not mutate this tick.",
+    "MUTATED: 'Nimble Focus of Gales' evolved to generation 26.",
+    "MUTATED: 'Echoing Shard of Iron' evolved to generation 67.",
+    "STABLE: 'Cursed Blade of Gales' did not mutate this tick.",
+    "MUTATED: 'Cursed Blade of Gales' evolved to generation 11.",
     "STABLE: 'Echoing Relic of the Glacier' did not mutate this tick.",
-    "STABLE: 'Echoing Relic of Distortion' did not mutate this tick.",
     "STABLE: 'Ancient Edge of Frost' did not mutate this tick.",
-    "MUTATED: 'Echoing Relic of Distortion' evolved to generation 3.",
-    "STABLE: 'Ancient Edge of Frost' did not mutate this tick.",
-    "STABLE: 'Ancient Edge of the Deep' did not mutate this tick.",
-    "MUTATED: 'Cursed Blade of Gales' evolved to generation 8.",
-    "STABLE: 'Echoing Relic of Distortion' did not mutate this tick.",
-    "MUTATED: 'Cursed Blade of Gales' evolved to generation 9."
+    "STABLE: 'Volcanic Bow of Grace' did not mutate this tick.",
+    "MUTATED: 'Ancient Edge of the Deep' evolved to generation 21.",
+    "MUTATED: 'Echoing Relic of Distortion' evolved to generation 5."
   ],
   "created": 175,
   "avg_lifespan": 37.006060606060615,
