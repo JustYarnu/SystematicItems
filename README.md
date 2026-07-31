@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-14582
+14607
 
 ## Oldest Item
 Searing Blade of Blood
@@ -12,7 +12,7 @@ Searing Blade of Blood
 - Active Items: 10
 - Average Rarity: 2.15
 - Average Volatility: 0.43
-- Average Durability: 42.44
+- Average Durability: 38.02
 
 ## Dominant Factions
 - Order: 1.1
@@ -24,9 +24,9 @@ Searing Blade of Blood
 - Most Volatile Item: Echoing Shard of Iron
 
 ## Recent Events
-- MUTATED: 'Ancient Edge of the Deep' evolved to generation 14.
-- MUTATED: 'Cursed Blade of Gales' evolved to generation 6.
-- STABLE: 'Echoing Shard of Iron' did not mutate this tick.
+- STABLE: 'Ancient Edge of the Deep' did not mutate this tick.
+- STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.
+- MUTATED: 'Ancient Edge of Frost' evolved to generation 33.
 
 ## Lifecycle Stats
 - Items Created: 173
@@ -40,8 +40,8 @@ Searing Blade of Blood
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 14582
-- Successful Mutations: 6084
+- Mutations Attempted: 14607
+- Successful Mutations: 6093
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Searing Blade of Blood
 
 ## Economy
 - Total Currency: 316000
-- Currency per Tick (avg): 21.67
+- Currency per Tick (avg): 21.63
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
