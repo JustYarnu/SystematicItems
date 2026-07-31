@@ -1,21 +1,21 @@
 {
   "currency": 316000,
-  "tick": 14557,
+  "tick": 14582,
   "mutation_stats": {
-    "attempted": 14557,
-    "success": 6072
+    "attempted": 14582,
+    "success": 6084
   },
   "recent_events": [
-    "STABLE: 'Nimble Focus of Gales' did not mutate this tick.",
-    "STABLE: 'Ancient Edge of the Deep' did not mutate this tick.",
-    "STABLE: 'Volcanic Bow of Grace' did not mutate this tick.",
     "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
-    "MUTATED: 'Ancient Edge of Frost' evolved to generation 31.",
-    "MUTATED: 'Searing Blade of Blood' evolved to generation 2.",
-    "STABLE: 'Cursed Blade of Gales' did not mutate this tick.",
-    "STABLE: 'Echoing Shard of Iron' did not mutate this tick.",
-    "MUTATED: 'Echoing Shard of Iron' evolved to generation 61.",
-    "MUTATED: 'Volcanic Bow of Grace' evolved to generation 16."
+    "MUTATED: 'Volcanic Bow of Grace' evolved to generation 17.",
+    "STABLE: 'Ancient Edge of Frost' did not mutate this tick.",
+    "MUTATED: 'Ancient Edge of the Deep' evolved to generation 13.",
+    "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
+    "MUTATED: 'Zealous Sigil of the Deep' evolved to generation 57.",
+    "STABLE: 'Mundane Blade of Eternity' did not mutate this tick.",
+    "MUTATED: 'Ancient Edge of the Deep' evolved to generation 14.",
+    "MUTATED: 'Cursed Blade of Gales' evolved to generation 6.",
+    "STABLE: 'Echoing Shard of Iron' did not mutate this tick."
   ],
   "created": 173,
   "avg_lifespan": 36.77300613496933,

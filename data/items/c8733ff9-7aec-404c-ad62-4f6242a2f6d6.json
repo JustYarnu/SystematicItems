@@ -2,7 +2,7 @@
   "id": "c8733ff9-7aec-404c-ad62-4f6242a2f6d6",
   "name": "Mundane Blade of Eternity",
   "type": "Sword",
-  "generation": 46,
+  "generation": 48,
   "damage": 22.5,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.5500000000000005,
   "dex_mod": 1.3500000000000003,
   "rarity": 4.0,
-  "durability": 16.33706812849759,
+  "durability": 10.337068128497592,
   "max_durability": 156.0,
-  "volatility": 0.5792481250360577,
+  "volatility": 0.5992481250360577,
   "resilience": 0.85,
   "worth": 100,
   "affinities": {
@@ -23,7 +23,7 @@
     "Order": 0.2,
     "Chaos": 0.1,
     "Restoration": 0.1,
-    "DEX": 0.1,
-    "STR": 0.1
+    "DEX": 0.2,
+    "STR": 0.2
   }
 }

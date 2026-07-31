@@ -2,7 +2,7 @@
   "id": "f716957a-9e53-4eff-96f8-6768c05c8c56",
   "name": "Volcanic Bow of Grace",
   "type": "Ranged",
-  "generation": 16,
+  "generation": 17,
   "damage": 33.5,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.1,
   "dex_mod": 1.1999999999999997,
   "rarity": 2,
-  "durability": 67.55000000000001,
+  "durability": 64.07000000000001,
   "max_durability": 90.0,
-  "volatility": 0.54,
-  "resilience": 0.55,
+  "volatility": 0.51,
+  "resilience": 0.63,
   "worth": 100,
   "affinities": {
     "Order": 0.3
