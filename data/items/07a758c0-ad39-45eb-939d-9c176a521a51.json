@@ -2,8 +2,8 @@
   "id": "07a758c0-ad39-45eb-939d-9c176a521a51",
   "name": "Cursed Blade of Gales",
   "type": "Sword",
-  "generation": 7,
-  "damage": 17.0,
+  "generation": 9,
+  "damage": 18.5,
   "damage_type": [
     "Physical",
     "Slashing",
@@ -11,13 +11,13 @@
   ],
   "crit_damage": 2,
   "crit_rate": 0.01,
-  "str_mod": 1.05,
+  "str_mod": 1.1500000000000001,
   "dex_mod": 1.23,
   "rarity": 1,
-  "durability": 89.76,
-  "max_durability": 100.0,
+  "durability": 81.92,
+  "max_durability": 105.0,
   "volatility": 0.53,
-  "resilience": 0.43,
+  "resilience": 0.48,
   "worth": 100,
   "affinities": {
     "DEX": 0.1

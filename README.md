@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-14657
+14682
 
 ## Oldest Item
-Echoing Relic of Distortion
+Echoing Relic of the Glacier
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.15
-- Average Volatility: 0.43
-- Average Durability: 44.32
+- Average Rarity: 1.9
+- Average Volatility: 0.41
+- Average Durability: 50.06
 
 ## Dominant Factions
-- Order: 0.8
-- STR: 0.7
-- Stability: 0.6
+- Order: 0.6
+- STR: 0.5
+- Scarceness: 0.4
 
 ## Extremes
-- Most Stable Item: Searing Blade of Blood
+- Most Stable Item: Echoing Relic of the Glacier
 - Most Volatile Item: Echoing Shard of Iron
 
 ## Recent Events
-- MUTATED: 'Cursed Blade of Gales' evolved to generation 7.
-- MUTATED: 'Echoing Shard of Iron' evolved to generation 66.
-- STABLE: 'Cursed Blade of Gales' did not mutate this tick.
+- MUTATED: 'Cursed Blade of Gales' evolved to generation 8.
+- STABLE: 'Echoing Relic of Distortion' did not mutate this tick.
+- MUTATED: 'Cursed Blade of Gales' evolved to generation 9.
 
 ## Lifecycle Stats
-- Items Created: 174
-- Items Archived: 164
-- Avg Lifespan (ticks): 36.9
+- Items Created: 175
+- Items Archived: 165
+- Avg Lifespan (ticks): 37.0
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Echoing Relic of Distortion
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 14657
-- Successful Mutations: 6117
+- Mutations Attempted: 14682
+- Successful Mutations: 6126
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 5
-- Uncommon: 5
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Echoing Relic of Distortion
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 319100
-- Currency per Tick (avg): 21.77
+- Total Currency: 321800
+- Currency per Tick (avg): 21.92
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
