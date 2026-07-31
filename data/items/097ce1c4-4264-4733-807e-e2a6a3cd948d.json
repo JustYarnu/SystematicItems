@@ -2,7 +2,7 @@
   "id": "097ce1c4-4264-4733-807e-e2a6a3cd948d",
   "name": "Zealous Sigil of the Deep",
   "type": "Focus",
-  "generation": 54,
+  "generation": 55,
   "damage": 24.0,
   "damage_type": [
     "Physical",
@@ -15,9 +15,9 @@
   "str_mod": 1.7500000000000004,
   "dex_mod": 1.2000000000000002,
   "rarity": 1.5,
-  "durability": 10.988571878425482,
-  "max_durability": 118.0,
-  "volatility": 0.46924812503605784,
+  "durability": 7.988571878425482,
+  "max_durability": 113.0,
+  "volatility": 0.47924812503605785,
   "resilience": 0.7792481250360578,
   "worth": 100,
   "affinities": {

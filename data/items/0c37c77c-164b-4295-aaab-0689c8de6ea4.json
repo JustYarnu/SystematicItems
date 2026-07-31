@@ -2,7 +2,7 @@
   "id": "0c37c77c-164b-4295-aaab-0689c8de6ea4",
   "name": "Nimble Focus of Gales",
   "type": "Focus",
-  "generation": 13,
+  "generation": 14,
   "damage": 16.5,
   "damage_type": [
     "Physical",
@@ -14,12 +14,13 @@
   "str_mod": 1.1,
   "dex_mod": 1.6300000000000001,
   "rarity": 1,
-  "durability": 31.119999999999983,
+  "durability": 27.119999999999983,
   "max_durability": 92.0,
-  "volatility": 0.45000000000000023,
+  "volatility": 0.47000000000000025,
   "resilience": 0.6099999999999999,
   "worth": 100,
   "affinities": {
-    "Stability": 0.1
+    "Stability": 0.1,
+    "Chaos": 0.1
   }
 }
