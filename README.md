@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-14732
+14757
 
 ## Oldest Item
 Echoing Relic of the Glacier
@@ -12,21 +12,21 @@ Echoing Relic of the Glacier
 - Active Items: 10
 - Average Rarity: 2.0
 - Average Volatility: 0.43
-- Average Durability: 43.6
+- Average Durability: 39.38
 
 ## Dominant Factions
 - Order: 0.8
+- Stability: 0.7
 - Scarceness: 0.6
-- Stability: 0.6
 
 ## Extremes
 - Most Stable Item: Echoing Relic of the Glacier
 - Most Volatile Item: Echoing Shard of Iron
 
 ## Recent Events
-- STABLE: 'Volcanic Bow of Grace' did not mutate this tick.
-- MUTATED: 'Echoing Relic of the Glacier' evolved to generation 2.
-- STABLE: 'Nimble Focus of Gales' did not mutate this tick.
+- STABLE: 'Cursed Blade of Gales' did not mutate this tick.
+- STABLE: 'Echoing Shard of Iron' did not mutate this tick.
+- MUTATED: 'Mundane Rapier of Sparks' evolved to generation 18.
 
 ## Lifecycle Stats
 - Items Created: 175
@@ -40,8 +40,8 @@ Echoing Relic of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 14732
-- Successful Mutations: 6149
+- Mutations Attempted: 14757
+- Successful Mutations: 6158
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Echoing Relic of the Glacier
 
 ## Economy
 - Total Currency: 321800
-- Currency per Tick (avg): 21.84
+- Currency per Tick (avg): 21.81
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

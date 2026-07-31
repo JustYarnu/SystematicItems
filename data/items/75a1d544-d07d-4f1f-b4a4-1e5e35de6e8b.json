@@ -2,7 +2,7 @@
   "id": "75a1d544-d07d-4f1f-b4a4-1e5e35de6e8b",
   "name": "Echoing Relic of the Glacier",
   "type": "Artifact",
-  "generation": 2,
+  "generation": 3,
   "damage": 14.0,
   "damage_type": [
     "Physical",
@@ -15,10 +15,12 @@
   "str_mod": 1.0,
   "dex_mod": 1.2000000000000002,
   "rarity": 1.5,
-  "durability": 93.33774437510817,
+  "durability": 88.33774437510817,
   "max_durability": 139.6240625180289,
-  "volatility": 0.14,
+  "volatility": 0.17000000000000004,
   "resilience": 0.7792481250360578,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Restoration": 0.1
+  }
 }
