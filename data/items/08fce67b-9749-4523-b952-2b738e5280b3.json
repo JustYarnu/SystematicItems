@@ -2,7 +2,7 @@
   "id": "08fce67b-9749-4523-b952-2b738e5280b3",
   "name": "Ancient Edge of the Deep",
   "type": "Sword",
-  "generation": 15,
+  "generation": 18,
   "damage": 9.0,
   "damage_type": [
     "Physical",
@@ -13,12 +13,13 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.5,
   "rarity": 2.0,
-  "durability": 35.00999999999998,
+  "durability": 40.309999999999974,
   "max_durability": 139.0,
-  "volatility": 0.3600000000000004,
+  "volatility": 0.3200000000000004,
   "resilience": 0.73,
   "worth": 100,
   "affinities": {
-    "Order": 0.1
+    "Order": 0.1,
+    "STR": 0.1
   }
 }

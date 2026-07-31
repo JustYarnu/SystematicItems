@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-14632
+14657
 
 ## Oldest Item
-Searing Blade of Blood
+Echoing Relic of Distortion
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.15
 - Average Volatility: 0.43
-- Average Durability: 34.81
+- Average Durability: 44.32
 
 ## Dominant Factions
-- Order: 1.1
-- Chaos: 0.7
+- Order: 0.8
 - STR: 0.7
+- Stability: 0.6
 
 ## Extremes
 - Most Stable Item: Searing Blade of Blood
 - Most Volatile Item: Echoing Shard of Iron
 
 ## Recent Events
-- MUTATED: 'Nimble Focus of Gales' evolved to generation 19.
-- MUTATED: 'Zealous Sigil of the Deep' evolved to generation 59.
-- MUTATED: 'Ancient Edge of Frost' evolved to generation 35.
+- MUTATED: 'Cursed Blade of Gales' evolved to generation 7.
+- MUTATED: 'Echoing Shard of Iron' evolved to generation 66.
+- STABLE: 'Cursed Blade of Gales' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 173
-- Items Archived: 163
-- Avg Lifespan (ticks): 36.8
+- Items Created: 174
+- Items Archived: 164
+- Avg Lifespan (ticks): 36.9
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,8 +40,8 @@ Searing Blade of Blood
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 14632
-- Successful Mutations: 6104
+- Mutations Attempted: 14657
+- Successful Mutations: 6117
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Searing Blade of Blood
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 316000
-- Currency per Tick (avg): 21.6
+- Total Currency: 319100
+- Currency per Tick (avg): 21.77
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
