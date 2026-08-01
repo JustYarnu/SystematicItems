@@ -2,7 +2,7 @@
   "id": "f1500284-8d88-44bb-950d-9c63a180ed32",
   "name": "Mundane Blade of the Glacier",
   "type": "Sword",
-  "generation": 2,
+  "generation": 3,
   "damage": 11.5,
   "damage_type": [
     "Physical",
@@ -14,10 +14,12 @@
   "str_mod": 1.1500000000000001,
   "dex_mod": 1.05,
   "rarity": 1,
-  "durability": 96.0,
+  "durability": 93.0,
   "max_durability": 125.0,
-  "volatility": 0.11,
+  "volatility": 0.12,
   "resilience": 0.75,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Order": 0.1
+  }
 }

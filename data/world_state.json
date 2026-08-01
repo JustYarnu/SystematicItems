@@ -1,21 +1,21 @@
 {
   "currency": 329000,
-  "tick": 14782,
+  "tick": 14807,
   "mutation_stats": {
-    "attempted": 14782,
-    "success": 6169
+    "attempted": 14807,
+    "success": 6180
   },
   "recent_events": [
-    "STABLE: 'Searing Blade of Blood' did not mutate this tick.",
-    "STABLE: 'Phantom Shard of Decay' did not mutate this tick.",
+    "STABLE: 'Ancient Edge of the Deep' did not mutate this tick.",
     "STABLE: 'Echoing Relic of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Phantom Shard of Decay' evolved to generation 3.",
     "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
-    "MUTATED: 'Ancient Edge of the Deep' evolved to generation 23.",
-    "MUTATED: 'Phantom Shard of Decay' evolved to generation 4.",
+    "STABLE: 'Echoing Relic of Distortion' did not mutate this tick.",
     "STABLE: 'Cursed Blade of Gales' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
-    "STABLE: 'Phantom Shard of Decay' did not mutate this tick."
+    "MUTATED: 'Cursed Blade of Gales' evolved to generation 14.",
+    "MUTATED: 'Ancient Edge of the Deep' evolved to generation 24.",
+    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Sparks' evolved to generation 22.",
+    "STABLE: 'Searing Blade of Blood' did not mutate this tick."
   ],
   "created": 178,
   "avg_lifespan": 37.16666666666667,

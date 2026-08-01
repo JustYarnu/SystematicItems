@@ -2,7 +2,7 @@
   "id": "3236b907-edec-485a-8a9a-78459b6eef39",
   "name": "Searing Blade of Blood",
   "type": "Sword",
-  "generation": 6,
+  "generation": 7,
   "damage": 23.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,12 @@
   "str_mod": 1.4500000000000002,
   "dex_mod": 1.05,
   "rarity": 1,
-  "durability": 82.5,
+  "durability": 79.5,
   "max_durability": 102.0,
-  "volatility": 0.30000000000000016,
+  "volatility": 0.31000000000000016,
   "resilience": 0.5,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "STR": 0.1
+  }
 }
