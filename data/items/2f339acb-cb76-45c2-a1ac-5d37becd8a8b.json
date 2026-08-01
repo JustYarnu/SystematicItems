@@ -2,7 +2,7 @@
   "id": "2f339acb-cb76-45c2-a1ac-5d37becd8a8b",
   "name": "Phantom Shard of Decay",
   "type": "Dagger",
-  "generation": 5,
+  "generation": 6,
   "damage": 15.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.0,
   "dex_mod": 1.2,
   "rarity": 1,
-  "durability": 59.959999999999994,
-  "max_durability": 85.0,
-  "volatility": 0.42000000000000004,
-  "resilience": 0.58,
+  "durability": 53.849999999999994,
+  "max_durability": 90.0,
+  "volatility": 0.45000000000000007,
+  "resilience": 0.63,
   "worth": 100,
   "affinities": {}
 }
