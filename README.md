@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-15057
+15082
 
 ## Oldest Item
 Unstable Focus of the Deep
@@ -11,8 +11,8 @@ Unstable Focus of the Deep
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.55
-- Average Volatility: 0.47
-- Average Durability: 48.8
+- Average Volatility: 0.48
+- Average Durability: 44.77
 
 ## Dominant Factions
 - Chaos: 0.4
@@ -21,12 +21,12 @@ Unstable Focus of the Deep
 
 ## Extremes
 - Most Stable Item: Mundane Blade of the Glacier
-- Most Volatile Item: Cursed Blade of Gales
+- Most Volatile Item: Unstable Focus of the Deep
 
 ## Recent Events
-- MUTATED: 'Echoing Relic of Distortion' evolved to generation 25.
-- MUTATED: 'Mundane Blade of the Glacier' evolved to generation 9.
-- MUTATED: 'Searing Blade of Blood' evolved to generation 14.
+- STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.
+- STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.
+- MUTATED: 'Echoing Relic of Distortion' evolved to generation 27.
 
 ## Lifecycle Stats
 - Items Created: 181
@@ -40,8 +40,8 @@ Unstable Focus of the Deep
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 15057
-- Successful Mutations: 6293
+- Mutations Attempted: 15082
+- Successful Mutations: 6301
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Unstable Focus of the Deep
 
 ## Economy
 - Total Currency: 334000
-- Currency per Tick (avg): 22.18
+- Currency per Tick (avg): 22.15
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
