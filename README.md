@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-14982
+15007
 
 ## Oldest Item
-Unstable Spear of the Glacier
+Unstable Focus of the Deep
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.25
 - Average Volatility: 0.45
-- Average Durability: 59.3
+- Average Durability: 56.74
 
 ## Dominant Factions
-- Chaos: 0.3
+- Chaos: 0.4
 - STR: 0.3
 - Order: 0.3
 
@@ -24,9 +24,9 @@ Unstable Spear of the Glacier
 - Most Volatile Item: Echoing Relic of Distortion
 
 ## Recent Events
-- MUTATED: 'Cursed Blade of Gales' evolved to generation 27.
-- MUTATED: 'Unstable Spear of the Glacier' evolved to generation 2.
-- MUTATED: 'Cursed Blade of Gales' evolved to generation 28.
+- MUTATED: 'Unstable Spear of the Glacier' evolved to generation 8.
+- MUTATED: 'Glowing Rapier of Venom' evolved to generation 5.
+- STABLE: 'Echoing Relic of the Glacier' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 181
@@ -40,8 +40,8 @@ Unstable Spear of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 14982
-- Successful Mutations: 6256
+- Mutations Attempted: 15007
+- Successful Mutations: 6271
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Unstable Spear of the Glacier
 
 ## Economy
 - Total Currency: 334000
-- Currency per Tick (avg): 22.29
+- Currency per Tick (avg): 22.26
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

@@ -1,21 +1,21 @@
 {
   "currency": 334000,
-  "tick": 14982,
+  "tick": 15007,
   "mutation_stats": {
-    "attempted": 14982,
-    "success": 6256
+    "attempted": 15007,
+    "success": 6271
   },
   "recent_events": [
-    "MUTATED: 'Unstable Focus of the Deep' evolved to generation 2.",
-    "STABLE: 'Cursed Blade of Gales' did not mutate this tick.",
-    "MUTATED: 'Glowing Rapier of Venom' evolved to generation 2.",
-    "MUTATED: 'Glowing Rapier of Venom' evolved to generation 3.",
-    "MUTATED: 'Unstable Focus of the Deep' evolved to generation 3.",
-    "STABLE: 'Glowing Rapier of Venom' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of the Glacier' evolved to generation 6.",
-    "MUTATED: 'Cursed Blade of Gales' evolved to generation 27.",
-    "MUTATED: 'Unstable Spear of the Glacier' evolved to generation 2.",
-    "MUTATED: 'Cursed Blade of Gales' evolved to generation 28."
+    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
+    "STABLE: 'Phantom Shard of Decay' did not mutate this tick.",
+    "MUTATED: 'Glowing Rapier of Venom' evolved to generation 4.",
+    "STABLE: 'Searing Blade of Blood' did not mutate this tick.",
+    "STABLE: 'Echoing Relic of the Glacier' did not mutate this tick.",
+    "STABLE: 'Shattered Blade of Iron' did not mutate this tick.",
+    "MUTATED: 'Phantom Shard of Decay' evolved to generation 11.",
+    "MUTATED: 'Unstable Spear of the Glacier' evolved to generation 8.",
+    "MUTATED: 'Glowing Rapier of Venom' evolved to generation 5.",
+    "STABLE: 'Echoing Relic of the Glacier' did not mutate this tick."
   ],
   "created": 181,
   "avg_lifespan": 37.06432748538012,
