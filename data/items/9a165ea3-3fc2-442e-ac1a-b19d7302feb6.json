@@ -1,0 +1,25 @@
+{
+  "id": "9a165ea3-3fc2-442e-ac1a-b19d7302feb6",
+  "name": "Glowing Rapier of Venom",
+  "type": "Generic",
+  "generation": 3,
+  "damage": 20.0,
+  "damage_type": [
+    "Physical",
+    "Piercing",
+    "Acid"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.0,
+  "rarity": 1.5,
+  "durability": 92.5,
+  "max_durability": 100.0,
+  "volatility": 0.46,
+  "resilience": 0.5,
+  "worth": 100,
+  "affinities": {
+    "Stability": 0.1
+  }
+}

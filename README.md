@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-14957
+14982
 
 ## Oldest Item
 Unstable Spear of the Glacier
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.4
-- Average Volatility: 0.43
-- Average Durability: 47.59
+- Average Rarity: 1.25
+- Average Volatility: 0.45
+- Average Durability: 59.3
 
 ## Dominant Factions
-- Order: 0.8
-- STR: 0.4
-- Scarceness: 0.3
+- Chaos: 0.3
+- STR: 0.3
+- Order: 0.3
 
 ## Extremes
 - Most Stable Item: Mundane Blade of the Glacier
 - Most Volatile Item: Echoing Relic of Distortion
 
 ## Recent Events
-- STABLE: 'Unstable Spear of the Glacier' did not mutate this tick.
-- MUTATED: 'Echoing Relic of Distortion' evolved to generation 19.
-- MUTATED: 'Cursed Blade of Gales' evolved to generation 26.
+- MUTATED: 'Cursed Blade of Gales' evolved to generation 27.
+- MUTATED: 'Unstable Spear of the Glacier' evolved to generation 2.
+- MUTATED: 'Cursed Blade of Gales' evolved to generation 28.
 
 ## Lifecycle Stats
-- Items Created: 179
-- Items Archived: 169
+- Items Created: 181
+- Items Archived: 171
 - Avg Lifespan (ticks): 37.1
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Unstable Spear of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 14957
-- Successful Mutations: 6241
-- Failure Rate: 58.3%
+- Mutations Attempted: 14982
+- Successful Mutations: 6256
+- Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 8
-- Uncommon: 2
+- Common: 9
+- Uncommon: 1
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Unstable Spear of the Glacier
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 330550
-- Currency per Tick (avg): 22.1
+- Total Currency: 334000
+- Currency per Tick (avg): 22.29
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

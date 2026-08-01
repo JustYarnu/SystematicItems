@@ -4588,5 +4588,58 @@
       "Stability": 0.1,
       "STR": 0.4
     }
+  },
+  {
+    "id": "08fce67b-9749-4523-b952-2b738e5280b3",
+    "name": "Ancient Edge of the Deep",
+    "type": "Sword",
+    "generation": 28,
+    "damage": 9.0,
+    "damage_type": [
+      "Physical",
+      "Water"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.10169925001442312,
+    "str_mod": 1.2000000000000002,
+    "dex_mod": 1.5,
+    "rarity": 3.0,
+    "durability": -0.5242856243149268,
+    "max_durability": 146.0,
+    "volatility": 0.39000000000000057,
+    "resilience": 0.7792481250360577,
+    "worth": 1500,
+    "affinities": {
+      "Order": 0.1,
+      "STR": 0.1,
+      "Scarceness": 0.2
+    }
+  },
+  {
+    "id": "f716957a-9e53-4eff-96f8-6768c05c8c56",
+    "name": "Volcanic Bow of Grace",
+    "type": "Ranged",
+    "generation": 37,
+    "damage": 43.5,
+    "damage_type": [
+      "Physical",
+      "Fire",
+      "Piercing"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.1,
+    "dex_mod": 1.0999999999999996,
+    "rarity": 2,
+    "durability": -1.0,
+    "max_durability": 94.0,
+    "volatility": 0.5499999999999999,
+    "resilience": 0.5299999999999999,
+    "worth": 1950,
+    "affinities": {
+      "Order": 0.4,
+      "Scarceness": 0.2,
+      "Stability": 0.1
+    }
   }
 ]

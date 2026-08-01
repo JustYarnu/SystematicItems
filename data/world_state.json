@@ -1,23 +1,23 @@
 {
-  "currency": 330550,
-  "tick": 14957,
+  "currency": 334000,
+  "tick": 14982,
   "mutation_stats": {
-    "attempted": 14957,
-    "success": 6241
+    "attempted": 14982,
+    "success": 6256
   },
   "recent_events": [
-    "MUTATED: 'Echoing Relic of Distortion' evolved to generation 18.",
-    "STABLE: 'Echoing Relic of Distortion' did not mutate this tick.",
-    "MUTATED: 'Volcanic Bow of Grace' evolved to generation 34.",
-    "MUTATED: 'Cursed Blade of Gales' evolved to generation 25.",
+    "MUTATED: 'Unstable Focus of the Deep' evolved to generation 2.",
     "STABLE: 'Cursed Blade of Gales' did not mutate this tick.",
-    "STABLE: 'Echoing Relic of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Searing Blade of Blood' evolved to generation 12.",
-    "STABLE: 'Unstable Spear of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Echoing Relic of Distortion' evolved to generation 19.",
-    "MUTATED: 'Cursed Blade of Gales' evolved to generation 26."
+    "MUTATED: 'Glowing Rapier of Venom' evolved to generation 2.",
+    "MUTATED: 'Glowing Rapier of Venom' evolved to generation 3.",
+    "MUTATED: 'Unstable Focus of the Deep' evolved to generation 3.",
+    "STABLE: 'Glowing Rapier of Venom' did not mutate this tick.",
+    "MUTATED: 'Mundane Blade of the Glacier' evolved to generation 6.",
+    "MUTATED: 'Cursed Blade of Gales' evolved to generation 27.",
+    "MUTATED: 'Unstable Spear of the Glacier' evolved to generation 2.",
+    "MUTATED: 'Cursed Blade of Gales' evolved to generation 28."
   ],
-  "created": 179,
-  "avg_lifespan": 37.11834319526628,
-  "archived": 169
+  "created": 181,
+  "avg_lifespan": 37.06432748538012,
+  "archived": 171
 }

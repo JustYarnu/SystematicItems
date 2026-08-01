@@ -2,7 +2,7 @@
   "id": "169aaf53-c80a-4879-a419-d1efb87c793f",
   "name": "Echoing Relic of Distortion",
   "type": "Artifact",
-  "generation": 19,
+  "generation": 21,
   "damage": 29.0,
   "damage_type": [
     "Physical",
@@ -16,10 +16,10 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.1,
   "rarity": 1.5,
-  "durability": 28.300000000000004,
-  "max_durability": 92.0,
+  "durability": 19.900000000000006,
+  "max_durability": 99.0,
   "volatility": 0.5792481250360578,
-  "resilience": 0.4,
+  "resilience": 0.45,
   "worth": 100,
   "affinities": {
     "Chaos": 0.1,
