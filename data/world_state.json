@@ -1,21 +1,21 @@
 {
   "currency": 329000,
-  "tick": 14857,
+  "tick": 14882,
   "mutation_stats": {
-    "attempted": 14857,
-    "success": 6194
+    "attempted": 14882,
+    "success": 6209
   },
   "recent_events": [
-    "STABLE: 'Volcanic Bow of Grace' did not mutate this tick.",
-    "STABLE: 'Shattered Blade of Iron' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of Sparks' evolved to generation 25.",
-    "STABLE: 'Phantom Shard of Decay' did not mutate this tick.",
-    "MUTATED: 'Echoing Relic of Distortion' evolved to generation 10.",
-    "MUTATED: 'Mundane Rapier of Sparks' evolved to generation 26.",
-    "MUTATED: 'Volcanic Bow of Grace' evolved to generation 28.",
-    "MUTATED: 'Phantom Shard of Decay' evolved to generation 6.",
-    "STABLE: 'Shattered Blade of Iron' did not mutate this tick.",
-    "STABLE: 'Phantom Shard of Decay' did not mutate this tick."
+    "MUTATED: 'Cursed Blade of Gales' evolved to generation 20.",
+    "MUTATED: 'Cursed Blade of Gales' evolved to generation 21.",
+    "STABLE: 'Ancient Edge of the Deep' did not mutate this tick.",
+    "STABLE: 'Ancient Edge of the Deep' did not mutate this tick.",
+    "MUTATED: 'Ancient Edge of the Deep' evolved to generation 26.",
+    "MUTATED: 'Echoing Relic of Distortion' evolved to generation 12.",
+    "MUTATED: 'Cursed Blade of Gales' evolved to generation 22.",
+    "MUTATED: 'Echoing Relic of the Glacier' evolved to generation 7.",
+    "MUTATED: 'Echoing Relic of Distortion' evolved to generation 13.",
+    "STABLE: 'Searing Blade of Blood' did not mutate this tick."
   ],
   "created": 178,
   "avg_lifespan": 37.16666666666667,
