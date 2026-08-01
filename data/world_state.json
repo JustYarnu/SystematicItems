@@ -1,21 +1,21 @@
 {
   "currency": 334000,
-  "tick": 15007,
+  "tick": 15032,
   "mutation_stats": {
-    "attempted": 15007,
-    "success": 6271
+    "attempted": 15032,
+    "success": 6279
   },
   "recent_events": [
-    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Phantom Shard of Decay' evolved to generation 12.",
     "STABLE: 'Phantom Shard of Decay' did not mutate this tick.",
-    "MUTATED: 'Glowing Rapier of Venom' evolved to generation 4.",
-    "STABLE: 'Searing Blade of Blood' did not mutate this tick.",
-    "STABLE: 'Echoing Relic of the Glacier' did not mutate this tick.",
     "STABLE: 'Shattered Blade of Iron' did not mutate this tick.",
-    "MUTATED: 'Phantom Shard of Decay' evolved to generation 11.",
-    "MUTATED: 'Unstable Spear of the Glacier' evolved to generation 8.",
-    "MUTATED: 'Glowing Rapier of Venom' evolved to generation 5.",
-    "STABLE: 'Echoing Relic of the Glacier' did not mutate this tick."
+    "MUTATED: 'Glowing Rapier of Venom' evolved to generation 7.",
+    "MUTATED: 'Unstable Spear of the Glacier' evolved to generation 11.",
+    "MUTATED: 'Phantom Shard of Decay' evolved to generation 13.",
+    "STABLE: 'Searing Blade of Blood' did not mutate this tick.",
+    "STABLE: 'Searing Blade of Blood' did not mutate this tick.",
+    "STABLE: 'Cursed Blade of Gales' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick."
   ],
   "created": 181,
   "avg_lifespan": 37.06432748538012,

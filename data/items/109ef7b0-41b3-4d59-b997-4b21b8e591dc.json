@@ -2,7 +2,7 @@
   "id": "109ef7b0-41b3-4d59-b997-4b21b8e591dc",
   "name": "Unstable Spear of the Glacier",
   "type": "Polearm",
-  "generation": 8,
+  "generation": 11,
   "damage": 25.0,
   "damage_type": [
     "Physical",
@@ -11,13 +11,13 @@
     "Cold"
   ],
   "crit_damage": 2.5,
-  "crit_rate": 0.01,
+  "crit_rate": 0.060000000000000005,
   "str_mod": 1.1,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 68.1,
+  "durability": 57.349999999999994,
   "max_durability": 125.0,
-  "volatility": 0.55,
+  "volatility": 0.5,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {}
