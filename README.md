@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-14907
+14932
 
 ## Oldest Item
 Mundane Blade of the Glacier
@@ -11,8 +11,8 @@ Mundane Blade of the Glacier
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.4
-- Average Volatility: 0.41
-- Average Durability: 45.81
+- Average Volatility: 0.43
+- Average Durability: 43.58
 
 ## Dominant Factions
 - Order: 0.8
@@ -21,11 +21,11 @@ Mundane Blade of the Glacier
 
 ## Extremes
 - Most Stable Item: Mundane Blade of the Glacier
-- Most Volatile Item: Echoing Relic of Distortion
+- Most Volatile Item: Volcanic Bow of Grace
 
 ## Recent Events
-- MUTATED: 'Echoing Relic of Distortion' evolved to generation 16.
-- STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.
+- STABLE: 'Cursed Blade of Gales' did not mutate this tick.
+- STABLE: 'Echoing Relic of the Glacier' did not mutate this tick.
 - STABLE: 'Volcanic Bow of Grace' did not mutate this tick.
 
 ## Lifecycle Stats
@@ -40,8 +40,8 @@ Mundane Blade of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 14907
-- Successful Mutations: 6220
+- Mutations Attempted: 14932
+- Successful Mutations: 6228
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Blade of the Glacier
 
 ## Economy
 - Total Currency: 329000
-- Currency per Tick (avg): 22.07
+- Currency per Tick (avg): 22.03
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

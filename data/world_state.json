@@ -1,20 +1,20 @@
 {
   "currency": 329000,
-  "tick": 14907,
+  "tick": 14932,
   "mutation_stats": {
-    "attempted": 14907,
-    "success": 6220
+    "attempted": 14932,
+    "success": 6228
   },
   "recent_events": [
-    "MUTATED: 'Volcanic Bow of Grace' evolved to generation 29.",
+    "STABLE: 'Echoing Relic of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Phantom Shard of Decay' evolved to generation 9.",
+    "MUTATED: 'Volcanic Bow of Grace' evolved to generation 31.",
     "STABLE: 'Shattered Blade of Iron' did not mutate this tick.",
-    "MUTATED: 'Searing Blade of Blood' evolved to generation 9.",
-    "MUTATED: 'Mundane Blade of the Glacier' evolved to generation 4.",
-    "STABLE: 'Volcanic Bow of Grace' did not mutate this tick.",
-    "STABLE: 'Echoing Relic of Distortion' did not mutate this tick.",
-    "MUTATED: 'Ancient Edge of the Deep' evolved to generation 28.",
-    "MUTATED: 'Echoing Relic of Distortion' evolved to generation 16.",
-    "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Sparks' evolved to generation 27.",
+    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
+    "STABLE: 'Cursed Blade of Gales' did not mutate this tick.",
+    "STABLE: 'Echoing Relic of the Glacier' did not mutate this tick.",
     "STABLE: 'Volcanic Bow of Grace' did not mutate this tick."
   ],
   "created": 178,
