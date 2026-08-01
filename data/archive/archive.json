@@ -4561,5 +4561,32 @@
       "Restoration": 0.1,
       "STR": 0.2
     }
+  },
+  {
+    "id": "567f8e7b-e9ce-4ab0-b4d9-20123d50bb03",
+    "name": "Mundane Rapier of Sparks",
+    "type": "Generic",
+    "generation": 29,
+    "damage": 22.5,
+    "damage_type": [
+      "Physical",
+      "Piercing",
+      "Lightning"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.01,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 1.2000000000000002,
+    "rarity": 1,
+    "durability": -0.7999999999999909,
+    "max_durability": 112.0,
+    "volatility": 0.56,
+    "resilience": 0.5999999999999999,
+    "worth": 1550,
+    "affinities": {
+      "Order": 0.2,
+      "Stability": 0.1,
+      "STR": 0.4
+    }
   }
 ]
