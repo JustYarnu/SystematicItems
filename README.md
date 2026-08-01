@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-14807
+14832
 
 ## Oldest Item
 Shattered Blade of Iron
@@ -11,8 +11,8 @@ Shattered Blade of Iron
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.3
-- Average Volatility: 0.36
-- Average Durability: 58.97
+- Average Volatility: 0.38
+- Average Durability: 55.06
 
 ## Dominant Factions
 - Order: 0.8
@@ -24,9 +24,9 @@ Shattered Blade of Iron
 - Most Volatile Item: Echoing Relic of Distortion
 
 ## Recent Events
-- STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.
-- MUTATED: 'Mundane Rapier of Sparks' evolved to generation 22.
-- STABLE: 'Searing Blade of Blood' did not mutate this tick.
+- MUTATED: 'Echoing Relic of the Glacier' evolved to generation 5.
+- STABLE: 'Ancient Edge of the Deep' did not mutate this tick.
+- STABLE: 'Cursed Blade of Gales' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 178
@@ -40,8 +40,8 @@ Shattered Blade of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 14807
-- Successful Mutations: 6180
+- Mutations Attempted: 14832
+- Successful Mutations: 6186
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Shattered Blade of Iron
 
 ## Economy
 - Total Currency: 329000
-- Currency per Tick (avg): 22.22
+- Currency per Tick (avg): 22.18
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
