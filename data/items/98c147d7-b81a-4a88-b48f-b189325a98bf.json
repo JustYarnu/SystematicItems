@@ -2,7 +2,7 @@
   "id": "98c147d7-b81a-4a88-b48f-b189325a98bf",
   "name": "Unstable Focus of the Deep",
   "type": "Focus",
-  "generation": 4,
+  "generation": 8,
   "damage": 25.0,
   "damage_type": [
     "Physical",
@@ -15,12 +15,14 @@
   "str_mod": 1.0,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 59.55,
+  "durability": 48.269999999999996,
   "max_durability": 120.0,
-  "volatility": 0.6200000000000001,
-  "resilience": 0.65,
+  "volatility": 0.52,
+  "resilience": 0.6799999999999999,
   "worth": 100,
   "affinities": {
-    "Restoration": 0.1
+    "Restoration": 0.1,
+    "Stability": 0.1,
+    "Order": 0.1
   }
 }
