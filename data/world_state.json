@@ -1,21 +1,21 @@
 {
   "currency": 339500,
-  "tick": 15332,
+  "tick": 15357,
   "mutation_stats": {
-    "attempted": 15332,
-    "success": 6418
+    "attempted": 15357,
+    "success": 6428
   },
   "recent_events": [
-    "STABLE: 'Unstable Spear of the Glacier' did not mutate this tick.",
+    "STABLE: 'Echoing Relic of the Glacier' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
     "STABLE: 'Shattered Blade of Iron' did not mutate this tick.",
+    "STABLE: 'Shattered Blade of Iron' did not mutate this tick.",
+    "MUTATED: 'Glowing Rapier of Venom' evolved to generation 21.",
+    "MUTATED: 'Stormcharged Sigil of the Void' evolved to generation 11.",
     "STABLE: 'Unstable Focus of the Deep' did not mutate this tick.",
-    "MUTATED: 'Unstable Axe of Iron' evolved to generation 3.",
-    "STABLE: 'Unstable Axe of Iron' did not mutate this tick.",
-    "MUTATED: 'Stormcharged Sigil of the Void' evolved to generation 8.",
-    "MUTATED: 'Glowing Rapier of Venom' evolved to generation 20.",
-    "MUTATED: 'Phantom Shard of Decay' evolved to generation 29.",
-    "REPLACED WITH: 'Singed Rapier of Eternity' (6ccbbfe1-f02b-4266-beec-3a46536a8994)",
-    "MUTATED: 'Shattered Blade of Iron' evolved to generation 19."
+    "STABLE: 'Unstable Spear of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Searing Blade of Blood' evolved to generation 25.",
+    "MUTATED: 'Echoing Relic of the Glacier' evolved to generation 15."
   ],
   "created": 184,
   "avg_lifespan": 37.02298850574713,

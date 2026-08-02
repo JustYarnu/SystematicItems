@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-15332
+15357
 
 ## Oldest Item
 Singed Rapier of Eternity
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.75
-- Average Volatility: 0.44
-- Average Durability: 38.32
+- Average Rarity: 1.85
+- Average Volatility: 0.46
+- Average Durability: 34.03
 
 ## Dominant Factions
-- STR: 0.7
+- STR: 0.8
 - Stability: 0.6
 - Restoration: 0.4
 
@@ -24,9 +24,9 @@ Singed Rapier of Eternity
 - Most Volatile Item: Stormcharged Sigil of the Void
 
 ## Recent Events
-- MUTATED: 'Phantom Shard of Decay' evolved to generation 29.
-- REPLACED WITH: 'Singed Rapier of Eternity' (6ccbbfe1-f02b-4266-beec-3a46536a8994)
-- MUTATED: 'Shattered Blade of Iron' evolved to generation 19.
+- STABLE: 'Unstable Spear of the Glacier' did not mutate this tick.
+- MUTATED: 'Searing Blade of Blood' evolved to generation 25.
+- MUTATED: 'Echoing Relic of the Glacier' evolved to generation 15.
 
 ## Lifecycle Stats
 - Items Created: 184
@@ -40,8 +40,8 @@ Singed Rapier of Eternity
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 15332
-- Successful Mutations: 6418
+- Mutations Attempted: 15357
+- Successful Mutations: 6428
 - Failure Rate: 58.1%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Singed Rapier of Eternity
 
 ## Economy
 - Total Currency: 339500
-- Currency per Tick (avg): 22.14
+- Currency per Tick (avg): 22.11
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
