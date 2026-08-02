@@ -1,23 +1,23 @@
 {
-  "currency": 335850,
-  "tick": 15282,
+  "currency": 337950,
+  "tick": 15307,
   "mutation_stats": {
-    "attempted": 15282,
-    "success": 6395
+    "attempted": 15307,
+    "success": 6407
   },
   "recent_events": [
-    "MUTATED: 'Stormcharged Sigil of the Void' evolved to generation 4.",
-    "MUTATED: 'Stormcharged Sigil of the Void' evolved to generation 5.",
-    "MUTATED: 'Echoing Relic of the Glacier' evolved to generation 13.",
-    "STABLE: 'Shattered Blade of Iron' did not mutate this tick.",
-    "MUTATED: 'Shattered Blade of Iron' evolved to generation 15.",
-    "STABLE: 'Shattered Blade of Iron' did not mutate this tick.",
-    "MUTATED: 'Glowing Rapier of Venom' evolved to generation 17.",
+    "STABLE: 'Searing Blade of Blood' did not mutate this tick.",
     "STABLE: 'Unstable Spear of the Glacier' did not mutate this tick.",
-    "STABLE: 'Echoing Relic of the Glacier' did not mutate this tick.",
-    "STABLE: 'Phantom Shard of Decay' did not mutate this tick."
+    "STABLE: 'Unstable Focus of the Deep' did not mutate this tick.",
+    "MUTATED: 'Unstable Spear of the Glacier' evolved to generation 24.",
+    "MUTATED: 'Shattered Blade of Iron' evolved to generation 17.",
+    "MUTATED: 'Unstable Spear of the Glacier' evolved to generation 25.",
+    "STABLE: 'Shattered Blade of Iron' did not mutate this tick.",
+    "MUTATED: 'Cursed Blade of Gales' evolved to generation 40.",
+    "REPLACED WITH: 'Unstable Axe of Iron' (624c9d44-ef23-4ac5-bcc3-9ee23c660bb1)",
+    "MUTATED: 'Mundane Blade of the Glacier' evolved to generation 23."
   ],
-  "created": 182,
-  "avg_lifespan": 37.05232558139535,
-  "archived": 172
+  "created": 183,
+  "avg_lifespan": 37.06936416184971,
+  "archived": 173
 }
