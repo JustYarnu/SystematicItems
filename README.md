@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-15107
+15132
 
 ## Oldest Item
-Shattered Blade of Iron
+Glowing Rapier of Venom
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.55
+- Average Rarity: 1.65
 - Average Volatility: 0.47
-- Average Durability: 41.82
+- Average Durability: 39.6
 
 ## Dominant Factions
-- Stability: 0.5
+- Stability: 0.6
 - Order: 0.4
 - Chaos: 0.4
 
@@ -24,8 +24,8 @@ Shattered Blade of Iron
 - Most Volatile Item: Cursed Blade of Gales
 
 ## Recent Events
-- STABLE: 'Glowing Rapier of Venom' did not mutate this tick.
-- STABLE: 'Echoing Relic of Distortion' did not mutate this tick.
+- MUTATED: 'Shattered Blade of Iron' evolved to generation 9.
+- STABLE: 'Unstable Focus of the Deep' did not mutate this tick.
 - STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.
 
 ## Lifecycle Stats
@@ -40,8 +40,8 @@ Shattered Blade of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 15107
-- Successful Mutations: 6312
+- Mutations Attempted: 15132
+- Successful Mutations: 6326
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Shattered Blade of Iron
 
 ## Economy
 - Total Currency: 334000
-- Currency per Tick (avg): 22.11
+- Currency per Tick (avg): 22.07
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
