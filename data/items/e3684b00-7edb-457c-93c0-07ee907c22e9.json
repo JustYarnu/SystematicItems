@@ -2,7 +2,7 @@
   "id": "e3684b00-7edb-457c-93c0-07ee907c22e9",
   "name": "Shattered Blade of Iron",
   "type": "Sword",
-  "generation": 13,
+  "generation": 15,
   "damage": 23.0,
   "damage_type": [
     "Physical",
@@ -13,13 +13,13 @@
   "str_mod": 1.05,
   "dex_mod": 1.1500000000000001,
   "rarity": 1,
-  "durability": 11.940000000000005,
+  "durability": 13.940000000000005,
   "max_durability": 122.0,
   "volatility": 0.40000000000000036,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
     "Stability": 0.2,
-    "Chaos": 0.1
+    "Chaos": 0.2
   }
 }
