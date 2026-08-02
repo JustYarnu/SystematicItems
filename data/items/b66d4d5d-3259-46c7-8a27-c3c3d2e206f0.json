@@ -2,8 +2,8 @@
   "id": "b66d4d5d-3259-46c7-8a27-c3c3d2e206f0",
   "name": "Stormcharged Sigil of the Void",
   "type": "Focus",
-  "generation": 11,
-  "damage": 15.0,
+  "generation": 15,
+  "damage": 20.0,
   "damage_type": [
     "Physical",
     "Lightning",
@@ -12,12 +12,12 @@
   "crit_damage": 2,
   "crit_rate": 0.060000000000000005,
   "str_mod": 1.0,
-  "dex_mod": 1.15,
+  "dex_mod": 1.0499999999999998,
   "rarity": 2.5,
-  "durability": 55.60000000000001,
-  "max_durability": 107.0,
-  "volatility": 0.6160964047443681,
-  "resilience": 0.45,
+  "durability": 35.77000000000001,
+  "max_durability": 109.0,
+  "volatility": 0.5860964047443681,
+  "resilience": 0.48000000000000004,
   "worth": 100,
   "affinities": {
     "Scarceness": 0.2
