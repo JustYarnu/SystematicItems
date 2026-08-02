@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-15157
+15182
 
 ## Oldest Item
 Stormcharged Sigil of the Void
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.75
+- Average Rarity: 1.85
 - Average Volatility: 0.48
-- Average Durability: 47.1
+- Average Durability: 44.22
 
 ## Dominant Factions
 - Stability: 0.6
 - Order: 0.4
-- Restoration: 0.3
+- Chaos: 0.4
 
 ## Extremes
-- Most Stable Item: Mundane Blade of the Glacier
+- Most Stable Item: Echoing Relic of the Glacier
 - Most Volatile Item: Cursed Blade of Gales
 
 ## Recent Events
-- STABLE: 'Phantom Shard of Decay' did not mutate this tick.
+- MUTATED: 'Unstable Spear of the Glacier' evolved to generation 22.
+- STABLE: 'Shattered Blade of Iron' did not mutate this tick.
 - STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.
-- STABLE: 'Unstable Spear of the Glacier' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 182
@@ -40,15 +40,15 @@ Stormcharged Sigil of the Void
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 15157
-- Successful Mutations: 6338
+- Mutations Attempted: 15182
+- Successful Mutations: 6349
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 3
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Stormcharged Sigil of the Void
 
 ## Economy
 - Total Currency: 335850
-- Currency per Tick (avg): 22.16
+- Currency per Tick (avg): 22.12
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
