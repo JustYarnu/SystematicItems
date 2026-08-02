@@ -1,21 +1,21 @@
 {
   "currency": 335850,
-  "tick": 15207,
+  "tick": 15232,
   "mutation_stats": {
-    "attempted": 15207,
-    "success": 6363
+    "attempted": 15232,
+    "success": 6373
   },
   "recent_events": [
-    "MUTATED: 'Shattered Blade of Iron' evolved to generation 12.",
-    "STABLE: 'Unstable Spear of the Glacier' did not mutate this tick.",
-    "STABLE: 'Unstable Spear of the Glacier' did not mutate this tick.",
-    "STABLE: 'Cursed Blade of Gales' did not mutate this tick.",
-    "MUTATED: 'Unstable Focus of the Deep' evolved to generation 14.",
-    "MUTATED: 'Glowing Rapier of Venom' evolved to generation 13.",
-    "MUTATED: 'Unstable Focus of the Deep' evolved to generation 15.",
-    "MUTATED: 'Glowing Rapier of Venom' evolved to generation 14.",
+    "MUTATED: 'Unstable Focus of the Deep' evolved to generation 16.",
     "STABLE: 'Phantom Shard of Decay' did not mutate this tick.",
-    "MUTATED: 'Stormcharged Sigil of the Void' evolved to generation 3."
+    "STABLE: 'Phantom Shard of Decay' did not mutate this tick.",
+    "STABLE: 'Unstable Focus of the Deep' did not mutate this tick.",
+    "MUTATED: 'Unstable Focus of the Deep' evolved to generation 17.",
+    "MUTATED: 'Searing Blade of Blood' evolved to generation 22.",
+    "MUTATED: 'Cursed Blade of Gales' evolved to generation 37.",
+    "MUTATED: 'Cursed Blade of Gales' evolved to generation 38.",
+    "STABLE: 'Glowing Rapier of Venom' did not mutate this tick.",
+    "STABLE: 'Stormcharged Sigil of the Void' did not mutate this tick."
   ],
   "created": 182,
   "avg_lifespan": 37.05232558139535,
