@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-15482
+15507
 
 ## Oldest Item
-Mundane Relic of Sparks
+Mortal Relic of Silence
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.75
 - Average Volatility: 0.38
-- Average Durability: 54.86
+- Average Durability: 51.42
 
 ## Dominant Factions
-- STR: 0.7
-- Order: 0.4
+- STR: 0.8
+- Order: 0.5
 - Restoration: 0.3
 
 ## Extremes
 - Most Stable Item: Mortal Relic of Silence
-- Most Volatile Item: Unstable Axe of Iron
+- Most Volatile Item: Mundane Blade of the Glacier
 
 ## Recent Events
 - STABLE: 'Unstable Focus of the Deep' did not mutate this tick.
-- MUTATED: 'Zealous Focus of Frost' evolved to generation 5.
-- STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.
+- STABLE: 'Unstable Focus of the Deep' did not mutate this tick.
+- STABLE: 'Searing Blade of Blood' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 188
@@ -40,8 +40,8 @@ Mundane Relic of Sparks
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 15482
-- Successful Mutations: 6479
+- Mutations Attempted: 15507
+- Successful Mutations: 6489
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Relic of Sparks
 
 ## Economy
 - Total Currency: 344550
-- Currency per Tick (avg): 22.25
+- Currency per Tick (avg): 22.22
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
