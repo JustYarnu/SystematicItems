@@ -2,7 +2,7 @@
   "id": "6ccbbfe1-f02b-4266-beec-3a46536a8994",
   "name": "Singed Rapier of Eternity",
   "type": "Generic",
-  "generation": 6,
+  "generation": 7,
   "damage": 12.5,
   "damage_type": [
     "Physical",
@@ -10,13 +10,13 @@
     "Piercing"
   ],
   "crit_damage": 2,
-  "crit_rate": 0.01,
+  "crit_rate": 0.060000000000000005,
   "str_mod": 1.1,
   "dex_mod": 1.35,
   "rarity": 3.0,
-  "durability": 73.0,
+  "durability": 66.0,
   "max_durability": 152.0,
-  "volatility": 0.2200000000000001,
+  "volatility": 0.2500000000000001,
   "resilience": 0.5,
   "worth": 100,
   "affinities": {}

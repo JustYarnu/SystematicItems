@@ -2,8 +2,8 @@
   "id": "e2e3510a-d138-4067-90cc-e23e0b26f7b5",
   "name": "Mundane Shard of Plagues",
   "type": "Dagger",
-  "generation": 4,
-  "damage": 10.0,
+  "generation": 6,
+  "damage": 11.5,
   "damage_type": [
     "Physical",
     "Slashing",
@@ -11,13 +11,13 @@
   ],
   "crit_damage": 2,
   "crit_rate": 0.01,
-  "str_mod": 1.0,
+  "str_mod": 1.1,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 90.07,
+  "durability": 81.36999999999999,
   "max_durability": 85.0,
-  "volatility": 0.49,
-  "resilience": 0.75,
+  "volatility": 0.55,
+  "resilience": 0.7,
   "worth": 100,
   "affinities": {}
 }
