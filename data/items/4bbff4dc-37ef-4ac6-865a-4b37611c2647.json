@@ -1,0 +1,24 @@
+{
+  "id": "4bbff4dc-37ef-4ac6-865a-4b37611c2647",
+  "name": "Zealous Focus of Frost",
+  "type": "Focus",
+  "generation": 2,
+  "damage": 10.0,
+  "damage_type": [
+    "Physical",
+    "Holy",
+    "Magic",
+    "Cold"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.15,
+  "dex_mod": 1.0,
+  "rarity": 1,
+  "durability": 95.4,
+  "max_durability": 117.0,
+  "volatility": 0.36,
+  "resilience": 0.6799999999999999,
+  "worth": 100,
+  "affinities": {}
+}
