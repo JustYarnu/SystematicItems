@@ -1,21 +1,21 @@
 {
   "currency": 342150,
-  "tick": 15407,
+  "tick": 15432,
   "mutation_stats": {
-    "attempted": 15407,
-    "success": 6451
+    "attempted": 15432,
+    "success": 6457
   },
   "recent_events": [
+    "MUTATED: 'Stormcharged Sigil of the Void' evolved to generation 19.",
+    "STABLE: 'Dread Edge of Might' did not mutate this tick.",
+    "MUTATED: 'Unstable Axe of Iron' evolved to generation 4.",
+    "MUTATED: 'Unstable Axe of Iron' evolved to generation 5.",
+    "MUTATED: 'Glowing Rapier of Venom' evolved to generation 25.",
     "STABLE: 'Echoing Relic of the Glacier' did not mutate this tick.",
-    "STABLE: 'Unstable Axe of Iron' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of the Glacier' evolved to generation 29.",
-    "MUTATED: 'Glowing Rapier of Venom' evolved to generation 24.",
-    "STABLE: 'Singed Rapier of Eternity' did not mutate this tick.",
-    "MUTATED: 'Unstable Focus of the Deep' evolved to generation 25.",
-    "STABLE: 'Unstable Axe of Iron' did not mutate this tick.",
-    "MUTATED: 'Zealous Focus of Frost' evolved to generation 2.",
-    "STABLE: 'Glowing Rapier of Venom' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of the Glacier' evolved to generation 30."
+    "STABLE: 'Stormcharged Sigil of the Void' did not mutate this tick.",
+    "STABLE: 'Searing Blade of Blood' did not mutate this tick.",
+    "STABLE: 'Dread Edge of Might' did not mutate this tick.",
+    "STABLE: 'Dread Edge of Might' did not mutate this tick."
   ],
   "created": 186,
   "avg_lifespan": 36.88068181818182,

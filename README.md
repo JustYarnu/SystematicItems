@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-15407
+15432
 
 ## Oldest Item
 Dread Edge of Might
@@ -11,8 +11,8 @@ Dread Edge of Might
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.75
-- Average Volatility: 0.43
-- Average Durability: 46.5
+- Average Volatility: 0.44
+- Average Durability: 42.61
 
 ## Dominant Factions
 - STR: 0.7
@@ -21,12 +21,12 @@ Dread Edge of Might
 
 ## Extremes
 - Most Stable Item: Dread Edge of Might
-- Most Volatile Item: Unstable Axe of Iron
+- Most Volatile Item: Glowing Rapier of Venom
 
 ## Recent Events
-- MUTATED: 'Zealous Focus of Frost' evolved to generation 2.
-- STABLE: 'Glowing Rapier of Venom' did not mutate this tick.
-- MUTATED: 'Mundane Blade of the Glacier' evolved to generation 30.
+- STABLE: 'Searing Blade of Blood' did not mutate this tick.
+- STABLE: 'Dread Edge of Might' did not mutate this tick.
+- STABLE: 'Dread Edge of Might' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 186
@@ -40,9 +40,9 @@ Dread Edge of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 15407
-- Successful Mutations: 6451
-- Failure Rate: 58.1%
+- Mutations Attempted: 15432
+- Successful Mutations: 6457
+- Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Dread Edge of Might
 
 ## Economy
 - Total Currency: 342150
-- Currency per Tick (avg): 22.21
+- Currency per Tick (avg): 22.17
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
