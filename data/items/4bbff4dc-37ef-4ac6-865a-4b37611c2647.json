@@ -2,7 +2,7 @@
   "id": "4bbff4dc-37ef-4ac6-865a-4b37611c2647",
   "name": "Zealous Focus of Frost",
   "type": "Focus",
-  "generation": 2,
+  "generation": 5,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -15,10 +15,10 @@
   "str_mod": 1.15,
   "dex_mod": 1.0,
   "rarity": 1,
-  "durability": 92.4,
-  "max_durability": 117.0,
-  "volatility": 0.39,
-  "resilience": 0.6799999999999999,
+  "durability": 89.84000000000002,
+  "max_durability": 119.0,
+  "volatility": 0.36,
+  "resilience": 0.75,
   "worth": 100,
   "affinities": {}
 }

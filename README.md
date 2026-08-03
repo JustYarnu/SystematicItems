@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-15457
+15482
 
 ## Oldest Item
 Mundane Relic of Sparks
@@ -11,22 +11,22 @@ Mundane Relic of Sparks
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.75
-- Average Volatility: 0.37
-- Average Durability: 58.4
+- Average Volatility: 0.38
+- Average Durability: 54.86
 
 ## Dominant Factions
-- STR: 0.6
+- STR: 0.7
+- Order: 0.4
 - Restoration: 0.3
-- Stability: 0.3
 
 ## Extremes
 - Most Stable Item: Mortal Relic of Silence
 - Most Volatile Item: Unstable Axe of Iron
 
 ## Recent Events
-- MUTATED: 'Stormcharged Sigil of the Void' evolved to generation 23.
-- STABLE: 'Stormcharged Sigil of the Void' did not mutate this tick.
-- STABLE: 'Stormcharged Sigil of the Void' did not mutate this tick.
+- STABLE: 'Unstable Focus of the Deep' did not mutate this tick.
+- MUTATED: 'Zealous Focus of Frost' evolved to generation 5.
+- STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 188
@@ -40,9 +40,9 @@ Mundane Relic of Sparks
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 15457
-- Successful Mutations: 6469
-- Failure Rate: 58.1%
+- Mutations Attempted: 15482
+- Successful Mutations: 6479
+- Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Mundane Relic of Sparks
 
 ## Economy
 - Total Currency: 344550
-- Currency per Tick (avg): 22.29
+- Currency per Tick (avg): 22.25
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
