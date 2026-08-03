@@ -1,23 +1,23 @@
 {
-  "currency": 344550,
-  "tick": 15507,
+  "currency": 346300,
+  "tick": 15532,
   "mutation_stats": {
-    "attempted": 15507,
-    "success": 6489
+    "attempted": 15532,
+    "success": 6501
   },
   "recent_events": [
-    "MUTATED: 'Unstable Axe of Iron' evolved to generation 7.",
-    "STABLE: 'Stormcharged Sigil of the Void' did not mutate this tick.",
-    "MUTATED: 'Unstable Focus of the Deep' evolved to generation 28.",
+    "MUTATED: 'Mundane Shard of Plagues' evolved to generation 4.",
     "STABLE: 'Dread Edge of Might' did not mutate this tick.",
-    "MUTATED: 'Singed Rapier of Eternity' evolved to generation 4.",
-    "MUTATED: 'Singed Rapier of Eternity' evolved to generation 5.",
-    "MUTATED: 'Unstable Axe of Iron' evolved to generation 8.",
-    "STABLE: 'Unstable Focus of the Deep' did not mutate this tick.",
-    "STABLE: 'Unstable Focus of the Deep' did not mutate this tick.",
-    "STABLE: 'Searing Blade of Blood' did not mutate this tick."
+    "STABLE: 'Stormcharged Sigil of the Void' did not mutate this tick.",
+    "MUTATED: 'Unstable Focus of the Deep' evolved to generation 29.",
+    "STABLE: 'Dread Edge of Might' did not mutate this tick.",
+    "STABLE: 'Dread Edge of Might' did not mutate this tick.",
+    "STABLE: 'Mundane Relic of Sparks' did not mutate this tick.",
+    "STABLE: 'Searing Blade of Blood' did not mutate this tick.",
+    "STABLE: 'Mundane Shard of Plagues' did not mutate this tick.",
+    "MUTATED: 'Dread Edge of Might' evolved to generation 4."
   ],
-  "created": 188,
-  "avg_lifespan": 36.71348314606742,
-  "archived": 178
+  "created": 189,
+  "avg_lifespan": 36.6927374301676,
+  "archived": 179
 }
