@@ -4775,5 +4775,58 @@
       "Restoration": 0.1,
       "STR": 0.1
     }
+  },
+  {
+    "id": "9a165ea3-3fc2-442e-ac1a-b19d7302feb6",
+    "name": "Glowing Rapier of Venom",
+    "type": "Generic",
+    "generation": 27,
+    "damage": 34.5,
+    "damage_type": [
+      "Physical",
+      "Piercing",
+      "Acid"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.01,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 0.9,
+    "rarity": 3.5,
+    "durability": -0.5100000000000087,
+    "max_durability": 87.0,
+    "volatility": 0.6503677461028803,
+    "resilience": 0.7399999999999999,
+    "worth": 1450,
+    "affinities": {
+      "Stability": 0.2,
+      "Chaos": 0.1,
+      "STR": 0.1
+    }
+  },
+  {
+    "id": "75a1d544-d07d-4f1f-b4a4-1e5e35de6e8b",
+    "name": "Echoing Relic of the Glacier",
+    "type": "Artifact",
+    "generation": 17,
+    "damage": 18.5,
+    "damage_type": [
+      "Physical",
+      "Sonic",
+      "Holy",
+      "Cold"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.1,
+    "dex_mod": 1.35,
+    "rarity": 1.5,
+    "durability": -1.0,
+    "max_durability": 139.6240625180289,
+    "volatility": 0.5700000000000005,
+    "resilience": 0.7292481250360577,
+    "worth": 950,
+    "affinities": {
+      "Restoration": 0.2
+    }
   }
 ]
