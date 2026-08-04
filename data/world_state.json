@@ -1,21 +1,21 @@
 {
   "currency": 349500,
-  "tick": 15607,
+  "tick": 15632,
   "mutation_stats": {
-    "attempted": 15607,
-    "success": 6529
+    "attempted": 15632,
+    "success": 6538
   },
   "recent_events": [
+    "MUTATED: 'Singed Rapier of Eternity' evolved to generation 9.",
+    "MUTATED: 'Mundane Relic of Blood' evolved to generation 3.",
     "STABLE: 'Mundane Shard of Plagues' did not mutate this tick.",
-    "MUTATED: 'Unstable Axe of Iron' evolved to generation 13.",
-    "MUTATED: 'Unstable Focus of the Deep' evolved to generation 32.",
+    "STABLE: 'Mortal Relic of Silence' did not mutate this tick.",
+    "STABLE: 'Mortal Relic of Silence' did not mutate this tick.",
+    "STABLE: 'Dread Edge of Might' did not mutate this tick.",
+    "MUTATED: 'Mundane Relic of Sparks' evolved to generation 8.",
     "STABLE: 'Echoing Rapier of Stone' did not mutate this tick.",
-    "STABLE: 'Singed Rapier of Eternity' did not mutate this tick.",
-    "STABLE: 'Zealous Focus of Frost' did not mutate this tick.",
-    "STABLE: 'Mundane Relic of Blood' did not mutate this tick.",
-    "MUTATED: 'Mundane Relic of Sparks' evolved to generation 7.",
-    "STABLE: 'Singed Rapier of Eternity' did not mutate this tick.",
-    "MUTATED: 'Unstable Axe of Iron' evolved to generation 14."
+    "STABLE: 'Echoing Rapier of Stone' did not mutate this tick.",
+    "MUTATED: 'Mortal Relic of Silence' evolved to generation 4."
   ],
   "created": 191,
   "avg_lifespan": 36.61878453038673,

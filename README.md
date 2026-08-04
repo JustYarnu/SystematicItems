@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-15607
+15632
 
 ## Oldest Item
 Echoing Rapier of Stone
@@ -11,8 +11,8 @@ Echoing Rapier of Stone
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.45
-- Average Volatility: 0.33
-- Average Durability: 67.44
+- Average Volatility: 0.34
+- Average Durability: 66.09
 
 ## Dominant Factions
 - Order: 0.4
@@ -24,9 +24,9 @@ Echoing Rapier of Stone
 - Most Volatile Item: Mundane Shard of Plagues
 
 ## Recent Events
-- MUTATED: 'Mundane Relic of Sparks' evolved to generation 7.
-- STABLE: 'Singed Rapier of Eternity' did not mutate this tick.
-- MUTATED: 'Unstable Axe of Iron' evolved to generation 14.
+- STABLE: 'Echoing Rapier of Stone' did not mutate this tick.
+- STABLE: 'Echoing Rapier of Stone' did not mutate this tick.
+- MUTATED: 'Mortal Relic of Silence' evolved to generation 4.
 
 ## Lifecycle Stats
 - Items Created: 191
@@ -40,8 +40,8 @@ Echoing Rapier of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 15607
-- Successful Mutations: 6529
+- Mutations Attempted: 15632
+- Successful Mutations: 6538
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Echoing Rapier of Stone
 
 ## Economy
 - Total Currency: 349500
-- Currency per Tick (avg): 22.39
+- Currency per Tick (avg): 22.36
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

@@ -2,7 +2,7 @@
   "id": "624c9d44-ef23-4ac5-bcc3-9ee23c660bb1",
   "name": "Unstable Axe of Iron",
   "type": "HeavyWeapon",
-  "generation": 14,
+  "generation": 15,
   "damage": 29.5,
   "damage_type": [
     "Physical",
@@ -14,7 +14,7 @@
   "str_mod": 1.4500000000000002,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 35.849999999999994,
+  "durability": 48.849999999999994,
   "max_durability": 125.0,
   "volatility": 0.4300000000000001,
   "resilience": 0.75,
