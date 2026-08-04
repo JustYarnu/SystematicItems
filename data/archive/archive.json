@@ -4908,5 +4908,34 @@
     "affinities": {
       "Scarceness": 0.2
     }
+  },
+  {
+    "id": "98c147d7-b81a-4a88-b48f-b189325a98bf",
+    "name": "Unstable Focus of the Deep",
+    "type": "Focus",
+    "generation": 34,
+    "damage": 31.5,
+    "damage_type": [
+      "Physical",
+      "Chaos",
+      "Magic",
+      "Water"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.09,
+    "str_mod": 1.1,
+    "dex_mod": 1.1,
+    "rarity": 2,
+    "durability": -1.0,
+    "max_durability": 150.0,
+    "volatility": 0.48000000000000015,
+    "resilience": 0.7999999999999999,
+    "worth": 1800,
+    "affinities": {
+      "Restoration": 0.2,
+      "Stability": 0.1,
+      "Order": 0.2,
+      "Chaos": 0.2
+    }
   }
 ]
