@@ -2,7 +2,7 @@
   "id": "c873c02a-85d2-4227-bc90-7911ae191850",
   "name": "Mortal Relic of Silence",
   "type": "Artifact",
-  "generation": 8,
+  "generation": 9,
   "damage": 21.5,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.1,
   "dex_mod": 1.3499999999999999,
   "rarity": 1.5,
-  "durability": 72.5,
+  "durability": 82.5,
   "max_durability": 92.0,
-  "volatility": 0.18000000000000013,
+  "volatility": 0.21000000000000016,
   "resilience": 0.6500000000000001,
   "worth": 100,
   "affinities": {}
