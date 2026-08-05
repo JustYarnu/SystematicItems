@@ -1,21 +1,21 @@
 {
   "currency": 352400,
-  "tick": 15882,
+  "tick": 15907,
   "mutation_stats": {
-    "attempted": 15882,
-    "success": 6631
+    "attempted": 15907,
+    "success": 6642
   },
   "recent_events": [
-    "STABLE: 'Mundane Relic of Sparks' did not mutate this tick.",
-    "STABLE: 'Dread Edge of Might' did not mutate this tick.",
-    "STABLE: 'Singed Rapier of Eternity' did not mutate this tick.",
-    "REPLACED WITH: 'Resolute Rapier of Frost' (4db11d18-7476-43cb-bb51-ee7c6fecb39d)",
-    "STABLE: 'Echoing Rapier of Stone' did not mutate this tick.",
-    "MUTATED: 'Mundane Shard of Plagues' evolved to generation 20.",
-    "MUTATED: 'Mundane Relic of Sparks' evolved to generation 17.",
-    "MUTATED: 'Mundane Relic of Sparks' evolved to generation 18.",
+    "STABLE: 'Resolute Rapier of Frost' did not mutate this tick.",
+    "MUTATED: 'Unstable Axe of Iron' evolved to generation 32.",
+    "MUTATED: 'Mortal Relic of Silence' evolved to generation 10.",
+    "MUTATED: 'Phantom Rapier of Pestilence' evolved to generation 10.",
+    "MUTATED: 'Mundane Relic of Blood' evolved to generation 12.",
+    "STABLE: 'Resolute Rapier of Frost' did not mutate this tick.",
+    "STABLE: 'Phantom Rapier of Pestilence' did not mutate this tick.",
     "STABLE: 'Mundane Relic of Blood' did not mutate this tick.",
-    "MUTATED: 'Echoing Rapier of Stone' evolved to generation 9."
+    "MUTATED: 'Mortal Relic of Silence' evolved to generation 11.",
+    "MUTATED: 'Echoing Rapier of Stone' evolved to generation 10."
   ],
   "created": 193,
   "avg_lifespan": 36.51366120218579,
