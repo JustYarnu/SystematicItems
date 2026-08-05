@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-15932
+15957
 
 ## Oldest Item
 Resolute Rapier of Frost
@@ -12,21 +12,21 @@ Resolute Rapier of Frost
 - Active Items: 10
 - Average Rarity: 1.45
 - Average Volatility: 0.42
-- Average Durability: 49.94
+- Average Durability: 47.1
 
 ## Dominant Factions
-- Order: 0.5
+- Order: 0.6
 - STR: 0.4
-- Stability: 0.2
+- Chaos: 0.3
 
 ## Extremes
 - Most Stable Item: Resolute Rapier of Frost
 - Most Volatile Item: Unstable Axe of Iron
 
 ## Recent Events
-- MUTATED: 'Mundane Shard of Plagues' evolved to generation 23.
-- STABLE: 'Resolute Rapier of Frost' did not mutate this tick.
-- MUTATED: 'Resolute Rapier of Frost' evolved to generation 4.
+- STABLE: 'Dread Edge of Might' did not mutate this tick.
+- STABLE: 'Dread Edge of Might' did not mutate this tick.
+- MUTATED: 'Mundane Relic of Sparks' evolved to generation 22.
 
 ## Lifecycle Stats
 - Items Created: 193
@@ -40,9 +40,9 @@ Resolute Rapier of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 15932
-- Successful Mutations: 6651
-- Failure Rate: 58.3%
+- Mutations Attempted: 15957
+- Successful Mutations: 6664
+- Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Resolute Rapier of Frost
 
 ## Economy
 - Total Currency: 352400
-- Currency per Tick (avg): 22.12
+- Currency per Tick (avg): 22.08
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
