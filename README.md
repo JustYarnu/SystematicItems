@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-15857
+15882
 
 ## Oldest Item
-Echoing Rapier of Stone
+Resolute Rapier of Frost
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.65
-- Average Volatility: 0.43
-- Average Durability: 46.62
+- Average Rarity: 1.45
+- Average Volatility: 0.4
+- Average Durability: 55.47
 
 ## Dominant Factions
-- STR: 0.5
+- STR: 0.4
 - Order: 0.4
-- DEX: 0.3
+- Stability: 0.2
 
 ## Extremes
-- Most Stable Item: Echoing Rapier of Stone
-- Most Volatile Item: Mundane Shard of Plagues
+- Most Stable Item: Resolute Rapier of Frost
+- Most Volatile Item: Zealous Focus of Frost
 
 ## Recent Events
-- STABLE: 'Mortal Relic of Silence' did not mutate this tick.
-- STABLE: 'Mundane Relic of Sparks' did not mutate this tick.
-- STABLE: 'Mundane Shard of Plagues' did not mutate this tick.
+- MUTATED: 'Mundane Relic of Sparks' evolved to generation 18.
+- STABLE: 'Mundane Relic of Blood' did not mutate this tick.
+- MUTATED: 'Echoing Rapier of Stone' evolved to generation 9.
 
 ## Lifecycle Stats
-- Items Created: 192
-- Items Archived: 182
-- Avg Lifespan (ticks): 36.6
+- Items Created: 193
+- Items Archived: 183
+- Avg Lifespan (ticks): 36.5
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Echoing Rapier of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 15857
-- Successful Mutations: 6621
+- Mutations Attempted: 15882
+- Successful Mutations: 6631
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Echoing Rapier of Stone
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 351300
-- Currency per Tick (avg): 22.15
+- Total Currency: 352400
+- Currency per Tick (avg): 22.19
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
