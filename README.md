@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-15907
+15932
 
 ## Oldest Item
 Resolute Rapier of Frost
@@ -11,12 +11,12 @@ Resolute Rapier of Frost
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.45
-- Average Volatility: 0.41
-- Average Durability: 53.29
+- Average Volatility: 0.42
+- Average Durability: 49.94
 
 ## Dominant Factions
+- Order: 0.5
 - STR: 0.4
-- Order: 0.4
 - Stability: 0.2
 
 ## Extremes
@@ -24,9 +24,9 @@ Resolute Rapier of Frost
 - Most Volatile Item: Unstable Axe of Iron
 
 ## Recent Events
-- STABLE: 'Mundane Relic of Blood' did not mutate this tick.
-- MUTATED: 'Mortal Relic of Silence' evolved to generation 11.
-- MUTATED: 'Echoing Rapier of Stone' evolved to generation 10.
+- MUTATED: 'Mundane Shard of Plagues' evolved to generation 23.
+- STABLE: 'Resolute Rapier of Frost' did not mutate this tick.
+- MUTATED: 'Resolute Rapier of Frost' evolved to generation 4.
 
 ## Lifecycle Stats
 - Items Created: 193
@@ -40,9 +40,9 @@ Resolute Rapier of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 15907
-- Successful Mutations: 6642
-- Failure Rate: 58.2%
+- Mutations Attempted: 15932
+- Successful Mutations: 6651
+- Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Resolute Rapier of Frost
 
 ## Economy
 - Total Currency: 352400
-- Currency per Tick (avg): 22.15
+- Currency per Tick (avg): 22.12
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
