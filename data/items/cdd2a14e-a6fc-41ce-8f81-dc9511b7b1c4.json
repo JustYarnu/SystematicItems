@@ -2,7 +2,7 @@
   "id": "cdd2a14e-a6fc-41ce-8f81-dc9511b7b1c4",
   "name": "Phantom Rapier of Pestilence",
   "type": "Generic",
-  "generation": 11,
+  "generation": 13,
   "damage": 25.5,
   "damage_type": [
     "Physical",
@@ -13,11 +13,11 @@
   "crit_damage": 2.5,
   "crit_rate": 0.01,
   "str_mod": 1.1,
-  "dex_mod": 1.2499999999999998,
+  "dex_mod": 1.3499999999999999,
   "rarity": 1,
-  "durability": 44.5,
+  "durability": 32.65,
   "max_durability": 90.0,
-  "volatility": 0.39000000000000024,
+  "volatility": 0.36000000000000026,
   "resilience": 0.55,
   "worth": 100,
   "affinities": {
