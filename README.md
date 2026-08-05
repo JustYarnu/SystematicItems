@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-15957
+15982
 
 ## Oldest Item
-Resolute Rapier of Frost
+Silent Bow of Pestilence
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.45
-- Average Volatility: 0.42
-- Average Durability: 47.1
+- Average Rarity: 1.35
+- Average Volatility: 0.38
+- Average Durability: 53.21
 
 ## Dominant Factions
-- Order: 0.6
-- STR: 0.4
-- Chaos: 0.3
+- STR: 0.5
+- Order: 0.4
+- Chaos: 0.4
 
 ## Extremes
-- Most Stable Item: Resolute Rapier of Frost
-- Most Volatile Item: Unstable Axe of Iron
+- Most Stable Item: Silent Bow of Pestilence
+- Most Volatile Item: Mundane Relic of Blood
 
 ## Recent Events
-- STABLE: 'Dread Edge of Might' did not mutate this tick.
-- STABLE: 'Dread Edge of Might' did not mutate this tick.
-- MUTATED: 'Mundane Relic of Sparks' evolved to generation 22.
+- STABLE: 'Mundane Relic of Sparks' did not mutate this tick.
+- MUTATED: 'Mundane Relic of Blood' evolved to generation 15.
+- STABLE: 'Mundane Shard of Plagues' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 193
-- Items Archived: 183
+- Items Created: 194
+- Items Archived: 184
 - Avg Lifespan (ticks): 36.5
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Resolute Rapier of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 15957
-- Successful Mutations: 6664
+- Mutations Attempted: 15982
+- Successful Mutations: 6674
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 3
+- Common: 8
+- Uncommon: 2
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Resolute Rapier of Frost
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 352400
-- Currency per Tick (avg): 22.08
+- Total Currency: 354250
+- Currency per Tick (avg): 22.17
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

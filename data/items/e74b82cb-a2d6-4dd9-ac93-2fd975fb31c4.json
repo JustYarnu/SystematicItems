@@ -2,7 +2,7 @@
   "id": "e74b82cb-a2d6-4dd9-ac93-2fd975fb31c4",
   "name": "Dread Edge of Might",
   "type": "Sword",
-  "generation": 18,
+  "generation": 20,
   "damage": 19.0,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.6500000000000001,
   "dex_mod": 1.2000000000000002,
   "rarity": 1,
-  "durability": 59.29999999999999,
+  "durability": 45.29999999999999,
   "max_durability": 115.0,
-  "volatility": 0.4900000000000003,
+  "volatility": 0.41000000000000036,
   "resilience": 0.6000000000000001,
   "worth": 100,
   "affinities": {
