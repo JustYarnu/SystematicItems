@@ -1,21 +1,21 @@
 {
   "currency": 354250,
-  "tick": 16082,
+  "tick": 16107,
   "mutation_stats": {
-    "attempted": 16082,
-    "success": 6710
+    "attempted": 16107,
+    "success": 6723
   },
   "recent_events": [
-    "MUTATED: 'Zealous Focus of Frost' evolved to generation 25.",
-    "MUTATED: 'Mundane Shard of Plagues' evolved to generation 37.",
-    "STABLE: 'Mundane Relic of Sparks' did not mutate this tick.",
-    "MUTATED: 'Silent Bow of Pestilence' evolved to generation 2.",
-    "MUTATED: 'Mundane Relic of Sparks' evolved to generation 28.",
-    "MUTATED: 'Mundane Relic of Blood' evolved to generation 20.",
-    "MUTATED: 'Resolute Rapier of Frost' evolved to generation 7.",
-    "STABLE: 'Zealous Focus of Frost' did not mutate this tick.",
-    "STABLE: 'Silent Bow of Pestilence' did not mutate this tick.",
-    "STABLE: 'Dread Edge of Might' did not mutate this tick."
+    "STABLE: 'Echoing Rapier of Stone' did not mutate this tick.",
+    "STABLE: 'Mundane Relic of Blood' did not mutate this tick.",
+    "MUTATED: 'Mortal Relic of Silence' evolved to generation 17.",
+    "MUTATED: 'Echoing Rapier of Stone' evolved to generation 18.",
+    "MUTATED: 'Dread Edge of Might' evolved to generation 27.",
+    "MUTATED: 'Silent Bow of Pestilence' evolved to generation 3.",
+    "MUTATED: 'Silent Bow of Pestilence' evolved to generation 4.",
+    "STABLE: 'Mundane Relic of Blood' did not mutate this tick.",
+    "MUTATED: 'Dread Edge of Might' evolved to generation 28.",
+    "STABLE: 'Mundane Relic of Blood' did not mutate this tick."
   ],
   "created": 194,
   "avg_lifespan": 36.50543478260869,
