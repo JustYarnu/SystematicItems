@@ -1,21 +1,21 @@
 {
   "currency": 354250,
-  "tick": 16107,
+  "tick": 16132,
   "mutation_stats": {
-    "attempted": 16107,
-    "success": 6723
+    "attempted": 16132,
+    "success": 6735
   },
   "recent_events": [
-    "STABLE: 'Echoing Rapier of Stone' did not mutate this tick.",
-    "STABLE: 'Mundane Relic of Blood' did not mutate this tick.",
-    "MUTATED: 'Mortal Relic of Silence' evolved to generation 17.",
-    "MUTATED: 'Echoing Rapier of Stone' evolved to generation 18.",
-    "MUTATED: 'Dread Edge of Might' evolved to generation 27.",
-    "MUTATED: 'Silent Bow of Pestilence' evolved to generation 3.",
-    "MUTATED: 'Silent Bow of Pestilence' evolved to generation 4.",
-    "STABLE: 'Mundane Relic of Blood' did not mutate this tick.",
-    "MUTATED: 'Dread Edge of Might' evolved to generation 28.",
-    "STABLE: 'Mundane Relic of Blood' did not mutate this tick."
+    "MUTATED: 'Mundane Shard of Plagues' evolved to generation 39.",
+    "STABLE: 'Resolute Rapier of Frost' did not mutate this tick.",
+    "STABLE: 'Mortal Relic of Silence' did not mutate this tick.",
+    "MUTATED: 'Phantom Rapier of Pestilence' evolved to generation 14.",
+    "MUTATED: 'Resolute Rapier of Frost' evolved to generation 8.",
+    "MUTATED: 'Echoing Rapier of Stone' evolved to generation 20.",
+    "STABLE: 'Phantom Rapier of Pestilence' did not mutate this tick.",
+    "STABLE: 'Dread Edge of Might' did not mutate this tick.",
+    "MUTATED: 'Mundane Shard of Plagues' evolved to generation 40.",
+    "STABLE: 'Silent Bow of Pestilence' did not mutate this tick."
   ],
   "created": 194,
   "avg_lifespan": 36.50543478260869,
