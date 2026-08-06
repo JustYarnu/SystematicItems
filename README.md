@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-16157
+16182
 
 ## Oldest Item
 Silent Bow of Pestilence
@@ -11,8 +11,8 @@ Silent Bow of Pestilence
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.35
-- Average Volatility: 0.45
-- Average Durability: 31.29
+- Average Volatility: 0.46
+- Average Durability: 29.9
 
 ## Dominant Factions
 - Order: 0.9
@@ -21,12 +21,12 @@ Silent Bow of Pestilence
 
 ## Extremes
 - Most Stable Item: Silent Bow of Pestilence
-- Most Volatile Item: Mundane Relic of Blood
+- Most Volatile Item: Mundane Shard of Plagues
 
 ## Recent Events
-- MUTATED: 'Mundane Shard of Plagues' evolved to generation 41.
-- STABLE: 'Mundane Relic of Sparks' did not mutate this tick.
-- MUTATED: 'Mundane Shard of Plagues' evolved to generation 42.
+- MUTATED: 'Mundane Relic of Sparks' evolved to generation 31.
+- STABLE: 'Dread Edge of Might' did not mutate this tick.
+- MUTATED: 'Silent Bow of Pestilence' evolved to generation 5.
 
 ## Lifecycle Stats
 - Items Created: 194
@@ -40,8 +40,8 @@ Silent Bow of Pestilence
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 16157
-- Successful Mutations: 6744
+- Mutations Attempted: 16182
+- Successful Mutations: 6753
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Silent Bow of Pestilence
 
 ## Economy
 - Total Currency: 354250
-- Currency per Tick (avg): 21.93
+- Currency per Tick (avg): 21.89
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
