@@ -2,7 +2,7 @@
   "id": "4db11d18-7476-43cb-bb51-ee7c6fecb39d",
   "name": "Resolute Rapier of Frost",
   "type": "Generic",
-  "generation": 6,
+  "generation": 7,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -12,11 +12,11 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.0,
-  "dex_mod": 1.1,
+  "dex_mod": 1.2000000000000002,
   "rarity": 1,
-  "durability": 106.4,
+  "durability": 102.65,
   "max_durability": 125.0,
-  "volatility": 0.25000000000000017,
+  "volatility": 0.2600000000000002,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
