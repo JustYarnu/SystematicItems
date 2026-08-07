@@ -1,23 +1,23 @@
 {
-  "currency": 355950,
-  "tick": 16207,
+  "currency": 358400,
+  "tick": 16232,
   "mutation_stats": {
-    "attempted": 16207,
-    "success": 6764
+    "attempted": 16232,
+    "success": 6780
   },
   "recent_events": [
-    "MUTATED: 'Mundane Relic of Blood' evolved to generation 25.",
-    "MUTATED: 'Mortal Relic of Silence' evolved to generation 22.",
-    "STABLE: 'Mundane Relic of Blood' did not mutate this tick.",
-    "MUTATED: 'Phantom Rapier of Pestilence' evolved to generation 20.",
+    "REPLACED WITH: 'Brittle Focus of Frost' (0304120f-0559-4edb-b9bc-47e5c601523d)",
+    "MUTATED: 'Resolute Rapier of Frost' evolved to generation 9.",
+    "MUTATED: 'Echoing Rapier of Stone' evolved to generation 22.",
+    "STABLE: 'Echoing Rapier of Stone' did not mutate this tick.",
+    "MUTATED: 'Resolute Rapier of Frost' evolved to generation 10.",
+    "MUTATED: 'Mundane Relic of Sparks' evolved to generation 34.",
+    "MUTATED: 'Mundane Relic of Blood' evolved to generation 28.",
     "STABLE: 'Phantom Rapier of Pestilence' did not mutate this tick.",
-    "STABLE: 'Unstable Axe of Torment' did not mutate this tick.",
-    "STABLE: 'Mortal Relic of Silence' did not mutate this tick.",
-    "MUTATED: 'Phantom Rapier of Pestilence' evolved to generation 21.",
-    "MUTATED: 'Mundane Relic of Blood' evolved to generation 26.",
-    "MUTATED: 'Phantom Rapier of Pestilence' evolved to generation 22."
+    "MUTATED: 'Phantom Rapier of Pestilence' evolved to generation 24.",
+    "MUTATED: 'Silent Bow of Pestilence' evolved to generation 7."
   ],
-  "created": 195,
-  "avg_lifespan": 36.48108108108107,
-  "archived": 185
+  "created": 196,
+  "avg_lifespan": 36.53763440860214,
+  "archived": 186
 }

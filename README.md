@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-16207
+16232
 
 ## Oldest Item
-Unstable Axe of Torment
+Brittle Focus of Frost
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.35
-- Average Volatility: 0.46
-- Average Durability: 32.34
+- Average Volatility: 0.42
+- Average Durability: 38.05
 
 ## Dominant Factions
 - Order: 1.0
-- Chaos: 0.5
-- STR: 0.4
+- Chaos: 0.4
+- Restoration: 0.4
 
 ## Extremes
-- Most Stable Item: Silent Bow of Pestilence
+- Most Stable Item: Brittle Focus of Frost
 - Most Volatile Item: Mortal Relic of Silence
 
 ## Recent Events
-- MUTATED: 'Phantom Rapier of Pestilence' evolved to generation 21.
-- MUTATED: 'Mundane Relic of Blood' evolved to generation 26.
-- MUTATED: 'Phantom Rapier of Pestilence' evolved to generation 22.
+- STABLE: 'Phantom Rapier of Pestilence' did not mutate this tick.
+- MUTATED: 'Phantom Rapier of Pestilence' evolved to generation 24.
+- MUTATED: 'Silent Bow of Pestilence' evolved to generation 7.
 
 ## Lifecycle Stats
-- Items Created: 195
-- Items Archived: 185
+- Items Created: 196
+- Items Archived: 186
 - Avg Lifespan (ticks): 36.5
 
 ### Distribution chart
@@ -40,9 +40,9 @@ Unstable Axe of Torment
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 16207
-- Successful Mutations: 6764
-- Failure Rate: 58.3%
+- Mutations Attempted: 16232
+- Successful Mutations: 6780
+- Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -56,8 +56,8 @@ Unstable Axe of Torment
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 355950
-- Currency per Tick (avg): 21.96
+- Total Currency: 358400
+- Currency per Tick (avg): 22.08
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

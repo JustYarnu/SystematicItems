@@ -2,7 +2,7 @@
   "id": "9230d8a0-7970-4fb9-9234-8a47742d8cde",
   "name": "Echoing Rapier of Stone",
   "type": "Generic",
-  "generation": 21,
+  "generation": 22,
   "damage": 18.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.4,
   "rarity": 1,
-  "durability": 20.439999999999984,
+  "durability": 16.679999999999982,
   "max_durability": 119.0,
-  "volatility": 0.39000000000000035,
-  "resilience": 0.73,
+  "volatility": 0.37000000000000033,
+  "resilience": 0.75,
   "worth": 100,
   "affinities": {
     "STR": 0.1,
