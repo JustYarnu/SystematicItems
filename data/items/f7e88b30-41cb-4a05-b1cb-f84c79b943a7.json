@@ -2,7 +2,7 @@
   "id": "f7e88b30-41cb-4a05-b1cb-f84c79b943a7",
   "name": "Echoing Relic of Blight",
   "type": "Artifact",
-  "generation": 2,
+  "generation": 3,
   "damage": 21.0,
   "damage_type": [
     "Physical",
@@ -15,9 +15,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.2000000000000002,
   "rarity": 1.5,
-  "durability": 68.65,
-  "max_durability": 100.0,
-  "volatility": 0.20000000000000007,
+  "durability": 63.400000000000006,
+  "max_durability": 102.0,
+  "volatility": 0.21000000000000008,
   "resilience": 0.55,
   "worth": 100,
   "affinities": {}
