@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-16607
+16632
 
 ## Oldest Item
-Mundane Relic of Frost
+Obsidian Rapier of Stone
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.35
-- Average Volatility: 0.4
-- Average Durability: 45.64
+- Average Rarity: 1.45
+- Average Volatility: 0.42
+- Average Durability: 44.69
 
 ## Dominant Factions
 - Order: 1.3
@@ -21,12 +21,12 @@ Mundane Relic of Frost
 
 ## Extremes
 - Most Stable Item: Mundane Relic of Frost
-- Most Volatile Item: Unstable Axe of Torment
+- Most Volatile Item: Silent Bow of Pestilence
 
 ## Recent Events
-- STABLE: 'Silent Bow of Pestilence' did not mutate this tick.
-- STABLE: 'Mortal Shard of Frost' did not mutate this tick.
-- STABLE: 'Mundane Relic of Sparks' did not mutate this tick.
+- MUTATED: 'Mortal Shard of Frost' evolved to generation 18.
+- STABLE: 'Obsidian Rapier of Stone' did not mutate this tick.
+- STABLE: 'Mundane Relic of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 200
@@ -40,15 +40,15 @@ Mundane Relic of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 16607
-- Successful Mutations: 6926
+- Mutations Attempted: 16632
+- Successful Mutations: 6938
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 8
-- Uncommon: 2
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Mundane Relic of Frost
 
 ## Economy
 - Total Currency: 365000
-- Currency per Tick (avg): 21.98
+- Currency per Tick (avg): 21.95
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
