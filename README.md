@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-16357
+16382
 
 ## Oldest Item
 Obsidian Rapier of Stone
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.45
-- Average Volatility: 0.36
-- Average Durability: 56.56
+- Average Rarity: 1.25
+- Average Volatility: 0.32
+- Average Durability: 65.13
 
 ## Dominant Factions
-- Order: 1.0
+- Order: 0.9
 - Chaos: 0.3
 - Stability: 0.3
 
 ## Extremes
-- Most Stable Item: Obsidian Rapier of Stone
-- Most Volatile Item: Mundane Relic of Blood
+- Most Stable Item: Mundane Relic of Frost
+- Most Volatile Item: Unstable Axe of Torment
 
 ## Recent Events
-- STABLE: 'Brittle Focus of Frost' did not mutate this tick.
-- STABLE: 'Mundane Relic of Blood' did not mutate this tick.
-- MUTATED: 'Mundane Relic of Blood' evolved to generation 37.
+- MUTATED: 'Unstable Axe of Torment' evolved to generation 8.
+- STABLE: 'Resolute Rapier of Frost' did not mutate this tick.
+- STABLE: 'Echoing Rapier of Stone' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 199
-- Items Archived: 189
+- Items Created: 200
+- Items Archived: 190
 - Avg Lifespan (ticks): 36.4
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Obsidian Rapier of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 16357
-- Successful Mutations: 6835
-- Failure Rate: 58.2%
+- Mutations Attempted: 16382
+- Successful Mutations: 6839
+- Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 8
-- Uncommon: 2
+- Common: 9
+- Uncommon: 1
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Obsidian Rapier of Stone
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 363000
-- Currency per Tick (avg): 22.19
+- Total Currency: 365000
+- Currency per Tick (avg): 22.28
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

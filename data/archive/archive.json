@@ -5127,5 +5127,30 @@
       "Chaos": 0.1,
       "Order": 0.1
     }
+  },
+  {
+    "id": "6d554bf9-c143-47f8-aa3a-112be6862fb5",
+    "name": "Mundane Relic of Blood",
+    "type": "Artifact",
+    "generation": 38,
+    "damage": 30.5,
+    "damage_type": [
+      "Physical",
+      "Holy"
+    ],
+    "crit_damage": 3.696578428466209,
+    "crit_rate": 0.01,
+    "str_mod": 1.9000000000000006,
+    "dex_mod": 1.1,
+    "rarity": 3.5,
+    "durability": -0.5248765990863271,
+    "max_durability": 91.0,
+    "volatility": 0.6303677461028803,
+    "resilience": 0.8403677461028802,
+    "worth": 2000,
+    "affinities": {
+      "STR": 0.1,
+      "Order": 0.1
+    }
   }
 ]
