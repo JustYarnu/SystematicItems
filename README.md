@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-16557
+16582
 
 ## Oldest Item
 Mundane Relic of Frost
@@ -12,21 +12,21 @@ Mundane Relic of Frost
 - Active Items: 10
 - Average Rarity: 1.35
 - Average Volatility: 0.38
-- Average Durability: 48.22
+- Average Durability: 46.43
 
 ## Dominant Factions
-- Order: 1.2
+- Order: 1.3
 - Stability: 0.8
-- Restoration: 0.4
+- Restoration: 0.5
 
 ## Extremes
 - Most Stable Item: Mundane Relic of Frost
 - Most Volatile Item: Unstable Axe of Torment
 
 ## Recent Events
-- MUTATED: 'Unstable Axe of Torment' evolved to generation 22.
-- STABLE: 'Resolute Rapier of Frost' did not mutate this tick.
-- STABLE: 'Resolute Rapier of Frost' did not mutate this tick.
+- MUTATED: 'Mortal Shard of Frost' evolved to generation 16.
+- STABLE: 'Mundane Relic of Sparks' did not mutate this tick.
+- STABLE: 'Mundane Relic of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 200
@@ -40,8 +40,8 @@ Mundane Relic of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 16557
-- Successful Mutations: 6906
+- Mutations Attempted: 16582
+- Successful Mutations: 6918
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Relic of Frost
 
 ## Economy
 - Total Currency: 365000
-- Currency per Tick (avg): 22.05
+- Currency per Tick (avg): 22.01
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
