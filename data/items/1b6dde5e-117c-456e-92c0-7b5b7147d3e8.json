@@ -1,12 +1,12 @@
 {
-  "id": "0304120f-0559-4edb-b9bc-47e5c601523d",
-  "name": "Brittle Focus of Frost",
-  "type": "Focus",
+  "id": "1b6dde5e-117c-456e-92c0-7b5b7147d3e8",
+  "name": "Mortal Shard of Frost",
+  "type": "Dagger",
   "generation": 1,
-  "damage": 24.0,
+  "damage": 22.0,
   "damage_type": [
     "Physical",
-    "Magic",
+    "Slashing",
     "Cold"
   ],
   "crit_damage": 2,
@@ -14,9 +14,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.0,
   "rarity": 1,
-  "durability": 68.0,
-  "max_durability": 85.0,
-  "volatility": 0.22000000000000003,
+  "durability": 99.0,
+  "max_durability": 90.0,
+  "volatility": 0.31000000000000005,
   "resilience": 0.6799999999999999,
   "worth": 100,
   "affinities": {}

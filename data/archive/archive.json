@@ -5044,5 +5044,63 @@
       "Chaos": 0.1,
       "STR": 0.1
     }
+  },
+  {
+    "id": "4bbff4dc-37ef-4ac6-865a-4b37611c2647",
+    "name": "Zealous Focus of Frost",
+    "type": "Focus",
+    "generation": 32,
+    "damage": 39.5,
+    "damage_type": [
+      "Physical",
+      "Holy",
+      "Magic",
+      "Cold"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.01,
+    "str_mod": 1.4500000000000002,
+    "dex_mod": 0.7000000000000001,
+    "rarity": 1,
+    "durability": -0.489999999999972,
+    "max_durability": 125.0,
+    "volatility": 0.55,
+    "resilience": 0.7,
+    "worth": 1700,
+    "affinities": {
+      "STR": 0.1,
+      "Order": 0.1,
+      "Chaos": 0.1,
+      "Restoration": 0.1
+    }
+  },
+  {
+    "id": "cdd2a14e-a6fc-41ce-8f81-dc9511b7b1c4",
+    "name": "Phantom Rapier of Pestilence",
+    "type": "Generic",
+    "generation": 24,
+    "damage": 27.0,
+    "damage_type": [
+      "Physical",
+      "Void",
+      "Piercing",
+      "Acid"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.01,
+    "str_mod": 1.2000000000000002,
+    "dex_mod": 1.45,
+    "rarity": 1,
+    "durability": -0.4399999999999986,
+    "max_durability": 99.0,
+    "volatility": 0.40000000000000036,
+    "resilience": 0.7300000000000001,
+    "worth": 1300,
+    "affinities": {
+      "DEX": 0.1,
+      "Chaos": 0.1,
+      "Stability": 0.1,
+      "Order": 0.1
+    }
   }
 ]
