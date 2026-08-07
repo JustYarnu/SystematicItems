@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-16332
+16357
 
 ## Oldest Item
-Echoing Relic of Blight
+Obsidian Rapier of Stone
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.4
-- Average Volatility: 0.39
-- Average Durability: 45.31
+- Average Rarity: 1.45
+- Average Volatility: 0.36
+- Average Durability: 56.56
 
 ## Dominant Factions
 - Order: 1.0
-- Chaos: 0.4
+- Chaos: 0.3
 - Stability: 0.3
 
 ## Extremes
-- Most Stable Item: Echoing Relic of Blight
+- Most Stable Item: Obsidian Rapier of Stone
 - Most Volatile Item: Mundane Relic of Blood
 
 ## Recent Events
-- MUTATED: 'Mortal Relic of Silence' evolved to generation 29.
-- MUTATED: 'Unstable Axe of Torment' evolved to generation 7.
-- MUTATED: 'Echoing Relic of Blight' evolved to generation 2.
+- STABLE: 'Brittle Focus of Frost' did not mutate this tick.
+- STABLE: 'Mundane Relic of Blood' did not mutate this tick.
+- MUTATED: 'Mundane Relic of Blood' evolved to generation 37.
 
 ## Lifecycle Stats
-- Items Created: 198
-- Items Archived: 188
+- Items Created: 199
+- Items Archived: 189
 - Avg Lifespan (ticks): 36.4
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Echoing Relic of Blight
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 16332
-- Successful Mutations: 6824
+- Mutations Attempted: 16357
+- Successful Mutations: 6835
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Echoing Relic of Blight
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 361400
-- Currency per Tick (avg): 22.13
+- Total Currency: 363000
+- Currency per Tick (avg): 22.19
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
