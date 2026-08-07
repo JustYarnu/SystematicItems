@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-16257
+16282
 
 ## Oldest Item
-Brittle Focus of Frost
+Echoing Relic of Blight
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.4
-- Average Volatility: 0.37
-- Average Durability: 55.15
+- Average Volatility: 0.39
+- Average Durability: 52.78
 
 ## Dominant Factions
-- Order: 0.8
+- Order: 1.0
 - Chaos: 0.3
-- Restoration: 0.3
+- Stability: 0.3
 
 ## Extremes
 - Most Stable Item: Echoing Relic of Blight
-- Most Volatile Item: Mortal Relic of Silence
+- Most Volatile Item: Mundane Relic of Blood
 
 ## Recent Events
-- STABLE: 'Phantom Rapier of Pestilence' did not mutate this tick.
-- REPLACED WITH: 'Echoing Relic of Blight' (f7e88b30-41cb-4a05-b1cb-f84c79b943a7)
 - STABLE: 'Brittle Focus of Frost' did not mutate this tick.
+- MUTATED: 'Resolute Rapier of Frost' evolved to generation 14.
+- STABLE: 'Resolute Rapier of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 198
@@ -40,8 +40,8 @@ Brittle Focus of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 16257
-- Successful Mutations: 6790
+- Mutations Attempted: 16282
+- Successful Mutations: 6800
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Brittle Focus of Frost
 
 ## Economy
 - Total Currency: 361400
-- Currency per Tick (avg): 22.23
+- Currency per Tick (avg): 22.2
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
