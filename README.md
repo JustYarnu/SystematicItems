@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-16282
+16307
 
 ## Oldest Item
 Echoing Relic of Blight
@@ -12,11 +12,11 @@ Echoing Relic of Blight
 - Active Items: 10
 - Average Rarity: 1.4
 - Average Volatility: 0.39
-- Average Durability: 52.78
+- Average Durability: 48.37
 
 ## Dominant Factions
 - Order: 1.0
-- Chaos: 0.3
+- Chaos: 0.4
 - Stability: 0.3
 
 ## Extremes
@@ -24,9 +24,9 @@ Echoing Relic of Blight
 - Most Volatile Item: Mundane Relic of Blood
 
 ## Recent Events
-- STABLE: 'Brittle Focus of Frost' did not mutate this tick.
-- MUTATED: 'Resolute Rapier of Frost' evolved to generation 14.
-- STABLE: 'Resolute Rapier of Frost' did not mutate this tick.
+- MUTATED: 'Mortal Shard of Frost' evolved to generation 5.
+- STABLE: 'Echoing Relic of Blight' did not mutate this tick.
+- MUTATED: 'Mundane Relic of Blood' evolved to generation 30.
 
 ## Lifecycle Stats
 - Items Created: 198
@@ -40,8 +40,8 @@ Echoing Relic of Blight
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 16282
-- Successful Mutations: 6800
+- Mutations Attempted: 16307
+- Successful Mutations: 6811
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Echoing Relic of Blight
 
 ## Economy
 - Total Currency: 361400
-- Currency per Tick (avg): 22.2
+- Currency per Tick (avg): 22.16
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
