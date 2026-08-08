@@ -2,8 +2,8 @@
   "id": "1b6dde5e-117c-456e-92c0-7b5b7147d3e8",
   "name": "Mortal Shard of Frost",
   "type": "Dagger",
-  "generation": 26,
-  "damage": 48.5,
+  "generation": 28,
+  "damage": 53.5,
   "damage_type": [
     "Physical",
     "Slashing",
@@ -14,9 +14,9 @@
   "str_mod": 1.1,
   "dex_mod": 0.7000000000000001,
   "rarity": 2,
-  "durability": 31.459999999999994,
+  "durability": 23.77999999999999,
   "max_durability": 85.0,
-  "volatility": 0.48000000000000026,
+  "volatility": 0.5000000000000002,
   "resilience": 0.7899999999999997,
   "worth": 100,
   "affinities": {
