@@ -2,8 +2,8 @@
   "id": "69aaa518-eafd-4394-a60c-697fe8d29a52",
   "name": "Iridescent Rapier of Gales",
   "type": "Generic",
-  "generation": 1,
-  "damage": 15.0,
+  "generation": 4,
+  "damage": 16.5,
   "damage_type": [
     "Physical",
     "Blinding",
@@ -12,13 +12,15 @@
   ],
   "crit_damage": 2,
   "crit_rate": 0.01,
-  "str_mod": 1.0,
+  "str_mod": 1.1,
   "dex_mod": 1.48,
   "rarity": 6,
-  "durability": 150.0,
+  "durability": 139.25,
   "max_durability": 150.0,
-  "volatility": 0.39999999999999997,
-  "resilience": 0.5,
+  "volatility": 0.48,
+  "resilience": 0.45,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "DEX": 0.1
+  }
 }

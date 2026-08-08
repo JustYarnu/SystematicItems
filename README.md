@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-17082
+17107
 
 ## Oldest Item
-Iridescent Rapier of Gales
+Nimble Rapier of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.2
-- Average Volatility: 0.45
-- Average Durability: 51.22
+- Average Volatility: 0.47
+- Average Durability: 49.0
 
 ## Dominant Factions
 - Order: 0.9
@@ -24,9 +24,9 @@ Iridescent Rapier of Gales
 - Most Volatile Item: Mundane Blade of Distortion
 
 ## Recent Events
-- REPLACED WITH: 'Iridescent Rapier of Gales' (69aaa518-eafd-4394-a60c-697fe8d29a52)
-- MUTATED: 'Brittle Core of Iron' evolved to generation 6.
-- STABLE: 'Obsidian Rapier of Stone' did not mutate this tick.
+- STABLE: 'Resolute Rapier of Frost' did not mutate this tick.
+- MUTATED: 'Obsidian Rapier of Stone' evolved to generation 25.
+- STABLE: 'Resolute Rapier of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 205
@@ -40,8 +40,8 @@ Iridescent Rapier of Gales
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 17082
-- Successful Mutations: 7139
+- Mutations Attempted: 17107
+- Successful Mutations: 7150
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Iridescent Rapier of Gales
 
 ## Economy
 - Total Currency: 374250
-- Currency per Tick (avg): 21.91
+- Currency per Tick (avg): 21.88
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
