@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-16907
+16932
 
 ## Oldest Item
-Nimble Rapier of Whispers
+Brittle Core of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.85
-- Average Volatility: 0.47
-- Average Durability: 44.47
+- Average Rarity: 1.75
+- Average Volatility: 0.43
+- Average Durability: 49.83
 
 ## Dominant Factions
-- Order: 1.0
-- Stability: 0.8
+- Order: 1.1
+- Stability: 0.7
 - Chaos: 0.6
 
 ## Extremes
-- Most Stable Item: Nimble Rapier of Whispers
-- Most Volatile Item: Silent Bow of Pestilence
+- Most Stable Item: Brittle Core of Iron
+- Most Volatile Item: Mundane Blade of Distortion
 
 ## Recent Events
-- STABLE: 'Echoing Relic of Blight' did not mutate this tick.
-- MUTATED: 'Silent Bow of Pestilence' evolved to generation 35.
-- MUTATED: 'Resolute Rapier of Frost' evolved to generation 43.
+- MUTATED: 'Echoing Relic of Blight' evolved to generation 30.
+- STABLE: 'Nimble Rapier of Whispers' did not mutate this tick.
+- STABLE: 'Obsidian Rapier of Stone' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 202
-- Items Archived: 192
+- Items Created: 203
+- Items Archived: 193
 - Avg Lifespan (ticks): 36.4
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Nimble Rapier of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 16907
-- Successful Mutations: 7062
+- Mutations Attempted: 16932
+- Successful Mutations: 7074
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 5
-- Uncommon: 5
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Nimble Rapier of Whispers
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 368850
-- Currency per Tick (avg): 21.82
+- Total Currency: 370800
+- Currency per Tick (avg): 21.9
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

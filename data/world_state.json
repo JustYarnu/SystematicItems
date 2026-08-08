@@ -1,23 +1,23 @@
 {
-  "currency": 368850,
-  "tick": 16907,
+  "currency": 370800,
+  "tick": 16932,
   "mutation_stats": {
-    "attempted": 16907,
-    "success": 7062
+    "attempted": 16932,
+    "success": 7074
   },
   "recent_events": [
-    "MUTATED: 'Echoing Relic of Blight' evolved to generation 27.",
-    "MUTATED: 'Mundane Relic of Sparks' evolved to generation 59.",
-    "STABLE: 'Mundane Relic of Frost' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of Distortion' evolved to generation 13.",
-    "MUTATED: 'Mortal Shard of Frost' evolved to generation 35.",
-    "REPLACED WITH: 'Nimble Rapier of Whispers' (36234a69-e271-4bc8-9255-f40c5f15ae19)",
-    "MUTATED: 'Echoing Relic of Blight' evolved to generation 28.",
-    "STABLE: 'Echoing Relic of Blight' did not mutate this tick.",
-    "MUTATED: 'Silent Bow of Pestilence' evolved to generation 35.",
-    "MUTATED: 'Resolute Rapier of Frost' evolved to generation 43."
+    "STABLE: 'Mundane Relic of Sparks' did not mutate this tick.",
+    "STABLE: 'Brittle Core of Iron' did not mutate this tick.",
+    "STABLE: 'Unstable Axe of Torment' did not mutate this tick.",
+    "MUTATED: 'Obsidian Rapier of Stone' evolved to generation 17.",
+    "MUTATED: 'Obsidian Rapier of Stone' evolved to generation 18.",
+    "STABLE: 'Brittle Core of Iron' did not mutate this tick.",
+    "MUTATED: 'Obsidian Rapier of Stone' evolved to generation 19.",
+    "MUTATED: 'Echoing Relic of Blight' evolved to generation 30.",
+    "STABLE: 'Nimble Rapier of Whispers' did not mutate this tick.",
+    "STABLE: 'Obsidian Rapier of Stone' did not mutate this tick."
   ],
-  "created": 202,
-  "avg_lifespan": 36.421875,
-  "archived": 192
+  "created": 203,
+  "avg_lifespan": 36.424870466321245,
+  "archived": 193
 }
