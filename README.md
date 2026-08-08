@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-17007
+17032
 
 ## Oldest Item
-Zealous Axe of Silence
+Nimble Rapier of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.75
-- Average Volatility: 0.42
-- Average Durability: 49.03
+- Average Volatility: 0.43
+- Average Durability: 44.52
 
 ## Dominant Factions
-- Order: 0.8
+- Order: 0.9
 - Stability: 0.6
 - Restoration: 0.5
 
@@ -24,9 +24,9 @@ Zealous Axe of Silence
 - Most Volatile Item: Brittle Focus of Frost
 
 ## Recent Events
-- STABLE: 'Mundane Relic of Frost' did not mutate this tick.
 - STABLE: 'Resolute Rapier of Frost' did not mutate this tick.
 - STABLE: 'Zealous Axe of Silence' did not mutate this tick.
+- MUTATED: 'Mundane Blade of Distortion' evolved to generation 19.
 
 ## Lifecycle Stats
 - Items Created: 204
@@ -40,8 +40,8 @@ Zealous Axe of Silence
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 17007
-- Successful Mutations: 7107
+- Mutations Attempted: 17032
+- Successful Mutations: 7120
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Zealous Axe of Silence
 
 ## Economy
 - Total Currency: 373050
-- Currency per Tick (avg): 21.94
+- Currency per Tick (avg): 21.9
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

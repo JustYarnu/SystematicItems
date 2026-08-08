@@ -2,8 +2,8 @@
   "id": "0304120f-0559-4edb-b9bc-47e5c601523d",
   "name": "Brittle Focus of Frost",
   "type": "Focus",
-  "generation": 33,
-  "damage": 41.0,
+  "generation": 35,
+  "damage": 42.5,
   "damage_type": [
     "Physical",
     "Magic",
@@ -11,10 +11,10 @@
   ],
   "crit_damage": 2,
   "crit_rate": 0.060000000000000005,
-  "str_mod": 1.6000000000000005,
+  "str_mod": 1.7000000000000006,
   "dex_mod": 1.1500000000000001,
   "rarity": 2,
-  "durability": 28.97000000000002,
+  "durability": 23.97000000000002,
   "max_durability": 99.0,
   "volatility": 0.5900000000000002,
   "resilience": 0.7499999999999999,
@@ -22,6 +22,7 @@
   "affinities": {
     "Chaos": 0.1,
     "Stability": 0.1,
-    "STR": 0.1
+    "STR": 0.1,
+    "Scarceness": 0.1
   }
 }
