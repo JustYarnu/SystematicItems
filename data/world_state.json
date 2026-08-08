@@ -1,21 +1,21 @@
 {
   "currency": 365000,
-  "tick": 16632,
+  "tick": 16657,
   "mutation_stats": {
-    "attempted": 16632,
-    "success": 6938
+    "attempted": 16657,
+    "success": 6948
   },
   "recent_events": [
     "STABLE: 'Echoing Relic of Blight' did not mutate this tick.",
-    "STABLE: 'Echoing Relic of Blight' did not mutate this tick.",
+    "MUTATED: 'Mortal Shard of Frost' evolved to generation 19.",
     "STABLE: 'Resolute Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Mundane Relic of Sparks' evolved to generation 50.",
-    "MUTATED: 'Brittle Focus of Frost' evolved to generation 14.",
-    "STABLE: 'Silent Bow of Pestilence' did not mutate this tick.",
-    "STABLE: 'Mundane Relic of Frost' did not mutate this tick.",
-    "MUTATED: 'Mortal Shard of Frost' evolved to generation 18.",
-    "STABLE: 'Obsidian Rapier of Stone' did not mutate this tick.",
-    "STABLE: 'Mundane Relic of Frost' did not mutate this tick."
+    "STABLE: 'Echoing Rapier of Stone' did not mutate this tick.",
+    "MUTATED: 'Obsidian Rapier of Stone' evolved to generation 8.",
+    "MUTATED: 'Unstable Axe of Torment' evolved to generation 24.",
+    "MUTATED: 'Mortal Shard of Frost' evolved to generation 20.",
+    "STABLE: 'Mortal Shard of Frost' did not mutate this tick.",
+    "MUTATED: 'Mortal Shard of Frost' evolved to generation 21.",
+    "STABLE: 'Silent Bow of Pestilence' did not mutate this tick."
   ],
   "created": 200,
   "avg_lifespan": 36.421052631578945,
