@@ -1,21 +1,21 @@
 {
   "currency": 373050,
-  "tick": 17032,
+  "tick": 17057,
   "mutation_stats": {
-    "attempted": 17032,
-    "success": 7120
+    "attempted": 17057,
+    "success": 7127
   },
   "recent_events": [
-    "MUTATED: 'Mundane Blade of Distortion' evolved to generation 18.",
-    "MUTATED: 'Zealous Axe of Silence' evolved to generation 4.",
-    "MUTATED: 'Echoing Relic of Blight' evolved to generation 35.",
-    "STABLE: 'Resolute Rapier of Frost' did not mutate this tick.",
-    "STABLE: 'Zealous Axe of Silence' did not mutate this tick.",
+    "MUTATED: 'Mundane Relic of Frost' evolved to generation 20.",
+    "MUTATED: 'Resolute Rapier of Frost' evolved to generation 50.",
+    "MUTATED: 'Brittle Core of Iron' evolved to generation 5.",
+    "STABLE: 'Obsidian Rapier of Stone' did not mutate this tick.",
+    "STABLE: 'Brittle Core of Iron' did not mutate this tick.",
+    "STABLE: 'Brittle Focus of Frost' did not mutate this tick.",
+    "STABLE: 'Mundane Relic of Sparks' did not mutate this tick.",
+    "STABLE: 'Brittle Focus of Frost' did not mutate this tick.",
     "STABLE: 'Nimble Rapier of Whispers' did not mutate this tick.",
-    "MUTATED: 'Echoing Relic of Blight' evolved to generation 36.",
-    "STABLE: 'Resolute Rapier of Frost' did not mutate this tick.",
-    "STABLE: 'Zealous Axe of Silence' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of Distortion' evolved to generation 19."
+    "STABLE: 'Nimble Rapier of Whispers' did not mutate this tick."
   ],
   "created": 204,
   "avg_lifespan": 36.45876288659794,
