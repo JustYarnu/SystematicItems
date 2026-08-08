@@ -1,21 +1,21 @@
 {
   "currency": 367000,
-  "tick": 16707,
+  "tick": 16732,
   "mutation_stats": {
-    "attempted": 16707,
-    "success": 6970
+    "attempted": 16732,
+    "success": 6985
   },
   "recent_events": [
-    "STABLE: 'Obsidian Rapier of Stone' did not mutate this tick.",
-    "MUTATED: 'Brittle Focus of Frost' evolved to generation 19.",
+    "MUTATED: 'Mundane Blade of Distortion' evolved to generation 3.",
+    "MUTATED: 'Brittle Focus of Frost' evolved to generation 21.",
+    "STABLE: 'Resolute Rapier of Frost' did not mutate this tick.",
+    "MUTATED: 'Unstable Axe of Torment' evolved to generation 30.",
+    "MUTATED: 'Mundane Blade of Distortion' evolved to generation 4.",
+    "MUTATED: 'Silent Bow of Pestilence' evolved to generation 27.",
+    "MUTATED: 'Resolute Rapier of Frost' evolved to generation 31.",
     "STABLE: 'Silent Bow of Pestilence' did not mutate this tick.",
-    "STABLE: 'Unstable Axe of Torment' did not mutate this tick.",
-    "STABLE: 'Mundane Relic of Sparks' did not mutate this tick.",
-    "STABLE: 'Mundane Relic of Frost' did not mutate this tick.",
-    "MUTATED: 'Echoing Rapier of Stone' evolved to generation 38.",
-    "REPLACED WITH: 'Mundane Blade of Distortion' (b981b858-d977-42b6-834e-a2517d2a60bc)",
-    "STABLE: 'Brittle Focus of Frost' did not mutate this tick.",
-    "STABLE: 'Obsidian Rapier of Stone' did not mutate this tick."
+    "STABLE: 'Echoing Relic of Blight' did not mutate this tick.",
+    "MUTATED: 'Mortal Shard of Frost' evolved to generation 25."
   ],
   "created": 201,
   "avg_lifespan": 36.42931937172775,

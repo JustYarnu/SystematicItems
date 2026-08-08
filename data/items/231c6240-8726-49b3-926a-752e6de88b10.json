@@ -2,7 +2,7 @@
   "id": "231c6240-8726-49b3-926a-752e6de88b10",
   "name": "Mundane Relic of Frost",
   "type": "Artifact",
-  "generation": 8,
+  "generation": 9,
   "damage": 11.5,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.1,
   "dex_mod": 1.2000000000000002,
   "rarity": 1.5,
-  "durability": 50.922706875829306,
+  "durability": 46.48120312590142,
   "max_durability": 117.0,
-  "volatility": 0.30000000000000027,
+  "volatility": 0.2700000000000003,
   "resilience": 0.7792481250360578,
   "worth": 100,
   "affinities": {}
