@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-17132
+17157
 
 ## Oldest Item
-Nimble Rapier of Whispers
+Brittle Core of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.3
-- Average Volatility: 0.47
-- Average Durability: 46.11
+- Average Volatility: 0.46
+- Average Durability: 43.88
 
 ## Dominant Factions
 - Order: 1.0
 - Stability: 0.7
-- Restoration: 0.5
+- Chaos: 0.6
 
 ## Extremes
 - Most Stable Item: Brittle Core of Iron
 - Most Volatile Item: Mundane Blade of Distortion
 
 ## Recent Events
-- STABLE: 'Obsidian Rapier of Stone' did not mutate this tick.
-- STABLE: 'Nimble Rapier of Whispers' did not mutate this tick.
-- MUTATED: 'Brittle Focus of Frost' evolved to generation 39.
+- MUTATED: 'Brittle Focus of Frost' evolved to generation 40.
+- STABLE: 'Iridescent Rapier of Gales' did not mutate this tick.
+- STABLE: 'Iridescent Rapier of Gales' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 205
@@ -40,8 +40,8 @@ Nimble Rapier of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 17132
-- Successful Mutations: 7161
+- Mutations Attempted: 17157
+- Successful Mutations: 7173
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Nimble Rapier of Whispers
 
 ## Economy
 - Total Currency: 374250
-- Currency per Tick (avg): 21.85
+- Currency per Tick (avg): 21.81
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
