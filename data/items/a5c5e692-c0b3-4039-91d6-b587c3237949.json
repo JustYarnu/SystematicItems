@@ -2,7 +2,7 @@
   "id": "a5c5e692-c0b3-4039-91d6-b587c3237949",
   "name": "Silent Bow of Pestilence",
   "type": "Ranged",
-  "generation": 24,
+  "generation": 26,
   "damage": 22.5,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.1,
   "dex_mod": 1.4,
   "rarity": 2,
-  "durability": 31.489999999999988,
+  "durability": 22.29999999999999,
   "max_durability": 87.0,
-  "volatility": 0.63,
-  "resilience": 0.5800000000000001,
+  "volatility": 0.62,
+  "resilience": 0.53,
   "worth": 100,
   "affinities": {
     "Stability": 0.1,
