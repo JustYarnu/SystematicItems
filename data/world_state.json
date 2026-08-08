@@ -1,23 +1,23 @@
 {
-  "currency": 373050,
-  "tick": 17057,
+  "currency": 374250,
+  "tick": 17082,
   "mutation_stats": {
-    "attempted": 17057,
-    "success": 7127
+    "attempted": 17082,
+    "success": 7139
   },
   "recent_events": [
-    "MUTATED: 'Mundane Relic of Frost' evolved to generation 20.",
-    "MUTATED: 'Resolute Rapier of Frost' evolved to generation 50.",
-    "MUTATED: 'Brittle Core of Iron' evolved to generation 5.",
     "STABLE: 'Obsidian Rapier of Stone' did not mutate this tick.",
-    "STABLE: 'Brittle Core of Iron' did not mutate this tick.",
-    "STABLE: 'Brittle Focus of Frost' did not mutate this tick.",
-    "STABLE: 'Mundane Relic of Sparks' did not mutate this tick.",
-    "STABLE: 'Brittle Focus of Frost' did not mutate this tick.",
-    "STABLE: 'Nimble Rapier of Whispers' did not mutate this tick.",
-    "STABLE: 'Nimble Rapier of Whispers' did not mutate this tick."
+    "MUTATED: 'Echoing Relic of Blight' evolved to generation 37.",
+    "MUTATED: 'Brittle Focus of Frost' evolved to generation 37.",
+    "MUTATED: 'Obsidian Rapier of Stone' evolved to generation 23.",
+    "MUTATED: 'Zealous Axe of Silence' evolved to generation 7.",
+    "MUTATED: 'Mundane Blade of Distortion' evolved to generation 22.",
+    "MUTATED: 'Mundane Relic of Frost' evolved to generation 22.",
+    "REPLACED WITH: 'Iridescent Rapier of Gales' (69aaa518-eafd-4394-a60c-697fe8d29a52)",
+    "MUTATED: 'Brittle Core of Iron' evolved to generation 6.",
+    "STABLE: 'Obsidian Rapier of Stone' did not mutate this tick."
   ],
-  "created": 204,
-  "avg_lifespan": 36.45876288659794,
-  "archived": 194
+  "created": 205,
+  "avg_lifespan": 36.38461538461539,
+  "archived": 195
 }
