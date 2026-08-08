@@ -2,7 +2,7 @@
   "id": "0d3be544-0d8a-463b-8c55-b78edae06f0c",
   "name": "Unstable Axe of Torment",
   "type": "HeavyWeapon",
-  "generation": 32,
+  "generation": 34,
   "damage": 42.5,
   "damage_type": [
     "Physical",
@@ -15,14 +15,14 @@
   "str_mod": 1.25,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 28.150000000000006,
+  "durability": 22.200000000000006,
   "max_durability": 103.0,
-  "volatility": 0.6000000000000001,
-  "resilience": 0.6599999999999999,
+  "volatility": 0.55,
+  "resilience": 0.6099999999999999,
   "worth": 100,
   "affinities": {
     "Chaos": 0.2,
-    "Order": 0.2,
+    "Order": 0.3,
     "Stability": 0.1
   }
 }
