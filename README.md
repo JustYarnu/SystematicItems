@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-16932
+16957
 
 ## Oldest Item
-Brittle Core of Iron
+Nimble Rapier of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.75
 - Average Volatility: 0.43
-- Average Durability: 49.83
+- Average Durability: 47.32
 
 ## Dominant Factions
 - Order: 1.1
@@ -20,13 +20,13 @@ Brittle Core of Iron
 - Chaos: 0.6
 
 ## Extremes
-- Most Stable Item: Brittle Core of Iron
+- Most Stable Item: Nimble Rapier of Whispers
 - Most Volatile Item: Mundane Blade of Distortion
 
 ## Recent Events
-- MUTATED: 'Echoing Relic of Blight' evolved to generation 30.
-- STABLE: 'Nimble Rapier of Whispers' did not mutate this tick.
-- STABLE: 'Obsidian Rapier of Stone' did not mutate this tick.
+- MUTATED: 'Mundane Relic of Frost' evolved to generation 15.
+- MUTATED: 'Brittle Core of Iron' evolved to generation 4.
+- STABLE: 'Mundane Relic of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 203
@@ -40,8 +40,8 @@ Brittle Core of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 16932
-- Successful Mutations: 7074
+- Mutations Attempted: 16957
+- Successful Mutations: 7086
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Brittle Core of Iron
 
 ## Economy
 - Total Currency: 370800
-- Currency per Tick (avg): 21.9
+- Currency per Tick (avg): 21.87
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
