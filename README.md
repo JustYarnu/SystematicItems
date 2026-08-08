@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-16957
+16982
 
 ## Oldest Item
-Nimble Rapier of Whispers
+Zealous Axe of Silence
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.75
-- Average Volatility: 0.43
-- Average Durability: 47.32
+- Average Volatility: 0.39
+- Average Durability: 53.1
 
 ## Dominant Factions
-- Order: 1.1
-- Stability: 0.7
-- Chaos: 0.6
+- Order: 0.7
+- Stability: 0.6
+- Restoration: 0.5
 
 ## Extremes
 - Most Stable Item: Nimble Rapier of Whispers
 - Most Volatile Item: Mundane Blade of Distortion
 
 ## Recent Events
-- MUTATED: 'Mundane Relic of Frost' evolved to generation 15.
-- MUTATED: 'Brittle Core of Iron' evolved to generation 4.
-- STABLE: 'Mundane Relic of Frost' did not mutate this tick.
+- STABLE: 'Mundane Relic of Sparks' did not mutate this tick.
+- MUTATED: 'Mundane Relic of Frost' evolved to generation 19.
+- STABLE: 'Brittle Core of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 203
-- Items Archived: 193
-- Avg Lifespan (ticks): 36.4
+- Items Created: 204
+- Items Archived: 194
+- Avg Lifespan (ticks): 36.5
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,8 +40,8 @@ Nimble Rapier of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 16957
-- Successful Mutations: 7086
+- Mutations Attempted: 16982
+- Successful Mutations: 7098
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Nimble Rapier of Whispers
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 370800
-- Currency per Tick (avg): 21.87
+- Total Currency: 373050
+- Currency per Tick (avg): 21.97
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
