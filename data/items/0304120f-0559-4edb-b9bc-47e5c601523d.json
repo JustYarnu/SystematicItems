@@ -2,7 +2,7 @@
   "id": "0304120f-0559-4edb-b9bc-47e5c601523d",
   "name": "Brittle Focus of Frost",
   "type": "Focus",
-  "generation": 21,
+  "generation": 22,
   "damage": 31.5,
   "damage_type": [
     "Physical",
@@ -14,7 +14,7 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 1.2500000000000002,
   "rarity": 2,
-  "durability": 64.52000000000001,
+  "durability": 68.52000000000001,
   "max_durability": 95.0,
   "volatility": 0.4100000000000002,
   "resilience": 0.7999999999999999,
