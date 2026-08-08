@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-16832
+16857
 
 ## Oldest Item
 Mundane Blade of Distortion
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.85
-- Average Volatility: 0.49
-- Average Durability: 41.46
+- Average Rarity: 1.95
+- Average Volatility: 0.5
+- Average Durability: 37.87
 
 ## Dominant Factions
-- Order: 1.1
+- Order: 1.2
 - Stability: 0.9
 - Scarceness: 0.5
 
@@ -24,9 +24,9 @@ Mundane Blade of Distortion
 - Most Volatile Item: Silent Bow of Pestilence
 
 ## Recent Events
-- STABLE: 'Echoing Relic of Blight' did not mutate this tick.
-- STABLE: 'Silent Bow of Pestilence' did not mutate this tick.
-- MUTATED: 'Unstable Axe of Torment' evolved to generation 34.
+- STABLE: 'Brittle Focus of Frost' did not mutate this tick.
+- MUTATED: 'Unstable Axe of Torment' evolved to generation 36.
+- MUTATED: 'Mundane Blade of Distortion' evolved to generation 8.
 
 ## Lifecycle Stats
 - Items Created: 201
@@ -40,8 +40,8 @@ Mundane Blade of Distortion
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 16832
-- Successful Mutations: 7025
+- Mutations Attempted: 16857
+- Successful Mutations: 7036
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Blade of Distortion
 
 ## Economy
 - Total Currency: 367000
-- Currency per Tick (avg): 21.8
+- Currency per Tick (avg): 21.77
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
