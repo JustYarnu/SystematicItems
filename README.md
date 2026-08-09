@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-17207
+17232
 
 ## Oldest Item
 Heavy Rapier of Frost
@@ -11,22 +11,22 @@ Heavy Rapier of Frost
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.2
-- Average Volatility: 0.4
-- Average Durability: 60.6
+- Average Volatility: 0.41
+- Average Durability: 57.11
 
 ## Dominant Factions
-- Order: 0.8
+- Order: 1.0
+- Chaos: 0.6
 - Scarceness: 0.5
-- Chaos: 0.5
 
 ## Extremes
 - Most Stable Item: Heavy Rapier of Frost
 - Most Volatile Item: Mundane Blade of Distortion
 
 ## Recent Events
-- MUTATED: 'Obsidian Rapier of Stone' evolved to generation 31.
-- MUTATED: 'Obsidian Rapier of Stone' evolved to generation 32.
-- MUTATED: 'Obsidian Blade of Carnage' evolved to generation 2.
+- STABLE: 'Brittle Core of Iron' did not mutate this tick.
+- STABLE: 'Echoing Relic of Blight' did not mutate this tick.
+- MUTATED: 'Iridescent Rapier of Gales' evolved to generation 12.
 
 ## Lifecycle Stats
 - Items Created: 207
@@ -40,8 +40,8 @@ Heavy Rapier of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 17207
-- Successful Mutations: 7200
+- Mutations Attempted: 17232
+- Successful Mutations: 7211
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Heavy Rapier of Frost
 
 ## Economy
 - Total Currency: 379400
-- Currency per Tick (avg): 22.05
+- Currency per Tick (avg): 22.02
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
