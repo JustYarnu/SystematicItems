@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-17582
+17607
 
 ## Oldest Item
-Nimble Axe of Light
+Mundane Spear of Light
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.03
-- Average Volatility: 0.43
-- Average Durability: 53.72
+- Average Rarity: 2.06
+- Average Volatility: 0.39
+- Average Durability: 59.59
 
 ## Dominant Factions
-- Order: 0.9
-- Restoration: 0.7
+- Order: 1.0
+- Restoration: 0.6
 - DEX: 0.5
 
 ## Extremes
-- Most Stable Item: Nimble Axe of Light
+- Most Stable Item: Mundane Spear of Light
 - Most Volatile Item: Iridescent Rapier of Gales
 
 ## Recent Events
-- STABLE: 'Verdant Sigil of Iron' did not mutate this tick.
+- STABLE: 'Iridescent Rapier of Gales' did not mutate this tick.
+- MUTATED: 'Iridescent Rapier of Gales' evolved to generation 33.
 - STABLE: 'Obsidian Blade of Carnage' did not mutate this tick.
-- STABLE: 'Verdant Sigil of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 211
-- Items Archived: 201
-- Avg Lifespan (ticks): 36.7
+- Items Created: 212
+- Items Archived: 202
+- Avg Lifespan (ticks): 36.6
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,8 +40,8 @@ Nimble Axe of Light
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 17582
-- Successful Mutations: 7346
+- Mutations Attempted: 17607
+- Successful Mutations: 7355
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Nimble Axe of Light
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 389250
-- Currency per Tick (avg): 22.14
+- Total Currency: 390150
+- Currency per Tick (avg): 22.16
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
