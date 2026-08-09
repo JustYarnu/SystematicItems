@@ -1,23 +1,23 @@
 {
-  "currency": 385650,
-  "tick": 17482,
+  "currency": 388150,
+  "tick": 17507,
   "mutation_stats": {
-    "attempted": 17482,
-    "success": 7308
+    "attempted": 17507,
+    "success": 7322
   },
   "recent_events": [
-    "STABLE: 'Glacial Edge of Judgement' did not mutate this tick.",
-    "STABLE: 'Glacial Edge of Judgement' did not mutate this tick.",
-    "STABLE: 'Obsidian Blade of Carnage' did not mutate this tick.",
-    "STABLE: 'Echoing Relic of Blight' did not mutate this tick.",
-    "STABLE: 'Nimble Rapier of Whispers' did not mutate this tick.",
-    "STABLE: 'Nimble Rapier of Whispers' did not mutate this tick.",
-    "STABLE: 'Nimble Rapier of Whispers' did not mutate this tick.",
+    "MUTATED: 'Obsidian Blade of Carnage' evolved to generation 14.",
+    "MUTATED: 'Obsidian Rapier of Stone' evolved to generation 47.",
     "STABLE: 'Obsidian Rapier of Stone' did not mutate this tick.",
-    "MUTATED: 'Iridescent Rapier of Gales' evolved to generation 25.",
-    "MUTATED: 'Obsidian Blade of Carnage' evolved to generation 12."
+    "MUTATED: 'Obsidian Rapier of Stone' evolved to generation 48.",
+    "REPLACED WITH: 'Dread Shard of Gales' (ba85c56f-f66c-4d62-b2e7-3591b6caad9e)",
+    "MUTATED: 'Nimble Rapier of Whispers' evolved to generation 19.",
+    "STABLE: 'Glacial Edge of Judgement' did not mutate this tick.",
+    "MUTATED: 'Heavy Rapier of Frost' evolved to generation 9.",
+    "STABLE: 'Glacial Edge of Judgement' did not mutate this tick.",
+    "MUTATED: 'Obsidian Blade of Carnage' evolved to generation 15."
   ],
-  "created": 209,
-  "avg_lifespan": 36.75879396984924,
-  "archived": 199
+  "created": 210,
+  "avg_lifespan": 36.815,
+  "archived": 200
 }

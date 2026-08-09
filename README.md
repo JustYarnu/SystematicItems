@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-17482
+17507
 
 ## Oldest Item
-Verdant Sigil of Iron
+Dread Shard of Gales
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.9
-- Average Volatility: 0.44
-- Average Durability: 48.1
+- Average Rarity: 1.8
+- Average Volatility: 0.42
+- Average Durability: 54.28
 
 ## Dominant Factions
-- Order: 1.1
-- Restoration: 0.6
-- DEX: 0.5
+- Restoration: 0.7
+- DEX: 0.6
+- Order: 0.6
 
 ## Extremes
-- Most Stable Item: Glacial Edge of Judgement
+- Most Stable Item: Verdant Sigil of Iron
 - Most Volatile Item: Iridescent Rapier of Gales
 
 ## Recent Events
-- STABLE: 'Obsidian Rapier of Stone' did not mutate this tick.
-- MUTATED: 'Iridescent Rapier of Gales' evolved to generation 25.
-- MUTATED: 'Obsidian Blade of Carnage' evolved to generation 12.
+- MUTATED: 'Heavy Rapier of Frost' evolved to generation 9.
+- STABLE: 'Glacial Edge of Judgement' did not mutate this tick.
+- MUTATED: 'Obsidian Blade of Carnage' evolved to generation 15.
 
 ## Lifecycle Stats
-- Items Created: 209
-- Items Archived: 199
+- Items Created: 210
+- Items Archived: 200
 - Avg Lifespan (ticks): 36.8
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Verdant Sigil of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 17482
-- Successful Mutations: 7308
+- Mutations Attempted: 17507
+- Successful Mutations: 7322
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 2
+- Common: 8
+- Uncommon: 1
 - Rare: 1
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Verdant Sigil of Iron
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 385650
-- Currency per Tick (avg): 22.06
+- Total Currency: 388150
+- Currency per Tick (avg): 22.17
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

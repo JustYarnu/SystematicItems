@@ -2,8 +2,8 @@
   "id": "98d0c07b-8c88-4cd2-896c-8e4c89aee499",
   "name": "Obsidian Blade of Carnage",
   "type": "Sword",
-  "generation": 12,
-  "damage": 24.5,
+  "generation": 15,
+  "damage": 26.0,
   "damage_type": [
     "Physical",
     "Earth",
@@ -12,16 +12,16 @@
   ],
   "crit_damage": 2,
   "crit_rate": 0.01,
-  "str_mod": 1.1500000000000001,
+  "str_mod": 1.2500000000000002,
   "dex_mod": 1.0,
   "rarity": 1,
   "durability": 78.25,
   "max_durability": 125.0,
-  "volatility": 0.5300000000000002,
+  "volatility": 0.5100000000000002,
   "resilience": 0.5,
   "worth": 100,
   "affinities": {
-    "Restoration": 0.2,
+    "Restoration": 0.3,
     "Stability": 0.1
   }
 }
