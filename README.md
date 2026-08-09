@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-17532
+17557
 
 ## Oldest Item
 Dread Shard of Gales
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.0
-- Average Volatility: 0.43
-- Average Durability: 50.26
+- Average Rarity: 2.03
+- Average Volatility: 0.41
+- Average Durability: 57.0
 
 ## Dominant Factions
+- Order: 0.8
 - Restoration: 0.7
-- Order: 0.7
-- DEX: 0.6
+- DEX: 0.5
 
 ## Extremes
-- Most Stable Item: Verdant Sigil of Iron
+- Most Stable Item: Nimble Axe of Light
 - Most Volatile Item: Iridescent Rapier of Gales
 
 ## Recent Events
-- MUTATED: 'Iridescent Rapier of Gales' evolved to generation 30.
-- STABLE: 'Brittle Core of Iron' did not mutate this tick.
-- MUTATED: 'Brittle Core of Iron' evolved to generation 14.
+- STABLE: 'Glacial Edge of Judgement' did not mutate this tick.
+- STABLE: 'Heavy Rapier of Frost' did not mutate this tick.
+- MUTATED: 'Brittle Core of Iron' evolved to generation 15.
 
 ## Lifecycle Stats
-- Items Created: 210
-- Items Archived: 200
-- Avg Lifespan (ticks): 36.8
+- Items Created: 211
+- Items Archived: 201
+- Avg Lifespan (ticks): 36.7
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,8 +40,8 @@ Dread Shard of Gales
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 17532
-- Successful Mutations: 7335
+- Mutations Attempted: 17557
+- Successful Mutations: 7342
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Dread Shard of Gales
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 388150
-- Currency per Tick (avg): 22.14
+- Total Currency: 389250
+- Currency per Tick (avg): 22.17
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
