@@ -2,8 +2,8 @@
   "id": "9b87a058-af58-42ae-89c6-8273b51b8728",
   "name": "Obsidian Rapier of Stone",
   "type": "Generic",
-  "generation": 37,
-  "damage": 48.0,
+  "generation": 40,
+  "damage": 49.5,
   "damage_type": [
     "Physical",
     "Earth",
@@ -11,17 +11,17 @@
   ],
   "crit_damage": 3.3,
   "crit_rate": 0.01,
-  "str_mod": 1.2000000000000002,
+  "str_mod": 1.3000000000000003,
   "dex_mod": 0.5,
   "rarity": 2,
-  "durability": 15.39999999999998,
+  "durability": 8.19999999999998,
   "max_durability": 125.0,
-  "volatility": 0.62,
+  "volatility": 0.57,
   "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {
     "Stability": 0.1,
-    "Order": 0.4,
+    "Order": 0.5,
     "Scarceness": 0.1,
     "STR": 0.1
   }
