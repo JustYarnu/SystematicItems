@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-17632
+17657
 
 ## Oldest Item
 Mundane Spear of Light
@@ -11,8 +11,8 @@ Mundane Spear of Light
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.06
-- Average Volatility: 0.39
-- Average Durability: 56.21
+- Average Volatility: 0.4
+- Average Durability: 53.21
 
 ## Dominant Factions
 - Order: 1.2
@@ -24,9 +24,9 @@ Mundane Spear of Light
 - Most Volatile Item: Iridescent Rapier of Gales
 
 ## Recent Events
-- STABLE: 'Glacial Edge of Judgement' did not mutate this tick.
-- STABLE: 'Nimble Axe of Light' did not mutate this tick.
-- STABLE: 'Mundane Spear of Light' did not mutate this tick.
+- STABLE: 'Heavy Rapier of Frost' did not mutate this tick.
+- MUTATED: 'Obsidian Blade of Carnage' evolved to generation 25.
+- STABLE: 'Obsidian Blade of Carnage' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 212
@@ -40,8 +40,8 @@ Mundane Spear of Light
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 17632
-- Successful Mutations: 7369
+- Mutations Attempted: 17657
+- Successful Mutations: 7378
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Spear of Light
 
 ## Economy
 - Total Currency: 390150
-- Currency per Tick (avg): 22.13
+- Currency per Tick (avg): 22.1
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
