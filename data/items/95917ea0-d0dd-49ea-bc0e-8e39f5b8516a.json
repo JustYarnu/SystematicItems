@@ -2,7 +2,7 @@
   "id": "95917ea0-d0dd-49ea-bc0e-8e39f5b8516a",
   "name": "Heavy Rapier of Frost",
   "type": "Generic",
-  "generation": 3,
+  "generation": 5,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,12 @@
   "str_mod": 1.2,
   "dex_mod": 1.1500000000000001,
   "rarity": 1,
-  "durability": 74.38,
+  "durability": 63.78,
   "max_durability": 120.0,
-  "volatility": 0.30000000000000016,
-  "resilience": 0.73,
+  "volatility": 0.4300000000000002,
+  "resilience": 0.6799999999999999,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Restoration": 0.1
+  }
 }
