@@ -1,21 +1,21 @@
 {
   "currency": 388150,
-  "tick": 17507,
+  "tick": 17532,
   "mutation_stats": {
-    "attempted": 17507,
-    "success": 7322
+    "attempted": 17532,
+    "success": 7335
   },
   "recent_events": [
-    "MUTATED: 'Obsidian Blade of Carnage' evolved to generation 14.",
-    "MUTATED: 'Obsidian Rapier of Stone' evolved to generation 47.",
-    "STABLE: 'Obsidian Rapier of Stone' did not mutate this tick.",
-    "MUTATED: 'Obsidian Rapier of Stone' evolved to generation 48.",
-    "REPLACED WITH: 'Dread Shard of Gales' (ba85c56f-f66c-4d62-b2e7-3591b6caad9e)",
-    "MUTATED: 'Nimble Rapier of Whispers' evolved to generation 19.",
-    "STABLE: 'Glacial Edge of Judgement' did not mutate this tick.",
-    "MUTATED: 'Heavy Rapier of Frost' evolved to generation 9.",
-    "STABLE: 'Glacial Edge of Judgement' did not mutate this tick.",
-    "MUTATED: 'Obsidian Blade of Carnage' evolved to generation 15."
+    "STABLE: 'Echoing Relic of Blight' did not mutate this tick.",
+    "STABLE: 'Iridescent Rapier of Gales' did not mutate this tick.",
+    "STABLE: 'Echoing Relic of Blight' did not mutate this tick.",
+    "MUTATED: 'Brittle Core of Iron' evolved to generation 13.",
+    "STABLE: 'Echoing Relic of Blight' did not mutate this tick.",
+    "STABLE: 'Iridescent Rapier of Gales' did not mutate this tick.",
+    "MUTATED: 'Zealous Axe of Silence' evolved to generation 25.",
+    "MUTATED: 'Iridescent Rapier of Gales' evolved to generation 30.",
+    "STABLE: 'Brittle Core of Iron' did not mutate this tick.",
+    "MUTATED: 'Brittle Core of Iron' evolved to generation 14."
   ],
   "created": 210,
   "avg_lifespan": 36.815,
