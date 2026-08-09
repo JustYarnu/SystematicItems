@@ -1,23 +1,23 @@
 {
-  "currency": 379400,
-  "tick": 17307,
+  "currency": 383200,
+  "tick": 17332,
   "mutation_stats": {
-    "attempted": 17307,
-    "success": 7231
+    "attempted": 17332,
+    "success": 7240
   },
   "recent_events": [
-    "STABLE: 'Heavy Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of Distortion' evolved to generation 33.",
-    "STABLE: 'Heavy Rapier of Frost' did not mutate this tick.",
+    "MUTATED: 'Obsidian Blade of Carnage' evolved to generation 6.",
     "STABLE: 'Obsidian Blade of Carnage' did not mutate this tick.",
+    "MUTATED: 'Iridescent Rapier of Gales' evolved to generation 15.",
     "STABLE: 'Brittle Core of Iron' did not mutate this tick.",
     "STABLE: 'Nimble Rapier of Whispers' did not mutate this tick.",
-    "STABLE: 'Zealous Axe of Silence' did not mutate this tick.",
-    "STABLE: 'Mundane Relic of Sparks' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Distortion' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of Distortion' evolved to generation 34."
+    "MUTATED: 'Echoing Relic of Blight' evolved to generation 48.",
+    "STABLE: 'Obsidian Blade of Carnage' did not mutate this tick.",
+    "STABLE: 'Brittle Core of Iron' did not mutate this tick.",
+    "MUTATED: 'Mundane Relic of Sparks' evolved to generation 74.",
+    "REPLACED WITH: 'Glacial Edge of Judgement' (74cf80c5-f1cc-4374-b1cd-18530cc5178a)"
   ],
-  "created": 207,
-  "avg_lifespan": 36.51776649746193,
-  "archived": 197
+  "created": 208,
+  "avg_lifespan": 36.707070707070706,
+  "archived": 198
 }

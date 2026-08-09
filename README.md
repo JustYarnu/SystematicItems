@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-17307
+17332
 
 ## Oldest Item
 Heavy Rapier of Frost
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.2
-- Average Volatility: 0.45
-- Average Durability: 47.32
+- Average Rarity: 2.15
+- Average Volatility: 0.41
+- Average Durability: 55.86
 
 ## Dominant Factions
-- Order: 1.0
-- Chaos: 0.7
-- Scarceness: 0.5
+- Order: 0.8
+- Chaos: 0.6
+- DEX: 0.5
 
 ## Extremes
-- Most Stable Item: Heavy Rapier of Frost
+- Most Stable Item: Glacial Edge of Judgement
 - Most Volatile Item: Iridescent Rapier of Gales
 
 ## Recent Events
-- STABLE: 'Mundane Relic of Sparks' did not mutate this tick.
-- STABLE: 'Mundane Blade of Distortion' did not mutate this tick.
-- MUTATED: 'Mundane Blade of Distortion' evolved to generation 34.
+- STABLE: 'Brittle Core of Iron' did not mutate this tick.
+- MUTATED: 'Mundane Relic of Sparks' evolved to generation 74.
+- REPLACED WITH: 'Glacial Edge of Judgement' (74cf80c5-f1cc-4374-b1cd-18530cc5178a)
 
 ## Lifecycle Stats
-- Items Created: 207
-- Items Archived: 197
-- Avg Lifespan (ticks): 36.5
+- Items Created: 208
+- Items Archived: 198
+- Avg Lifespan (ticks): 36.7
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Heavy Rapier of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 17307
-- Successful Mutations: 7231
+- Mutations Attempted: 17332
+- Successful Mutations: 7240
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 5
-- Uncommon: 4
+- Common: 6
+- Uncommon: 3
 - Rare: 1
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Heavy Rapier of Frost
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 379400
-- Currency per Tick (avg): 21.92
-- Recent Gains: 0
+- Total Currency: 383200
+- Currency per Tick (avg): 22.11
+- Recent Gains: 3800
 
 ![CPT](assets/cpt.png)

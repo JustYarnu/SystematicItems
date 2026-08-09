@@ -5340,5 +5340,34 @@
       "Restoration": 0.2,
       "DEX": 0.2
     }
+  },
+  {
+    "id": "c5f57776-7bed-4575-ae23-01cc1d396404",
+    "name": "Mundane Relic of Sparks",
+    "type": "Artifact",
+    "generation": 74,
+    "damage": 36.5,
+    "damage_type": [
+      "Physical",
+      "Holy",
+      "Lightning"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.7000000000000006,
+    "dex_mod": 1.25,
+    "rarity": 2.5,
+    "durability": -0.12605208485098895,
+    "max_durability": 150.0,
+    "volatility": 0.5700000000000008,
+    "resilience": 0.766096404744368,
+    "worth": 3800,
+    "affinities": {
+      "Order": 0.2,
+      "Restoration": 0.3,
+      "Scarceness": 0.3,
+      "Chaos": 0.1,
+      "Stability": 0.1
+    }
   }
 ]
