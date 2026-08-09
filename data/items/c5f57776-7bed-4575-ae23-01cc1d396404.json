@@ -2,7 +2,7 @@
   "id": "c5f57776-7bed-4575-ae23-01cc1d396404",
   "name": "Mundane Relic of Sparks",
   "type": "Artifact",
-  "generation": 71,
+  "generation": 72,
   "damage": 36.5,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.7000000000000006,
   "dex_mod": 1.15,
   "rarity": 2.5,
-  "durability": 14.745176677194067,
+  "durability": 9.575658700915907,
   "max_durability": 155.0,
-  "volatility": 0.4200000000000008,
-  "resilience": 0.8160964047443681,
+  "volatility": 0.5200000000000008,
+  "resilience": 0.766096404744368,
   "worth": 100,
   "affinities": {
     "Order": 0.2,

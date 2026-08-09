@@ -2,7 +2,7 @@
   "id": "ed4be543-fbc4-430a-a5f7-e305e29d3c2b",
   "name": "Zealous Axe of Silence",
   "type": "HeavyWeapon",
-  "generation": 15,
+  "generation": 17,
   "damage": 14.5,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.4,
   "dex_mod": 1.45,
   "rarity": 1,
-  "durability": 45.960000000000015,
-  "max_durability": 107.0,
-  "volatility": 0.4600000000000002,
+  "durability": 36.41000000000001,
+  "max_durability": 109.0,
+  "volatility": 0.4100000000000002,
   "resilience": 0.63,
   "worth": 100,
   "affinities": {
