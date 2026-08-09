@@ -2,7 +2,7 @@
   "id": "36234a69-e271-4bc8-9255-f40c5f15ae19",
   "name": "Nimble Rapier of Whispers",
   "type": "Generic",
-  "generation": 8,
+  "generation": 9,
   "damage": 8.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,12 @@
   "str_mod": 1.0,
   "dex_mod": 1.62,
   "rarity": 1,
-  "durability": 56.17,
+  "durability": 54.17,
   "max_durability": 115.0,
   "volatility": 0.19000000000000017,
   "resilience": 0.68,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "DEX": 0.1
+  }
 }

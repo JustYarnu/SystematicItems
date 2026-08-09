@@ -1,23 +1,23 @@
 {
-  "currency": 376400,
-  "tick": 17182,
+  "currency": 379400,
+  "tick": 17207,
   "mutation_stats": {
-    "attempted": 17182,
-    "success": 7186
+    "attempted": 17207,
+    "success": 7200
   },
   "recent_events": [
-    "MUTATED: 'Mundane Blade of Distortion' evolved to generation 24.",
-    "MUTATED: 'Resolute Rapier of Frost' evolved to generation 56.",
-    "STABLE: 'Obsidian Rapier of Stone' did not mutate this tick.",
-    "MUTATED: 'Resolute Rapier of Frost' evolved to generation 57.",
-    "STABLE: 'Iridescent Rapier of Gales' did not mutate this tick.",
-    "MUTATED: 'Nimble Rapier of Whispers' evolved to generation 8.",
-    "MUTATED: 'Mundane Blade of Distortion' evolved to generation 25.",
-    "STABLE: 'Obsidian Rapier of Stone' did not mutate this tick.",
-    "MUTATED: 'Zealous Axe of Silence' evolved to generation 11.",
-    "STABLE: 'Echoing Relic of Blight' did not mutate this tick."
+    "STABLE: 'Brittle Core of Iron' did not mutate this tick.",
+    "MUTATED: 'Mundane Relic of Sparks' evolved to generation 69.",
+    "MUTATED: 'Nimble Rapier of Whispers' evolved to generation 9.",
+    "STABLE: 'Heavy Rapier of Frost' did not mutate this tick.",
+    "MUTATED: 'Zealous Axe of Silence' evolved to generation 12.",
+    "MUTATED: 'Zealous Axe of Silence' evolved to generation 13.",
+    "STABLE: 'Mundane Relic of Sparks' did not mutate this tick.",
+    "MUTATED: 'Obsidian Rapier of Stone' evolved to generation 31.",
+    "MUTATED: 'Obsidian Rapier of Stone' evolved to generation 32.",
+    "MUTATED: 'Obsidian Blade of Carnage' evolved to generation 2."
   ],
-  "created": 206,
-  "avg_lifespan": 36.40816326530612,
-  "archived": 196
+  "created": 207,
+  "avg_lifespan": 36.51776649746193,
+  "archived": 197
 }
