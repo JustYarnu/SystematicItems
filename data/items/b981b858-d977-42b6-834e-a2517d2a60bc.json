@@ -2,7 +2,7 @@
   "id": "b981b858-d977-42b6-834e-a2517d2a60bc",
   "name": "Mundane Blade of Distortion",
   "type": "Sword",
-  "generation": 42,
+  "generation": 44,
   "damage": 31.0,
   "damage_type": [
     "Physical",
@@ -15,10 +15,10 @@
   "str_mod": 1.4500000000000004,
   "dex_mod": 1.2500000000000002,
   "rarity": 4,
-  "durability": 14.53120312590147,
-  "max_durability": 77.0,
-  "volatility": 0.5199999999999999,
-  "resilience": 0.7999999999999999,
+  "durability": 8.03120312590147,
+  "max_durability": 79.0,
+  "volatility": 0.5999999999999999,
+  "resilience": 0.7499999999999999,
   "worth": 100,
   "affinities": {
     "Chaos": 0.3,
