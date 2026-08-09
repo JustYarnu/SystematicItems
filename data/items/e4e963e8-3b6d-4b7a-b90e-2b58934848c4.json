@@ -2,7 +2,7 @@
   "id": "e4e963e8-3b6d-4b7a-b90e-2b58934848c4",
   "name": "Brittle Core of Iron",
   "type": "Artifact",
-  "generation": 7,
+  "generation": 8,
   "damage": 24.0,
   "damage_type": [
     "Physical"
@@ -12,9 +12,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.0,
   "rarity": 1,
-  "durability": 32.599999999999994,
+  "durability": 30.099999999999994,
   "max_durability": 125.0,
-  "volatility": 0.35000000000000026,
+  "volatility": 0.30000000000000027,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {

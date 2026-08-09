@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-17332
+17357
 
 ## Oldest Item
 Heavy Rapier of Frost
@@ -12,21 +12,21 @@ Heavy Rapier of Frost
 - Active Items: 10
 - Average Rarity: 2.15
 - Average Volatility: 0.41
-- Average Durability: 55.86
+- Average Durability: 51.57
 
 ## Dominant Factions
-- Order: 0.8
+- Order: 0.9
+- DEX: 0.6
 - Chaos: 0.6
-- DEX: 0.5
 
 ## Extremes
 - Most Stable Item: Glacial Edge of Judgement
-- Most Volatile Item: Iridescent Rapier of Gales
+- Most Volatile Item: Mundane Blade of Distortion
 
 ## Recent Events
-- STABLE: 'Brittle Core of Iron' did not mutate this tick.
-- MUTATED: 'Mundane Relic of Sparks' evolved to generation 74.
-- REPLACED WITH: 'Glacial Edge of Judgement' (74cf80c5-f1cc-4374-b1cd-18530cc5178a)
+- MUTATED: 'Mundane Blade of Distortion' evolved to generation 38.
+- MUTATED: 'Mundane Blade of Distortion' evolved to generation 39.
+- STABLE: 'Obsidian Blade of Carnage' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 208
@@ -40,8 +40,8 @@ Heavy Rapier of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 17332
-- Successful Mutations: 7240
+- Mutations Attempted: 17357
+- Successful Mutations: 7251
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Heavy Rapier of Frost
 
 ## Economy
 - Total Currency: 383200
-- Currency per Tick (avg): 22.11
-- Recent Gains: 3800
+- Currency per Tick (avg): 22.08
+- Recent Gains: 0
 
 ![CPT](assets/cpt.png)
