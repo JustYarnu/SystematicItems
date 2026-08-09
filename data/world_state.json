@@ -1,21 +1,21 @@
 {
   "currency": 383200,
-  "tick": 17432,
+  "tick": 17457,
   "mutation_stats": {
-    "attempted": 17432,
-    "success": 7282
+    "attempted": 17457,
+    "success": 7296
   },
   "recent_events": [
-    "STABLE: 'Zealous Axe of Silence' did not mutate this tick.",
-    "STABLE: 'Obsidian Blade of Carnage' did not mutate this tick.",
-    "STABLE: 'Obsidian Rapier of Stone' did not mutate this tick.",
     "STABLE: 'Nimble Rapier of Whispers' did not mutate this tick.",
-    "STABLE: 'Zealous Axe of Silence' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of Distortion' evolved to generation 44.",
-    "STABLE: 'Zealous Axe of Silence' did not mutate this tick.",
-    "MUTATED: 'Iridescent Rapier of Gales' evolved to generation 20.",
-    "MUTATED: 'Nimble Rapier of Whispers' evolved to generation 14.",
-    "STABLE: 'Zealous Axe of Silence' did not mutate this tick."
+    "MUTATED: 'Mundane Blade of Distortion' evolved to generation 46.",
+    "STABLE: 'Nimble Rapier of Whispers' did not mutate this tick.",
+    "MUTATED: 'Obsidian Rapier of Stone' evolved to generation 45.",
+    "STABLE: 'Glacial Edge of Judgement' did not mutate this tick.",
+    "MUTATED: 'Iridescent Rapier of Gales' evolved to generation 24.",
+    "STABLE: 'Echoing Relic of Blight' did not mutate this tick.",
+    "MUTATED: 'Glacial Edge of Judgement' evolved to generation 3.",
+    "STABLE: 'Glacial Edge of Judgement' did not mutate this tick.",
+    "MUTATED: 'Nimble Rapier of Whispers' evolved to generation 15."
   ],
   "created": 208,
   "avg_lifespan": 36.707070707070706,

@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-17432
+17457
 
 ## Oldest Item
 Glacial Edge of Judgement
@@ -11,8 +11,8 @@ Glacial Edge of Judgement
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.15
-- Average Volatility: 0.46
-- Average Durability: 40.91
+- Average Volatility: 0.47
+- Average Durability: 38.96
 
 ## Dominant Factions
 - Order: 1.0
@@ -24,9 +24,9 @@ Glacial Edge of Judgement
 - Most Volatile Item: Iridescent Rapier of Gales
 
 ## Recent Events
-- MUTATED: 'Iridescent Rapier of Gales' evolved to generation 20.
-- MUTATED: 'Nimble Rapier of Whispers' evolved to generation 14.
-- STABLE: 'Zealous Axe of Silence' did not mutate this tick.
+- MUTATED: 'Glacial Edge of Judgement' evolved to generation 3.
+- STABLE: 'Glacial Edge of Judgement' did not mutate this tick.
+- MUTATED: 'Nimble Rapier of Whispers' evolved to generation 15.
 
 ## Lifecycle Stats
 - Items Created: 208
@@ -40,8 +40,8 @@ Glacial Edge of Judgement
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 17432
-- Successful Mutations: 7282
+- Mutations Attempted: 17457
+- Successful Mutations: 7296
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Glacial Edge of Judgement
 
 ## Economy
 - Total Currency: 383200
-- Currency per Tick (avg): 21.98
+- Currency per Tick (avg): 21.95
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
