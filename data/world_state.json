@@ -1,21 +1,21 @@
 {
   "currency": 393450,
-  "tick": 17707,
+  "tick": 17732,
   "mutation_stats": {
-    "attempted": 17707,
-    "success": 7396
+    "attempted": 17732,
+    "success": 7403
   },
   "recent_events": [
-    "STABLE: 'Iridescent Rapier of Gales' did not mutate this tick.",
-    "MUTATED: 'Verdant Sigil of Iron' evolved to generation 8.",
-    "MUTATED: 'Iridescent Rapier of Gales' evolved to generation 41.",
-    "STABLE: 'Nimble Axe of Light' did not mutate this tick.",
+    "MUTATED: 'Heavy Rapier of Frost' evolved to generation 17.",
+    "STABLE: 'Silent Rapier of the Deep' did not mutate this tick.",
     "STABLE: 'Glacial Edge of Judgement' did not mutate this tick.",
-    "MUTATED: 'Verdant Sigil of Iron' evolved to generation 9.",
-    "STABLE: 'Verdant Sigil of Iron' did not mutate this tick.",
-    "STABLE: 'Verdant Sigil of Iron' did not mutate this tick.",
-    "STABLE: 'Verdant Sigil of Iron' did not mutate this tick.",
-    "STABLE: 'Glacial Edge of Judgement' did not mutate this tick."
+    "STABLE: 'Mundane Spear of Light' did not mutate this tick.",
+    "STABLE: 'Obsidian Blade of Carnage' did not mutate this tick.",
+    "STABLE: 'Obsidian Blade of Carnage' did not mutate this tick.",
+    "MUTATED: 'Iridescent Rapier of Gales' evolved to generation 43.",
+    "STABLE: 'Dread Shard of Gales' did not mutate this tick.",
+    "STABLE: 'Nimble Axe of Light' did not mutate this tick.",
+    "MUTATED: 'Verdant Sigil of Iron' evolved to generation 11."
   ],
   "created": 213,
   "avg_lifespan": 36.76354679802956,
