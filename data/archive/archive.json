@@ -5622,5 +5622,32 @@
       "Stability": 0.2,
       "STR": 0.1
     }
+  },
+  {
+    "id": "ed4be543-fbc4-430a-a5f7-e305e29d3c2b",
+    "name": "Zealous Axe of Silence",
+    "type": "HeavyWeapon",
+    "generation": 43,
+    "damage": 26.0,
+    "damage_type": [
+      "Physical",
+      "Holy",
+      "Slashing"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.5,
+    "dex_mod": 1.45,
+    "rarity": 1,
+    "durability": -1.0,
+    "max_durability": 108.0,
+    "volatility": 0.4300000000000005,
+    "resilience": 0.75,
+    "worth": 2250,
+    "affinities": {
+      "Order": 0.4,
+      "Chaos": 0.1,
+      "DEX": 0.2
+    }
   }
 ]
