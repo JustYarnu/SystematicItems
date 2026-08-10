@@ -1,23 +1,23 @@
 {
-  "currency": 393450,
-  "tick": 17832,
+  "currency": 394600,
+  "tick": 17857,
   "mutation_stats": {
-    "attempted": 17832,
-    "success": 7446
+    "attempted": 17857,
+    "success": 7456
   },
   "recent_events": [
+    "MUTATED: 'Heavy Rapier of Frost' evolved to generation 21.",
+    "REPLACED WITH: 'Heavy Core of Venom' (b2ee2ce4-fdd1-4ef4-b34d-5530563c0d8b)",
+    "MUTATED: 'Obsidian Blade of Carnage' evolved to generation 36.",
+    "MUTATED: 'Obsidian Blade of Carnage' evolved to generation 37.",
     "STABLE: 'Silent Rapier of the Deep' did not mutate this tick.",
-    "MUTATED: 'Dread Shard of Gales' evolved to generation 7.",
-    "MUTATED: 'Dread Shard of Gales' evolved to generation 8.",
-    "STABLE: 'Mundane Spear of Light' did not mutate this tick.",
-    "MUTATED: 'Iridescent Rapier of Gales' evolved to generation 51.",
-    "STABLE: 'Silent Rapier of the Deep' did not mutate this tick.",
-    "STABLE: 'Nimble Axe of Light' did not mutate this tick.",
-    "STABLE: 'Nimble Axe of Light' did not mutate this tick.",
-    "STABLE: 'Mundane Spear of Light' did not mutate this tick.",
-    "STABLE: 'Mundane Spear of Light' did not mutate this tick."
+    "STABLE: 'Iridescent Rapier of Gales' did not mutate this tick.",
+    "MUTATED: 'Iridescent Rapier of Gales' evolved to generation 52.",
+    "MUTATED: 'Iridescent Rapier of Gales' evolved to generation 53.",
+    "MUTATED: 'Iridescent Rapier of Gales' evolved to generation 54.",
+    "MUTATED: 'Verdant Sigil of Iron' evolved to generation 19."
   ],
-  "created": 213,
-  "avg_lifespan": 36.76354679802956,
-  "archived": 203
+  "created": 214,
+  "avg_lifespan": 36.68627450980392,
+  "archived": 204
 }
