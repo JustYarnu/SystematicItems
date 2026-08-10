@@ -1,21 +1,21 @@
 {
   "currency": 393450,
-  "tick": 17807,
+  "tick": 17832,
   "mutation_stats": {
-    "attempted": 17807,
-    "success": 7438
+    "attempted": 17832,
+    "success": 7446
   },
   "recent_events": [
-    "MUTATED: 'Verdant Sigil of Iron' evolved to generation 17.",
-    "MUTATED: 'Glacial Edge of Judgement' evolved to generation 16.",
-    "MUTATED: 'Obsidian Blade of Carnage' evolved to generation 32.",
-    "MUTATED: 'Zealous Axe of Silence' evolved to generation 36.",
-    "MUTATED: 'Obsidian Blade of Carnage' evolved to generation 33.",
-    "MUTATED: 'Dread Shard of Gales' evolved to generation 6.",
-    "MUTATED: 'Zealous Axe of Silence' evolved to generation 37.",
-    "MUTATED: 'Mundane Spear of Light' evolved to generation 3.",
-    "STABLE: 'Obsidian Blade of Carnage' did not mutate this tick.",
-    "STABLE: 'Obsidian Blade of Carnage' did not mutate this tick."
+    "STABLE: 'Silent Rapier of the Deep' did not mutate this tick.",
+    "MUTATED: 'Dread Shard of Gales' evolved to generation 7.",
+    "MUTATED: 'Dread Shard of Gales' evolved to generation 8.",
+    "STABLE: 'Mundane Spear of Light' did not mutate this tick.",
+    "MUTATED: 'Iridescent Rapier of Gales' evolved to generation 51.",
+    "STABLE: 'Silent Rapier of the Deep' did not mutate this tick.",
+    "STABLE: 'Nimble Axe of Light' did not mutate this tick.",
+    "STABLE: 'Nimble Axe of Light' did not mutate this tick.",
+    "STABLE: 'Mundane Spear of Light' did not mutate this tick.",
+    "STABLE: 'Mundane Spear of Light' did not mutate this tick."
   ],
   "created": 213,
   "avg_lifespan": 36.76354679802956,
