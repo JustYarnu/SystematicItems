@@ -1,23 +1,23 @@
 {
-  "currency": 397800,
-  "tick": 17932,
+  "currency": 400850,
+  "tick": 17957,
   "mutation_stats": {
-    "attempted": 17932,
-    "success": 7488
+    "attempted": 17957,
+    "success": 7499
   },
   "recent_events": [
+    "MUTATED: 'Nimble Axe of Light' evolved to generation 13.",
+    "STABLE: 'Verdant Sigil of Iron' did not mutate this tick.",
+    "MUTATED: 'Iridescent Rapier of Gales' evolved to generation 59.",
+    "REPLACED WITH: 'Fractured Focus of Might' (0403ad36-67de-4c61-9f76-57b74341290c)",
+    "MUTATED: 'Dread Shard of Gales' evolved to generation 13.",
+    "MUTATED: 'Zealous Axe of Silence' evolved to generation 42.",
+    "MUTATED: 'Cursed Sigil of Mirage' evolved to generation 3.",
     "STABLE: 'Cursed Sigil of Mirage' did not mutate this tick.",
-    "MUTATED: 'Dread Shard of Gales' evolved to generation 12.",
-    "MUTATED: 'Iridescent Rapier of Gales' evolved to generation 57.",
-    "STABLE: 'Cursed Sigil of Mirage' did not mutate this tick.",
-    "MUTATED: 'Nimble Axe of Light' evolved to generation 11.",
-    "MUTATED: 'Cursed Sigil of Mirage' evolved to generation 2.",
-    "STABLE: 'Mundane Axe of Decay' did not mutate this tick.",
-    "MUTATED: 'Mundane Spear of Light' evolved to generation 6.",
-    "MUTATED: 'Mundane Axe of Decay' evolved to generation 4.",
-    "STABLE: 'Zealous Axe of Silence' did not mutate this tick."
+    "STABLE: 'Zealous Axe of Silence' did not mutate this tick.",
+    "MUTATED: 'Fractured Focus of Might' evolved to generation 2."
   ],
-  "created": 216,
-  "avg_lifespan": 36.62135922330097,
-  "archived": 206
+  "created": 217,
+  "avg_lifespan": 36.729468599033815,
+  "archived": 207
 }

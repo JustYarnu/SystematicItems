@@ -2,7 +2,7 @@
   "id": "f7713858-0c8a-4d41-aff8-9eec32ce4c38",
   "name": "Cursed Sigil of Mirage",
   "type": "Focus",
-  "generation": 2,
+  "generation": 3,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.15,
   "rarity": 1.5,
-  "durability": 95.0,
-  "max_durability": 100.0,
-  "volatility": 0.5792481250360578,
+  "durability": 85.75,
+  "max_durability": 102.0,
+  "volatility": 0.5892481250360578,
   "resilience": 0.35,
   "worth": 100,
   "affinities": {
