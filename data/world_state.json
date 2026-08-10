@@ -1,21 +1,21 @@
 {
   "currency": 394600,
-  "tick": 17857,
+  "tick": 17882,
   "mutation_stats": {
-    "attempted": 17857,
-    "success": 7456
+    "attempted": 17882,
+    "success": 7469
   },
   "recent_events": [
-    "MUTATED: 'Heavy Rapier of Frost' evolved to generation 21.",
-    "REPLACED WITH: 'Heavy Core of Venom' (b2ee2ce4-fdd1-4ef4-b34d-5530563c0d8b)",
-    "MUTATED: 'Obsidian Blade of Carnage' evolved to generation 36.",
-    "MUTATED: 'Obsidian Blade of Carnage' evolved to generation 37.",
-    "STABLE: 'Silent Rapier of the Deep' did not mutate this tick.",
-    "STABLE: 'Iridescent Rapier of Gales' did not mutate this tick.",
-    "MUTATED: 'Iridescent Rapier of Gales' evolved to generation 52.",
-    "MUTATED: 'Iridescent Rapier of Gales' evolved to generation 53.",
-    "MUTATED: 'Iridescent Rapier of Gales' evolved to generation 54.",
-    "MUTATED: 'Verdant Sigil of Iron' evolved to generation 19."
+    "STABLE: 'Glacial Edge of Judgement' did not mutate this tick.",
+    "MUTATED: 'Iridescent Rapier of Gales' evolved to generation 55.",
+    "MUTATED: 'Nimble Axe of Light' evolved to generation 10.",
+    "MUTATED: 'Obsidian Blade of Carnage' evolved to generation 40.",
+    "MUTATED: 'Zealous Axe of Silence' evolved to generation 39.",
+    "STABLE: 'Zealous Axe of Silence' did not mutate this tick.",
+    "MUTATED: 'Dread Shard of Gales' evolved to generation 10.",
+    "STABLE: 'Heavy Core of Venom' did not mutate this tick.",
+    "MUTATED: 'Glacial Edge of Judgement' evolved to generation 18.",
+    "MUTATED: 'Dread Shard of Gales' evolved to generation 11."
   ],
   "created": 214,
   "avg_lifespan": 36.68627450980392,

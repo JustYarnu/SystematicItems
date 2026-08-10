@@ -2,7 +2,7 @@
   "id": "ba85c56f-f66c-4d62-b2e7-3591b6caad9e",
   "name": "Dread Shard of Gales",
   "type": "Dagger",
-  "generation": 8,
+  "generation": 11,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -10,15 +10,17 @@
     "Slashing",
     "Sonic"
   ],
-  "crit_damage": 2,
+  "crit_damage": 2.5,
   "crit_rate": 0.07,
   "str_mod": 1.2,
   "dex_mod": 1.28,
   "rarity": 1,
-  "durability": 67.16000000000001,
-  "max_durability": 97.0,
-  "volatility": 0.45000000000000023,
-  "resilience": 0.48000000000000004,
+  "durability": 58.31000000000002,
+  "max_durability": 92.0,
+  "volatility": 0.5300000000000002,
+  "resilience": 0.43000000000000005,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Order": 0.1
+  }
 }
