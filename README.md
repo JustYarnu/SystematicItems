@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-17757
+17782
 
 ## Oldest Item
 Silent Rapier of the Deep
@@ -11,12 +11,12 @@ Silent Rapier of the Deep
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.81
-- Average Volatility: 0.38
-- Average Durability: 47.33
+- Average Volatility: 0.39
+- Average Durability: 45.33
 
 ## Dominant Factions
-- Order: 1.1
-- Restoration: 1.0
+- Order: 1.2
+- Restoration: 1.1
 - DEX: 0.5
 
 ## Extremes
@@ -24,9 +24,9 @@ Silent Rapier of the Deep
 - Most Volatile Item: Iridescent Rapier of Gales
 
 ## Recent Events
-- MUTATED: 'Nimble Axe of Light' evolved to generation 4.
-- STABLE: 'Glacial Edge of Judgement' did not mutate this tick.
-- STABLE: 'Heavy Rapier of Frost' did not mutate this tick.
+- MUTATED: 'Zealous Axe of Silence' evolved to generation 35.
+- STABLE: 'Silent Rapier of the Deep' did not mutate this tick.
+- STABLE: 'Mundane Spear of Light' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 213
@@ -40,8 +40,8 @@ Silent Rapier of the Deep
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 17757
-- Successful Mutations: 7412
+- Mutations Attempted: 17782
+- Successful Mutations: 7423
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Silent Rapier of the Deep
 
 ## Economy
 - Total Currency: 393450
-- Currency per Tick (avg): 22.16
+- Currency per Tick (avg): 22.13
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
