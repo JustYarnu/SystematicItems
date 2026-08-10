@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-17982
+18007
 
 ## Oldest Item
-Heavy Sigil of Silence
+Silent Rapier of the Deep
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.31
-- Average Volatility: 0.4
-- Average Durability: 69.79
+- Average Volatility: 0.42
+- Average Durability: 65.74
 
 ## Dominant Factions
 - Order: 0.4
@@ -24,9 +24,9 @@ Heavy Sigil of Silence
 - Most Volatile Item: Cursed Sigil of Mirage
 
 ## Recent Events
-- MUTATED: 'Nimble Axe of Light' evolved to generation 15.
-- STABLE: 'Cursed Sigil of Mirage' did not mutate this tick.
-- MUTATED: 'Verdant Sigil of Iron' evolved to generation 25.
+- STABLE: 'Mundane Axe of Decay' did not mutate this tick.
+- STABLE: 'Dread Shard of Gales' did not mutate this tick.
+- STABLE: 'Heavy Sigil of Silence' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 218
@@ -40,9 +40,9 @@ Heavy Sigil of Silence
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 17982
-- Successful Mutations: 7510
-- Failure Rate: 58.2%
+- Mutations Attempted: 18007
+- Successful Mutations: 7517
+- Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Heavy Sigil of Silence
 
 ## Economy
 - Total Currency: 403100
-- Currency per Tick (avg): 22.42
+- Currency per Tick (avg): 22.39
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

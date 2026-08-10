@@ -2,7 +2,7 @@
   "id": "d5a9e443-821f-40a3-abb3-3f2517075279",
   "name": "Heavy Sigil of Silence",
   "type": "Focus",
-  "generation": 1,
+  "generation": 2,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -11,11 +11,11 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.2,
-  "dex_mod": 1.15,
+  "dex_mod": 1.25,
   "rarity": 1.5,
-  "durability": 97.0,
+  "durability": 90.5,
   "max_durability": 100.0,
-  "volatility": 0.28,
+  "volatility": 0.31000000000000005,
   "resilience": 0.5,
   "worth": 100,
   "affinities": {}
