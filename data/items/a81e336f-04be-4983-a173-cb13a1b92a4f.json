@@ -2,7 +2,7 @@
   "id": "a81e336f-04be-4983-a173-cb13a1b92a4f",
   "name": "Verdant Sigil of Iron",
   "type": "Focus",
-  "generation": 5,
+  "generation": 6,
   "damage": 8.0,
   "damage_type": [
     "Physical",
@@ -14,7 +14,7 @@
   "str_mod": 1.0,
   "dex_mod": 1.25,
   "rarity": 1.5,
-  "durability": 79.7747368752524,
+  "durability": 76.67097750043268,
   "max_durability": 139.6240625180289,
   "volatility": 0.33000000000000007,
   "resilience": 0.7792481250360578,

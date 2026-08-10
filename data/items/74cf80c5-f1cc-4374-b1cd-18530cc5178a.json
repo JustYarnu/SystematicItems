@@ -2,7 +2,7 @@
   "id": "74cf80c5-f1cc-4374-b1cd-18530cc5178a",
   "name": "Glacial Edge of Judgement",
   "type": "Sword",
-  "generation": 8,
+  "generation": 9,
   "damage": 18.0,
   "damage_type": [
     "Physical",
@@ -14,12 +14,13 @@
   "str_mod": 1.2,
   "dex_mod": 1.2000000000000002,
   "rarity": 1,
-  "durability": 53.29,
+  "durability": 47.29,
   "max_durability": 120.0,
-  "volatility": 0.3400000000000002,
+  "volatility": 0.3800000000000002,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
-    "Order": 0.2
+    "Order": 0.2,
+    "STR": 0.1
   }
 }
