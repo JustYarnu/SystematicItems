@@ -2,7 +2,7 @@
   "id": "ec476a3c-9c53-49a9-b3ba-9195554f8d97",
   "name": "Silent Rapier of the Deep",
   "type": "Generic",
-  "generation": 1,
+  "generation": 2,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,12 @@
   "str_mod": 1.0,
   "dex_mod": 1.25,
   "rarity": 1,
-  "durability": 83.0,
+  "durability": 79.0,
   "max_durability": 120.0,
-  "volatility": 0.27000000000000013,
+  "volatility": 0.29000000000000015,
   "resilience": 0.65,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Order": 0.1
+  }
 }
