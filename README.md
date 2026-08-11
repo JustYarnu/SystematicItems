@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-18357
+18382
 
 ## Oldest Item
-Mundane Blade of Silence
+Blessed Rapier of Blood
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.2
 - Average Volatility: 0.36
-- Average Durability: 61.72
+- Average Durability: 58.68
 
 ## Dominant Factions
-- Order: 0.4
+- Order: 0.5
+- STR: 0.4
 - DEX: 0.3
-- STR: 0.3
 
 ## Extremes
 - Most Stable Item: Glacial Rapier of Iron
-- Most Volatile Item: Glowing Bow of the Sun
+- Most Volatile Item: Fractured Focus of Might
 
 ## Recent Events
-- MUTATED: 'Verdant Sigil of Iron' evolved to generation 47.
-- REPLACED WITH: 'Glacial Rapier of Iron' (2fc14199-b4eb-4949-a4ae-e391b02d3f22)
-- STABLE: 'Glacial Rapier of Iron' did not mutate this tick.
+- STABLE: 'Mundane Blade of Silence' did not mutate this tick.
+- STABLE: 'Mundane Blade of Silence' did not mutate this tick.
+- STABLE: 'Mundane Axe of Decay' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 223
@@ -40,8 +40,8 @@ Mundane Blade of Silence
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 18357
-- Successful Mutations: 7682
+- Mutations Attempted: 18382
+- Successful Mutations: 7692
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Blade of Silence
 
 ## Economy
 - Total Currency: 411200
-- Currency per Tick (avg): 22.4
+- Currency per Tick (avg): 22.37
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

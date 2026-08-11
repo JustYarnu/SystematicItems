@@ -2,7 +2,7 @@
   "id": "0403ad36-67de-4c61-9f76-57b74341290c",
   "name": "Fractured Focus of Might",
   "type": "Focus",
-  "generation": 19,
+  "generation": 21,
   "damage": 20.5,
   "damage_type": [
     "Physical",
@@ -13,7 +13,7 @@
   "str_mod": 1.35,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 62.44999999999999,
+  "durability": 72.44999999999999,
   "max_durability": 99.0,
   "volatility": 0.55,
   "resilience": 0.6000000000000001,
@@ -21,6 +21,6 @@
   "affinities": {
     "DEX": 0.1,
     "Stability": 0.1,
-    "STR": 0.2
+    "STR": 0.3
   }
 }

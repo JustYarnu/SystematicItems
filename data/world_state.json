@@ -1,21 +1,21 @@
 {
   "currency": 411200,
-  "tick": 18357,
+  "tick": 18382,
   "mutation_stats": {
-    "attempted": 18357,
-    "success": 7682
+    "attempted": 18382,
+    "success": 7692
   },
   "recent_events": [
+    "MUTATED: 'Verdant Blade of Venom' evolved to generation 4.",
+    "STABLE: 'Silent Rapier of the Deep' did not mutate this tick.",
+    "STABLE: 'Silent Rapier of the Deep' did not mutate this tick.",
+    "MUTATED: 'Fractured Focus of Might' evolved to generation 21.",
+    "MUTATED: 'Heavy Sigil of Silence' evolved to generation 22.",
+    "MUTATED: 'Glowing Bow of the Sun' evolved to generation 17.",
+    "STABLE: 'Heavy Sigil of Silence' did not mutate this tick.",
     "STABLE: 'Mundane Blade of Silence' did not mutate this tick.",
-    "MUTATED: 'Heavy Core of Venom' evolved to generation 23.",
-    "MUTATED: 'Nimble Axe of Light' evolved to generation 35.",
-    "REPLACED WITH: 'Verdant Blade of Venom' (14d0234a-7a47-45c9-ac3a-19f00570dbcf)",
-    "MUTATED: 'Glowing Bow of the Sun' evolved to generation 15.",
     "STABLE: 'Mundane Blade of Silence' did not mutate this tick.",
-    "STABLE: 'Verdant Sigil of Iron' did not mutate this tick.",
-    "MUTATED: 'Verdant Sigil of Iron' evolved to generation 47.",
-    "REPLACED WITH: 'Glacial Rapier of Iron' (2fc14199-b4eb-4949-a4ae-e391b02d3f22)",
-    "STABLE: 'Glacial Rapier of Iron' did not mutate this tick."
+    "STABLE: 'Mundane Axe of Decay' did not mutate this tick."
   ],
   "created": 223,
   "avg_lifespan": 36.61032863849766,
