@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-18082
+18107
 
 ## Oldest Item
-Silent Rapier of the Deep
+Glowing Bow of the Sun
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.31
-- Average Volatility: 0.48
-- Average Durability: 53.05
+- Average Rarity: 1.36
+- Average Volatility: 0.46
+- Average Durability: 58.61
 
 ## Dominant Factions
-- Order: 0.6
-- Chaos: 0.2
-- DEX: 0.2
+- Order: 0.5
+- DEX: 0.3
+- Restoration: 0.2
 
 ## Extremes
 - Most Stable Item: Mundane Axe of Decay
-- Most Volatile Item: Cursed Sigil of Mirage
+- Most Volatile Item: Nimble Axe of Light
 
 ## Recent Events
-- STABLE: 'Silent Rapier of the Deep' did not mutate this tick.
-- STABLE: 'Mundane Spear of Light' did not mutate this tick.
 - STABLE: 'Nimble Axe of Light' did not mutate this tick.
+- STABLE: 'Mundane Axe of Decay' did not mutate this tick.
+- MUTATED: 'Verdant Sigil of Iron' evolved to generation 33.
 
 ## Lifecycle Stats
-- Items Created: 218
-- Items Archived: 208
-- Avg Lifespan (ticks): 36.8
+- Items Created: 219
+- Items Archived: 209
+- Avg Lifespan (ticks): 36.7
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,8 +40,8 @@ Silent Rapier of the Deep
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 18082
-- Successful Mutations: 7550
+- Mutations Attempted: 18107
+- Successful Mutations: 7565
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Silent Rapier of the Deep
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 403100
-- Currency per Tick (avg): 22.29
+- Total Currency: 404400
+- Currency per Tick (avg): 22.33
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

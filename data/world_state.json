@@ -1,23 +1,23 @@
 {
-  "currency": 403100,
-  "tick": 18082,
+  "currency": 404400,
+  "tick": 18107,
   "mutation_stats": {
-    "attempted": 18082,
-    "success": 7550
+    "attempted": 18107,
+    "success": 7565
   },
   "recent_events": [
-    "STABLE: 'Cursed Sigil of Mirage' did not mutate this tick.",
-    "MUTATED: 'Silent Rapier of the Deep' evolved to generation 3.",
-    "MUTATED: 'Heavy Sigil of Silence' evolved to generation 5.",
+    "MUTATED: 'Cursed Sigil of Mirage' evolved to generation 12.",
+    "MUTATED: 'Glowing Bow of the Sun' evolved to generation 2.",
+    "STABLE: 'Fractured Focus of Might' did not mutate this tick.",
+    "MUTATED: 'Silent Rapier of the Deep' evolved to generation 5.",
+    "MUTATED: 'Heavy Core of Venom' evolved to generation 9.",
+    "MUTATED: 'Heavy Core of Venom' evolved to generation 10.",
+    "MUTATED: 'Fractured Focus of Might' evolved to generation 7.",
+    "STABLE: 'Nimble Axe of Light' did not mutate this tick.",
     "STABLE: 'Mundane Axe of Decay' did not mutate this tick.",
-    "MUTATED: 'Verdant Sigil of Iron' evolved to generation 29.",
-    "STABLE: 'Mundane Axe of Decay' did not mutate this tick.",
-    "MUTATED: 'Mundane Spear of Light' evolved to generation 12.",
-    "STABLE: 'Silent Rapier of the Deep' did not mutate this tick.",
-    "STABLE: 'Mundane Spear of Light' did not mutate this tick.",
-    "STABLE: 'Nimble Axe of Light' did not mutate this tick."
+    "MUTATED: 'Verdant Sigil of Iron' evolved to generation 33."
   ],
-  "created": 218,
-  "avg_lifespan": 36.75961538461539,
-  "archived": 208
+  "created": 219,
+  "avg_lifespan": 36.698564593301434,
+  "archived": 209
 }
