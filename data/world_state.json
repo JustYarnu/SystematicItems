@@ -1,21 +1,21 @@
 {
   "currency": 403100,
-  "tick": 18057,
+  "tick": 18082,
   "mutation_stats": {
-    "attempted": 18057,
-    "success": 7540
+    "attempted": 18082,
+    "success": 7550
   },
   "recent_events": [
-    "STABLE: 'Nimble Axe of Light' did not mutate this tick.",
-    "STABLE: 'Verdant Sigil of Iron' did not mutate this tick.",
-    "MUTATED: 'Fractured Focus of Might' evolved to generation 5.",
-    "MUTATED: 'Dread Shard of Gales' evolved to generation 21.",
-    "STABLE: 'Heavy Sigil of Silence' did not mutate this tick.",
-    "MUTATED: 'Mundane Axe of Decay' evolved to generation 5.",
-    "MUTATED: 'Cursed Sigil of Mirage' evolved to generation 8.",
-    "MUTATED: 'Dread Shard of Gales' evolved to generation 22.",
+    "STABLE: 'Cursed Sigil of Mirage' did not mutate this tick.",
+    "MUTATED: 'Silent Rapier of the Deep' evolved to generation 3.",
+    "MUTATED: 'Heavy Sigil of Silence' evolved to generation 5.",
+    "STABLE: 'Mundane Axe of Decay' did not mutate this tick.",
+    "MUTATED: 'Verdant Sigil of Iron' evolved to generation 29.",
+    "STABLE: 'Mundane Axe of Decay' did not mutate this tick.",
+    "MUTATED: 'Mundane Spear of Light' evolved to generation 12.",
     "STABLE: 'Silent Rapier of the Deep' did not mutate this tick.",
-    "MUTATED: 'Fractured Focus of Might' evolved to generation 6."
+    "STABLE: 'Mundane Spear of Light' did not mutate this tick.",
+    "STABLE: 'Nimble Axe of Light' did not mutate this tick."
   ],
   "created": 218,
   "avg_lifespan": 36.75961538461539,

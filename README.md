@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-18057
+18082
 
 ## Oldest Item
 Silent Rapier of the Deep
@@ -11,22 +11,22 @@ Silent Rapier of the Deep
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.31
-- Average Volatility: 0.46
-- Average Durability: 57.29
+- Average Volatility: 0.48
+- Average Durability: 53.05
 
 ## Dominant Factions
 - Order: 0.6
+- Chaos: 0.2
 - DEX: 0.2
-- Restoration: 0.1
 
 ## Extremes
 - Most Stable Item: Mundane Axe of Decay
 - Most Volatile Item: Cursed Sigil of Mirage
 
 ## Recent Events
-- MUTATED: 'Dread Shard of Gales' evolved to generation 22.
 - STABLE: 'Silent Rapier of the Deep' did not mutate this tick.
-- MUTATED: 'Fractured Focus of Might' evolved to generation 6.
+- STABLE: 'Mundane Spear of Light' did not mutate this tick.
+- STABLE: 'Nimble Axe of Light' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 218
@@ -40,8 +40,8 @@ Silent Rapier of the Deep
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 18057
-- Successful Mutations: 7540
+- Mutations Attempted: 18082
+- Successful Mutations: 7550
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Silent Rapier of the Deep
 
 ## Economy
 - Total Currency: 403100
-- Currency per Tick (avg): 22.32
+- Currency per Tick (avg): 22.29
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
