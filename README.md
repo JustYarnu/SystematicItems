@@ -3,21 +3,21 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-18382
+18407
 
 ## Oldest Item
-Blessed Rapier of Blood
+Glacial Rapier of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.2
-- Average Volatility: 0.36
-- Average Durability: 58.68
+- Average Volatility: 0.37
+- Average Durability: 53.8
 
 ## Dominant Factions
 - Order: 0.5
+- DEX: 0.4
 - STR: 0.4
-- DEX: 0.3
 
 ## Extremes
 - Most Stable Item: Glacial Rapier of Iron
@@ -25,8 +25,8 @@ Blessed Rapier of Blood
 
 ## Recent Events
 - STABLE: 'Mundane Blade of Silence' did not mutate this tick.
-- STABLE: 'Mundane Blade of Silence' did not mutate this tick.
-- STABLE: 'Mundane Axe of Decay' did not mutate this tick.
+- STABLE: 'Glacial Rapier of Iron' did not mutate this tick.
+- MUTATED: 'Heavy Sigil of Silence' evolved to generation 24.
 
 ## Lifecycle Stats
 - Items Created: 223
@@ -40,8 +40,8 @@ Blessed Rapier of Blood
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 18382
-- Successful Mutations: 7692
+- Mutations Attempted: 18407
+- Successful Mutations: 7703
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Blessed Rapier of Blood
 
 ## Economy
 - Total Currency: 411200
-- Currency per Tick (avg): 22.37
+- Currency per Tick (avg): 22.34
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
