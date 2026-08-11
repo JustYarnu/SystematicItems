@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-18157
+18182
 
 ## Oldest Item
 Glowing Bow of the Sun
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.46
-- Average Volatility: 0.48
-- Average Durability: 50.74
+- Average Rarity: 1.56
+- Average Volatility: 0.5
+- Average Durability: 48.68
 
 ## Dominant Factions
 - Order: 0.5
@@ -21,12 +21,12 @@ Glowing Bow of the Sun
 
 ## Extremes
 - Most Stable Item: Mundane Axe of Decay
-- Most Volatile Item: Mundane Spear of Light
+- Most Volatile Item: Nimble Axe of Light
 
 ## Recent Events
-- STABLE: 'Nimble Axe of Light' did not mutate this tick.
+- MUTATED: 'Cursed Sigil of Mirage' evolved to generation 18.
 - STABLE: 'Heavy Sigil of Silence' did not mutate this tick.
-- MUTATED: 'Fractured Focus of Might' evolved to generation 10.
+- STABLE: 'Mundane Axe of Decay' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 219
@@ -40,8 +40,8 @@ Glowing Bow of the Sun
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 18157
-- Successful Mutations: 7587
+- Mutations Attempted: 18182
+- Successful Mutations: 7602
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Glowing Bow of the Sun
 
 ## Economy
 - Total Currency: 404400
-- Currency per Tick (avg): 22.27
+- Currency per Tick (avg): 22.24
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

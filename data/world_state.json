@@ -1,21 +1,21 @@
 {
   "currency": 404400,
-  "tick": 18157,
+  "tick": 18182,
   "mutation_stats": {
-    "attempted": 18157,
-    "success": 7587
+    "attempted": 18182,
+    "success": 7602
   },
   "recent_events": [
-    "STABLE: 'Cursed Sigil of Mirage' did not mutate this tick.",
-    "STABLE: 'Cursed Sigil of Mirage' did not mutate this tick.",
-    "MUTATED: 'Verdant Sigil of Iron' evolved to generation 38.",
-    "STABLE: 'Fractured Focus of Might' did not mutate this tick.",
-    "STABLE: 'Nimble Axe of Light' did not mutate this tick.",
-    "MUTATED: 'Cursed Sigil of Mirage' evolved to generation 15.",
-    "STABLE: 'Fractured Focus of Might' did not mutate this tick.",
-    "STABLE: 'Nimble Axe of Light' did not mutate this tick.",
+    "MUTATED: 'Heavy Core of Venom' evolved to generation 14.",
+    "MUTATED: 'Cursed Sigil of Mirage' evolved to generation 17.",
+    "MUTATED: 'Verdant Sigil of Iron' evolved to generation 39.",
+    "MUTATED: 'Verdant Sigil of Iron' evolved to generation 40.",
     "STABLE: 'Heavy Sigil of Silence' did not mutate this tick.",
-    "MUTATED: 'Fractured Focus of Might' evolved to generation 10."
+    "MUTATED: 'Nimble Axe of Light' evolved to generation 24.",
+    "MUTATED: 'Fractured Focus of Might' evolved to generation 11.",
+    "MUTATED: 'Cursed Sigil of Mirage' evolved to generation 18.",
+    "STABLE: 'Heavy Sigil of Silence' did not mutate this tick.",
+    "STABLE: 'Mundane Axe of Decay' did not mutate this tick."
   ],
   "created": 219,
   "avg_lifespan": 36.698564593301434,
