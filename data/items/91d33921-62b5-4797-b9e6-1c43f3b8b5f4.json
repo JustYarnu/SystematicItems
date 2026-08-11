@@ -2,7 +2,7 @@
   "id": "91d33921-62b5-4797-b9e6-1c43f3b8b5f4",
   "name": "Glowing Bow of the Sun",
   "type": "Ranged",
-  "generation": 18,
+  "generation": 19,
   "damage": 35.5,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.1,
   "dex_mod": 0.9499999999999998,
   "rarity": 1.5,
-  "durability": 38.2,
-  "max_durability": 112.0,
-  "volatility": 0.4592481250360578,
-  "resilience": 0.5,
+  "durability": 33.85,
+  "max_durability": 117.0,
+  "volatility": 0.4692481250360578,
+  "resilience": 0.55,
   "worth": 100,
   "affinities": {
     "Order": 0.1,

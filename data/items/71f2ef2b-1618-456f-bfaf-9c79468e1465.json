@@ -2,8 +2,8 @@
   "id": "71f2ef2b-1618-456f-bfaf-9c79468e1465",
   "name": "Mundane Axe of Decay",
   "type": "HeavyWeapon",
-  "generation": 13,
-  "damage": 31.5,
+  "generation": 14,
+  "damage": 36.5,
   "damage_type": [
     "Physical",
     "Slashing"
@@ -11,11 +11,11 @@
   "crit_damage": 2.5,
   "crit_rate": 0.01,
   "str_mod": 1.25,
-  "dex_mod": 0.7000000000000001,
+  "dex_mod": 0.6000000000000001,
   "rarity": 1,
-  "durability": 11.469999999999992,
+  "durability": 7.219999999999992,
   "max_durability": 94.0,
-  "volatility": 0.47000000000000025,
+  "volatility": 0.48000000000000026,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {}
