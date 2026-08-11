@@ -2,7 +2,7 @@
   "id": "b2ee2ce4-fdd1-4ef4-b34d-5530563c0d8b",
   "name": "Heavy Core of Venom",
   "type": "Artifact",
-  "generation": 14,
+  "generation": 15,
   "damage": 15.0,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "str_mod": 1.2,
   "dex_mod": 1.2500000000000002,
   "rarity": 1,
-  "durability": 57.24999999999999,
+  "durability": 53.169999999999995,
   "max_durability": 110.0,
-  "volatility": 0.55,
-  "resilience": 0.4,
+  "volatility": 0.52,
+  "resilience": 0.48000000000000004,
   "worth": 100,
   "affinities": {
     "Chaos": 0.1,
