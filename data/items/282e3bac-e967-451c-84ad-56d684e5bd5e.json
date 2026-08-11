@@ -2,22 +2,22 @@
   "id": "282e3bac-e967-451c-84ad-56d684e5bd5e",
   "name": "Nimble Axe of Light",
   "type": "HeavyWeapon",
-  "generation": 25,
+  "generation": 28,
   "damage": 31.5,
   "damage_type": [
     "Physical",
     "Slashing",
     "Holy"
   ],
-  "crit_damage": 2.5,
+  "crit_damage": 3.0,
   "crit_rate": 0.01,
   "str_mod": 1.25,
   "dex_mod": 0.9499999999999998,
   "rarity": 3.3,
-  "durability": 35.00574129786158,
+  "durability": 25.947219389272576,
   "max_durability": 106.0,
-  "volatility": 0.5700000000000003,
-  "resilience": 0.8100816930584824,
+  "volatility": 0.5300000000000002,
+  "resilience": 0.8361233012235545,
   "worth": 100,
   "affinities": {}
 }

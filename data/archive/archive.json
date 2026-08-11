@@ -5676,5 +5676,30 @@
       "Order": 0.2,
       "Chaos": 0.1
     }
+  },
+  {
+    "id": "f7713858-0c8a-4d41-aff8-9eec32ce4c38",
+    "name": "Cursed Sigil of Mirage",
+    "type": "Focus",
+    "generation": 21,
+    "damage": 36.5,
+    "damage_type": [
+      "Physical",
+      "Magic",
+      "Cosmic"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 1.15,
+    "rarity": 1.5,
+    "durability": -1.0,
+    "max_durability": 104.0,
+    "volatility": 0.4792481250360578,
+    "resilience": 0.35,
+    "worth": 1150,
+    "affinities": {
+      "Stability": 0.1
+    }
   }
 ]

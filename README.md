@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-18207
+18232
 
 ## Oldest Item
-Glowing Bow of the Sun
+Blessed Rapier of Blood
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.56
-- Average Volatility: 0.51
-- Average Durability: 44.82
+- Average Rarity: 1.51
+- Average Volatility: 0.46
+- Average Durability: 51.44
 
 ## Dominant Factions
 - Order: 0.6
-- DEX: 0.4
-- Stability: 0.3
+- DEX: 0.5
+- Restoration: 0.2
 
 ## Extremes
-- Most Stable Item: Mundane Axe of Decay
+- Most Stable Item: Blessed Rapier of Blood
 - Most Volatile Item: Mundane Spear of Light
 
 ## Recent Events
-- STABLE: 'Fractured Focus of Might' did not mutate this tick.
-- MUTATED: 'Heavy Sigil of Silence' evolved to generation 14.
-- STABLE: 'Verdant Sigil of Iron' did not mutate this tick.
+- MUTATED: 'Glowing Bow of the Sun' evolved to generation 7.
+- MUTATED: 'Cursed Sigil of Mirage' evolved to generation 21.
+- REPLACED WITH: 'Blessed Rapier of Blood' (d3b34e75-f85b-4b69-89bc-f618d96a773f)
 
 ## Lifecycle Stats
-- Items Created: 219
-- Items Archived: 209
-- Avg Lifespan (ticks): 36.7
+- Items Created: 220
+- Items Archived: 210
+- Avg Lifespan (ticks): 36.6
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,8 +40,8 @@ Glowing Bow of the Sun
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 18207
-- Successful Mutations: 7613
+- Mutations Attempted: 18232
+- Successful Mutations: 7630
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Glowing Bow of the Sun
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 404400
-- Currency per Tick (avg): 22.21
-- Recent Gains: 0
+- Total Currency: 405550
+- Currency per Tick (avg): 22.24
+- Recent Gains: 1150
 
 ![CPT](assets/cpt.png)

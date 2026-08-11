@@ -1,23 +1,23 @@
 {
-  "currency": 404400,
-  "tick": 18207,
+  "currency": 405550,
+  "tick": 18232,
   "mutation_stats": {
-    "attempted": 18207,
-    "success": 7613
+    "attempted": 18232,
+    "success": 7630
   },
   "recent_events": [
-    "STABLE: 'Cursed Sigil of Mirage' did not mutate this tick.",
-    "STABLE: 'Heavy Sigil of Silence' did not mutate this tick.",
-    "MUTATED: 'Heavy Sigil of Silence' evolved to generation 12.",
-    "STABLE: 'Mundane Axe of Decay' did not mutate this tick.",
+    "MUTATED: 'Nimble Axe of Light' evolved to generation 28.",
     "STABLE: 'Verdant Sigil of Iron' did not mutate this tick.",
-    "MUTATED: 'Heavy Core of Venom' evolved to generation 15.",
-    "MUTATED: 'Heavy Sigil of Silence' evolved to generation 13.",
-    "STABLE: 'Fractured Focus of Might' did not mutate this tick.",
-    "MUTATED: 'Heavy Sigil of Silence' evolved to generation 14.",
-    "STABLE: 'Verdant Sigil of Iron' did not mutate this tick."
+    "MUTATED: 'Verdant Sigil of Iron' evolved to generation 42.",
+    "STABLE: 'Silent Rapier of the Deep' did not mutate this tick.",
+    "MUTATED: 'Fractured Focus of Might' evolved to generation 13.",
+    "MUTATED: 'Heavy Core of Venom' evolved to generation 16.",
+    "MUTATED: 'Cursed Sigil of Mirage' evolved to generation 20.",
+    "MUTATED: 'Glowing Bow of the Sun' evolved to generation 7.",
+    "MUTATED: 'Cursed Sigil of Mirage' evolved to generation 21.",
+    "REPLACED WITH: 'Blessed Rapier of Blood' (d3b34e75-f85b-4b69-89bc-f618d96a773f)"
   ],
-  "created": 219,
-  "avg_lifespan": 36.698564593301434,
-  "archived": 209
+  "created": 220,
+  "avg_lifespan": 36.62380952380953,
+  "archived": 210
 }
