@@ -1,23 +1,23 @@
 {
-  "currency": 405550,
-  "tick": 18332,
+  "currency": 411200,
+  "tick": 18357,
   "mutation_stats": {
-    "attempted": 18332,
-    "success": 7671
+    "attempted": 18357,
+    "success": 7682
   },
   "recent_events": [
-    "MUTATED: 'Nimble Axe of Light' evolved to generation 33.",
-    "MUTATED: 'Heavy Core of Venom' evolved to generation 22.",
-    "STABLE: 'Mundane Spear of Light' did not mutate this tick.",
-    "MUTATED: 'Glowing Bow of the Sun' evolved to generation 13.",
-    "MUTATED: 'Silent Rapier of the Deep' evolved to generation 15.",
-    "STABLE: 'Mundane Axe of Decay' did not mutate this tick.",
-    "MUTATED: 'Mundane Spear of Light' evolved to generation 24.",
-    "MUTATED: 'Verdant Sigil of Iron' evolved to generation 44.",
-    "STABLE: 'Glowing Bow of the Sun' did not mutate this tick.",
-    "STABLE: 'Mundane Axe of Decay' did not mutate this tick."
+    "STABLE: 'Mundane Blade of Silence' did not mutate this tick.",
+    "MUTATED: 'Heavy Core of Venom' evolved to generation 23.",
+    "MUTATED: 'Nimble Axe of Light' evolved to generation 35.",
+    "REPLACED WITH: 'Verdant Blade of Venom' (14d0234a-7a47-45c9-ac3a-19f00570dbcf)",
+    "MUTATED: 'Glowing Bow of the Sun' evolved to generation 15.",
+    "STABLE: 'Mundane Blade of Silence' did not mutate this tick.",
+    "STABLE: 'Verdant Sigil of Iron' did not mutate this tick.",
+    "MUTATED: 'Verdant Sigil of Iron' evolved to generation 47.",
+    "REPLACED WITH: 'Glacial Rapier of Iron' (2fc14199-b4eb-4949-a4ae-e391b02d3f22)",
+    "STABLE: 'Glacial Rapier of Iron' did not mutate this tick."
   ],
-  "created": 220,
-  "avg_lifespan": 36.62380952380953,
-  "archived": 210
+  "created": 223,
+  "avg_lifespan": 36.61032863849766,
+  "archived": 213
 }

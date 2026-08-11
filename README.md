@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-18332
+18357
 
 ## Oldest Item
-Blessed Rapier of Blood
+Mundane Blade of Silence
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.61
-- Average Volatility: 0.46
-- Average Durability: 34.24
+- Average Rarity: 1.2
+- Average Volatility: 0.36
+- Average Durability: 61.72
 
 ## Dominant Factions
-- Order: 0.7
-- DEX: 0.5
+- Order: 0.4
+- DEX: 0.3
 - STR: 0.3
 
 ## Extremes
-- Most Stable Item: Blessed Rapier of Blood
-- Most Volatile Item: Nimble Axe of Light
+- Most Stable Item: Glacial Rapier of Iron
+- Most Volatile Item: Glowing Bow of the Sun
 
 ## Recent Events
-- MUTATED: 'Verdant Sigil of Iron' evolved to generation 44.
-- STABLE: 'Glowing Bow of the Sun' did not mutate this tick.
-- STABLE: 'Mundane Axe of Decay' did not mutate this tick.
+- MUTATED: 'Verdant Sigil of Iron' evolved to generation 47.
+- REPLACED WITH: 'Glacial Rapier of Iron' (2fc14199-b4eb-4949-a4ae-e391b02d3f22)
+- STABLE: 'Glacial Rapier of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 220
-- Items Archived: 210
+- Items Created: 223
+- Items Archived: 213
 - Avg Lifespan (ticks): 36.6
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Blessed Rapier of Blood
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 18332
-- Successful Mutations: 7671
+- Mutations Attempted: 18357
+- Successful Mutations: 7682
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 3
+- Common: 9
+- Uncommon: 1
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Blessed Rapier of Blood
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 405550
-- Currency per Tick (avg): 22.12
+- Total Currency: 411200
+- Currency per Tick (avg): 22.4
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
