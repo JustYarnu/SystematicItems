@@ -2,7 +2,7 @@
   "id": "3b7e297a-bbbd-4f46-a022-fed05d74b55d",
   "name": "Mundane Spear of Light",
   "type": "Polearm",
-  "generation": 13,
+  "generation": 14,
   "damage": 20.0,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "crit_rate": 0.01,
   "str_mod": 1.1,
   "dex_mod": 1.1,
-  "rarity": 1.3,
-  "durability": 44.088097665344776,
-  "max_durability": 100.0,
-  "volatility": 0.5389255811626865,
+  "rarity": 2.3,
+  "durability": 40.088097665344776,
+  "max_durability": 90.0,
+  "volatility": 0.6089255811626866,
   "resilience": 0.6689255811626864,
   "worth": 100,
   "affinities": {
