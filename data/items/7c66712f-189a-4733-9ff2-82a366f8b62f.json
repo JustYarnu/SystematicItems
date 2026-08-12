@@ -2,8 +2,8 @@
   "id": "7c66712f-189a-4733-9ff2-82a366f8b62f",
   "name": "Mundane Blade of Silence",
   "type": "Sword",
-  "generation": 5,
-  "damage": 10.0,
+  "generation": 6,
+  "damage": 15.0,
   "damage_type": [
     "Physical",
     "Slashing"
@@ -11,11 +11,11 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.05,
-  "dex_mod": 1.25,
+  "dex_mod": 1.15,
   "rarity": 1,
-  "durability": 72.25,
+  "durability": 67.0,
   "max_durability": 102.0,
-  "volatility": 0.23000000000000015,
+  "volatility": 0.25000000000000017,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {

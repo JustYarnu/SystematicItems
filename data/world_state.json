@@ -1,21 +1,21 @@
 {
   "currency": 412150,
-  "tick": 18532,
+  "tick": 18557,
   "mutation_stats": {
-    "attempted": 18532,
-    "success": 7746
+    "attempted": 18557,
+    "success": 7756
   },
   "recent_events": [
-    "STABLE: 'Verdant Blade of Venom' did not mutate this tick.",
-    "MUTATED: 'Silent Rapier of the Deep' evolved to generation 20.",
+    "STABLE: 'Blessed Rapier of Blood' did not mutate this tick.",
+    "STABLE: 'Blessed Rapier of Blood' did not mutate this tick.",
+    "MUTATED: 'Heavy Sigil of Silence' evolved to generation 31.",
     "STABLE: 'Heavy Sigil of Silence' did not mutate this tick.",
-    "MUTATED: 'Blessed Rapier of Blood' evolved to generation 7.",
-    "MUTATED: 'Silent Rapier of the Deep' evolved to generation 21.",
-    "STABLE: 'Fractured Focus of Might' did not mutate this tick.",
-    "STABLE: 'Verdant Blade of Venom' did not mutate this tick.",
-    "MUTATED: 'Silent Rapier of the Deep' evolved to generation 22.",
-    "STABLE: 'Glacial Rapier of Iron' did not mutate this tick.",
-    "STABLE: 'Heavy Sigil of Silence' did not mutate this tick."
+    "STABLE: 'Silent Rapier of the Deep' did not mutate this tick.",
+    "STABLE: 'Mundane Edge of Stone' did not mutate this tick.",
+    "MUTATED: 'Silent Rapier of the Deep' evolved to generation 23.",
+    "MUTATED: 'Verdant Blade of Venom' evolved to generation 9.",
+    "STABLE: 'Heavy Sigil of Silence' did not mutate this tick.",
+    "STABLE: 'Verdant Blade of Venom' did not mutate this tick."
   ],
   "created": 224,
   "avg_lifespan": 36.51869158878505,

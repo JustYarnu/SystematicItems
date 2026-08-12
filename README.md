@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-18532
+18557
 
 ## Oldest Item
 Mundane Edge of Stone
@@ -11,8 +11,8 @@ Mundane Edge of Stone
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.3
-- Average Volatility: 0.37
-- Average Durability: 53.76
+- Average Volatility: 0.38
+- Average Durability: 49.99
 
 ## Dominant Factions
 - Order: 0.6
@@ -21,12 +21,12 @@ Mundane Edge of Stone
 
 ## Extremes
 - Most Stable Item: Mundane Edge of Stone
-- Most Volatile Item: Fractured Focus of Might
+- Most Volatile Item: Heavy Sigil of Silence
 
 ## Recent Events
-- MUTATED: 'Silent Rapier of the Deep' evolved to generation 22.
-- STABLE: 'Glacial Rapier of Iron' did not mutate this tick.
+- MUTATED: 'Verdant Blade of Venom' evolved to generation 9.
 - STABLE: 'Heavy Sigil of Silence' did not mutate this tick.
+- STABLE: 'Verdant Blade of Venom' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 224
@@ -40,8 +40,8 @@ Mundane Edge of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 18532
-- Successful Mutations: 7746
+- Mutations Attempted: 18557
+- Successful Mutations: 7756
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Edge of Stone
 
 ## Economy
 - Total Currency: 412150
-- Currency per Tick (avg): 22.24
+- Currency per Tick (avg): 22.21
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
