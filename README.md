@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-18607
+18632
 
 ## Oldest Item
-Glacial Blade of Ash
+Obsidian Focus of Eternity
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.45
-- Average Volatility: 0.35
-- Average Durability: 65.98
+- Average Volatility: 0.36
+- Average Durability: 63.17
 
 ## Dominant Factions
 - STR: 0.6
@@ -24,8 +24,8 @@ Glacial Blade of Ash
 - Most Volatile Item: Glowing Bow of the Sun
 
 ## Recent Events
-- REPLACED WITH: 'Obsidian Focus of Eternity' (24b79c5a-1f67-413f-87a1-19db3ca73132)
 - STABLE: 'Heavy Core of Venom' did not mutate this tick.
+- MUTATED: 'Blessed Rapier of Blood' evolved to generation 12.
 - STABLE: 'Mundane Blade of Silence' did not mutate this tick.
 
 ## Lifecycle Stats
@@ -40,8 +40,8 @@ Glacial Blade of Ash
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 18607
-- Successful Mutations: 7780
+- Mutations Attempted: 18632
+- Successful Mutations: 7786
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Glacial Blade of Ash
 
 ## Economy
 - Total Currency: 415350
-- Currency per Tick (avg): 22.32
+- Currency per Tick (avg): 22.29
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
