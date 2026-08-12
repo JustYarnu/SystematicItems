@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-18632
+18657
 
 ## Oldest Item
 Obsidian Focus of Eternity
@@ -11,22 +11,22 @@ Obsidian Focus of Eternity
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.45
-- Average Volatility: 0.36
-- Average Durability: 63.17
+- Average Volatility: 0.38
+- Average Durability: 58.98
 
 ## Dominant Factions
 - STR: 0.6
 - Order: 0.5
-- DEX: 0.4
+- Chaos: 0.4
 
 ## Extremes
 - Most Stable Item: Glacial Blade of Ash
 - Most Volatile Item: Glowing Bow of the Sun
 
 ## Recent Events
-- STABLE: 'Heavy Core of Venom' did not mutate this tick.
-- MUTATED: 'Blessed Rapier of Blood' evolved to generation 12.
 - STABLE: 'Mundane Blade of Silence' did not mutate this tick.
+- STABLE: 'Obsidian Focus of Eternity' did not mutate this tick.
+- STABLE: 'Glacial Blade of Ash' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 226
@@ -40,8 +40,8 @@ Obsidian Focus of Eternity
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 18632
-- Successful Mutations: 7786
+- Mutations Attempted: 18657
+- Successful Mutations: 7795
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Obsidian Focus of Eternity
 
 ## Economy
 - Total Currency: 415350
-- Currency per Tick (avg): 22.29
+- Currency per Tick (avg): 22.26
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
