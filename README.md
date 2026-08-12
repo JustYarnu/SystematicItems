@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-18807
+18832
 
 ## Oldest Item
 Glacial Blade of Ash
@@ -11,8 +11,8 @@ Glacial Blade of Ash
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.6
-- Average Volatility: 0.42
-- Average Durability: 49.25
+- Average Volatility: 0.43
+- Average Durability: 45.32
 
 ## Dominant Factions
 - STR: 0.7
@@ -24,9 +24,9 @@ Glacial Blade of Ash
 - Most Volatile Item: Unstable Blade of Sovereignty
 
 ## Recent Events
-- STABLE: 'Verdant Blade of Venom' did not mutate this tick.
-- STABLE: 'Fractured Focus of Might' did not mutate this tick.
-- STABLE: 'Fractured Focus of Might' did not mutate this tick.
+- MUTATED: 'Verdant Blade of Venom' evolved to generation 21.
+- MUTATED: 'Fractured Focus of Might' evolved to generation 45.
+- STABLE: 'Blessed Rapier of Blood' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 227
@@ -40,9 +40,9 @@ Glacial Blade of Ash
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 18807
-- Successful Mutations: 7852
-- Failure Rate: 58.2%
+- Mutations Attempted: 18832
+- Successful Mutations: 7859
+- Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Glacial Blade of Ash
 
 ## Economy
 - Total Currency: 417250
-- Currency per Tick (avg): 22.19
+- Currency per Tick (avg): 22.16
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

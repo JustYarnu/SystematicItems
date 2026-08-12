@@ -1,21 +1,21 @@
 {
   "currency": 417250,
-  "tick": 18807,
+  "tick": 18832,
   "mutation_stats": {
-    "attempted": 18807,
-    "success": 7852
+    "attempted": 18832,
+    "success": 7859
   },
   "recent_events": [
-    "STABLE: 'Mundane Blade of Silence' did not mutate this tick.",
-    "MUTATED: 'Verdant Blade of Venom' evolved to generation 19.",
-    "STABLE: 'Unstable Blade of Sovereignty' did not mutate this tick.",
-    "MUTATED: 'Blessed Rapier of Blood' evolved to generation 20.",
-    "STABLE: 'Glacial Rapier of Iron' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Silence' did not mutate this tick.",
-    "MUTATED: 'Fractured Focus of Might' evolved to generation 44.",
-    "STABLE: 'Verdant Blade of Venom' did not mutate this tick.",
-    "STABLE: 'Fractured Focus of Might' did not mutate this tick.",
-    "STABLE: 'Fractured Focus of Might' did not mutate this tick."
+    "MUTATED: 'Mundane Edge of Stone' evolved to generation 7.",
+    "STABLE: 'Mundane Edge of Stone' did not mutate this tick.",
+    "STABLE: 'Obsidian Focus of Eternity' did not mutate this tick.",
+    "STABLE: 'Mundane Edge of Stone' did not mutate this tick.",
+    "STABLE: 'Obsidian Focus of Eternity' did not mutate this tick.",
+    "MUTATED: 'Blessed Rapier of Blood' evolved to generation 21.",
+    "MUTATED: 'Mundane Blade of Silence' evolved to generation 17.",
+    "MUTATED: 'Verdant Blade of Venom' evolved to generation 21.",
+    "MUTATED: 'Fractured Focus of Might' evolved to generation 45.",
+    "STABLE: 'Blessed Rapier of Blood' did not mutate this tick."
   ],
   "created": 227,
   "avg_lifespan": 36.45622119815669,
