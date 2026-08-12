@@ -1,23 +1,23 @@
 {
-  "currency": 412150,
-  "tick": 18557,
+  "currency": 413950,
+  "tick": 18582,
   "mutation_stats": {
-    "attempted": 18557,
-    "success": 7756
+    "attempted": 18582,
+    "success": 7768
   },
   "recent_events": [
-    "STABLE: 'Blessed Rapier of Blood' did not mutate this tick.",
-    "STABLE: 'Blessed Rapier of Blood' did not mutate this tick.",
-    "MUTATED: 'Heavy Sigil of Silence' evolved to generation 31.",
-    "STABLE: 'Heavy Sigil of Silence' did not mutate this tick.",
+    "STABLE: 'Glacial Rapier of Iron' did not mutate this tick.",
+    "MUTATED: 'Fractured Focus of Might' evolved to generation 33.",
     "STABLE: 'Silent Rapier of the Deep' did not mutate this tick.",
     "STABLE: 'Mundane Edge of Stone' did not mutate this tick.",
-    "MUTATED: 'Silent Rapier of the Deep' evolved to generation 23.",
-    "MUTATED: 'Verdant Blade of Venom' evolved to generation 9.",
-    "STABLE: 'Heavy Sigil of Silence' did not mutate this tick.",
-    "STABLE: 'Verdant Blade of Venom' did not mutate this tick."
+    "STABLE: 'Mundane Edge of Stone' did not mutate this tick.",
+    "STABLE: 'Heavy Core of Venom' did not mutate this tick.",
+    "MUTATED: 'Glowing Bow of the Sun' evolved to generation 23.",
+    "STABLE: 'Glowing Bow of the Sun' did not mutate this tick.",
+    "MUTATED: 'Heavy Sigil of Silence' evolved to generation 34.",
+    "REPLACED WITH: 'Glacial Blade of Ash' (11b9f41b-26d2-4699-8bb7-1cb55131ad9b)"
   ],
-  "created": 224,
-  "avg_lifespan": 36.51869158878505,
-  "archived": 214
+  "created": 225,
+  "avg_lifespan": 36.506976744186055,
+  "archived": 215
 }

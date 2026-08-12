@@ -5798,5 +5798,31 @@
     "resilience": 0.75,
     "worth": 950,
     "affinities": {}
+  },
+  {
+    "id": "d5a9e443-821f-40a3-abb3-3f2517075279",
+    "name": "Heavy Sigil of Silence",
+    "type": "Focus",
+    "generation": 34,
+    "damage": 38.0,
+    "damage_type": [
+      "Physical",
+      "Magic"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.08169925001442313,
+    "str_mod": 1.4000000000000001,
+    "dex_mod": 0.9499999999999998,
+    "rarity": 1.5,
+    "durability": -1.0,
+    "max_durability": 121.0,
+    "volatility": 0.5600000000000003,
+    "resilience": 0.7792481250360578,
+    "worth": 1800,
+    "affinities": {
+      "Order": 0.1,
+      "Stability": 0.1,
+      "STR": 0.1
+    }
   }
 ]

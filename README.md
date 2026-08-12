@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-18557
+18582
 
 ## Oldest Item
-Mundane Edge of Stone
+Glacial Blade of Ash
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.3
-- Average Volatility: 0.38
-- Average Durability: 49.99
+- Average Rarity: 1.25
+- Average Volatility: 0.36
+- Average Durability: 54.32
 
 ## Dominant Factions
 - Order: 0.6
@@ -20,17 +20,17 @@ Mundane Edge of Stone
 - DEX: 0.5
 
 ## Extremes
-- Most Stable Item: Mundane Edge of Stone
-- Most Volatile Item: Heavy Sigil of Silence
+- Most Stable Item: Glacial Blade of Ash
+- Most Volatile Item: Fractured Focus of Might
 
 ## Recent Events
-- MUTATED: 'Verdant Blade of Venom' evolved to generation 9.
-- STABLE: 'Heavy Sigil of Silence' did not mutate this tick.
-- STABLE: 'Verdant Blade of Venom' did not mutate this tick.
+- STABLE: 'Glowing Bow of the Sun' did not mutate this tick.
+- MUTATED: 'Heavy Sigil of Silence' evolved to generation 34.
+- REPLACED WITH: 'Glacial Blade of Ash' (11b9f41b-26d2-4699-8bb7-1cb55131ad9b)
 
 ## Lifecycle Stats
-- Items Created: 224
-- Items Archived: 214
+- Items Created: 225
+- Items Archived: 215
 - Avg Lifespan (ticks): 36.5
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Mundane Edge of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 18557
-- Successful Mutations: 7756
+- Mutations Attempted: 18582
+- Successful Mutations: 7768
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Mundane Edge of Stone
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 412150
-- Currency per Tick (avg): 22.21
-- Recent Gains: 0
+- Total Currency: 413950
+- Currency per Tick (avg): 22.28
+- Recent Gains: 1800
 
 ![CPT](assets/cpt.png)

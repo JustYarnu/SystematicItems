@@ -1,20 +1,22 @@
 {
-  "id": "52d77606-b43a-4350-92ea-c7a008fe56c6",
-  "name": "Mundane Edge of Stone",
+  "id": "11b9f41b-26d2-4699-8bb7-1cb55131ad9b",
+  "name": "Glacial Blade of Ash",
   "type": "Sword",
   "generation": 1,
   "damage": 10.0,
   "damage_type": [
-    "Physical"
+    "Physical",
+    "Cold",
+    "Slashing"
   ],
   "crit_damage": 2,
   "crit_rate": 0.01,
-  "str_mod": 1.0,
-  "dex_mod": 1.1,
+  "str_mod": 1.05,
+  "dex_mod": 1.05,
   "rarity": 1,
-  "durability": 89.0,
+  "durability": 90.0,
   "max_durability": 125.0,
-  "volatility": 0.21000000000000008,
+  "volatility": 0.15000000000000002,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {}
