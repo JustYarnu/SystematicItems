@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-18707
+18732
 
 ## Oldest Item
-Mundane Edge of Stone
+Unstable Blade of Sovereignty
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.45
-- Average Volatility: 0.39
-- Average Durability: 52.59
+- Average Rarity: 1.5
+- Average Volatility: 0.41
+- Average Durability: 58.1
 
 ## Dominant Factions
-- Order: 0.7
-- STR: 0.7
-- Chaos: 0.4
+- Order: 0.6
+- STR: 0.6
+- Stability: 0.4
 
 ## Extremes
 - Most Stable Item: Glacial Rapier of Iron
-- Most Volatile Item: Verdant Blade of Venom
+- Most Volatile Item: Unstable Blade of Sovereignty
 
 ## Recent Events
-- STABLE: 'Glowing Bow of the Sun' did not mutate this tick.
-- STABLE: 'Glowing Bow of the Sun' did not mutate this tick.
-- STABLE: 'Fractured Focus of Might' did not mutate this tick.
+- STABLE: 'Mundane Blade of Silence' did not mutate this tick.
+- STABLE: 'Glacial Rapier of Iron' did not mutate this tick.
+- STABLE: 'Verdant Blade of Venom' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 226
-- Items Archived: 216
+- Items Created: 227
+- Items Archived: 217
 - Avg Lifespan (ticks): 36.5
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Mundane Edge of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 18707
-- Successful Mutations: 7815
+- Mutations Attempted: 18732
+- Successful Mutations: 7822
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Mundane Edge of Stone
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 415350
-- Currency per Tick (avg): 22.2
+- Total Currency: 417250
+- Currency per Tick (avg): 22.27
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
