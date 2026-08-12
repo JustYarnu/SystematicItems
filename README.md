@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-18482
+18507
 
 ## Oldest Item
-Glacial Rapier of Iron
+Mundane Edge of Stone
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.2
-- Average Volatility: 0.39
-- Average Durability: 49.99
+- Average Volatility: 0.38
+- Average Durability: 58.1
 
 ## Dominant Factions
 - Order: 0.6
 - STR: 0.6
-- DEX: 0.4
+- DEX: 0.5
 
 ## Extremes
-- Most Stable Item: Glacial Rapier of Iron
+- Most Stable Item: Mundane Edge of Stone
 - Most Volatile Item: Fractured Focus of Might
 
 ## Recent Events
-- MUTATED: 'Heavy Sigil of Silence' evolved to generation 29.
-- STABLE: 'Glowing Bow of the Sun' did not mutate this tick.
-- STABLE: 'Fractured Focus of Might' did not mutate this tick.
+- STABLE: 'Glacial Rapier of Iron' did not mutate this tick.
+- STABLE: 'Heavy Core of Venom' did not mutate this tick.
+- MUTATED: 'Heavy Core of Venom' evolved to generation 29.
 
 ## Lifecycle Stats
-- Items Created: 223
-- Items Archived: 213
-- Avg Lifespan (ticks): 36.6
+- Items Created: 224
+- Items Archived: 214
+- Avg Lifespan (ticks): 36.5
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,8 +40,8 @@ Glacial Rapier of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 18482
-- Successful Mutations: 7729
+- Mutations Attempted: 18507
+- Successful Mutations: 7735
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Glacial Rapier of Iron
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 411200
-- Currency per Tick (avg): 22.25
+- Total Currency: 412150
+- Currency per Tick (avg): 22.27
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
