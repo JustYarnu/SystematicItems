@@ -1,21 +1,21 @@
 {
   "currency": 417250,
-  "tick": 18732,
+  "tick": 18757,
   "mutation_stats": {
-    "attempted": 18732,
-    "success": 7822
+    "attempted": 18757,
+    "success": 7830
   },
   "recent_events": [
-    "STABLE: 'Obsidian Focus of Eternity' did not mutate this tick.",
-    "MUTATED: 'Glowing Bow of the Sun' evolved to generation 30.",
+    "MUTATED: 'Glowing Bow of the Sun' evolved to generation 31.",
+    "STABLE: 'Mundane Edge of Stone' did not mutate this tick.",
     "STABLE: 'Mundane Blade of Silence' did not mutate this tick.",
     "STABLE: 'Verdant Blade of Venom' did not mutate this tick.",
-    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
-    "STABLE: 'Blessed Rapier of Blood' did not mutate this tick.",
-    "MUTATED: 'Obsidian Focus of Eternity' evolved to generation 5.",
+    "MUTATED: 'Mundane Edge of Stone' evolved to generation 4.",
+    "MUTATED: 'Glowing Bow of the Sun' evolved to generation 32.",
     "STABLE: 'Mundane Blade of Silence' did not mutate this tick.",
-    "STABLE: 'Glacial Rapier of Iron' did not mutate this tick.",
-    "STABLE: 'Verdant Blade of Venom' did not mutate this tick."
+    "STABLE: 'Blessed Rapier of Blood' did not mutate this tick.",
+    "STABLE: 'Unstable Blade of Sovereignty' did not mutate this tick.",
+    "MUTATED: 'Blessed Rapier of Blood' evolved to generation 16."
   ],
   "created": 227,
   "avg_lifespan": 36.45622119815669,

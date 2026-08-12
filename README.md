@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-18732
+18757
 
 ## Oldest Item
-Unstable Blade of Sovereignty
+Glacial Blade of Ash
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.5
+- Average Rarity: 1.6
 - Average Volatility: 0.41
-- Average Durability: 58.1
+- Average Durability: 55.63
 
 ## Dominant Factions
+- STR: 0.7
 - Order: 0.6
-- STR: 0.6
 - Stability: 0.4
 
 ## Extremes
 - Most Stable Item: Glacial Rapier of Iron
-- Most Volatile Item: Unstable Blade of Sovereignty
+- Most Volatile Item: Verdant Blade of Venom
 
 ## Recent Events
-- STABLE: 'Mundane Blade of Silence' did not mutate this tick.
-- STABLE: 'Glacial Rapier of Iron' did not mutate this tick.
-- STABLE: 'Verdant Blade of Venom' did not mutate this tick.
+- STABLE: 'Blessed Rapier of Blood' did not mutate this tick.
+- STABLE: 'Unstable Blade of Sovereignty' did not mutate this tick.
+- MUTATED: 'Blessed Rapier of Blood' evolved to generation 16.
 
 ## Lifecycle Stats
 - Items Created: 227
@@ -40,15 +40,15 @@ Unstable Blade of Sovereignty
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 18732
-- Successful Mutations: 7822
-- Failure Rate: 58.2%
+- Mutations Attempted: 18757
+- Successful Mutations: 7830
+- Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 8
-- Uncommon: 2
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Unstable Blade of Sovereignty
 
 ## Economy
 - Total Currency: 417250
-- Currency per Tick (avg): 22.27
+- Currency per Tick (avg): 22.25
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
