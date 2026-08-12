@@ -1,21 +1,21 @@
 {
   "currency": 415350,
-  "tick": 18682,
+  "tick": 18707,
   "mutation_stats": {
-    "attempted": 18682,
-    "success": 7804
+    "attempted": 18707,
+    "success": 7815
   },
   "recent_events": [
-    "STABLE: 'Fractured Focus of Might' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Silence' did not mutate this tick.",
     "STABLE: 'Mundane Edge of Stone' did not mutate this tick.",
-    "STABLE: 'Blessed Rapier of Blood' did not mutate this tick.",
-    "MUTATED: 'Fractured Focus of Might' evolved to generation 39.",
-    "MUTATED: 'Obsidian Focus of Eternity' evolved to generation 2.",
-    "STABLE: 'Fractured Focus of Might' did not mutate this tick.",
-    "STABLE: 'Obsidian Focus of Eternity' did not mutate this tick.",
-    "MUTATED: 'Glowing Bow of the Sun' evolved to generation 28.",
-    "STABLE: 'Glacial Blade of Ash' did not mutate this tick."
+    "MUTATED: 'Glowing Bow of the Sun' evolved to generation 29.",
+    "STABLE: 'Mundane Blade of Silence' did not mutate this tick.",
+    "STABLE: 'Glacial Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
+    "MUTATED: 'Mundane Blade of Silence' evolved to generation 15.",
+    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
+    "STABLE: 'Glowing Bow of the Sun' did not mutate this tick.",
+    "STABLE: 'Glowing Bow of the Sun' did not mutate this tick.",
+    "STABLE: 'Fractured Focus of Might' did not mutate this tick."
   ],
   "created": 226,
   "avg_lifespan": 36.45833333333334,
