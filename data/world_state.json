@@ -1,23 +1,23 @@
 {
-  "currency": 417250,
-  "tick": 18857,
+  "currency": 418300,
+  "tick": 18882,
   "mutation_stats": {
-    "attempted": 18857,
-    "success": 7873
+    "attempted": 18882,
+    "success": 7880
   },
   "recent_events": [
-    "STABLE: 'Mundane Blade of Silence' did not mutate this tick.",
-    "STABLE: 'Fractured Focus of Might' did not mutate this tick.",
-    "MUTATED: 'Blessed Rapier of Blood' evolved to generation 23.",
-    "MUTATED: 'Fractured Focus of Might' evolved to generation 47.",
-    "STABLE: 'Verdant Blade of Venom' did not mutate this tick.",
-    "STABLE: 'Mundane Edge of Stone' did not mutate this tick.",
+    "MUTATED: 'Fractured Focus of Might' evolved to generation 48.",
+    "STABLE: 'Mundane Blade of Whispers' did not mutate this tick.",
     "STABLE: 'Blessed Rapier of Blood' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Silence' did not mutate this tick.",
-    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
-    "STABLE: 'Mundane Edge of Stone' did not mutate this tick."
+    "STABLE: 'Fractured Focus of Might' did not mutate this tick.",
+    "MUTATED: 'Fractured Focus of Might' evolved to generation 49.",
+    "STABLE: 'Mundane Edge of Stone' did not mutate this tick.",
+    "STABLE: 'Glacial Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Whispers' did not mutate this tick.",
+    "STABLE: 'Unstable Blade of Sovereignty' did not mutate this tick.",
+    "MUTATED: 'Mundane Edge of Stone' evolved to generation 9."
   ],
-  "created": 227,
-  "avg_lifespan": 36.45622119815669,
-  "archived": 217
+  "created": 228,
+  "avg_lifespan": 36.37614678899084,
+  "archived": 218
 }
