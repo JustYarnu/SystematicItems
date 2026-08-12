@@ -5824,5 +5824,31 @@
       "Stability": 0.1,
       "STR": 0.1
     }
+  },
+  {
+    "id": "ec476a3c-9c53-49a9-b3ba-9195554f8d97",
+    "name": "Silent Rapier of the Deep",
+    "type": "Generic",
+    "generation": 26,
+    "damage": 13.5,
+    "damage_type": [
+      "Physical",
+      "Piercing",
+      "Water"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.01,
+    "str_mod": 1.5000000000000004,
+    "dex_mod": 1.85,
+    "rarity": 2,
+    "durability": -0.10000000000000142,
+    "max_durability": 115.0,
+    "volatility": 0.3400000000000004,
+    "resilience": 0.75,
+    "worth": 1400,
+    "affinities": {
+      "Order": 0.1,
+      "DEX": 0.1
+    }
   }
 ]

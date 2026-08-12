@@ -2,7 +2,7 @@
   "id": "14d0234a-7a47-45c9-ac3a-19f00570dbcf",
   "name": "Verdant Blade of Venom",
   "type": "Sword",
-  "generation": 11,
+  "generation": 12,
   "damage": 16.5,
   "damage_type": [
     "Physical",
@@ -15,10 +15,10 @@
   "str_mod": 1.1500000000000001,
   "dex_mod": 1.3500000000000003,
   "rarity": 1,
-  "durability": 53.25,
+  "durability": 49.5,
   "max_durability": 122.0,
-  "volatility": 0.4000000000000002,
-  "resilience": 0.7000000000000001,
+  "volatility": 0.4800000000000002,
+  "resilience": 0.65,
   "worth": 100,
   "affinities": {
     "Order": 0.1,
