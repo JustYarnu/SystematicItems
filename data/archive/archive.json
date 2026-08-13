@@ -6008,5 +6008,32 @@
       "Stability": 0.3,
       "STR": 0.7
     }
+  },
+  {
+    "id": "d0d275a2-1e65-44a4-98e1-91555c3eb0e6",
+    "name": "Unstable Blade of Sovereignty",
+    "type": "Sword",
+    "generation": 31,
+    "damage": 31.0,
+    "damage_type": [
+      "Physical",
+      "Chaos",
+      "Slashing"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.5500000000000005,
+    "dex_mod": 1.7500000000000007,
+    "rarity": 4.5,
+    "durability": -1.0,
+    "max_durability": 102.0,
+    "volatility": 0.6584962500721157,
+    "resilience": 0.7500000000000001,
+    "worth": 1650,
+    "affinities": {
+      "Stability": 0.1,
+      "DEX": 0.2,
+      "Order": 0.2
+    }
   }
 ]

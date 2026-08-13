@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-19232
+19257
 
 ## Oldest Item
 Verdant Rapier of Silence
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.85
-- Average Volatility: 0.42
-- Average Durability: 44.85
+- Average Rarity: 1.5
+- Average Volatility: 0.39
+- Average Durability: 54.91
 
 ## Dominant Factions
-- Order: 0.7
-- Stability: 0.5
+- Order: 0.5
 - Chaos: 0.4
+- Stability: 0.4
 
 ## Extremes
-- Most Stable Item: Verdant Rapier of Silence
-- Most Volatile Item: Unstable Blade of Sovereignty
+- Most Stable Item: Titanic Axe of Blight
+- Most Volatile Item: Glacial Axe of Storms
 
 ## Recent Events
-- STABLE: 'Vampiric Shard of Embers' did not mutate this tick.
-- MUTATED: 'Unstable Blade of Sovereignty' evolved to generation 29.
-- STABLE: 'Glacial Axe of Storms' did not mutate this tick.
+- STABLE: 'Titanic Axe of Blight' did not mutate this tick.
+- STABLE: 'Titanic Blade of Grace' did not mutate this tick.
+- MUTATED: 'Mundane Blade of Whispers' evolved to generation 14.
 
 ## Lifecycle Stats
-- Items Created: 232
-- Items Archived: 222
+- Items Created: 233
+- Items Archived: 223
 - Avg Lifespan (ticks): 36.4
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Verdant Rapier of Silence
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 19232
-- Successful Mutations: 8041
+- Mutations Attempted: 19257
+- Successful Mutations: 8053
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 5
-- Uncommon: 5
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Verdant Rapier of Silence
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 426700
-- Currency per Tick (avg): 22.19
+- Total Currency: 428350
+- Currency per Tick (avg): 22.24
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
