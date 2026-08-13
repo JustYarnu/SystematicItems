@@ -1,23 +1,23 @@
 {
-  "currency": 420300,
-  "tick": 18907,
+  "currency": 421600,
+  "tick": 18932,
   "mutation_stats": {
-    "attempted": 18907,
-    "success": 7893
+    "attempted": 18932,
+    "success": 7902
   },
   "recent_events": [
-    "MUTATED: 'Fractured Focus of Might' evolved to generation 54.",
+    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
+    "MUTATED: 'Obsidian Focus of Eternity' evolved to generation 11.",
+    "STABLE: 'Obsidian Focus of Eternity' did not mutate this tick.",
+    "MUTATED: 'Verdant Blade of Venom' evolved to generation 24.",
+    "REPLACED WITH: 'Glacial Axe of Storms' (00524027-203c-492c-9f44-24e50ccd832f)",
+    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
     "STABLE: 'Mundane Blade of Whispers' did not mutate this tick.",
-    "STABLE: 'Glowing Bow of the Sun' did not mutate this tick.",
-    "MUTATED: 'Glowing Bow of the Sun' evolved to generation 38.",
-    "REPLACED WITH: 'Titanic Blade of Grace' (0d7eabca-f791-4b9e-8d86-7f9758482b07)",
-    "MUTATED: 'Fractured Focus of Might' evolved to generation 55.",
-    "MUTATED: 'Glacial Blade of Ash' evolved to generation 8.",
-    "MUTATED: 'Blessed Rapier of Blood' evolved to generation 25.",
-    "MUTATED: 'Glacial Rapier of Iron' evolved to generation 16.",
-    "STABLE: 'Mundane Edge of Stone' did not mutate this tick."
+    "MUTATED: 'Glacial Axe of Storms' evolved to generation 2.",
+    "STABLE: 'Obsidian Focus of Eternity' did not mutate this tick.",
+    "STABLE: 'Glacial Axe of Storms' did not mutate this tick."
   ],
-  "created": 229,
-  "avg_lifespan": 36.38356164383563,
-  "archived": 219
+  "created": 230,
+  "avg_lifespan": 36.32727272727274,
+  "archived": 220
 }
