@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-19032
+19057
 
 ## Oldest Item
-Vampiric Shard of Embers
+Titanic Blade of Grace
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.75
 - Average Volatility: 0.41
-- Average Durability: 58.82
+- Average Durability: 55.92
 
 ## Dominant Factions
 - STR: 0.7
@@ -24,9 +24,9 @@ Vampiric Shard of Embers
 - Most Volatile Item: Unstable Blade of Sovereignty
 
 ## Recent Events
-- MUTATED: 'Glacial Blade of Ash' evolved to generation 17.
-- STABLE: 'Mundane Edge of Stone' did not mutate this tick.
-- MUTATED: 'Mundane Edge of Stone' evolved to generation 20.
+- STABLE: 'Vampiric Shard of Embers' did not mutate this tick.
+- STABLE: 'Titanic Blade of Grace' did not mutate this tick.
+- MUTATED: 'Unstable Blade of Sovereignty' evolved to generation 16.
 
 ## Lifecycle Stats
 - Items Created: 231
@@ -40,8 +40,8 @@ Vampiric Shard of Embers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 19032
-- Successful Mutations: 7946
+- Mutations Attempted: 19057
+- Successful Mutations: 7957
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Vampiric Shard of Embers
 
 ## Economy
 - Total Currency: 423050
-- Currency per Tick (avg): 22.23
+- Currency per Tick (avg): 22.2
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
