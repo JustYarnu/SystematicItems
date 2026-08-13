@@ -1,21 +1,21 @@
 {
   "currency": 423050,
-  "tick": 19107,
+  "tick": 19132,
   "mutation_stats": {
-    "attempted": 19107,
-    "success": 7985
+    "attempted": 19132,
+    "success": 7992
   },
   "recent_events": [
     "STABLE: 'Glacial Axe of Storms' did not mutate this tick.",
-    "MUTATED: 'Mundane Edge of Stone' evolved to generation 26.",
-    "MUTATED: 'Fractured Focus of Might' evolved to generation 65.",
-    "STABLE: 'Fractured Focus of Might' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Whispers' did not mutate this tick.",
-    "MUTATED: 'Vampiric Shard of Embers' evolved to generation 8.",
-    "STABLE: 'Vampiric Shard of Embers' did not mutate this tick.",
-    "STABLE: 'Fractured Focus of Might' did not mutate this tick.",
-    "MUTATED: 'Glacial Rapier of Iron' evolved to generation 27.",
-    "MUTATED: 'Glacial Axe of Storms' evolved to generation 9."
+    "STABLE: 'Obsidian Focus of Eternity' did not mutate this tick.",
+    "STABLE: 'Unstable Blade of Sovereignty' did not mutate this tick.",
+    "STABLE: 'Glacial Axe of Storms' did not mutate this tick.",
+    "MUTATED: 'Glacial Rapier of Iron' evolved to generation 29.",
+    "STABLE: 'Glacial Axe of Storms' did not mutate this tick.",
+    "STABLE: 'Glacial Axe of Storms' did not mutate this tick.",
+    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
+    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
+    "STABLE: 'Glacial Rapier of Iron' did not mutate this tick."
   ],
   "created": 231,
   "avg_lifespan": 36.285067873303184,

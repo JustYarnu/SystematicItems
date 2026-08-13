@@ -2,7 +2,7 @@
   "id": "2fc14199-b4eb-4949-a4ae-e391b02d3f22",
   "name": "Glacial Rapier of Iron",
   "type": "Generic",
-  "generation": 27,
+  "generation": 29,
   "damage": 12.5,
   "damage_type": [
     "Physical",
@@ -12,11 +12,11 @@
   "crit_damage": 2,
   "crit_rate": 0.09,
   "str_mod": 1.3000000000000003,
-  "dex_mod": 1.4500000000000002,
+  "dex_mod": 1.6500000000000004,
   "rarity": 2,
-  "durability": 32.19,
+  "durability": 25.989999999999995,
   "max_durability": 132.0,
-  "volatility": 0.4200000000000004,
+  "volatility": 0.4300000000000004,
   "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {
