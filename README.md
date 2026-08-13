@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-19207
+19232
 
 ## Oldest Item
-Titanic Blade of Grace
+Verdant Rapier of Silence
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.85
-- Average Volatility: 0.43
-- Average Durability: 38.03
+- Average Volatility: 0.42
+- Average Durability: 44.85
 
 ## Dominant Factions
-- Stability: 0.8
-- STR: 0.8
-- Order: 0.6
+- Order: 0.7
+- Stability: 0.5
+- Chaos: 0.4
 
 ## Extremes
-- Most Stable Item: Obsidian Focus of Eternity
+- Most Stable Item: Verdant Rapier of Silence
 - Most Volatile Item: Unstable Blade of Sovereignty
 
 ## Recent Events
-- MUTATED: 'Glacial Axe of Storms' evolved to generation 17.
-- MUTATED: 'Mundane Blade of Whispers' evolved to generation 10.
-- MUTATED: 'Unstable Blade of Sovereignty' evolved to generation 27.
+- STABLE: 'Vampiric Shard of Embers' did not mutate this tick.
+- MUTATED: 'Unstable Blade of Sovereignty' evolved to generation 29.
+- STABLE: 'Glacial Axe of Storms' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 231
-- Items Archived: 221
-- Avg Lifespan (ticks): 36.3
+- Items Created: 232
+- Items Archived: 222
+- Avg Lifespan (ticks): 36.4
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,8 +40,8 @@ Titanic Blade of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 19207
-- Successful Mutations: 8031
+- Mutations Attempted: 19232
+- Successful Mutations: 8041
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Titanic Blade of Grace
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 423050
-- Currency per Tick (avg): 22.03
+- Total Currency: 426700
+- Currency per Tick (avg): 22.19
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

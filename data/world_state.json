@@ -1,23 +1,23 @@
 {
-  "currency": 423050,
-  "tick": 19207,
+  "currency": 426700,
+  "tick": 19232,
   "mutation_stats": {
-    "attempted": 19207,
-    "success": 8031
+    "attempted": 19232,
+    "success": 8041
   },
   "recent_events": [
-    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
-    "STABLE: 'Glacial Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Glacial Axe of Storms' did not mutate this tick.",
+    "MUTATED: 'Titanic Blade of Grace' evolved to generation 6.",
+    "MUTATED: 'Unstable Blade of Sovereignty' evolved to generation 28.",
     "STABLE: 'Mundane Blade of Whispers' did not mutate this tick.",
-    "STABLE: 'Glacial Rapier of Iron' did not mutate this tick.",
-    "STABLE: 'Titanic Blade of Grace' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Whispers' did not mutate this tick.",
-    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
-    "MUTATED: 'Glacial Axe of Storms' evolved to generation 17.",
-    "MUTATED: 'Mundane Blade of Whispers' evolved to generation 10.",
-    "MUTATED: 'Unstable Blade of Sovereignty' evolved to generation 27."
+    "MUTATED: 'Fractured Focus of Might' evolved to generation 71.",
+    "REPLACED WITH: 'Verdant Rapier of Silence' (d0600d93-5a08-425d-8e95-bdf2de2c9d1d)",
+    "STABLE: 'Mundane Edge of Stone' did not mutate this tick.",
+    "STABLE: 'Vampiric Shard of Embers' did not mutate this tick.",
+    "MUTATED: 'Unstable Blade of Sovereignty' evolved to generation 29.",
+    "STABLE: 'Glacial Axe of Storms' did not mutate this tick."
   ],
-  "created": 231,
-  "avg_lifespan": 36.285067873303184,
-  "archived": 221
+  "created": 232,
+  "avg_lifespan": 36.441441441441455,
+  "archived": 222
 }
