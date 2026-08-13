@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-18982
+19007
 
 ## Oldest Item
 Vampiric Shard of Embers
@@ -11,8 +11,8 @@ Vampiric Shard of Embers
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.75
-- Average Volatility: 0.38
-- Average Durability: 66.6
+- Average Volatility: 0.4
+- Average Durability: 63.2
 
 ## Dominant Factions
 - STR: 0.7
@@ -24,9 +24,9 @@ Vampiric Shard of Embers
 - Most Volatile Item: Unstable Blade of Sovereignty
 
 ## Recent Events
-- STABLE: 'Mundane Blade of Whispers' did not mutate this tick.
-- STABLE: 'Fractured Focus of Might' did not mutate this tick.
+- MUTATED: 'Mundane Edge of Stone' evolved to generation 19.
 - STABLE: 'Obsidian Focus of Eternity' did not mutate this tick.
+- MUTATED: 'Fractured Focus of Might' evolved to generation 60.
 
 ## Lifecycle Stats
 - Items Created: 231
@@ -40,8 +40,8 @@ Vampiric Shard of Embers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 18982
-- Successful Mutations: 7920
+- Mutations Attempted: 19007
+- Successful Mutations: 7933
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Vampiric Shard of Embers
 
 ## Economy
 - Total Currency: 423050
-- Currency per Tick (avg): 22.29
+- Currency per Tick (avg): 22.26
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
