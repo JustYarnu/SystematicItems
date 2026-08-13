@@ -2,7 +2,7 @@
   "id": "11b9f41b-26d2-4699-8bb7-1cb55131ad9b",
   "name": "Glacial Blade of Ash",
   "type": "Sword",
-  "generation": 19,
+  "generation": 20,
   "damage": 15.0,
   "damage_type": [
     "Physical",
@@ -10,13 +10,13 @@
     "Slashing"
   ],
   "crit_damage": 2,
-  "crit_rate": 0.060000000000000005,
+  "crit_rate": 0.09,
   "str_mod": 1.05,
   "dex_mod": 1.1500000000000001,
   "rarity": 2,
-  "durability": 17.690000000000012,
+  "durability": 11.890000000000011,
   "max_durability": 130.0,
-  "volatility": 0.3500000000000003,
+  "volatility": 0.38000000000000034,
   "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {
