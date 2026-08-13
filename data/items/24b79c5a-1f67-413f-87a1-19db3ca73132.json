@@ -2,7 +2,7 @@
   "id": "24b79c5a-1f67-413f-87a1-19db3ca73132",
   "name": "Obsidian Focus of Eternity",
   "type": "Focus",
-  "generation": 16,
+  "generation": 17,
   "damage": 16.5,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.1,
   "dex_mod": 0.85,
   "rarity": 3.0,
-  "durability": 62.11999999999999,
+  "durability": 58.39999999999999,
   "max_durability": 161.6240625180289,
-  "volatility": 0.30000000000000027,
-  "resilience": 0.7399999999999999,
+  "volatility": 0.28000000000000025,
+  "resilience": 0.8199999999999998,
   "worth": 100,
   "affinities": {
     "Order": 0.2,

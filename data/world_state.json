@@ -1,21 +1,21 @@
 {
   "currency": 423050,
-  "tick": 19132,
+  "tick": 19157,
   "mutation_stats": {
-    "attempted": 19132,
-    "success": 7992
+    "attempted": 19157,
+    "success": 8008
   },
   "recent_events": [
-    "STABLE: 'Glacial Axe of Storms' did not mutate this tick.",
-    "STABLE: 'Obsidian Focus of Eternity' did not mutate this tick.",
-    "STABLE: 'Unstable Blade of Sovereignty' did not mutate this tick.",
-    "STABLE: 'Glacial Axe of Storms' did not mutate this tick.",
-    "MUTATED: 'Glacial Rapier of Iron' evolved to generation 29.",
-    "STABLE: 'Glacial Axe of Storms' did not mutate this tick.",
-    "STABLE: 'Glacial Axe of Storms' did not mutate this tick.",
-    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
-    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
-    "STABLE: 'Glacial Rapier of Iron' did not mutate this tick."
+    "MUTATED: 'Mundane Edge of Stone' evolved to generation 27.",
+    "STABLE: 'Mundane Edge of Stone' did not mutate this tick.",
+    "STABLE: 'Vampiric Shard of Embers' did not mutate this tick.",
+    "MUTATED: 'Mundane Blade of Whispers' evolved to generation 7.",
+    "MUTATED: 'Mundane Edge of Stone' evolved to generation 28.",
+    "MUTATED: 'Glacial Blade of Ash' evolved to generation 19.",
+    "MUTATED: 'Vampiric Shard of Embers' evolved to generation 12.",
+    "MUTATED: 'Glacial Axe of Storms' evolved to generation 11.",
+    "MUTATED: 'Mundane Edge of Stone' evolved to generation 29.",
+    "STABLE: 'Unstable Blade of Sovereignty' did not mutate this tick."
   ],
   "created": 231,
   "avg_lifespan": 36.285067873303184,
