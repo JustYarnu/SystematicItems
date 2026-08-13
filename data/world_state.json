@@ -1,21 +1,21 @@
 {
   "currency": 421600,
-  "tick": 18932,
+  "tick": 18957,
   "mutation_stats": {
-    "attempted": 18932,
-    "success": 7902
+    "attempted": 18957,
+    "success": 7909
   },
   "recent_events": [
-    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
-    "MUTATED: 'Obsidian Focus of Eternity' evolved to generation 11.",
     "STABLE: 'Obsidian Focus of Eternity' did not mutate this tick.",
-    "MUTATED: 'Verdant Blade of Venom' evolved to generation 24.",
-    "REPLACED WITH: 'Glacial Axe of Storms' (00524027-203c-492c-9f44-24e50ccd832f)",
-    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Whispers' did not mutate this tick.",
-    "MUTATED: 'Glacial Axe of Storms' evolved to generation 2.",
-    "STABLE: 'Obsidian Focus of Eternity' did not mutate this tick.",
-    "STABLE: 'Glacial Axe of Storms' did not mutate this tick."
+    "STABLE: 'Titanic Blade of Grace' did not mutate this tick.",
+    "STABLE: 'Mundane Edge of Stone' did not mutate this tick.",
+    "MUTATED: 'Mundane Edge of Stone' evolved to generation 13.",
+    "STABLE: 'Blessed Rapier of Blood' did not mutate this tick.",
+    "STABLE: 'Fractured Focus of Might' did not mutate this tick.",
+    "STABLE: 'Blessed Rapier of Blood' did not mutate this tick.",
+    "MUTATED: 'Glacial Rapier of Iron' evolved to generation 17.",
+    "MUTATED: 'Glacial Blade of Ash' evolved to generation 9.",
+    "STABLE: 'Mundane Edge of Stone' did not mutate this tick."
   ],
   "created": 230,
   "avg_lifespan": 36.32727272727274,
