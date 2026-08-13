@@ -1,23 +1,23 @@
 {
-  "currency": 428350,
-  "tick": 19257,
+  "currency": 430250,
+  "tick": 19282,
   "mutation_stats": {
-    "attempted": 19257,
-    "success": 8053
+    "attempted": 19282,
+    "success": 8063
   },
   "recent_events": [
-    "MUTATED: 'Glacial Axe of Storms' evolved to generation 19.",
-    "STABLE: 'Titanic Blade of Grace' did not mutate this tick.",
-    "MUTATED: 'Unstable Blade of Sovereignty' evolved to generation 31.",
-    "REPLACED WITH: 'Titanic Axe of Blight' (c27d5ffd-e936-4524-8d88-a0882c38cd1e)",
-    "MUTATED: 'Glacial Axe of Storms' evolved to generation 20.",
-    "STABLE: 'Glacial Rapier of Iron' did not mutate this tick.",
-    "MUTATED: 'Titanic Blade of Grace' evolved to generation 9.",
-    "STABLE: 'Titanic Axe of Blight' did not mutate this tick.",
-    "STABLE: 'Titanic Blade of Grace' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of Whispers' evolved to generation 14."
+    "STABLE: 'Mundane Edge of Stone' did not mutate this tick.",
+    "STABLE: 'Glacial Core of Blood' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Whispers' did not mutate this tick.",
+    "STABLE: 'Glacial Blade of Ash' did not mutate this tick.",
+    "STABLE: 'Obsidian Focus of Eternity' did not mutate this tick.",
+    "STABLE: 'Glacial Core of Blood' did not mutate this tick.",
+    "MUTATED: 'Mundane Edge of Stone' evolved to generation 33.",
+    "MUTATED: 'Glacial Blade of Ash' evolved to generation 22.",
+    "MUTATED: 'Glacial Axe of Storms' evolved to generation 22.",
+    "MUTATED: 'Mundane Edge of Stone' evolved to generation 34."
   ],
-  "created": 233,
-  "avg_lifespan": 36.41704035874441,
-  "archived": 223
+  "created": 234,
+  "avg_lifespan": 36.415178571428584,
+  "archived": 224
 }
