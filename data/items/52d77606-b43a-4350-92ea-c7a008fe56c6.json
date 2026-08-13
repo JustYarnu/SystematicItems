@@ -2,23 +2,24 @@
   "id": "52d77606-b43a-4350-92ea-c7a008fe56c6",
   "name": "Mundane Edge of Stone",
   "type": "Sword",
-  "generation": 13,
-  "damage": 11.5,
+  "generation": 16,
+  "damage": 13.0,
   "damage_type": [
     "Physical"
   ],
   "crit_damage": 2.5,
   "crit_rate": 0.060000000000000005,
-  "str_mod": 1.1,
+  "str_mod": 1.2000000000000002,
   "dex_mod": 1.4000000000000004,
   "rarity": 2,
-  "durability": 56.900000000000006,
+  "durability": 48.42000000000001,
   "max_durability": 120.0,
-  "volatility": 0.5300000000000002,
-  "resilience": 0.7499999999999999,
+  "volatility": 0.5100000000000002,
+  "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {
     "Chaos": 0.1,
-    "Restoration": 0.1
+    "Restoration": 0.1,
+    "STR": 0.1
   }
 }
