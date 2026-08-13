@@ -1,23 +1,23 @@
 {
-  "currency": 418300,
-  "tick": 18882,
+  "currency": 420300,
+  "tick": 18907,
   "mutation_stats": {
-    "attempted": 18882,
-    "success": 7880
+    "attempted": 18907,
+    "success": 7893
   },
   "recent_events": [
-    "MUTATED: 'Fractured Focus of Might' evolved to generation 48.",
+    "MUTATED: 'Fractured Focus of Might' evolved to generation 54.",
     "STABLE: 'Mundane Blade of Whispers' did not mutate this tick.",
-    "STABLE: 'Blessed Rapier of Blood' did not mutate this tick.",
-    "STABLE: 'Fractured Focus of Might' did not mutate this tick.",
-    "MUTATED: 'Fractured Focus of Might' evolved to generation 49.",
-    "STABLE: 'Mundane Edge of Stone' did not mutate this tick.",
-    "STABLE: 'Glacial Rapier of Iron' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Whispers' did not mutate this tick.",
-    "STABLE: 'Unstable Blade of Sovereignty' did not mutate this tick.",
-    "MUTATED: 'Mundane Edge of Stone' evolved to generation 9."
+    "STABLE: 'Glowing Bow of the Sun' did not mutate this tick.",
+    "MUTATED: 'Glowing Bow of the Sun' evolved to generation 38.",
+    "REPLACED WITH: 'Titanic Blade of Grace' (0d7eabca-f791-4b9e-8d86-7f9758482b07)",
+    "MUTATED: 'Fractured Focus of Might' evolved to generation 55.",
+    "MUTATED: 'Glacial Blade of Ash' evolved to generation 8.",
+    "MUTATED: 'Blessed Rapier of Blood' evolved to generation 25.",
+    "MUTATED: 'Glacial Rapier of Iron' evolved to generation 16.",
+    "STABLE: 'Mundane Edge of Stone' did not mutate this tick."
   ],
-  "created": 228,
-  "avg_lifespan": 36.37614678899084,
-  "archived": 218
+  "created": 229,
+  "avg_lifespan": 36.38356164383563,
+  "archived": 219
 }
