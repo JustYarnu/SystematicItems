@@ -2,7 +2,7 @@
   "id": "b67e7b2b-5371-4454-a42b-a5d8639cc50d",
   "name": "Blessed Sigil of Sovereignty",
   "type": "Focus",
-  "generation": 5,
+  "generation": 6,
   "damage": 11.5,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.1,
   "rarity": 4.0,
-  "durability": 82.95,
+  "durability": 79.45,
   "max_durability": 115.0,
-  "volatility": 0.4000000000000001,
-  "resilience": 0.7499999999999999,
+  "volatility": 0.4800000000000001,
+  "resilience": 0.6999999999999998,
   "worth": 100,
   "affinities": {
     "STR": 0.1,

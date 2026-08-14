@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-19382
+19407
 
 ## Oldest Item
 Verdant Bow of Gales
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.7
-- Average Volatility: 0.37
-- Average Durability: 68.23
+- Average Rarity: 1.9
+- Average Volatility: 0.4
+- Average Durability: 63.63
 
 ## Dominant Factions
 - Chaos: 0.4
 - Order: 0.4
-- STR: 0.2
+- Scarceness: 0.3
 
 ## Extremes
 - Most Stable Item: Verdant Rapier of Silence
-- Most Volatile Item: Vampiric Shard of Embers
+- Most Volatile Item: Mundane Blade of Whispers
 
 ## Recent Events
-- STABLE: 'Verdant Bow of Gales' did not mutate this tick.
-- STABLE: 'Titanic Blade of Grace' did not mutate this tick.
-- STABLE: 'Verdant Bow of Gales' did not mutate this tick.
+- MUTATED: 'Titanic Blade of Grace' evolved to generation 12.
+- STABLE: 'Glacial Core of Blood' did not mutate this tick.
+- STABLE: 'Glacial Core of Blood' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 236
@@ -40,15 +40,15 @@ Verdant Bow of Gales
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 19382
-- Successful Mutations: 8095
+- Mutations Attempted: 19407
+- Successful Mutations: 8104
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 5
+- Uncommon: 5
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Verdant Bow of Gales
 
 ## Economy
 - Total Currency: 433450
-- Currency per Tick (avg): 22.36
+- Currency per Tick (avg): 22.33
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
