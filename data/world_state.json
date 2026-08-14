@@ -1,23 +1,23 @@
 {
-  "currency": 436400,
-  "tick": 19682,
+  "currency": 438000,
+  "tick": 19707,
   "mutation_stats": {
-    "attempted": 19682,
-    "success": 8205
+    "attempted": 19707,
+    "success": 8213
   },
   "recent_events": [
-    "STABLE: 'Mundane Blade of Iron' did not mutate this tick.",
-    "STABLE: 'Verdant Rapier of Silence' did not mutate this tick.",
-    "STABLE: 'Verdant Rapier of Silence' did not mutate this tick.",
-    "MUTATED: 'Glacial Core of Blood' evolved to generation 11.",
-    "STABLE: 'Mundane Blade of Iron' did not mutate this tick.",
-    "MUTATED: 'Titanic Axe of Blight' evolved to generation 9.",
+    "MUTATED: 'Titanic Axe of Blight' evolved to generation 10.",
     "STABLE: 'Verdant Bow of Gales' did not mutate this tick.",
     "STABLE: 'Titanic Axe of Blight' did not mutate this tick.",
+    "MUTATED: 'Verdant Bow of Gales' evolved to generation 9.",
     "STABLE: 'Searing Sigil of Stone' did not mutate this tick.",
-    "MUTATED: 'Searing Sigil of Stone' evolved to generation 3."
+    "MUTATED: 'Searing Bow of Grace' evolved to generation 2.",
+    "STABLE: 'Verdant Rapier of Silence' did not mutate this tick.",
+    "STABLE: 'Searing Sigil of Stone' did not mutate this tick.",
+    "STABLE: 'Titanic Axe of Blight' did not mutate this tick.",
+    "MUTATED: 'Glacial Core of Blood' evolved to generation 12."
   ],
-  "created": 238,
-  "avg_lifespan": 36.28070175438598,
-  "archived": 228
+  "created": 239,
+  "avg_lifespan": 36.253275109170325,
+  "archived": 229
 }

@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-19682
+19707
 
 ## Oldest Item
-Searing Sigil of Stone
+Searing Bow of Grace
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.55
-- Average Volatility: 0.46
-- Average Durability: 50.67
+- Average Volatility: 0.44
+- Average Durability: 56.7
 
 ## Dominant Factions
-- STR: 0.8
+- STR: 0.5
 - Chaos: 0.5
 - Order: 0.5
 
 ## Extremes
-- Most Stable Item: Glacial Core of Blood
+- Most Stable Item: Searing Bow of Grace
 - Most Volatile Item: Glacial Axe of Storms
 
 ## Recent Events
-- STABLE: 'Titanic Axe of Blight' did not mutate this tick.
 - STABLE: 'Searing Sigil of Stone' did not mutate this tick.
-- MUTATED: 'Searing Sigil of Stone' evolved to generation 3.
+- STABLE: 'Titanic Axe of Blight' did not mutate this tick.
+- MUTATED: 'Glacial Core of Blood' evolved to generation 12.
 
 ## Lifecycle Stats
-- Items Created: 238
-- Items Archived: 228
+- Items Created: 239
+- Items Archived: 229
 - Avg Lifespan (ticks): 36.3
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Searing Sigil of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 19682
-- Successful Mutations: 8205
+- Mutations Attempted: 19707
+- Successful Mutations: 8213
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Searing Sigil of Stone
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 436400
-- Currency per Tick (avg): 22.17
+- Total Currency: 438000
+- Currency per Tick (avg): 22.23
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
