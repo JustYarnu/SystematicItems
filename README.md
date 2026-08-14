@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-19657
+19682
 
 ## Oldest Item
 Searing Sigil of Stone
@@ -11,11 +11,11 @@ Searing Sigil of Stone
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.55
-- Average Volatility: 0.43
-- Average Durability: 53.24
+- Average Volatility: 0.46
+- Average Durability: 50.67
 
 ## Dominant Factions
-- STR: 0.7
+- STR: 0.8
 - Chaos: 0.5
 - Order: 0.5
 
@@ -24,9 +24,9 @@ Searing Sigil of Stone
 - Most Volatile Item: Glacial Axe of Storms
 
 ## Recent Events
-- MUTATED: 'Mundane Blade of Iron' evolved to generation 4.
-- STABLE: 'Mundane Blade of Iron' did not mutate this tick.
-- STABLE: 'Titanic Blade of Grace' did not mutate this tick.
+- STABLE: 'Titanic Axe of Blight' did not mutate this tick.
+- STABLE: 'Searing Sigil of Stone' did not mutate this tick.
+- MUTATED: 'Searing Sigil of Stone' evolved to generation 3.
 
 ## Lifecycle Stats
 - Items Created: 238
@@ -40,8 +40,8 @@ Searing Sigil of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 19657
-- Successful Mutations: 8197
+- Mutations Attempted: 19682
+- Successful Mutations: 8205
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Searing Sigil of Stone
 
 ## Economy
 - Total Currency: 436400
-- Currency per Tick (avg): 22.2
+- Currency per Tick (avg): 22.17
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
