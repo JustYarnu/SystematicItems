@@ -2,8 +2,8 @@
   "id": "440fc7ef-6351-496d-a1c2-5fb4cf4f1549",
   "name": "Glacial Core of Blood",
   "type": "Artifact",
-  "generation": 4,
-  "damage": 10.0,
+  "generation": 5,
+  "damage": 15.0,
   "damage_type": [
     "Physical",
     "Cold"
@@ -11,11 +11,11 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.2,
-  "dex_mod": 1.1,
+  "dex_mod": 1.0,
   "rarity": 1,
-  "durability": 79.75,
+  "durability": 74.5,
   "max_durability": 125.0,
-  "volatility": 0.21000000000000008,
+  "volatility": 0.2300000000000001,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {}
