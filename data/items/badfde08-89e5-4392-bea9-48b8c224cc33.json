@@ -2,7 +2,7 @@
   "id": "badfde08-89e5-4392-bea9-48b8c224cc33",
   "name": "Vampiric Shard of Embers",
   "type": "Dagger",
-  "generation": 18,
+  "generation": 20,
   "damage": 29.5,
   "damage_type": [
     "Physical",
@@ -10,14 +10,14 @@
     "Slashing",
     "Fire"
   ],
-  "crit_damage": 2,
+  "crit_damage": 2.5,
   "crit_rate": 0.01,
   "str_mod": 1.4500000000000002,
   "dex_mod": 1.1,
-  "rarity": 1,
-  "durability": 26.570000000000014,
-  "max_durability": 100.0,
-  "volatility": 0.52,
+  "rarity": 2,
+  "durability": 21.570000000000014,
+  "max_durability": 85.0,
+  "volatility": 0.5800000000000001,
   "resilience": 0.43000000000000005,
   "worth": 100,
   "affinities": {}

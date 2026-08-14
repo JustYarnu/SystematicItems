@@ -2,7 +2,7 @@
   "id": "6653bf53-8486-4520-8985-5cb613e32425",
   "name": "Mundane Blade of Whispers",
   "type": "Sword",
-  "generation": 17,
+  "generation": 18,
   "damage": 21.5,
   "damage_type": [
     "Physical",
@@ -14,7 +14,7 @@
   "str_mod": 1.1500000000000001,
   "dex_mod": 1.0699999999999998,
   "rarity": 1,
-  "durability": 73.5,
+  "durability": 71.5,
   "max_durability": 111.0,
   "volatility": 0.47000000000000025,
   "resilience": 0.75,
@@ -23,6 +23,6 @@
     "Chaos": 0.1,
     "Stability": 0.1,
     "DEX": 0.1,
-    "Order": 0.1
+    "Order": 0.2
   }
 }
