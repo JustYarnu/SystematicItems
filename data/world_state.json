@@ -1,21 +1,21 @@
 {
   "currency": 431500,
-  "tick": 19332,
+  "tick": 19357,
   "mutation_stats": {
-    "attempted": 19332,
-    "success": 8082
+    "attempted": 19357,
+    "success": 8090
   },
   "recent_events": [
-    "STABLE: 'Blessed Sigil of Sovereignty' did not mutate this tick.",
-    "MUTATED: 'Titanic Blade of Grace' evolved to generation 11.",
-    "MUTATED: 'Blessed Sigil of Sovereignty' evolved to generation 2.",
-    "STABLE: 'Mundane Edge of Stone' did not mutate this tick.",
-    "STABLE: 'Vampiric Shard of Embers' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of Whispers' evolved to generation 18.",
-    "STABLE: 'Blessed Sigil of Sovereignty' did not mutate this tick.",
-    "STABLE: 'Obsidian Focus of Eternity' did not mutate this tick.",
+    "MUTATED: 'Glacial Axe of Storms' evolved to generation 25.",
     "STABLE: 'Glacial Core of Blood' did not mutate this tick.",
-    "STABLE: 'Glacial Core of Blood' did not mutate this tick."
+    "STABLE: 'Titanic Axe of Blight' did not mutate this tick.",
+    "STABLE: 'Blessed Sigil of Sovereignty' did not mutate this tick.",
+    "STABLE: 'Titanic Blade of Grace' did not mutate this tick.",
+    "STABLE: 'Mundane Edge of Stone' did not mutate this tick.",
+    "STABLE: 'Blessed Sigil of Sovereignty' did not mutate this tick.",
+    "MUTATED: 'Mundane Edge of Stone' evolved to generation 37.",
+    "MUTATED: 'Mundane Blade of Whispers' evolved to generation 19.",
+    "STABLE: 'Mundane Blade of Whispers' did not mutate this tick."
   ],
   "created": 235,
   "avg_lifespan": 36.35555555555557,

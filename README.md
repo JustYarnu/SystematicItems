@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-19332
+19357
 
 ## Oldest Item
-Blessed Sigil of Sovereignty
+Titanic Axe of Blight
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.8
-- Average Volatility: 0.38
-- Average Durability: 63.85
+- Average Volatility: 0.39
+- Average Durability: 61.71
 
 ## Dominant Factions
+- Chaos: 0.5
 - Order: 0.5
-- Chaos: 0.4
-- Stability: 0.4
+- STR: 0.4
 
 ## Extremes
 - Most Stable Item: Verdant Rapier of Silence
 - Most Volatile Item: Glacial Axe of Storms
 
 ## Recent Events
-- STABLE: 'Obsidian Focus of Eternity' did not mutate this tick.
-- STABLE: 'Glacial Core of Blood' did not mutate this tick.
-- STABLE: 'Glacial Core of Blood' did not mutate this tick.
+- MUTATED: 'Mundane Edge of Stone' evolved to generation 37.
+- MUTATED: 'Mundane Blade of Whispers' evolved to generation 19.
+- STABLE: 'Mundane Blade of Whispers' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 235
@@ -40,8 +40,8 @@ Blessed Sigil of Sovereignty
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 19332
-- Successful Mutations: 8082
+- Mutations Attempted: 19357
+- Successful Mutations: 8090
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Blessed Sigil of Sovereignty
 
 ## Economy
 - Total Currency: 431500
-- Currency per Tick (avg): 22.32
+- Currency per Tick (avg): 22.29
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
