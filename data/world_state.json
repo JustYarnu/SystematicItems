@@ -1,21 +1,21 @@
 {
   "currency": 434800,
-  "tick": 19457,
+  "tick": 19482,
   "mutation_stats": {
-    "attempted": 19457,
-    "success": 8122
+    "attempted": 19482,
+    "success": 8132
   },
   "recent_events": [
-    "STABLE: 'Verdant Rapier of Silence' did not mutate this tick.",
-    "MUTATED: 'Verdant Bow of Gales' evolved to generation 4.",
+    "MUTATED: 'Titanic Blade of Grace' evolved to generation 18.",
+    "MUTATED: 'Mundane Blade of Whispers' evolved to generation 24.",
+    "MUTATED: 'Glacial Core of Blood' evolved to generation 6.",
+    "MUTATED: 'Glacial Axe of Storms' evolved to generation 32.",
+    "STABLE: 'Verdant Bow of Gales' did not mutate this tick.",
+    "MUTATED: 'Glacial Core of Blood' evolved to generation 7.",
     "STABLE: 'Titanic Blade of Grace' did not mutate this tick.",
-    "MUTATED: 'Obsidian Focus of Eternity' evolved to generation 23.",
-    "STABLE: 'Titanic Blade of Grace' did not mutate this tick.",
-    "STABLE: 'Verdant Rapier of Silence' did not mutate this tick.",
-    "STABLE: 'Obsidian Focus of Eternity' did not mutate this tick.",
-    "MUTATED: 'Titanic Blade of Grace' evolved to generation 16.",
-    "STABLE: 'Glacial Axe of Storms' did not mutate this tick.",
-    "STABLE: 'Glacial Core of Blood' did not mutate this tick."
+    "MUTATED: 'Mundane Blade of Whispers' evolved to generation 25.",
+    "STABLE: 'Verdant Bow of Gales' did not mutate this tick.",
+    "STABLE: 'Glacial Axe of Storms' did not mutate this tick."
   ],
   "created": 237,
   "avg_lifespan": 36.30837004405288,

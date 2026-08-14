@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-19457
+19482
 
 ## Oldest Item
 Mundane Blade of Iron
@@ -11,22 +11,22 @@ Mundane Blade of Iron
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.9
-- Average Volatility: 0.4
-- Average Durability: 66.44
+- Average Volatility: 0.39
+- Average Durability: 64.12
 
 ## Dominant Factions
+- STR: 0.4
 - Chaos: 0.4
 - Order: 0.4
-- STR: 0.3
 
 ## Extremes
 - Most Stable Item: Mundane Blade of Iron
 - Most Volatile Item: Mundane Blade of Whispers
 
 ## Recent Events
-- MUTATED: 'Titanic Blade of Grace' evolved to generation 16.
+- MUTATED: 'Mundane Blade of Whispers' evolved to generation 25.
+- STABLE: 'Verdant Bow of Gales' did not mutate this tick.
 - STABLE: 'Glacial Axe of Storms' did not mutate this tick.
-- STABLE: 'Glacial Core of Blood' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 237
@@ -40,8 +40,8 @@ Mundane Blade of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 19457
-- Successful Mutations: 8122
+- Mutations Attempted: 19482
+- Successful Mutations: 8132
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Blade of Iron
 
 ## Economy
 - Total Currency: 434800
-- Currency per Tick (avg): 22.35
+- Currency per Tick (avg): 22.32
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
