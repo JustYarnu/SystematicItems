@@ -2,24 +2,24 @@
   "id": "b67e7b2b-5371-4454-a42b-a5d8639cc50d",
   "name": "Blessed Sigil of Sovereignty",
   "type": "Focus",
-  "generation": 16,
-  "damage": 16.0,
+  "generation": 19,
+  "damage": 17.5,
   "damage_type": [
     "Physical",
     "Magic"
   ],
-  "crit_damage": 2.5,
+  "crit_damage": 3.0,
   "crit_rate": 0.060000000000000005,
-  "str_mod": 1.5000000000000004,
+  "str_mod": 1.6000000000000005,
   "dex_mod": 1.1,
   "rarity": 4.0,
-  "durability": 47.980000000000004,
-  "max_durability": 110.0,
+  "durability": 40.900000000000006,
+  "max_durability": 105.0,
   "volatility": 0.6300000000000001,
   "resilience": 0.7299999999999998,
   "worth": 100,
   "affinities": {
-    "STR": 0.2,
+    "STR": 0.3,
     "Chaos": 0.1,
     "Order": 0.1
   }

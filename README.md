@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-19607
+19632
 
 ## Oldest Item
 Searing Sigil of Stone
@@ -12,10 +12,10 @@ Searing Sigil of Stone
 - Active Items: 10
 - Average Rarity: 1.55
 - Average Volatility: 0.41
-- Average Durability: 59.62
+- Average Durability: 55.56
 
 ## Dominant Factions
-- STR: 0.5
+- STR: 0.6
 - Order: 0.5
 - Chaos: 0.4
 
@@ -24,9 +24,9 @@ Searing Sigil of Stone
 - Most Volatile Item: Blessed Sigil of Sovereignty
 
 ## Recent Events
+- STABLE: 'Titanic Blade of Grace' did not mutate this tick.
+- MUTATED: 'Verdant Bow of Gales' evolved to generation 7.
 - STABLE: 'Searing Sigil of Stone' did not mutate this tick.
-- STABLE: 'Glacial Axe of Storms' did not mutate this tick.
-- MUTATED: 'Blessed Sigil of Sovereignty' evolved to generation 16.
 
 ## Lifecycle Stats
 - Items Created: 238
@@ -40,8 +40,8 @@ Searing Sigil of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 19607
-- Successful Mutations: 8180
+- Mutations Attempted: 19632
+- Successful Mutations: 8189
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Searing Sigil of Stone
 
 ## Economy
 - Total Currency: 436400
-- Currency per Tick (avg): 22.26
+- Currency per Tick (avg): 22.23
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
