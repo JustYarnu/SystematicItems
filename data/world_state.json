@@ -1,23 +1,23 @@
 {
-  "currency": 434800,
-  "tick": 19582,
+  "currency": 436400,
+  "tick": 19607,
   "mutation_stats": {
-    "attempted": 19582,
-    "success": 8170
+    "attempted": 19607,
+    "success": 8180
   },
   "recent_events": [
+    "STABLE: 'Mundane Blade of Whispers' did not mutate this tick.",
     "STABLE: 'Glacial Core of Blood' did not mutate this tick.",
-    "STABLE: 'Verdant Bow of Gales' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of Whispers' evolved to generation 32.",
-    "STABLE: 'Verdant Bow of Gales' did not mutate this tick.",
-    "MUTATED: 'Verdant Rapier of Silence' evolved to generation 11.",
+    "MUTATED: 'Blessed Sigil of Sovereignty' evolved to generation 15.",
+    "MUTATED: 'Mundane Blade of Iron' evolved to generation 3.",
+    "STABLE: 'Obsidian Focus of Eternity' did not mutate this tick.",
+    "REPLACED WITH: 'Searing Sigil of Stone' (db793fd0-5031-469c-ae17-778a12767947)",
     "STABLE: 'Titanic Axe of Blight' did not mutate this tick.",
-    "STABLE: 'Blessed Sigil of Sovereignty' did not mutate this tick.",
-    "MUTATED: 'Verdant Rapier of Silence' evolved to generation 12.",
-    "STABLE: 'Blessed Sigil of Sovereignty' did not mutate this tick.",
-    "MUTATED: 'Glacial Axe of Storms' evolved to generation 35."
+    "STABLE: 'Searing Sigil of Stone' did not mutate this tick.",
+    "STABLE: 'Glacial Axe of Storms' did not mutate this tick.",
+    "MUTATED: 'Blessed Sigil of Sovereignty' evolved to generation 16."
   ],
-  "created": 237,
-  "avg_lifespan": 36.30837004405288,
-  "archived": 227
+  "created": 238,
+  "avg_lifespan": 36.28070175438598,
+  "archived": 228
 }
