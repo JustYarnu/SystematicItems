@@ -2,7 +2,7 @@
   "id": "810fd4eb-950a-4465-99ad-2f04bf3ba2af",
   "name": "Mundane Blade of Iron",
   "type": "Sword",
-  "generation": 25,
+  "generation": 26,
   "damage": 40.0,
   "damage_type": [
     "Physical",
@@ -13,7 +13,7 @@
   "str_mod": 1.05,
   "dex_mod": 0.7,
   "rarity": 1,
-  "durability": 31.060000000000002,
+  "durability": 28.46,
   "max_durability": 125.0,
   "volatility": 0.53,
   "resilience": 0.75,

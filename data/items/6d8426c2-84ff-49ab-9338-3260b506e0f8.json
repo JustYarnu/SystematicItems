@@ -2,8 +2,8 @@
   "id": "6d8426c2-84ff-49ab-9338-3260b506e0f8",
   "name": "Resolute Blade of Flame",
   "type": "Sword",
-  "generation": 6,
-  "damage": 10.0,
+  "generation": 8,
+  "damage": 15.0,
   "damage_type": [
     "Physical",
     "Slashing"
@@ -11,14 +11,15 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.05,
-  "dex_mod": 1.05,
+  "dex_mod": 0.9500000000000001,
   "rarity": 1,
-  "durability": 99.05000000000001,
+  "durability": 92.55000000000001,
   "max_durability": 125.0,
-  "volatility": 0.4500000000000001,
+  "volatility": 0.46000000000000013,
   "resilience": 0.7,
   "worth": 100,
   "affinities": {
-    "Order": 0.1
+    "Order": 0.1,
+    "Restoration": 0.1
   }
 }

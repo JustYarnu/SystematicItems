@@ -6306,5 +6306,57 @@
       "Chaos": 0.2,
       "Order": 0.1
     }
+  },
+  {
+    "id": "440fc7ef-6351-496d-a1c2-5fb4cf4f1549",
+    "name": "Glacial Core of Blood",
+    "type": "Artifact",
+    "generation": 25,
+    "damage": 16.5,
+    "damage_type": [
+      "Physical",
+      "Cold"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.3,
+    "dex_mod": 1.3000000000000003,
+    "rarity": 1,
+    "durability": -0.710000000000008,
+    "max_durability": 125.0,
+    "volatility": 0.2700000000000005,
+    "resilience": 0.75,
+    "worth": 1350,
+    "affinities": {
+      "STR": 0.1
+    }
+  },
+  {
+    "id": "3a7b3dfe-f059-4486-a132-901fda1c18a6",
+    "name": "Verdant Bow of Gales",
+    "type": "Ranged",
+    "generation": 31,
+    "damage": 21.5,
+    "damage_type": [
+      "Physical",
+      "Nature",
+      "Piercing",
+      "Sonic"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.1,
+    "dex_mod": 1.3299999999999998,
+    "rarity": 1,
+    "durability": -1.0,
+    "max_durability": 125.0,
+    "volatility": 0.51,
+    "resilience": 0.7,
+    "worth": 1650,
+    "affinities": {
+      "Stability": 0.1,
+      "Restoration": 0.3,
+      "Chaos": 0.1
+    }
   }
 ]
