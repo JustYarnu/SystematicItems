@@ -1,21 +1,21 @@
 {
   "currency": 445850,
-  "tick": 20082,
+  "tick": 20107,
   "mutation_stats": {
-    "attempted": 20082,
-    "success": 8384
+    "attempted": 20107,
+    "success": 8396
   },
   "recent_events": [
-    "MUTATED: 'Cursed Shard of the Deep' evolved to generation 15.",
-    "STABLE: 'Verdant Bow of Gales' did not mutate this tick.",
-    "STABLE: 'Titanic Axe of Blight' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Iron' did not mutate this tick.",
-    "MUTATED: 'Titanic Axe of Blight' evolved to generation 26.",
-    "MUTATED: 'Searing Sigil of Stone' evolved to generation 21.",
     "STABLE: 'Broken Blade of Grace' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Iron' did not mutate this tick.",
-    "MUTATED: 'Titanic Axe of Blight' evolved to generation 27.",
-    "MUTATED: 'Verdant Bow of Gales' evolved to generation 27."
+    "STABLE: 'Broken Blade of Grace' did not mutate this tick.",
+    "MUTATED: 'Broken Blade of Grace' evolved to generation 13.",
+    "STABLE: 'Searing Bow of Grace' did not mutate this tick.",
+    "MUTATED: 'Verdant Bow of Gales' evolved to generation 29.",
+    "MUTATED: 'Searing Sigil of Stone' evolved to generation 23.",
+    "MUTATED: 'Verdant Bow of Gales' evolved to generation 30.",
+    "STABLE: 'Echoing Blade of the Glacier' did not mutate this tick.",
+    "STABLE: 'Titanic Axe of Blight' did not mutate this tick.",
+    "MUTATED: 'Titanic Axe of Blight' evolved to generation 28."
   ],
   "created": 243,
   "avg_lifespan": 36.270386266094434,
