@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-19807
+19832
 
 ## Oldest Item
 Echoing Blade of the Glacier
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.55
-- Average Volatility: 0.41
-- Average Durability: 48.25
+- Average Rarity: 1.65
+- Average Volatility: 0.44
+- Average Durability: 45.98
 
 ## Dominant Factions
-- STR: 0.7
+- STR: 0.8
 - Order: 0.6
 - Chaos: 0.5
 
 ## Extremes
 - Most Stable Item: Echoing Blade of the Glacier
-- Most Volatile Item: Blessed Sigil of Sovereignty
+- Most Volatile Item: Mundane Blade of Whispers
 
 ## Recent Events
-- STABLE: 'Echoing Blade of the Glacier' did not mutate this tick.
-- MUTATED: 'Titanic Axe of Blight' evolved to generation 14.
-- MUTATED: 'Glacial Axe of Storms' evolved to generation 47.
+- MUTATED: 'Searing Bow of Grace' evolved to generation 5.
+- STABLE: 'Searing Sigil of Stone' did not mutate this tick.
+- STABLE: 'Mundane Blade of Whispers' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 240
@@ -40,8 +40,8 @@ Echoing Blade of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 19807
-- Successful Mutations: 8255
+- Mutations Attempted: 19832
+- Successful Mutations: 8265
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Echoing Blade of the Glacier
 
 ## Economy
 - Total Currency: 439250
-- Currency per Tick (avg): 22.18
+- Currency per Tick (avg): 22.15
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
