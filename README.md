@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-19982
+20007
 
 ## Oldest Item
 Resolute Blade of Flame
@@ -11,22 +11,22 @@ Resolute Blade of Flame
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.15
-- Average Volatility: 0.43
-- Average Durability: 57.13
+- Average Volatility: 0.44
+- Average Durability: 56.85
 
 ## Dominant Factions
-- Order: 0.4
+- Order: 0.6
+- Chaos: 0.3
 - STR: 0.3
-- Restoration: 0.3
 
 ## Extremes
 - Most Stable Item: Glacial Core of Blood
 - Most Volatile Item: Cursed Shard of the Deep
 
 ## Recent Events
-- STABLE: 'Broken Blade of Grace' did not mutate this tick.
-- STABLE: 'Cursed Shard of the Deep' did not mutate this tick.
-- STABLE: 'Glacial Core of Blood' did not mutate this tick.
+- MUTATED: 'Titanic Axe of Blight' evolved to generation 21.
+- MUTATED: 'Searing Sigil of Stone' evolved to generation 18.
+- MUTATED: 'Echoing Blade of the Glacier' evolved to generation 6.
 
 ## Lifecycle Stats
 - Items Created: 243
@@ -40,8 +40,8 @@ Resolute Blade of Flame
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 19982
-- Successful Mutations: 8337
+- Mutations Attempted: 20007
+- Successful Mutations: 8348
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Resolute Blade of Flame
 
 ## Economy
 - Total Currency: 445850
-- Currency per Tick (avg): 22.31
+- Currency per Tick (avg): 22.28
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
