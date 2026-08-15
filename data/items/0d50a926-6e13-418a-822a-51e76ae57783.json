@@ -2,7 +2,7 @@
   "id": "0d50a926-6e13-418a-822a-51e76ae57783",
   "name": "Echoing Blade of the Glacier",
   "type": "Sword",
-  "generation": 3,
+  "generation": 4,
   "damage": 17.0,
   "damage_type": [
     "Physical",
@@ -15,9 +15,9 @@
   "str_mod": 1.05,
   "dex_mod": 1.2,
   "rarity": 1,
-  "durability": 84.75,
+  "durability": 78.5,
   "max_durability": 125.0,
-  "volatility": 0.20000000000000007,
+  "volatility": 0.2300000000000001,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {}
