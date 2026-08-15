@@ -2,8 +2,8 @@
   "id": "5857ac33-989b-4f45-b417-032f54852171",
   "name": "Dread Blade of Sparks",
   "type": "Sword",
-  "generation": 2,
-  "damage": 18.0,
+  "generation": 5,
+  "damage": 20.0,
   "damage_type": [
     "Physical",
     "Dark",
@@ -13,12 +13,14 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.25,
-  "dex_mod": 0.9500000000000001,
+  "dex_mod": 1.05,
   "rarity": 1,
-  "durability": 89.0,
+  "durability": 80.2,
   "max_durability": 100.0,
-  "volatility": 0.31000000000000005,
+  "volatility": 0.37000000000000005,
   "resilience": 0.4,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Stability": 0.1
+  }
 }

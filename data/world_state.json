@@ -1,21 +1,21 @@
 {
   "currency": 448850,
-  "tick": 20182,
+  "tick": 20207,
   "mutation_stats": {
-    "attempted": 20182,
-    "success": 8434
+    "attempted": 20207,
+    "success": 8447
   },
   "recent_events": [
-    "STABLE: 'Searing Sigil of Stone' did not mutate this tick.",
-    "MUTATED: 'Titanic Axe of Blight' evolved to generation 31.",
-    "STABLE: 'Broken Blade of Grace' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Iron' did not mutate this tick.",
-    "STABLE: 'Echoing Blade of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of Iron' evolved to generation 28.",
-    "MUTATED: 'Cursed Shard of the Deep' evolved to generation 22.",
-    "MUTATED: 'Dread Blade of Sparks' evolved to generation 2.",
-    "STABLE: 'Dread Blade of Sparks' did not mutate this tick.",
-    "STABLE: 'Dread Blade of Sparks' did not mutate this tick."
+    "STABLE: 'Titanic Axe of Blight' did not mutate this tick.",
+    "MUTATED: 'Searing Sigil of Stone' evolved to generation 30.",
+    "STABLE: 'Titanic Axe of Blight' did not mutate this tick.",
+    "MUTATED: 'Cursed Shard of the Deep' evolved to generation 24.",
+    "STABLE: 'Resolute Blade of Flame' did not mutate this tick.",
+    "MUTATED: 'Mundane Relic of Frost' evolved to generation 4.",
+    "MUTATED: 'Resolute Blade of Flame' evolved to generation 10.",
+    "MUTATED: 'Resolute Blade of Flame' evolved to generation 11.",
+    "STABLE: 'Searing Bow of Grace' did not mutate this tick.",
+    "MUTATED: 'Dread Blade of Sparks' evolved to generation 5."
   ],
   "created": 245,
   "avg_lifespan": 36.20000000000002,

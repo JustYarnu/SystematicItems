@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-20182
+20207
 
 ## Oldest Item
-Dread Blade of Sparks
+Mundane Relic of Frost
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.3
-- Average Volatility: 0.43
-- Average Durability: 52.35
+- Average Volatility: 0.44
+- Average Durability: 49.26
 
 ## Dominant Factions
 - Order: 1.0
@@ -24,9 +24,9 @@ Dread Blade of Sparks
 - Most Volatile Item: Titanic Axe of Blight
 
 ## Recent Events
-- MUTATED: 'Dread Blade of Sparks' evolved to generation 2.
-- STABLE: 'Dread Blade of Sparks' did not mutate this tick.
-- STABLE: 'Dread Blade of Sparks' did not mutate this tick.
+- MUTATED: 'Resolute Blade of Flame' evolved to generation 11.
+- STABLE: 'Searing Bow of Grace' did not mutate this tick.
+- MUTATED: 'Dread Blade of Sparks' evolved to generation 5.
 
 ## Lifecycle Stats
 - Items Created: 245
@@ -40,8 +40,8 @@ Dread Blade of Sparks
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 20182
-- Successful Mutations: 8434
+- Mutations Attempted: 20207
+- Successful Mutations: 8447
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Dread Blade of Sparks
 
 ## Economy
 - Total Currency: 448850
-- Currency per Tick (avg): 22.24
+- Currency per Tick (avg): 22.21
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
