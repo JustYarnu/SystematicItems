@@ -2,7 +2,7 @@
   "id": "3a7b3dfe-f059-4486-a132-901fda1c18a6",
   "name": "Verdant Bow of Gales",
   "type": "Ranged",
-  "generation": 11,
+  "generation": 15,
   "damage": 21.5,
   "damage_type": [
     "Physical",
@@ -15,13 +15,14 @@
   "str_mod": 1.1,
   "dex_mod": 1.1299999999999997,
   "rarity": 1,
-  "durability": 27.999999999999986,
-  "max_durability": 120.0,
-  "volatility": 0.39000000000000046,
-  "resilience": 0.7000000000000001,
+  "durability": 32.649999999999984,
+  "max_durability": 125.0,
+  "volatility": 0.40000000000000047,
+  "resilience": 0.75,
   "worth": 100,
   "affinities": {
     "Stability": 0.1,
-    "Restoration": 0.1
+    "Restoration": 0.1,
+    "Chaos": 0.1
   }
 }
