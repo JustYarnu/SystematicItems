@@ -2,7 +2,7 @@
   "id": "28f5b72d-5b5b-4fe0-bc6f-2004ffda7da1",
   "name": "Cursed Shard of the Deep",
   "type": "Dagger",
-  "generation": 25,
+  "generation": 30,
   "damage": 16.5,
   "damage_type": [
     "Physical",
@@ -13,14 +13,15 @@
   "crit_rate": 0.01,
   "str_mod": 1.1,
   "dex_mod": 1.1,
-  "rarity": 2,
-  "durability": 40.540000000000006,
-  "max_durability": 118.0,
-  "volatility": 0.5099999999999999,
-  "resilience": 0.6100000000000001,
+  "rarity": 4,
+  "durability": 25.890000000000004,
+  "max_durability": 98.0,
+  "volatility": 0.65,
+  "resilience": 0.51,
   "worth": 100,
   "affinities": {
     "Order": 0.3,
-    "Chaos": 0.1
+    "Chaos": 0.1,
+    "Scarceness": 0.1
   }
 }
