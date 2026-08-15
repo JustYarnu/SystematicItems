@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-19882
+19907
 
 ## Oldest Item
-Echoing Blade of the Glacier
+Broken Blade of Grace
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.55
-- Average Volatility: 0.44
-- Average Durability: 50.29
+- Average Rarity: 1.35
+- Average Volatility: 0.45
+- Average Durability: 57.07
 
 ## Dominant Factions
 - STR: 0.9
-- Order: 0.8
-- Chaos: 0.5
+- Order: 0.5
+- Chaos: 0.4
 
 ## Extremes
 - Most Stable Item: Echoing Blade of the Glacier
-- Most Volatile Item: Mundane Blade of Whispers
+- Most Volatile Item: Cursed Shard of the Deep
 
 ## Recent Events
-- MUTATED: 'Cursed Shard of the Deep' evolved to generation 5.
-- MUTATED: 'Verdant Bow of Gales' evolved to generation 15.
-- STABLE: 'Blessed Sigil of Sovereignty' did not mutate this tick.
+- STABLE: 'Cursed Shard of the Deep' did not mutate this tick.
+- STABLE: 'Echoing Blade of the Glacier' did not mutate this tick.
+- MUTATED: 'Echoing Blade of the Glacier' evolved to generation 3.
 
 ## Lifecycle Stats
-- Items Created: 241
-- Items Archived: 231
+- Items Created: 242
+- Items Archived: 232
 - Avg Lifespan (ticks): 36.3
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Echoing Blade of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 19882
-- Successful Mutations: 8289
+- Mutations Attempted: 19907
+- Successful Mutations: 8301
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 8
-- Uncommon: 2
+- Common: 9
+- Uncommon: 1
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Echoing Blade of the Glacier
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 441800
-- Currency per Tick (avg): 22.22
+- Total Currency: 444100
+- Currency per Tick (avg): 22.31
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
