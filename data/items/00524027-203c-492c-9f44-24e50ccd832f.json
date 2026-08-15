@@ -2,7 +2,7 @@
   "id": "00524027-203c-492c-9f44-24e50ccd832f",
   "name": "Glacial Axe of Storms",
   "type": "HeavyWeapon",
-  "generation": 42,
+  "generation": 44,
   "damage": 26.5,
   "damage_type": [
     "Physical",
@@ -10,11 +10,11 @@
     "Slashing"
   ],
   "crit_damage": 3.0,
-  "crit_rate": 0.01,
+  "crit_rate": 0.060000000000000005,
   "str_mod": 1.25,
-  "dex_mod": 1.2000000000000002,
+  "dex_mod": 1.3000000000000003,
   "rarity": 2,
-  "durability": 24.859999999999996,
+  "durability": 18.409999999999993,
   "max_durability": 125.0,
   "volatility": 0.6,
   "resilience": 0.6499999999999998,
