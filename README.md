@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-19732
+19757
 
 ## Oldest Item
 Searing Bow of Grace
@@ -12,7 +12,7 @@ Searing Bow of Grace
 - Active Items: 10
 - Average Rarity: 1.55
 - Average Volatility: 0.44
-- Average Durability: 52.79
+- Average Durability: 48.25
 
 ## Dominant Factions
 - STR: 0.6
@@ -21,12 +21,12 @@ Searing Bow of Grace
 
 ## Extremes
 - Most Stable Item: Searing Bow of Grace
-- Most Volatile Item: Blessed Sigil of Sovereignty
+- Most Volatile Item: Glacial Axe of Storms
 
 ## Recent Events
-- STABLE: 'Glacial Axe of Storms' did not mutate this tick.
-- MUTATED: 'Glacial Core of Blood' evolved to generation 14.
-- MUTATED: 'Verdant Bow of Gales' evolved to generation 10.
+- STABLE: 'Glacial Core of Blood' did not mutate this tick.
+- STABLE: 'Verdant Bow of Gales' did not mutate this tick.
+- STABLE: 'Titanic Axe of Blight' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 239
@@ -40,8 +40,8 @@ Searing Bow of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 19732
-- Successful Mutations: 8225
+- Mutations Attempted: 19757
+- Successful Mutations: 8234
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Searing Bow of Grace
 
 ## Economy
 - Total Currency: 438000
-- Currency per Tick (avg): 22.2
+- Currency per Tick (avg): 22.17
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

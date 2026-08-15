@@ -2,8 +2,8 @@
   "id": "d0600d93-5a08-425d-8e95-bdf2de2c9d1d",
   "name": "Verdant Rapier of Silence",
   "type": "Generic",
-  "generation": 15,
-  "damage": 7.0,
+  "generation": 18,
+  "damage": 8.5,
   "damage_type": [
     "Physical",
     "Nature",
@@ -11,13 +11,15 @@
   ],
   "crit_damage": 2,
   "crit_rate": 0.060000000000000005,
-  "str_mod": 1.0,
+  "str_mod": 1.1,
   "dex_mod": 1.8999999999999997,
   "rarity": 1,
-  "durability": 33.550000000000004,
+  "durability": 19.950000000000003,
   "max_durability": 125.0,
-  "volatility": 0.47000000000000025,
+  "volatility": 0.5100000000000002,
   "resilience": 0.6,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "DEX": 0.1
+  }
 }
