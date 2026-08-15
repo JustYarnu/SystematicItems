@@ -1,23 +1,23 @@
 {
-  "currency": 438000,
-  "tick": 19782,
+  "currency": 439250,
+  "tick": 19807,
   "mutation_stats": {
-    "attempted": 19782,
-    "success": 8241
+    "attempted": 19807,
+    "success": 8255
   },
   "recent_events": [
-    "STABLE: 'Mundane Blade of Iron' did not mutate this tick.",
-    "MUTATED: 'Blessed Sigil of Sovereignty' evolved to generation 24.",
-    "STABLE: 'Verdant Rapier of Silence' did not mutate this tick.",
-    "STABLE: 'Searing Bow of Grace' did not mutate this tick.",
-    "STABLE: 'Verdant Rapier of Silence' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Iron' did not mutate this tick.",
-    "STABLE: 'Blessed Sigil of Sovereignty' did not mutate this tick.",
-    "STABLE: 'Searing Sigil of Stone' did not mutate this tick.",
-    "MUTATED: 'Verdant Rapier of Silence' evolved to generation 21.",
-    "STABLE: 'Mundane Blade of Iron' did not mutate this tick."
+    "MUTATED: 'Glacial Axe of Storms' evolved to generation 46.",
+    "STABLE: 'Glacial Axe of Storms' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Whispers' did not mutate this tick.",
+    "STABLE: 'Titanic Axe of Blight' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Whispers' did not mutate this tick.",
+    "MUTATED: 'Glacial Core of Blood' evolved to generation 17.",
+    "STABLE: 'Glacial Core of Blood' did not mutate this tick.",
+    "STABLE: 'Echoing Blade of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Titanic Axe of Blight' evolved to generation 14.",
+    "MUTATED: 'Glacial Axe of Storms' evolved to generation 47."
   ],
-  "created": 239,
-  "avg_lifespan": 36.253275109170325,
-  "archived": 229
+  "created": 240,
+  "avg_lifespan": 36.19565217391306,
+  "archived": 230
 }
