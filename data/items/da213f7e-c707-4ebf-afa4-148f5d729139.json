@@ -2,7 +2,7 @@
   "id": "da213f7e-c707-4ebf-afa4-148f5d729139",
   "name": "Broken Blade of Grace",
   "type": "Sword",
-  "generation": 24,
+  "generation": 27,
   "damage": 23.0,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "str_mod": 1.2500000000000002,
   "dex_mod": 1.3,
   "rarity": 1,
-  "durability": 55.13,
-  "max_durability": 54.0,
-  "volatility": 0.55,
-  "resilience": 0.58,
+  "durability": 40.84,
+  "max_durability": 59.0,
+  "volatility": 0.52,
+  "resilience": 0.63,
   "worth": 100,
   "affinities": {
     "DEX": 0.2,
