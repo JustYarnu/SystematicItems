@@ -1,0 +1,24 @@
+{
+  "id": "85b01c72-384e-4ab8-8509-df92e05587c0",
+  "name": "Glacial Rapier of Carnage",
+  "type": "Generic",
+  "generation": 2,
+  "damage": 23.0,
+  "damage_type": [
+    "Physical",
+    "Cold",
+    "Piercing",
+    "Blood"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.1,
+  "rarity": 1,
+  "durability": 93.5,
+  "max_durability": 125.0,
+  "volatility": 0.32,
+  "resilience": 0.75,
+  "worth": 100,
+  "affinities": {}
+}
