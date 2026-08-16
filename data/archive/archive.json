@@ -6568,5 +6568,34 @@
       "Restoration": 0.1,
       "Stability": 0.1
     }
+  },
+  {
+    "id": "0d50a926-6e13-418a-822a-51e76ae57783",
+    "name": "Echoing Blade of the Glacier",
+    "type": "Sword",
+    "generation": 28,
+    "damage": 30.0,
+    "damage_type": [
+      "Physical",
+      "Sonic",
+      "Slashing",
+      "Cold"
+    ],
+    "crit_damage": 3.3,
+    "crit_rate": 0.01,
+    "str_mod": 1.2500000000000002,
+    "dex_mod": 1.2,
+    "rarity": 1,
+    "durability": -0.8300000000000018,
+    "max_durability": 114.0,
+    "volatility": 0.56,
+    "resilience": 0.7,
+    "worth": 1500,
+    "affinities": {
+      "Stability": 0.2,
+      "Chaos": 0.1,
+      "Order": 0.1,
+      "DEX": 0.1
+    }
   }
 ]

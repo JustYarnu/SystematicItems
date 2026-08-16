@@ -1,0 +1,24 @@
+{
+  "id": "2593641c-a68c-455b-9221-441e1013ef26",
+  "name": "Echoing Edge of Distortion",
+  "type": "Sword",
+  "generation": 1,
+  "damage": 14.0,
+  "damage_type": [
+    "Physical",
+    "Sonic",
+    "Chaos",
+    "Void"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.2000000000000002,
+  "rarity": 1,
+  "durability": 100.0,
+  "max_durability": 100.0,
+  "volatility": 0.44999999999999996,
+  "resilience": 0.5,
+  "worth": 100,
+  "affinities": {}
+}
