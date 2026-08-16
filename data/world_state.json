@@ -1,21 +1,21 @@
 {
   "currency": 463600,
-  "tick": 20607,
+  "tick": 20632,
   "mutation_stats": {
-    "attempted": 20607,
-    "success": 8617
+    "attempted": 20632,
+    "success": 8621
   },
   "recent_events": [
-    "MUTATED: 'Echoing Blade of the Glacier' evolved to generation 25.",
-    "STABLE: 'Glacial Rapier of Carnage' did not mutate this tick.",
-    "MUTATED: 'Resolute Blade of Flame' evolved to generation 36.",
-    "REPLACED WITH: 'Heavy Relic of Light' (cad5fbaa-142b-423b-ade1-6b010c87bde3)",
-    "MUTATED: 'Echoing Blade of the Glacier' evolved to generation 26.",
-    "STABLE: 'Echoing Edge of Judgement' did not mutate this tick.",
-    "STABLE: 'Echoing Blade of the Glacier' did not mutate this tick.",
+    "STABLE: 'Mundane Relic of Frost' did not mutate this tick.",
+    "STABLE: 'Echoing Rapier of Iron' did not mutate this tick.",
+    "MUTATED: 'Glacial Rapier of Carnage' evolved to generation 10.",
+    "STABLE: 'Heavy Relic of Light' did not mutate this tick.",
+    "STABLE: 'Glacial Bow of Judgement' did not mutate this tick.",
+    "MUTATED: 'Mundane Relic of Frost' evolved to generation 13.",
     "STABLE: 'Nimble Rapier of Flame' did not mutate this tick.",
-    "STABLE: 'Echoing Edge of Judgement' did not mutate this tick.",
-    "STABLE: 'Echoing Rapier of Iron' did not mutate this tick."
+    "STABLE: 'Glacial Rapier of Carnage' did not mutate this tick.",
+    "STABLE: 'Heavy Relic of Light' did not mutate this tick.",
+    "STABLE: 'Nimble Rapier of Flame' did not mutate this tick."
   ],
   "created": 253,
   "avg_lifespan": 36.15637860082306,
