@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-20757
+20782
 
 ## Oldest Item
 Echoing Edge of Distortion
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.28
-- Average Volatility: 0.39
-- Average Durability: 60.64
+- Average Rarity: 1.48
+- Average Volatility: 0.4
+- Average Durability: 59.08
 
 ## Dominant Factions
-- Chaos: 0.5
+- Chaos: 0.6
 - Order: 0.2
 - DEX: 0.2
 
@@ -24,9 +24,9 @@ Echoing Edge of Distortion
 - Most Volatile Item: Nimble Rapier of Flame
 
 ## Recent Events
-- STABLE: 'Echoing Edge of Judgement' did not mutate this tick.
-- STABLE: 'Echoing Edge of Distortion' did not mutate this tick.
-- MUTATED: 'Mundane Relic of Frost' evolved to generation 21.
+- MUTATED: 'Echoing Rapier of Iron' evolved to generation 5.
+- MUTATED: 'Rusty Edge of Flame' evolved to generation 20.
+- MUTATED: 'Echoing Edge of Judgement' evolved to generation 7.
 
 ## Lifecycle Stats
 - Items Created: 254
@@ -40,15 +40,15 @@ Echoing Edge of Distortion
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 20757
-- Successful Mutations: 8671
+- Mutations Attempted: 20782
+- Successful Mutations: 8687
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 9
-- Uncommon: 1
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Echoing Edge of Distortion
 
 ## Economy
 - Total Currency: 465100
-- Currency per Tick (avg): 22.41
+- Currency per Tick (avg): 22.38
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
