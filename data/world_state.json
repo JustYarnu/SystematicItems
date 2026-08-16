@@ -1,23 +1,23 @@
 {
-  "currency": 454200,
-  "tick": 20382,
+  "currency": 456400,
+  "tick": 20407,
   "mutation_stats": {
-    "attempted": 20382,
-    "success": 8514
+    "attempted": 20407,
+    "success": 8526
   },
   "recent_events": [
-    "STABLE: 'Echoing Blade of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Titanic Axe of Blight' evolved to generation 41.",
-    "STABLE: 'Rusty Edge of Flame' did not mutate this tick.",
-    "STABLE: 'Searing Sigil of Stone' did not mutate this tick.",
-    "STABLE: 'Resolute Blade of Flame' did not mutate this tick.",
-    "STABLE: 'Searing Sigil of Stone' did not mutate this tick.",
-    "STABLE: 'Resolute Blade of Flame' did not mutate this tick.",
-    "MUTATED: 'Mundane Relic of Frost' evolved to generation 6.",
-    "STABLE: 'Rusty Edge of Flame' did not mutate this tick.",
-    "STABLE: 'Mundane Relic of Frost' did not mutate this tick."
+    "MUTATED: 'Broken Blade of Grace' evolved to generation 30.",
+    "STABLE: 'Echoing Edge of Judgement' did not mutate this tick.",
+    "MUTATED: 'Broken Blade of Grace' evolved to generation 31.",
+    "MUTATED: 'Dread Blade of Sparks' evolved to generation 11.",
+    "MUTATED: 'Echoing Blade of the Glacier' evolved to generation 15.",
+    "STABLE: 'Broken Blade of Grace' did not mutate this tick.",
+    "MUTATED: 'Rusty Edge of Flame' evolved to generation 3.",
+    "STABLE: 'Nimble Rapier of Flame' did not mutate this tick.",
+    "STABLE: 'Glacial Bow of Judgement' did not mutate this tick.",
+    "STABLE: 'Searing Sigil of Stone' did not mutate this tick."
   ],
-  "created": 248,
-  "avg_lifespan": 36.16806722689077,
-  "archived": 238
+  "created": 249,
+  "avg_lifespan": 36.192468619246874,
+  "archived": 239
 }

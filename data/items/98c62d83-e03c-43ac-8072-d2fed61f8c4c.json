@@ -1,0 +1,24 @@
+{
+  "id": "98c62d83-e03c-43ac-8072-d2fed61f8c4c",
+  "name": "Glacial Bow of Judgement",
+  "type": "Ranged",
+  "generation": 2,
+  "damage": 18.0,
+  "damage_type": [
+    "Physical",
+    "Cold",
+    "Piercing",
+    "Holy"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.2,
+  "dex_mod": 1.15,
+  "rarity": 1,
+  "durability": 94.75,
+  "max_durability": 125.0,
+  "volatility": 0.12,
+  "resilience": 0.75,
+  "worth": 100,
+  "affinities": {}
+}
