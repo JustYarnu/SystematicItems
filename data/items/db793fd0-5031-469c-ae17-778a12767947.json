@@ -2,7 +2,7 @@
   "id": "db793fd0-5031-469c-ae17-778a12767947",
   "name": "Searing Sigil of Stone",
   "type": "Focus",
-  "generation": 34,
+  "generation": 35,
   "damage": 28.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.3000000000000003,
   "rarity": 1.5,
-  "durability": 6.597669376550481,
+  "durability": 3.0854137516586544,
   "max_durability": 139.6240625180289,
-  "volatility": 0.42000000000000026,
+  "volatility": 0.43000000000000027,
   "resilience": 0.7792481250360578,
   "worth": 100,
   "affinities": {

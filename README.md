@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-20407
+20432
 
 ## Oldest Item
 Echoing Edge of Judgement
@@ -11,11 +11,11 @@ Echoing Edge of Judgement
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.1
-- Average Volatility: 0.37
-- Average Durability: 59.81
+- Average Volatility: 0.39
+- Average Durability: 57.31
 
 ## Dominant Factions
-- Stability: 0.4
+- Stability: 0.6
 - Order: 0.3
 - DEX: 0.2
 
@@ -24,9 +24,9 @@ Echoing Edge of Judgement
 - Most Volatile Item: Resolute Blade of Flame
 
 ## Recent Events
-- STABLE: 'Nimble Rapier of Flame' did not mutate this tick.
-- STABLE: 'Glacial Bow of Judgement' did not mutate this tick.
-- STABLE: 'Searing Sigil of Stone' did not mutate this tick.
+- STABLE: 'Mundane Relic of Frost' did not mutate this tick.
+- STABLE: 'Echoing Edge of Judgement' did not mutate this tick.
+- STABLE: 'Echoing Edge of Judgement' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 249
@@ -40,8 +40,8 @@ Echoing Edge of Judgement
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 20407
-- Successful Mutations: 8526
+- Mutations Attempted: 20432
+- Successful Mutations: 8535
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Echoing Edge of Judgement
 
 ## Economy
 - Total Currency: 456400
-- Currency per Tick (avg): 22.36
+- Currency per Tick (avg): 22.34
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
