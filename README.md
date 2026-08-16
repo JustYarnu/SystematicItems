@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-20532
+20557
 
 ## Oldest Item
 Glacial Bow of Judgement
@@ -11,22 +11,22 @@ Glacial Bow of Judgement
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.2
-- Average Volatility: 0.4
-- Average Durability: 60.64
+- Average Volatility: 0.41
+- Average Durability: 57.33
 
 ## Dominant Factions
-- Order: 0.4
-- Stability: 0.4
-- STR: 0.2
+- Order: 0.5
+- Stability: 0.5
+- Chaos: 0.2
 
 ## Extremes
 - Most Stable Item: Echoing Edge of Judgement
-- Most Volatile Item: Resolute Blade of Flame
+- Most Volatile Item: Echoing Blade of the Glacier
 
 ## Recent Events
-- MUTATED: 'Glacial Rapier of Carnage' evolved to generation 4.
-- MUTATED: 'Rusty Edge of Flame' evolved to generation 5.
+- STABLE: 'Glacial Bow of Judgement' did not mutate this tick.
 - STABLE: 'Rusty Edge of Flame' did not mutate this tick.
+- STABLE: 'Nimble Rapier of Flame' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 251
@@ -40,8 +40,8 @@ Glacial Bow of Judgement
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 20532
-- Successful Mutations: 8583
+- Mutations Attempted: 20557
+- Successful Mutations: 8593
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Glacial Bow of Judgement
 
 ## Economy
 - Total Currency: 460250
-- Currency per Tick (avg): 22.42
+- Currency per Tick (avg): 22.39
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
