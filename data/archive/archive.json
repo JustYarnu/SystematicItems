@@ -6408,5 +6408,32 @@
     "affinities": {
       "Order": 0.2
     }
+  },
+  {
+    "id": "28f5b72d-5b5b-4fe0-bc6f-2004ffda7da1",
+    "name": "Cursed Shard of the Deep",
+    "type": "Dagger",
+    "generation": 37,
+    "damage": 18.0,
+    "damage_type": [
+      "Physical",
+      "Slashing",
+      "Water"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.01,
+    "str_mod": 1.2000000000000002,
+    "dex_mod": 1.2000000000000002,
+    "rarity": 6,
+    "durability": -1.0,
+    "max_durability": 84.0,
+    "volatility": 0.6792481250360578,
+    "resilience": 0.51,
+    "worth": 1950,
+    "affinities": {
+      "Order": 0.3,
+      "Chaos": 0.1,
+      "Scarceness": 0.1
+    }
   }
 ]
