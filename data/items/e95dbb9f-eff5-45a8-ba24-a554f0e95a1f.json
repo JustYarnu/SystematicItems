@@ -2,7 +2,7 @@
   "id": "e95dbb9f-eff5-45a8-ba24-a554f0e95a1f",
   "name": "Glowing Blade of Flame",
   "type": "Sword",
-  "generation": 7,
+  "generation": 8,
   "damage": 16.5,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.1500000000000001,
   "dex_mod": 1.05,
   "rarity": 1.5,
-  "durability": 78.5,
-  "max_durability": 102.0,
-  "volatility": 0.46,
+  "durability": 73.0,
+  "max_durability": 104.0,
+  "volatility": 0.47000000000000003,
   "resilience": 0.5,
   "worth": 100,
   "affinities": {
