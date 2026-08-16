@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-20632
+20657
 
 ## Oldest Item
 Echoing Rapier of Iron
@@ -12,7 +12,7 @@ Echoing Rapier of Iron
 - Active Items: 10
 - Average Rarity: 1.28
 - Average Volatility: 0.36
-- Average Durability: 66.85
+- Average Durability: 63.05
 
 ## Dominant Factions
 - Order: 0.3
@@ -21,11 +21,11 @@ Echoing Rapier of Iron
 
 ## Extremes
 - Most Stable Item: Heavy Relic of Light
-- Most Volatile Item: Nimble Rapier of Flame
+- Most Volatile Item: Echoing Blade of the Glacier
 
 ## Recent Events
-- STABLE: 'Glacial Rapier of Carnage' did not mutate this tick.
 - STABLE: 'Heavy Relic of Light' did not mutate this tick.
+- STABLE: 'Nimble Rapier of Flame' did not mutate this tick.
 - STABLE: 'Nimble Rapier of Flame' did not mutate this tick.
 
 ## Lifecycle Stats
@@ -40,8 +40,8 @@ Echoing Rapier of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 20632
-- Successful Mutations: 8621
+- Mutations Attempted: 20657
+- Successful Mutations: 8631
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Echoing Rapier of Iron
 
 ## Economy
 - Total Currency: 463600
-- Currency per Tick (avg): 22.47
+- Currency per Tick (avg): 22.44
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
