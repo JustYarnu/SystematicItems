@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-20282
+20307
 
 ## Oldest Item
 Mundane Relic of Frost
@@ -11,8 +11,8 @@ Mundane Relic of Frost
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.5
-- Average Volatility: 0.49
-- Average Durability: 41.46
+- Average Volatility: 0.48
+- Average Durability: 38.34
 
 ## Dominant Factions
 - Order: 1.0
@@ -24,9 +24,9 @@ Mundane Relic of Frost
 - Most Volatile Item: Cursed Shard of the Deep
 
 ## Recent Events
-- STABLE: 'Dread Blade of Sparks' did not mutate this tick.
-- STABLE: 'Echoing Blade of the Glacier' did not mutate this tick.
-- STABLE: 'Searing Sigil of Stone' did not mutate this tick.
+- STABLE: 'Resolute Blade of Flame' did not mutate this tick.
+- STABLE: 'Mundane Relic of Frost' did not mutate this tick.
+- MUTATED: 'Broken Blade of Grace' evolved to generation 24.
 
 ## Lifecycle Stats
 - Items Created: 245
@@ -40,8 +40,8 @@ Mundane Relic of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 20282
-- Successful Mutations: 8479
+- Mutations Attempted: 20307
+- Successful Mutations: 8490
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Relic of Frost
 
 ## Economy
 - Total Currency: 448850
-- Currency per Tick (avg): 22.13
+- Currency per Tick (avg): 22.1
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
