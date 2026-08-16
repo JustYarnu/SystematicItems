@@ -6358,5 +6358,55 @@
       "Restoration": 0.3,
       "Chaos": 0.1
     }
+  },
+  {
+    "id": "4ad87ad0-8248-41ef-9633-5e6870cc3d3b",
+    "name": "Searing Bow of Grace",
+    "type": "Ranged",
+    "generation": 27,
+    "damage": 27.5,
+    "damage_type": [
+      "Physical",
+      "Fire",
+      "Piercing"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.01,
+    "str_mod": 1.5000000000000004,
+    "dex_mod": 1.9000000000000004,
+    "rarity": 1,
+    "durability": -1.0,
+    "max_durability": 112.0,
+    "volatility": 0.44000000000000017,
+    "resilience": 0.55,
+    "worth": 1450,
+    "affinities": {
+      "Order": 0.3,
+      "STR": 0.1
+    }
+  },
+  {
+    "id": "810fd4eb-950a-4465-99ad-2f04bf3ba2af",
+    "name": "Mundane Blade of Iron",
+    "type": "Sword",
+    "generation": 37,
+    "damage": 55.0,
+    "damage_type": [
+      "Physical",
+      "Slashing"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.01,
+    "str_mod": 1.2500000000000002,
+    "dex_mod": 0.6,
+    "rarity": 1,
+    "durability": -0.7899999999999991,
+    "max_durability": 120.0,
+    "volatility": 0.49000000000000005,
+    "resilience": 0.75,
+    "worth": 1950,
+    "affinities": {
+      "Order": 0.2
+    }
   }
 ]

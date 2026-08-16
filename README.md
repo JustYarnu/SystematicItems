@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-20332
+20357
 
 ## Oldest Item
-Mundane Relic of Frost
+Echoing Edge of Judgement
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.7
-- Average Volatility: 0.49
-- Average Durability: 33.42
+- Average Volatility: 0.44
+- Average Durability: 48.32
 
 ## Dominant Factions
-- Order: 1.1
-- STR: 0.4
+- Order: 0.7
 - Chaos: 0.3
+- Stability: 0.3
 
 ## Extremes
-- Most Stable Item: Mundane Relic of Frost
+- Most Stable Item: Echoing Edge of Judgement
 - Most Volatile Item: Cursed Shard of the Deep
 
 ## Recent Events
-- STABLE: 'Dread Blade of Sparks' did not mutate this tick.
-- MUTATED: 'Dread Blade of Sparks' evolved to generation 8.
-- MUTATED: 'Cursed Shard of the Deep' evolved to generation 35.
+- STABLE: 'Echoing Edge of Judgement' did not mutate this tick.
+- STABLE: 'Broken Blade of Grace' did not mutate this tick.
+- STABLE: 'Cursed Shard of the Deep' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 245
-- Items Archived: 235
+- Items Created: 247
+- Items Archived: 237
 - Avg Lifespan (ticks): 36.2
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Mundane Relic of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 20332
-- Successful Mutations: 8500
+- Mutations Attempted: 20357
+- Successful Mutations: 8506
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Mundane Relic of Frost
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 448850
-- Currency per Tick (avg): 22.08
+- Total Currency: 452250
+- Currency per Tick (avg): 22.22
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
