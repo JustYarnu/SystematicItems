@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-20507
+20532
 
 ## Oldest Item
-Glacial Rapier of Carnage
+Glacial Bow of Judgement
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.2
 - Average Volatility: 0.4
-- Average Durability: 64.04
+- Average Durability: 60.64
 
 ## Dominant Factions
+- Order: 0.4
 - Stability: 0.4
-- Order: 0.3
-- Chaos: 0.1
+- STR: 0.2
 
 ## Extremes
 - Most Stable Item: Echoing Edge of Judgement
 - Most Volatile Item: Resolute Blade of Flame
 
 ## Recent Events
-- STABLE: 'Resolute Blade of Flame' did not mutate this tick.
-- MUTATED: 'Dread Blade of Sparks' evolved to generation 21.
-- MUTATED: 'Glacial Rapier of Carnage' evolved to generation 2.
+- MUTATED: 'Glacial Rapier of Carnage' evolved to generation 4.
+- MUTATED: 'Rusty Edge of Flame' evolved to generation 5.
+- STABLE: 'Rusty Edge of Flame' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 251
@@ -40,8 +40,8 @@ Glacial Rapier of Carnage
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 20507
-- Successful Mutations: 8570
+- Mutations Attempted: 20532
+- Successful Mutations: 8583
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Glacial Rapier of Carnage
 
 ## Economy
 - Total Currency: 460250
-- Currency per Tick (avg): 22.44
+- Currency per Tick (avg): 22.42
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
