@@ -1,23 +1,23 @@
 {
-  "currency": 456400,
-  "tick": 20432,
+  "currency": 458300,
+  "tick": 20457,
   "mutation_stats": {
-    "attempted": 20432,
-    "success": 8535
+    "attempted": 20457,
+    "success": 8547
   },
   "recent_events": [
-    "MUTATED: 'Dread Blade of Sparks' evolved to generation 12.",
-    "MUTATED: 'Dread Blade of Sparks' evolved to generation 13.",
-    "STABLE: 'Glacial Bow of Judgement' did not mutate this tick.",
-    "MUTATED: 'Broken Blade of Grace' evolved to generation 32.",
-    "MUTATED: 'Resolute Blade of Flame' evolved to generation 22.",
-    "MUTATED: 'Dread Blade of Sparks' evolved to generation 14.",
-    "STABLE: 'Nimble Rapier of Flame' did not mutate this tick.",
-    "STABLE: 'Mundane Relic of Frost' did not mutate this tick.",
+    "MUTATED: 'Glowing Blade of Flame' evolved to generation 3.",
+    "MUTATED: 'Broken Blade of Grace' evolved to generation 33.",
+    "MUTATED: 'Mundane Relic of Frost' evolved to generation 8.",
+    "MUTATED: 'Broken Blade of Grace' evolved to generation 34.",
+    "STABLE: 'Rusty Edge of Flame' did not mutate this tick.",
+    "MUTATED: 'Resolute Blade of Flame' evolved to generation 23.",
+    "STABLE: 'Resolute Blade of Flame' did not mutate this tick.",
     "STABLE: 'Echoing Edge of Judgement' did not mutate this tick.",
-    "STABLE: 'Echoing Edge of Judgement' did not mutate this tick."
+    "STABLE: 'Broken Blade of Grace' did not mutate this tick.",
+    "MUTATED: 'Broken Blade of Grace' evolved to generation 35."
   ],
-  "created": 249,
-  "avg_lifespan": 36.192468619246874,
-  "archived": 239
+  "created": 250,
+  "avg_lifespan": 36.191666666666684,
+  "archived": 240
 }

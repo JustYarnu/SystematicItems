@@ -6462,5 +6462,30 @@
       "Order": 0.1,
       "Chaos": 0.1
     }
+  },
+  {
+    "id": "db793fd0-5031-469c-ae17-778a12767947",
+    "name": "Searing Sigil of Stone",
+    "type": "Focus",
+    "generation": 36,
+    "damage": 28.0,
+    "damage_type": [
+      "Physical",
+      "Fire",
+      "Magic"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.01,
+    "str_mod": 1.2000000000000002,
+    "dex_mod": 1.3000000000000003,
+    "rarity": 1.5,
+    "durability": -0.26834562316105703,
+    "max_durability": 139.6240625180289,
+    "volatility": 0.5100000000000002,
+    "resilience": 0.7292481250360577,
+    "worth": 1900,
+    "affinities": {
+      "Chaos": 0.1
+    }
   }
 ]
