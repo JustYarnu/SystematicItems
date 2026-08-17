@@ -2,7 +2,7 @@
   "id": "cad5fbaa-142b-423b-ade1-6b010c87bde3",
   "name": "Heavy Relic of Light",
   "type": "Artifact",
-  "generation": 27,
+  "generation": 28,
   "damage": 16.0,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "str_mod": 1.6000000000000003,
   "dex_mod": 1.2500000000000002,
   "rarity": 1.8,
-  "durability": 13.750793503765374,
+  "durability": 9.21279273040411,
   "max_durability": 108.0,
-  "volatility": 0.5300000000000002,
-  "resilience": 0.7423998453277474,
+  "volatility": 0.5923998453277475,
+  "resilience": 0.6923998453277473,
   "worth": 100,
   "affinities": {
     "STR": 0.1,
