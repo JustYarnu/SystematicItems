@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-21007
+21032
 
 ## Oldest Item
-Echoing Rapier of Iron
+Titanic Blade of Grace
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.68
-- Average Volatility: 0.51
-- Average Durability: 31.78
+- Average Rarity: 1.63
+- Average Volatility: 0.49
+- Average Durability: 39.87
 
 ## Dominant Factions
-- Chaos: 1.0
-- Order: 0.6
-- Stability: 0.6
+- Chaos: 0.8
+- Order: 0.7
+- Stability: 0.5
 
 ## Extremes
-- Most Stable Item: Glacial Bow of Judgement
+- Most Stable Item: Titanic Blade of Grace
 - Most Volatile Item: Nimble Rapier of Flame
 
 ## Recent Events
-- STABLE: 'Echoing Edge of Judgement' did not mutate this tick.
-- MUTATED: 'Glacial Rapier of Carnage' evolved to generation 24.
-- STABLE: 'Glacial Rapier of Carnage' did not mutate this tick.
+- STABLE: 'Titanic Blade of Grace' did not mutate this tick.
+- MUTATED: 'Glacial Rapier of Carnage' evolved to generation 27.
+- STABLE: 'Rusty Edge of Flame' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 254
-- Items Archived: 244
+- Items Created: 255
+- Items Archived: 245
 - Avg Lifespan (ticks): 36.1
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Echoing Rapier of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 21007
-- Successful Mutations: 8777
+- Mutations Attempted: 21032
+- Successful Mutations: 8786
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Echoing Rapier of Iron
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 465100
-- Currency per Tick (avg): 22.14
+- Total Currency: 466850
+- Currency per Tick (avg): 22.2
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

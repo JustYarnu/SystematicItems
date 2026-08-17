@@ -1,23 +1,23 @@
 {
-  "currency": 465100,
-  "tick": 21007,
+  "currency": 466850,
+  "tick": 21032,
   "mutation_stats": {
-    "attempted": 21007,
-    "success": 8777
+    "attempted": 21032,
+    "success": 8786
   },
   "recent_events": [
-    "STABLE: 'Echoing Rapier of Iron' did not mutate this tick.",
-    "MUTATED: 'Nimble Rapier of Flame' evolved to generation 21.",
     "STABLE: 'Glacial Bow of Judgement' did not mutate this tick.",
-    "STABLE: 'Heavy Relic of Light' did not mutate this tick.",
-    "MUTATED: 'Rusty Edge of Flame' evolved to generation 34.",
-    "STABLE: 'Glacial Bow of Judgement' did not mutate this tick.",
+    "STABLE: 'Echoing Edge of Judgement' did not mutate this tick.",
+    "STABLE: 'Glacial Rapier of Carnage' did not mutate this tick.",
     "STABLE: 'Nimble Rapier of Flame' did not mutate this tick.",
     "STABLE: 'Echoing Edge of Judgement' did not mutate this tick.",
-    "MUTATED: 'Glacial Rapier of Carnage' evolved to generation 24.",
-    "STABLE: 'Glacial Rapier of Carnage' did not mutate this tick."
+    "STABLE: 'Echoing Rapier of Iron' did not mutate this tick.",
+    "MUTATED: 'Echoing Edge of Distortion' evolved to generation 18.",
+    "STABLE: 'Titanic Blade of Grace' did not mutate this tick.",
+    "MUTATED: 'Glacial Rapier of Carnage' evolved to generation 27.",
+    "STABLE: 'Rusty Edge of Flame' did not mutate this tick."
   ],
-  "created": 254,
-  "avg_lifespan": 36.12295081967215,
-  "archived": 244
+  "created": 255,
+  "avg_lifespan": 36.110204081632666,
+  "archived": 245
 }
