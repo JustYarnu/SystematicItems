@@ -1,23 +1,23 @@
 {
-  "currency": 469650,
-  "tick": 21082,
+  "currency": 471050,
+  "tick": 21107,
   "mutation_stats": {
-    "attempted": 21082,
-    "success": 8807
+    "attempted": 21107,
+    "success": 8816
   },
   "recent_events": [
-    "STABLE: 'Echoing Edge of Judgement' did not mutate this tick.",
-    "STABLE: 'Titanic Blade of Grace' did not mutate this tick.",
-    "MUTATED: 'Echoing Edge of Judgement' evolved to generation 19.",
-    "STABLE: 'Nimble Rapier of Flame' did not mutate this tick.",
-    "STABLE: 'Nimble Rapier of Flame' did not mutate this tick.",
+    "STABLE: 'Shattered Axe of Silence' did not mutate this tick.",
+    "MUTATED: 'Rusty Edge of Flame' evolved to generation 40.",
+    "MUTATED: 'Rusty Edge of Flame' evolved to generation 41.",
+    "MUTATED: 'Echoing Edge of Judgement' evolved to generation 21.",
+    "MUTATED: 'Rusty Edge of Flame' evolved to generation 42.",
+    "MUTATED: 'Echoing Rapier of Iron' evolved to generation 11.",
     "STABLE: 'Rusty Edge of Flame' did not mutate this tick.",
-    "STABLE: 'Titanic Blade of Grace' did not mutate this tick.",
-    "STABLE: 'Nimble Rapier of Flame' did not mutate this tick.",
-    "MUTATED: 'Glacial Bow of Judgement' evolved to generation 23.",
-    "REPLACED WITH: 'Verdant Relic of Embers' (f306fdea-4c36-4205-9af0-c65816ad872d)"
+    "STABLE: 'Echoing Edge of Judgement' did not mutate this tick.",
+    "STABLE: 'Echoing Edge of Distortion' did not mutate this tick.",
+    "STABLE: 'Rusty Edge of Flame' did not mutate this tick."
   ],
-  "created": 257,
-  "avg_lifespan": 36.028340080971674,
-  "archived": 247
+  "created": 258,
+  "avg_lifespan": 35.98790322580647,
+  "archived": 248
 }

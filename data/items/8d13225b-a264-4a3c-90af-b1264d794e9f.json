@@ -1,0 +1,22 @@
+{
+  "id": "8d13225b-a264-4a3c-90af-b1264d794e9f",
+  "name": "Shattered Axe of Silence",
+  "type": "HeavyWeapon",
+  "generation": 1,
+  "damage": 18.0,
+  "damage_type": [
+    "Physical",
+    "Slashing"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.15,
+  "dex_mod": 1.2,
+  "rarity": 1,
+  "durability": 79.0,
+  "max_durability": 85.0,
+  "volatility": 0.31000000000000005,
+  "resilience": 0.5,
+  "worth": 100,
+  "affinities": {}
+}
