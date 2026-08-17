@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-21282
+21307
 
 ## Oldest Item
 Verdant Bow of Iron
@@ -11,8 +11,8 @@ Verdant Bow of Iron
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.18
-- Average Volatility: 0.35
-- Average Durability: 72.44
+- Average Volatility: 0.37
+- Average Durability: 70.76
 
 ## Dominant Factions
 - Order: 0.4
@@ -24,9 +24,9 @@ Verdant Bow of Iron
 - Most Volatile Item: Echoing Rapier of Iron
 
 ## Recent Events
-- STABLE: 'Echoing Rapier of Iron' did not mutate this tick.
-- MUTATED: 'Echoing Edge of Distortion' evolved to generation 25.
-- MUTATED: 'Fractured Shard of the Deep' evolved to generation 4.
+- STABLE: 'Mundane Focus of Stone' did not mutate this tick.
+- MUTATED: 'Echoing Rapier of Iron' evolved to generation 16.
+- STABLE: 'Titanic Blade of Grace' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 262
@@ -40,8 +40,8 @@ Verdant Bow of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 21282
-- Successful Mutations: 8885
+- Mutations Attempted: 21307
+- Successful Mutations: 8889
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Verdant Bow of Iron
 
 ## Economy
 - Total Currency: 478650
-- Currency per Tick (avg): 22.49
+- Currency per Tick (avg): 22.46
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
