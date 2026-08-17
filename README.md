@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-21232
+21257
 
 ## Oldest Item
-Mundane Focus of Stone
+Verdant Bow of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.38
-- Average Volatility: 0.39
-- Average Durability: 59.45
+- Average Rarity: 1.18
+- Average Volatility: 0.34
+- Average Durability: 75.83
 
 ## Dominant Factions
-- Order: 0.5
-- STR: 0.4
-- Chaos: 0.4
+- Order: 0.3
+- Restoration: 0.3
+- Stability: 0.2
 
 ## Extremes
-- Most Stable Item: Dread Blade of Blood
-- Most Volatile Item: Echoing Edge of Judgement
+- Most Stable Item: Verdant Bow of Iron
+- Most Volatile Item: Echoing Rapier of Iron
 
 ## Recent Events
-- STABLE: 'Echoing Edge of Judgement' did not mutate this tick.
-- STABLE: 'Mundane Focus of Stone' did not mutate this tick.
-- STABLE: 'Dread Blade of Blood' did not mutate this tick.
+- MUTATED: 'Verdant Relic of Embers' evolved to generation 5.
+- STABLE: 'Titanic Blade of Grace' did not mutate this tick.
+- STABLE: 'Fractured Shard of the Deep' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 260
-- Items Archived: 250
-- Avg Lifespan (ticks): 35.9
+- Items Created: 262
+- Items Archived: 252
+- Avg Lifespan (ticks): 36.0
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Mundane Focus of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 21232
-- Successful Mutations: 8863
-- Failure Rate: 58.3%
+- Mutations Attempted: 21257
+- Successful Mutations: 8876
+- Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 3
+- Common: 9
+- Uncommon: 1
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Mundane Focus of Stone
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 474350
-- Currency per Tick (avg): 22.34
+- Total Currency: 478650
+- Currency per Tick (avg): 22.52
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

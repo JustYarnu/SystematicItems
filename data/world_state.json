@@ -1,23 +1,23 @@
 {
-  "currency": 474350,
-  "tick": 21232,
+  "currency": 478650,
+  "tick": 21257,
   "mutation_stats": {
-    "attempted": 21232,
-    "success": 8863
+    "attempted": 21257,
+    "success": 8876
   },
   "recent_events": [
-    "STABLE: 'Shattered Axe of Silence' did not mutate this tick.",
-    "MUTATED: 'Echoing Edge of Judgement' evolved to generation 28.",
-    "MUTATED: 'Echoing Edge of Distortion' evolved to generation 23.",
-    "STABLE: 'Dread Blade of Blood' did not mutate this tick.",
-    "MUTATED: 'Echoing Edge of Distortion' evolved to generation 24.",
-    "MUTATED: 'Titanic Blade of Grace' evolved to generation 4.",
-    "STABLE: 'Verdant Relic of Embers' did not mutate this tick.",
-    "STABLE: 'Echoing Edge of Judgement' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Stone' did not mutate this tick.",
-    "STABLE: 'Dread Blade of Blood' did not mutate this tick."
+    "MUTATED: 'Echoing Edge of Judgement' evolved to generation 30.",
+    "REPLACED WITH: 'Verdant Bow of Iron' (f3f5aba4-57b0-417a-8151-768748e0c925)",
+    "STABLE: 'Mundane Shard of Light' did not mutate this tick.",
+    "MUTATED: 'Fractured Shard of the Deep' evolved to generation 2.",
+    "STABLE: 'Verdant Bow of Iron' did not mutate this tick.",
+    "MUTATED: 'Titanic Blade of Grace' evolved to generation 7.",
+    "STABLE: 'Echoing Rapier of Iron' did not mutate this tick.",
+    "MUTATED: 'Verdant Relic of Embers' evolved to generation 5.",
+    "STABLE: 'Titanic Blade of Grace' did not mutate this tick.",
+    "STABLE: 'Fractured Shard of the Deep' did not mutate this tick."
   ],
-  "created": 260,
-  "avg_lifespan": 35.948000000000015,
-  "archived": 250
+  "created": 262,
+  "avg_lifespan": 35.988095238095255,
+  "archived": 252
 }
