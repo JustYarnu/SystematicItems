@@ -1,21 +1,21 @@
 {
   "currency": 478650,
-  "tick": 21257,
+  "tick": 21282,
   "mutation_stats": {
-    "attempted": 21257,
-    "success": 8876
+    "attempted": 21282,
+    "success": 8885
   },
   "recent_events": [
-    "MUTATED: 'Echoing Edge of Judgement' evolved to generation 30.",
-    "REPLACED WITH: 'Verdant Bow of Iron' (f3f5aba4-57b0-417a-8151-768748e0c925)",
-    "STABLE: 'Mundane Shard of Light' did not mutate this tick.",
-    "MUTATED: 'Fractured Shard of the Deep' evolved to generation 2.",
     "STABLE: 'Verdant Bow of Iron' did not mutate this tick.",
-    "MUTATED: 'Titanic Blade of Grace' evolved to generation 7.",
+    "MUTATED: 'Mundane Shard of Light' evolved to generation 9.",
     "STABLE: 'Echoing Rapier of Iron' did not mutate this tick.",
-    "MUTATED: 'Verdant Relic of Embers' evolved to generation 5.",
-    "STABLE: 'Titanic Blade of Grace' did not mutate this tick.",
-    "STABLE: 'Fractured Shard of the Deep' did not mutate this tick."
+    "MUTATED: 'Verdant Relic of Embers' evolved to generation 6.",
+    "STABLE: 'Mundane Shard of Light' did not mutate this tick.",
+    "STABLE: 'Fractured Shard of the Deep' did not mutate this tick.",
+    "STABLE: 'Verdant Relic of Embers' did not mutate this tick.",
+    "STABLE: 'Echoing Rapier of Iron' did not mutate this tick.",
+    "MUTATED: 'Echoing Edge of Distortion' evolved to generation 25.",
+    "MUTATED: 'Fractured Shard of the Deep' evolved to generation 4."
   ],
   "created": 262,
   "avg_lifespan": 35.988095238095255,
