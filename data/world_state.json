@@ -1,23 +1,23 @@
 {
-  "currency": 471050,
-  "tick": 21107,
+  "currency": 472700,
+  "tick": 21132,
   "mutation_stats": {
-    "attempted": 21107,
-    "success": 8816
+    "attempted": 21132,
+    "success": 8825
   },
   "recent_events": [
+    "STABLE: 'Titanic Blade of Grace' did not mutate this tick.",
+    "MUTATED: 'Echoing Edge of Judgement' evolved to generation 22.",
+    "MUTATED: 'Verdant Relic of Embers' evolved to generation 2.",
+    "MUTATED: 'Heavy Relic of Light' evolved to generation 23.",
+    "MUTATED: 'Titanic Blade of Grace' evolved to generation 2.",
     "STABLE: 'Shattered Axe of Silence' did not mutate this tick.",
-    "MUTATED: 'Rusty Edge of Flame' evolved to generation 40.",
-    "MUTATED: 'Rusty Edge of Flame' evolved to generation 41.",
-    "MUTATED: 'Echoing Edge of Judgement' evolved to generation 21.",
-    "MUTATED: 'Rusty Edge of Flame' evolved to generation 42.",
-    "MUTATED: 'Echoing Rapier of Iron' evolved to generation 11.",
-    "STABLE: 'Rusty Edge of Flame' did not mutate this tick.",
-    "STABLE: 'Echoing Edge of Judgement' did not mutate this tick.",
-    "STABLE: 'Echoing Edge of Distortion' did not mutate this tick.",
-    "STABLE: 'Rusty Edge of Flame' did not mutate this tick."
+    "MUTATED: 'Mundane Shard of Light' evolved to generation 4.",
+    "MUTATED: 'Mundane Shard of Light' evolved to generation 5.",
+    "STABLE: 'Shattered Axe of Silence' did not mutate this tick.",
+    "STABLE: 'Titanic Blade of Grace' did not mutate this tick."
   ],
-  "created": 258,
-  "avg_lifespan": 35.98790322580647,
-  "archived": 248
+  "created": 259,
+  "avg_lifespan": 35.96787148594379,
+  "archived": 249
 }
