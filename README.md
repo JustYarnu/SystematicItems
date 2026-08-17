@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-21182
+21207
 
 ## Oldest Item
-Shattered Axe of Silence
+Dread Blade of Blood
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.36
-- Average Volatility: 0.41
-- Average Durability: 56.91
+- Average Rarity: 1.46
+- Average Volatility: 0.42
+- Average Durability: 54.14
 
 ## Dominant Factions
 - Stability: 0.6
@@ -24,9 +24,9 @@ Shattered Axe of Silence
 - Most Volatile Item: Heavy Relic of Light
 
 ## Recent Events
-- STABLE: 'Dread Blade of Blood' did not mutate this tick.
-- STABLE: 'Echoing Edge of Distortion' did not mutate this tick.
-- STABLE: 'Shattered Axe of Silence' did not mutate this tick.
+- MUTATED: 'Echoing Rapier of Iron' evolved to generation 14.
+- STABLE: 'Echoing Rapier of Iron' did not mutate this tick.
+- MUTATED: 'Echoing Rapier of Iron' evolved to generation 15.
 
 ## Lifecycle Stats
 - Items Created: 259
@@ -40,15 +40,15 @@ Shattered Axe of Silence
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 21182
-- Successful Mutations: 8843
+- Mutations Attempted: 21207
+- Successful Mutations: 8852
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 8
-- Uncommon: 2
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Shattered Axe of Silence
 
 ## Economy
 - Total Currency: 472700
-- Currency per Tick (avg): 22.32
+- Currency per Tick (avg): 22.29
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
