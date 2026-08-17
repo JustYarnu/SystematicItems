@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-21207
+21232
 
 ## Oldest Item
-Dread Blade of Blood
+Mundane Focus of Stone
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.46
-- Average Volatility: 0.42
-- Average Durability: 54.14
+- Average Rarity: 1.38
+- Average Volatility: 0.39
+- Average Durability: 59.45
 
 ## Dominant Factions
-- Stability: 0.6
 - Order: 0.5
-- Chaos: 0.5
+- STR: 0.4
+- Chaos: 0.4
 
 ## Extremes
 - Most Stable Item: Dread Blade of Blood
-- Most Volatile Item: Heavy Relic of Light
+- Most Volatile Item: Echoing Edge of Judgement
 
 ## Recent Events
-- MUTATED: 'Echoing Rapier of Iron' evolved to generation 14.
-- STABLE: 'Echoing Rapier of Iron' did not mutate this tick.
-- MUTATED: 'Echoing Rapier of Iron' evolved to generation 15.
+- STABLE: 'Echoing Edge of Judgement' did not mutate this tick.
+- STABLE: 'Mundane Focus of Stone' did not mutate this tick.
+- STABLE: 'Dread Blade of Blood' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 259
-- Items Archived: 249
-- Avg Lifespan (ticks): 36.0
+- Items Created: 260
+- Items Archived: 250
+- Avg Lifespan (ticks): 35.9
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,8 +40,8 @@ Dread Blade of Blood
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 21207
-- Successful Mutations: 8852
+- Mutations Attempted: 21232
+- Successful Mutations: 8863
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Dread Blade of Blood
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 472700
-- Currency per Tick (avg): 22.29
+- Total Currency: 474350
+- Currency per Tick (avg): 22.34
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
