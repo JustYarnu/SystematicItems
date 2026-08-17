@@ -2,7 +2,7 @@
   "id": "c6ad28a8-c77d-4a88-ac27-cf2d21fc5ad7",
   "name": "Rusty Edge of Flame",
   "type": "Sword",
-  "generation": 34,
+  "generation": 38,
   "damage": 19.5,
   "damage_type": [
     "Physical"
@@ -12,10 +12,10 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 1.0,
   "rarity": 2,
-  "durability": 29.010000000000048,
-  "max_durability": 108.0,
-  "volatility": 0.5599999999999999,
-  "resilience": 0.78,
+  "durability": 33.55000000000005,
+  "max_durability": 118.0,
+  "volatility": 0.5399999999999999,
+  "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {
     "Chaos": 0.2,

@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-21032
+21057
 
 ## Oldest Item
 Titanic Blade of Grace
@@ -11,12 +11,12 @@ Titanic Blade of Grace
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.63
-- Average Volatility: 0.49
-- Average Durability: 39.87
+- Average Volatility: 0.48
+- Average Durability: 35.88
 
 ## Dominant Factions
+- Order: 0.8
 - Chaos: 0.8
-- Order: 0.7
 - Stability: 0.5
 
 ## Extremes
@@ -24,9 +24,9 @@ Titanic Blade of Grace
 - Most Volatile Item: Nimble Rapier of Flame
 
 ## Recent Events
-- STABLE: 'Titanic Blade of Grace' did not mutate this tick.
-- MUTATED: 'Glacial Rapier of Carnage' evolved to generation 27.
-- STABLE: 'Rusty Edge of Flame' did not mutate this tick.
+- STABLE: 'Glowing Blade of Flame' did not mutate this tick.
+- MUTATED: 'Echoing Edge of Judgement' evolved to generation 18.
+- MUTATED: 'Rusty Edge of Flame' evolved to generation 38.
 
 ## Lifecycle Stats
 - Items Created: 255
@@ -40,8 +40,8 @@ Titanic Blade of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 21032
-- Successful Mutations: 8786
+- Mutations Attempted: 21057
+- Successful Mutations: 8799
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Titanic Blade of Grace
 
 ## Economy
 - Total Currency: 466850
-- Currency per Tick (avg): 22.2
+- Currency per Tick (avg): 22.17
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
