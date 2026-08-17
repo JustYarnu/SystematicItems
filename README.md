@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-20982
+21007
 
 ## Oldest Item
 Echoing Rapier of Iron
@@ -11,22 +11,22 @@ Echoing Rapier of Iron
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.68
-- Average Volatility: 0.48
-- Average Durability: 35.08
+- Average Volatility: 0.51
+- Average Durability: 31.78
 
 ## Dominant Factions
-- Chaos: 0.8
+- Chaos: 1.0
+- Order: 0.6
 - Stability: 0.6
-- Order: 0.5
 
 ## Extremes
 - Most Stable Item: Glacial Bow of Judgement
 - Most Volatile Item: Nimble Rapier of Flame
 
 ## Recent Events
-- STABLE: 'Glacial Bow of Judgement' did not mutate this tick.
+- STABLE: 'Echoing Edge of Judgement' did not mutate this tick.
+- MUTATED: 'Glacial Rapier of Carnage' evolved to generation 24.
 - STABLE: 'Glacial Rapier of Carnage' did not mutate this tick.
-- MUTATED: 'Echoing Edge of Distortion' evolved to generation 17.
 
 ## Lifecycle Stats
 - Items Created: 254
@@ -40,8 +40,8 @@ Echoing Rapier of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 20982
-- Successful Mutations: 8767
+- Mutations Attempted: 21007
+- Successful Mutations: 8777
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Echoing Rapier of Iron
 
 ## Economy
 - Total Currency: 465100
-- Currency per Tick (avg): 22.17
+- Currency per Tick (avg): 22.14
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
