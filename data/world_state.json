@@ -1,23 +1,23 @@
 {
-  "currency": 466850,
-  "tick": 21057,
+  "currency": 469650,
+  "tick": 21082,
   "mutation_stats": {
-    "attempted": 21057,
-    "success": 8799
+    "attempted": 21082,
+    "success": 8807
   },
   "recent_events": [
-    "MUTATED: 'Heavy Relic of Light' evolved to generation 21.",
-    "STABLE: 'Glacial Rapier of Carnage' did not mutate this tick.",
-    "STABLE: 'Titanic Blade of Grace' did not mutate this tick.",
-    "MUTATED: 'Rusty Edge of Flame' evolved to generation 37.",
-    "STABLE: 'Echoing Rapier of Iron' did not mutate this tick.",
     "STABLE: 'Echoing Edge of Judgement' did not mutate this tick.",
-    "MUTATED: 'Echoing Edge of Judgement' evolved to generation 17.",
-    "STABLE: 'Glowing Blade of Flame' did not mutate this tick.",
-    "MUTATED: 'Echoing Edge of Judgement' evolved to generation 18.",
-    "MUTATED: 'Rusty Edge of Flame' evolved to generation 38."
+    "STABLE: 'Titanic Blade of Grace' did not mutate this tick.",
+    "MUTATED: 'Echoing Edge of Judgement' evolved to generation 19.",
+    "STABLE: 'Nimble Rapier of Flame' did not mutate this tick.",
+    "STABLE: 'Nimble Rapier of Flame' did not mutate this tick.",
+    "STABLE: 'Rusty Edge of Flame' did not mutate this tick.",
+    "STABLE: 'Titanic Blade of Grace' did not mutate this tick.",
+    "STABLE: 'Nimble Rapier of Flame' did not mutate this tick.",
+    "MUTATED: 'Glacial Bow of Judgement' evolved to generation 23.",
+    "REPLACED WITH: 'Verdant Relic of Embers' (f306fdea-4c36-4205-9af0-c65816ad872d)"
   ],
-  "created": 255,
-  "avg_lifespan": 36.110204081632666,
-  "archived": 245
+  "created": 257,
+  "avg_lifespan": 36.028340080971674,
+  "archived": 247
 }
