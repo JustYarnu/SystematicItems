@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-21132
+21157
 
 ## Oldest Item
-Dread Blade of Blood
+Shattered Axe of Silence
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.36
-- Average Volatility: 0.39
-- Average Durability: 62.28
+- Average Volatility: 0.4
+- Average Durability: 60.77
 
 ## Dominant Factions
 - Stability: 0.6
+- Order: 0.4
 - Chaos: 0.4
-- Order: 0.3
 
 ## Extremes
 - Most Stable Item: Dread Blade of Blood
-- Most Volatile Item: Echoing Edge of Judgement
+- Most Volatile Item: Rusty Edge of Flame
 
 ## Recent Events
-- MUTATED: 'Mundane Shard of Light' evolved to generation 5.
-- STABLE: 'Shattered Axe of Silence' did not mutate this tick.
 - STABLE: 'Titanic Blade of Grace' did not mutate this tick.
+- STABLE: 'Dread Blade of Blood' did not mutate this tick.
+- STABLE: 'Echoing Rapier of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 259
@@ -40,8 +40,8 @@ Dread Blade of Blood
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 21132
-- Successful Mutations: 8825
+- Mutations Attempted: 21157
+- Successful Mutations: 8837
 - Failure Rate: 58.2%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Dread Blade of Blood
 
 ## Economy
 - Total Currency: 472700
-- Currency per Tick (avg): 22.37
+- Currency per Tick (avg): 22.34
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

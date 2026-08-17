@@ -2,7 +2,7 @@
   "id": "1098ecfd-5f83-41d6-9f5c-c8bbb96aeb66",
   "name": "Echoing Rapier of Iron",
   "type": "Generic",
-  "generation": 11,
+  "generation": 12,
   "damage": 22.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.25,
   "rarity": 1,
-  "durability": 50.24999999999999,
+  "durability": 45.64999999999999,
   "max_durability": 125.0,
-  "volatility": 0.4300000000000003,
+  "volatility": 0.45000000000000034,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {

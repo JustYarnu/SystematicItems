@@ -2,7 +2,7 @@
   "id": "f306fdea-4c36-4205-9af0-c65816ad872d",
   "name": "Verdant Relic of Embers",
   "type": "Artifact",
-  "generation": 2,
+  "generation": 3,
   "damage": 14.0,
   "damage_type": [
     "Physical",
@@ -15,10 +15,10 @@
   "str_mod": 1.0,
   "dex_mod": 1.0,
   "rarity": 1.5,
-  "durability": 93.25,
+  "durability": 90.57,
   "max_durability": 120.0,
-  "volatility": 0.22000000000000003,
-  "resilience": 0.7500000000000001,
+  "volatility": 0.19000000000000003,
+  "resilience": 0.7792481250360578,
   "worth": 100,
   "affinities": {}
 }
