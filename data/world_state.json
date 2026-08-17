@@ -1,21 +1,21 @@
 {
   "currency": 478650,
-  "tick": 21307,
+  "tick": 21332,
   "mutation_stats": {
-    "attempted": 21307,
-    "success": 8889
+    "attempted": 21332,
+    "success": 8896
   },
   "recent_events": [
-    "STABLE: 'Shattered Axe of Silence' did not mutate this tick.",
-    "STABLE: 'Shattered Axe of Silence' did not mutate this tick.",
-    "STABLE: 'Dread Blade of Blood' did not mutate this tick.",
-    "STABLE: 'Shattered Axe of Silence' did not mutate this tick.",
+    "MUTATED: 'Echoing Rapier of Iron' evolved to generation 17.",
+    "MUTATED: 'Verdant Relic of Embers' evolved to generation 8.",
+    "MUTATED: 'Mundane Focus of Stone' evolved to generation 3.",
+    "MUTATED: 'Echoing Rapier of Iron' evolved to generation 18.",
+    "MUTATED: 'Verdant Relic of Embers' evolved to generation 9.",
+    "STABLE: 'Titanic Blade of Grace' did not mutate this tick.",
     "STABLE: 'Verdant Relic of Embers' did not mutate this tick.",
-    "MUTATED: 'Mundane Shard of Light' evolved to generation 11.",
-    "STABLE: 'Mundane Focus of Stone' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Stone' did not mutate this tick.",
-    "MUTATED: 'Echoing Rapier of Iron' evolved to generation 16.",
-    "STABLE: 'Titanic Blade of Grace' did not mutate this tick."
+    "STABLE: 'Mundane Shard of Light' did not mutate this tick.",
+    "MUTATED: 'Shattered Axe of Silence' evolved to generation 6.",
+    "STABLE: 'Echoing Rapier of Iron' did not mutate this tick."
   ],
   "created": 262,
   "avg_lifespan": 35.988095238095255,
