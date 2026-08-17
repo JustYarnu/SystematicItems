@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-21357
+21382
 
 ## Oldest Item
 Verdant Bow of Iron
@@ -12,7 +12,7 @@ Verdant Bow of Iron
 - Active Items: 10
 - Average Rarity: 1.18
 - Average Volatility: 0.4
-- Average Durability: 63.76
+- Average Durability: 58.71
 
 ## Dominant Factions
 - Order: 0.5
@@ -21,12 +21,12 @@ Verdant Bow of Iron
 
 ## Extremes
 - Most Stable Item: Verdant Bow of Iron
-- Most Volatile Item: Echoing Rapier of Iron
+- Most Volatile Item: Mundane Shard of Light
 
 ## Recent Events
-- MUTATED: 'Titanic Blade of Grace' evolved to generation 9.
-- STABLE: 'Titanic Blade of Grace' did not mutate this tick.
-- STABLE: 'Dread Blade of Blood' did not mutate this tick.
+- MUTATED: 'Verdant Relic of Embers' evolved to generation 10.
+- STABLE: 'Verdant Bow of Iron' did not mutate this tick.
+- STABLE: 'Verdant Bow of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 262
@@ -40,8 +40,8 @@ Verdant Bow of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 21357
-- Successful Mutations: 8907
+- Mutations Attempted: 21382
+- Successful Mutations: 8917
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Verdant Bow of Iron
 
 ## Economy
 - Total Currency: 478650
-- Currency per Tick (avg): 22.41
+- Currency per Tick (avg): 22.39
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
