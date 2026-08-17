@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-21382
+21407
 
 ## Oldest Item
-Verdant Bow of Iron
+Dread Blade of Blood
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.18
 - Average Volatility: 0.4
-- Average Durability: 58.71
+- Average Durability: 53.55
 
 ## Dominant Factions
 - Order: 0.5
@@ -21,12 +21,12 @@ Verdant Bow of Iron
 
 ## Extremes
 - Most Stable Item: Verdant Bow of Iron
-- Most Volatile Item: Mundane Shard of Light
+- Most Volatile Item: Fractured Shard of the Deep
 
 ## Recent Events
-- MUTATED: 'Verdant Relic of Embers' evolved to generation 10.
-- STABLE: 'Verdant Bow of Iron' did not mutate this tick.
-- STABLE: 'Verdant Bow of Iron' did not mutate this tick.
+- STABLE: 'Mundane Focus of Stone' did not mutate this tick.
+- MUTATED: 'Verdant Bow of Iron' evolved to generation 4.
+- MUTATED: 'Verdant Bow of Iron' evolved to generation 5.
 
 ## Lifecycle Stats
 - Items Created: 262
@@ -40,8 +40,8 @@ Verdant Bow of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 21382
-- Successful Mutations: 8917
+- Mutations Attempted: 21407
+- Successful Mutations: 8930
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Verdant Bow of Iron
 
 ## Economy
 - Total Currency: 478650
-- Currency per Tick (avg): 22.39
+- Currency per Tick (avg): 22.36
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
