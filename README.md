@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-21732
+21757
 
 ## Oldest Item
 Mundane Blade of the Glacier
@@ -11,8 +11,8 @@ Mundane Blade of the Glacier
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.08
-- Average Volatility: 0.41
-- Average Durability: 36.35
+- Average Volatility: 0.43
+- Average Durability: 32.52
 
 ## Dominant Factions
 - STR: 0.7
@@ -21,12 +21,12 @@ Mundane Blade of the Glacier
 
 ## Extremes
 - Most Stable Item: Mundane Blade of the Glacier
-- Most Volatile Item: Mundane Shard of Light
+- Most Volatile Item: Fractured Shard of the Deep
 
 ## Recent Events
-- MUTATED: 'Verdant Bow of Iron' evolved to generation 20.
-- MUTATED: 'Fractured Shard of the Deep' evolved to generation 27.
-- STABLE: 'Verdant Bow of Iron' did not mutate this tick.
+- STABLE: 'Echoing Edge of Distortion' did not mutate this tick.
+- STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.
+- STABLE: 'Mundane Spear of Blight' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 264
@@ -40,8 +40,8 @@ Mundane Blade of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 21732
-- Successful Mutations: 9057
+- Mutations Attempted: 21757
+- Successful Mutations: 9064
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Blade of the Glacier
 
 ## Economy
 - Total Currency: 481550
-- Currency per Tick (avg): 22.16
+- Currency per Tick (avg): 22.13
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
