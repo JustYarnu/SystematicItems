@@ -1,23 +1,23 @@
 {
-  "currency": 484250,
-  "tick": 21807,
+  "currency": 488500,
+  "tick": 21832,
   "mutation_stats": {
-    "attempted": 21807,
-    "success": 9084
+    "attempted": 21832,
+    "success": 9094
   },
   "recent_events": [
-    "MUTATED: 'Mundane Spear of Blight' evolved to generation 8.",
-    "MUTATED: 'Echoing Edge of Distortion' evolved to generation 44.",
-    "MUTATED: 'Mundane Spear of Blight' evolved to generation 9.",
+    "STABLE: 'Mundane Spear of Blight' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Might' evolved to generation 2.",
+    "STABLE: 'Titanic Blade of Grace' did not mutate this tick.",
+    "STABLE: 'Verdant Relic of Embers' did not mutate this tick.",
     "STABLE: 'Echoing Edge of Distortion' did not mutate this tick.",
-    "MUTATED: 'Echoing Edge of Distortion' evolved to generation 45.",
+    "STABLE: 'Mundane Spear of Blight' did not mutate this tick.",
     "STABLE: 'Echoing Edge of Distortion' did not mutate this tick.",
-    "STABLE: 'Verdant Bow of Iron' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
-    "STABLE: 'Titanic Blade of Grace' did not mutate this tick."
+    "REPLACED WITH: 'Mundane Blade of Grace' (4d6ee1ac-8570-470d-98e7-0cbbd0549412)",
+    "STABLE: 'Verdant Relic of Embers' did not mutate this tick.",
+    "MUTATED: 'Shattered Rapier of Pestilence' evolved to generation 2."
   ],
-  "created": 266,
-  "avg_lifespan": 35.832031250000014,
-  "archived": 256
+  "created": 268,
+  "avg_lifespan": 35.86821705426358,
+  "archived": 258
 }
