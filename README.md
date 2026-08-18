@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-21482
+21507
 
 ## Oldest Item
 Mundane Spear of Blight
@@ -11,8 +11,8 @@ Mundane Spear of Blight
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.18
-- Average Volatility: 0.35
-- Average Durability: 54.85
+- Average Volatility: 0.36
+- Average Durability: 50.6
 
 ## Dominant Factions
 - STR: 0.5
@@ -24,9 +24,9 @@ Mundane Spear of Blight
 - Most Volatile Item: Mundane Shard of Light
 
 ## Recent Events
-- STABLE: 'Mundane Shard of Light' did not mutate this tick.
-- STABLE: 'Dread Blade of Blood' did not mutate this tick.
-- STABLE: 'Titanic Blade of Grace' did not mutate this tick.
+- MUTATED: 'Mundane Spear of Blight' evolved to generation 3.
+- STABLE: 'Verdant Bow of Iron' did not mutate this tick.
+- MUTATED: 'Fractured Shard of the Deep' evolved to generation 17.
 
 ## Lifecycle Stats
 - Items Created: 263
@@ -40,8 +40,8 @@ Mundane Spear of Blight
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 21482
-- Successful Mutations: 8960
+- Mutations Attempted: 21507
+- Successful Mutations: 8969
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Spear of Blight
 
 ## Economy
 - Total Currency: 479600
-- Currency per Tick (avg): 22.33
+- Currency per Tick (avg): 22.3
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
