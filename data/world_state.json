@@ -1,23 +1,23 @@
 {
-  "currency": 481550,
-  "tick": 21757,
+  "currency": 482400,
+  "tick": 21782,
   "mutation_stats": {
-    "attempted": 21757,
-    "success": 9064
+    "attempted": 21782,
+    "success": 9075
   },
   "recent_events": [
-    "STABLE: 'Dread Blade of Blood' did not mutate this tick.",
-    "MUTATED: 'Titanic Blade of Grace' evolved to generation 21.",
-    "STABLE: 'Dread Blade of Blood' did not mutate this tick.",
+    "MUTATED: 'Mundane Blade of the Glacier' evolved to generation 2.",
+    "MUTATED: 'Verdant Bow of Iron' evolved to generation 22.",
     "STABLE: 'Verdant Bow of Iron' did not mutate this tick.",
+    "STABLE: 'Mundane Spear of Blight' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
     "STABLE: 'Fractured Shard of the Deep' did not mutate this tick.",
-    "STABLE: 'Dread Blade of Blood' did not mutate this tick.",
-    "MUTATED: 'Echoing Edge of Distortion' evolved to generation 42.",
-    "STABLE: 'Echoing Edge of Distortion' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
-    "STABLE: 'Mundane Spear of Blight' did not mutate this tick."
+    "MUTATED: 'Mundane Shard of Light' evolved to generation 33.",
+    "MUTATED: 'Titanic Blade of Grace' evolved to generation 22.",
+    "STABLE: 'Fractured Shard of the Deep' did not mutate this tick.",
+    "STABLE: 'Mundane Shard of Light' did not mutate this tick."
   ],
-  "created": 264,
-  "avg_lifespan": 35.91732283464568,
-  "archived": 254
+  "created": 265,
+  "avg_lifespan": 35.835294117647074,
+  "archived": 255
 }
