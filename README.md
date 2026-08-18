@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-21857
+21882
 
 ## Oldest Item
 Mundane Blade of Grace
@@ -12,21 +12,21 @@ Mundane Blade of Grace
 - Active Items: 10
 - Average Rarity: 1.0
 - Average Volatility: 0.29
-- Average Durability: 67.13
+- Average Durability: 66.11
 
 ## Dominant Factions
+- Order: 0.4
 - Restoration: 0.3
-- Order: 0.3
 - STR: 0.2
 
 ## Extremes
-- Most Stable Item: Mundane Blade of Grace
-- Most Volatile Item: Titanic Blade of Grace
+- Most Stable Item: Nimble Core of Torment
+- Most Volatile Item: Mundane Focus of Stone
 
 ## Recent Events
-- MUTATED: 'Titanic Blade of Grace' evolved to generation 25.
+- STABLE: 'Mundane Spear of Blight' did not mutate this tick.
+- MUTATED: 'Mundane Spear of Blight' evolved to generation 11.
 - STABLE: 'Nimble Spear of Might' did not mutate this tick.
-- STABLE: 'Mundane Rapier of Might' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 269
@@ -40,8 +40,8 @@ Mundane Blade of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 21857
-- Successful Mutations: 9100
+- Mutations Attempted: 21882
+- Successful Mutations: 9111
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Blade of Grace
 
 ## Economy
 - Total Currency: 489750
-- Currency per Tick (avg): 22.41
+- Currency per Tick (avg): 22.38
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
