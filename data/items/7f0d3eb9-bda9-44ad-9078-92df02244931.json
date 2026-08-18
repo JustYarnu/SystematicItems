@@ -2,7 +2,7 @@
   "id": "7f0d3eb9-bda9-44ad-9078-92df02244931",
   "name": "Dread Blade of Blood",
   "type": "Sword",
-  "generation": 11,
+  "generation": 13,
   "damage": 13.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,12 @@
   "str_mod": 1.6500000000000001,
   "dex_mod": 1.3500000000000003,
   "rarity": 1,
-  "durability": 19.6,
+  "durability": 12.840000000000003,
   "max_durability": 99.0,
-  "volatility": 0.39000000000000035,
-  "resilience": 0.48000000000000004,
+  "volatility": 0.37000000000000033,
+  "resilience": 0.56,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "DEX": 0.1
+  }
 }
