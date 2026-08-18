@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-21782
+21807
 
 ## Oldest Item
 Mundane Rapier of Might
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.18
-- Average Volatility: 0.4
-- Average Durability: 39.73
+- Average Rarity: 1.15
+- Average Volatility: 0.37
+- Average Durability: 46.89
 
 ## Dominant Factions
-- STR: 0.8
+- STR: 0.9
 - Restoration: 0.6
 - Order: 0.5
 
 ## Extremes
-- Most Stable Item: Mundane Rapier of Might
+- Most Stable Item: Nimble Spear of Might
 - Most Volatile Item: Fractured Shard of the Deep
 
 ## Recent Events
-- MUTATED: 'Titanic Blade of Grace' evolved to generation 22.
-- STABLE: 'Fractured Shard of the Deep' did not mutate this tick.
-- STABLE: 'Mundane Shard of Light' did not mutate this tick.
+- STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.
+- STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.
+- STABLE: 'Titanic Blade of Grace' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 265
-- Items Archived: 255
+- Items Created: 266
+- Items Archived: 256
 - Avg Lifespan (ticks): 35.8
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Mundane Rapier of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 21782
-- Successful Mutations: 9075
+- Mutations Attempted: 21807
+- Successful Mutations: 9084
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Mundane Rapier of Might
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 482400
-- Currency per Tick (avg): 22.15
+- Total Currency: 484250
+- Currency per Tick (avg): 22.21
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
