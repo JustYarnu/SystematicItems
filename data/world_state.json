@@ -1,21 +1,21 @@
 {
   "currency": 478650,
-  "tick": 21432,
+  "tick": 21457,
   "mutation_stats": {
-    "attempted": 21432,
-    "success": 8941
+    "attempted": 21457,
+    "success": 8951
   },
   "recent_events": [
+    "STABLE: 'Shattered Axe of Silence' did not mutate this tick.",
+    "STABLE: 'Shattered Axe of Silence' did not mutate this tick.",
+    "STABLE: 'Mundane Focus of Stone' did not mutate this tick.",
     "STABLE: 'Fractured Shard of the Deep' did not mutate this tick.",
-    "STABLE: 'Dread Blade of Blood' did not mutate this tick.",
     "STABLE: 'Mundane Focus of Stone' did not mutate this tick.",
-    "STABLE: 'Verdant Bow of Iron' did not mutate this tick.",
-    "STABLE: 'Echoing Rapier of Iron' did not mutate this tick.",
-    "MUTATED: 'Echoing Edge of Distortion' evolved to generation 30.",
+    "MUTATED: 'Dread Blade of Blood' evolved to generation 7.",
     "STABLE: 'Mundane Focus of Stone' did not mutate this tick.",
-    "STABLE: 'Dread Blade of Blood' did not mutate this tick.",
-    "MUTATED: 'Shattered Axe of Silence' evolved to generation 13.",
-    "MUTATED: 'Fractured Shard of the Deep' evolved to generation 11."
+    "MUTATED: 'Fractured Shard of the Deep' evolved to generation 12.",
+    "MUTATED: 'Echoing Rapier of Iron' evolved to generation 23.",
+    "STABLE: 'Verdant Relic of Embers' did not mutate this tick."
   ],
   "created": 262,
   "avg_lifespan": 35.988095238095255,
