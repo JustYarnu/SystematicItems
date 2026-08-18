@@ -1,20 +1,20 @@
 {
   "currency": 479600,
-  "tick": 21557,
+  "tick": 21582,
   "mutation_stats": {
-    "attempted": 21557,
-    "success": 8988
+    "attempted": 21582,
+    "success": 8998
   },
   "recent_events": [
-    "STABLE: 'Verdant Bow of Iron' did not mutate this tick.",
-    "STABLE: 'Fractured Shard of the Deep' did not mutate this tick.",
-    "STABLE: 'Echoing Edge of Distortion' did not mutate this tick.",
+    "MUTATED: 'Dread Blade of Blood' evolved to generation 10.",
+    "MUTATED: 'Verdant Relic of Embers' evolved to generation 17.",
+    "STABLE: 'Titanic Blade of Grace' did not mutate this tick.",
     "STABLE: 'Mundane Shard of Light' did not mutate this tick.",
-    "MUTATED: 'Echoing Rapier of Iron' evolved to generation 29.",
-    "MUTATED: 'Verdant Relic of Embers' evolved to generation 16.",
-    "MUTATED: 'Echoing Rapier of Iron' evolved to generation 30.",
-    "STABLE: 'Mundane Spear of Blight' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Stone' did not mutate this tick.",
+    "STABLE: 'Verdant Bow of Iron' did not mutate this tick.",
+    "MUTATED: 'Echoing Rapier of Iron' evolved to generation 32.",
+    "MUTATED: 'Echoing Rapier of Iron' evolved to generation 33.",
+    "STABLE: 'Fractured Shard of the Deep' did not mutate this tick.",
+    "STABLE: 'Verdant Bow of Iron' did not mutate this tick.",
     "STABLE: 'Verdant Relic of Embers' did not mutate this tick."
   ],
   "created": 263,
