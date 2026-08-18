@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-21407
+21432
 
 ## Oldest Item
-Dread Blade of Blood
+Verdant Bow of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.18
 - Average Volatility: 0.4
-- Average Durability: 53.55
+- Average Durability: 50.73
 
 ## Dominant Factions
 - Order: 0.5
+- STR: 0.4
 - Restoration: 0.3
-- Stability: 0.2
 
 ## Extremes
 - Most Stable Item: Verdant Bow of Iron
-- Most Volatile Item: Fractured Shard of the Deep
+- Most Volatile Item: Mundane Shard of Light
 
 ## Recent Events
-- STABLE: 'Mundane Focus of Stone' did not mutate this tick.
-- MUTATED: 'Verdant Bow of Iron' evolved to generation 4.
-- MUTATED: 'Verdant Bow of Iron' evolved to generation 5.
+- STABLE: 'Dread Blade of Blood' did not mutate this tick.
+- MUTATED: 'Shattered Axe of Silence' evolved to generation 13.
+- MUTATED: 'Fractured Shard of the Deep' evolved to generation 11.
 
 ## Lifecycle Stats
 - Items Created: 262
@@ -40,8 +40,8 @@ Dread Blade of Blood
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 21407
-- Successful Mutations: 8930
+- Mutations Attempted: 21432
+- Successful Mutations: 8941
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Dread Blade of Blood
 
 ## Economy
 - Total Currency: 478650
-- Currency per Tick (avg): 22.36
+- Currency per Tick (avg): 22.33
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

@@ -1,21 +1,21 @@
 {
   "currency": 478650,
-  "tick": 21407,
+  "tick": 21432,
   "mutation_stats": {
-    "attempted": 21407,
-    "success": 8930
+    "attempted": 21432,
+    "success": 8941
   },
   "recent_events": [
-    "MUTATED: 'Mundane Shard of Light' evolved to generation 14.",
-    "MUTATED: 'Mundane Shard of Light' evolved to generation 15.",
     "STABLE: 'Fractured Shard of the Deep' did not mutate this tick.",
-    "MUTATED: 'Fractured Shard of the Deep' evolved to generation 10.",
-    "MUTATED: 'Shattered Axe of Silence' evolved to generation 9.",
     "STABLE: 'Dread Blade of Blood' did not mutate this tick.",
-    "MUTATED: 'Shattered Axe of Silence' evolved to generation 10.",
     "STABLE: 'Mundane Focus of Stone' did not mutate this tick.",
-    "MUTATED: 'Verdant Bow of Iron' evolved to generation 4.",
-    "MUTATED: 'Verdant Bow of Iron' evolved to generation 5."
+    "STABLE: 'Verdant Bow of Iron' did not mutate this tick.",
+    "STABLE: 'Echoing Rapier of Iron' did not mutate this tick.",
+    "MUTATED: 'Echoing Edge of Distortion' evolved to generation 30.",
+    "STABLE: 'Mundane Focus of Stone' did not mutate this tick.",
+    "STABLE: 'Dread Blade of Blood' did not mutate this tick.",
+    "MUTATED: 'Shattered Axe of Silence' evolved to generation 13.",
+    "MUTATED: 'Fractured Shard of the Deep' evolved to generation 11."
   ],
   "created": 262,
   "avg_lifespan": 35.988095238095255,
