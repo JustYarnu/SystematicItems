@@ -1,0 +1,22 @@
+{
+  "id": "5bcf5719-41ab-4ab7-a367-731a5b34d397",
+  "name": "Nimble Core of Torment",
+  "type": "Artifact",
+  "generation": 2,
+  "damage": 21.0,
+  "damage_type": [
+    "Physical",
+    "Shadow"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.25,
+  "rarity": 1,
+  "durability": 80.65,
+  "max_durability": 110.0,
+  "volatility": 0.11,
+  "resilience": 0.55,
+  "worth": 100,
+  "affinities": {}
+}

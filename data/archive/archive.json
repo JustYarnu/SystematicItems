@@ -6968,5 +6968,32 @@
       "Chaos": 0.1,
       "Scarceness": 0.1
     }
+  },
+  {
+    "id": "f306fdea-4c36-4205-9af0-c65816ad872d",
+    "name": "Verdant Relic of Embers",
+    "type": "Artifact",
+    "generation": 23,
+    "damage": 30.5,
+    "damage_type": [
+      "Physical",
+      "Nature",
+      "Holy",
+      "Fire"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.01,
+    "str_mod": 1.1,
+    "dex_mod": 0.8,
+    "rarity": 1.5,
+    "durability": -0.5126312474759782,
+    "max_durability": 128.0,
+    "volatility": 0.5600000000000004,
+    "resilience": 0.6792481250360577,
+    "worth": 1250,
+    "affinities": {
+      "Order": 0.1,
+      "Restoration": 0.3
+    }
   }
 ]
