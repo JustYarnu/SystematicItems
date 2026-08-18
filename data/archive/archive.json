@@ -6834,5 +6834,32 @@
       "DEX": 0.2,
       "Stability": 0.1
     }
+  },
+  {
+    "id": "1098ecfd-5f83-41d6-9f5c-c8bbb96aeb66",
+    "name": "Echoing Rapier of Iron",
+    "type": "Generic",
+    "generation": 37,
+    "damage": 28.5,
+    "damage_type": [
+      "Physical",
+      "Sonic",
+      "Piercing"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.1,
+    "dex_mod": 1.25,
+    "rarity": 2,
+    "durability": -0.040000000000009805,
+    "max_durability": 138.0,
+    "volatility": 0.6,
+    "resilience": 0.7999999999999999,
+    "worth": 1950,
+    "affinities": {
+      "Order": 0.2,
+      "Chaos": 0.1,
+      "Restoration": 0.2
+    }
   }
 ]
