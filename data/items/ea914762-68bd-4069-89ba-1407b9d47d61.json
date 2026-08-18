@@ -2,7 +2,7 @@
   "id": "ea914762-68bd-4069-89ba-1407b9d47d61",
   "name": "Titanic Blade of Grace",
   "type": "Sword",
-  "generation": 16,
+  "generation": 17,
   "damage": 18.0,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "str_mod": 1.5500000000000003,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 82.5,
+  "durability": 77.82,
   "max_durability": 119.0,
-  "volatility": 0.4100000000000003,
-  "resilience": 0.5,
+  "volatility": 0.39000000000000035,
+  "resilience": 0.58,
   "worth": 100,
   "affinities": {
     "Restoration": 0.2,
