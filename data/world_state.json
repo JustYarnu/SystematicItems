@@ -1,21 +1,21 @@
 {
   "currency": 489750,
-  "tick": 21932,
+  "tick": 21957,
   "mutation_stats": {
-    "attempted": 21932,
-    "success": 9126
+    "attempted": 21957,
+    "success": 9136
   },
   "recent_events": [
     "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
-    "STABLE: 'Nimble Core of Torment' did not mutate this tick.",
-    "MUTATED: 'Titanic Blade of Grace' evolved to generation 33.",
-    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
-    "STABLE: 'Shattered Rapier of Pestilence' did not mutate this tick.",
-    "STABLE: 'Titanic Blade of Grace' did not mutate this tick.",
     "STABLE: 'Nimble Spear of Might' did not mutate this tick.",
-    "MUTATED: 'Mundane Focus of Stone' evolved to generation 27.",
-    "STABLE: 'Mundane Focus of Stone' did not mutate this tick.",
-    "MUTATED: 'Mundane Spear of Blight' evolved to generation 12."
+    "MUTATED: 'Nimble Core of Torment' evolved to generation 5.",
+    "STABLE: 'Nimble Spear of Might' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Grace' did not mutate this tick.",
+    "STABLE: 'Nimble Spear of Might' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Might' evolved to generation 5.",
+    "STABLE: 'Verdant Bow of Iron' did not mutate this tick.",
+    "MUTATED: 'Nimble Core of Torment' evolved to generation 6.",
+    "STABLE: 'Verdant Bow of Iron' did not mutate this tick."
   ],
   "created": 269,
   "avg_lifespan": 35.81853281853283,
