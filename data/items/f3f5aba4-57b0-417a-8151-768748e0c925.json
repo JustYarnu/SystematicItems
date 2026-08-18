@@ -2,7 +2,7 @@
   "id": "f3f5aba4-57b0-417a-8151-768748e0c925",
   "name": "Verdant Bow of Iron",
   "type": "Ranged",
-  "generation": 6,
+  "generation": 7,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.15,
   "rarity": 1,
-  "durability": 67.05000000000001,
+  "durability": 63.05000000000001,
   "max_durability": 125.0,
-  "volatility": 0.23000000000000015,
+  "volatility": 0.15000000000000016,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {}

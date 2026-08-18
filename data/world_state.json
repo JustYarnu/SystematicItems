@@ -1,23 +1,23 @@
 {
-  "currency": 478650,
-  "tick": 21457,
+  "currency": 479600,
+  "tick": 21482,
   "mutation_stats": {
-    "attempted": 21457,
-    "success": 8951
+    "attempted": 21482,
+    "success": 8960
   },
   "recent_events": [
-    "STABLE: 'Shattered Axe of Silence' did not mutate this tick.",
-    "STABLE: 'Shattered Axe of Silence' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Stone' did not mutate this tick.",
-    "STABLE: 'Fractured Shard of the Deep' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Stone' did not mutate this tick.",
-    "MUTATED: 'Dread Blade of Blood' evolved to generation 7.",
-    "STABLE: 'Mundane Focus of Stone' did not mutate this tick.",
-    "MUTATED: 'Fractured Shard of the Deep' evolved to generation 12.",
-    "MUTATED: 'Echoing Rapier of Iron' evolved to generation 23.",
-    "STABLE: 'Verdant Relic of Embers' did not mutate this tick."
+    "MUTATED: 'Verdant Bow of Iron' evolved to generation 7.",
+    "STABLE: 'Verdant Bow of Iron' did not mutate this tick.",
+    "MUTATED: 'Titanic Blade of Grace' evolved to generation 14.",
+    "STABLE: 'Echoing Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Echoing Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Mundane Spear of Blight' did not mutate this tick.",
+    "STABLE: 'Mundane Spear of Blight' did not mutate this tick.",
+    "STABLE: 'Mundane Shard of Light' did not mutate this tick.",
+    "STABLE: 'Dread Blade of Blood' did not mutate this tick.",
+    "STABLE: 'Titanic Blade of Grace' did not mutate this tick."
   ],
-  "created": 262,
-  "avg_lifespan": 35.988095238095255,
-  "archived": 252
+  "created": 263,
+  "avg_lifespan": 35.91304347826088,
+  "archived": 253
 }

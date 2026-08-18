@@ -2,7 +2,7 @@
   "id": "e8490471-9179-45c1-b95b-1557726e704b",
   "name": "Fractured Shard of the Deep",
   "type": "Dagger",
-  "generation": 12,
+  "generation": 14,
   "damage": 11.5,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.1,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 66.04999999999998,
-  "max_durability": 107.0,
-  "volatility": 0.48000000000000004,
-  "resilience": 0.7,
+  "durability": 58.79999999999998,
+  "max_durability": 112.0,
+  "volatility": 0.43000000000000005,
+  "resilience": 0.75,
   "worth": 100,
   "affinities": {}
 }
