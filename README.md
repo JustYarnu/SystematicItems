@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-22032
+22057
 
 ## Oldest Item
 Phantom Focus of the Sun
@@ -11,22 +11,22 @@ Phantom Focus of the Sun
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.4
-- Average Volatility: 0.37
-- Average Durability: 54.96
+- Average Volatility: 0.38
+- Average Durability: 50.13
 
 ## Dominant Factions
-- STR: 0.5
+- STR: 0.6
 - Restoration: 0.4
-- DEX: 0.4
+- Stability: 0.4
 
 ## Extremes
 - Most Stable Item: Mundane Blade of Grace
-- Most Volatile Item: Titanic Blade of Grace
+- Most Volatile Item: Mundane Spear of Blight
 
 ## Recent Events
-- REPLACED WITH: 'Phantom Focus of the Sun' (89bdc8c0-a4f3-402d-aaa2-7bd09e74a4cd)
-- STABLE: 'Mundane Rapier of Might' did not mutate this tick.
-- MUTATED: 'Titanic Blade of Grace' evolved to generation 37.
+- STABLE: 'Phantom Focus of the Sun' did not mutate this tick.
+- STABLE: 'Nimble Core of Torment' did not mutate this tick.
+- STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 270
@@ -40,8 +40,8 @@ Phantom Focus of the Sun
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 22032
-- Successful Mutations: 9165
+- Mutations Attempted: 22057
+- Successful Mutations: 9177
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Phantom Focus of the Sun
 
 ## Economy
 - Total Currency: 491500
-- Currency per Tick (avg): 22.31
+- Currency per Tick (avg): 22.28
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
