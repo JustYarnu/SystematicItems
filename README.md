@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-22407
+22432
 
 ## Oldest Item
 Zealous Bow of Torment
@@ -11,12 +11,12 @@ Zealous Bow of Torment
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.4
-- Average Volatility: 0.42
-- Average Durability: 41.14
+- Average Volatility: 0.44
+- Average Durability: 37.78
 
 ## Dominant Factions
+- STR: 0.9
 - Stability: 0.8
-- STR: 0.7
 - DEX: 0.6
 
 ## Extremes
@@ -24,9 +24,9 @@ Zealous Bow of Torment
 - Most Volatile Item: Titanic Blade of Grace
 
 ## Recent Events
-- STABLE: 'Titanic Blade of Grace' did not mutate this tick.
-- MUTATED: 'Mundane Blade of Grace' evolved to generation 10.
-- MUTATED: 'Shattered Rapier of Pestilence' evolved to generation 36.
+- MUTATED: 'Nimble Spear of Might' evolved to generation 20.
+- MUTATED: 'Zealous Focus of Ruins' evolved to generation 20.
+- STABLE: 'Nimble Spear of Might' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 273
@@ -40,8 +40,8 @@ Zealous Bow of Torment
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 22407
-- Successful Mutations: 9316
+- Mutations Attempted: 22432
+- Successful Mutations: 9327
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Zealous Bow of Torment
 
 ## Economy
 - Total Currency: 495600
-- Currency per Tick (avg): 22.12
+- Currency per Tick (avg): 22.09
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
