@@ -1,21 +1,21 @@
 {
   "currency": 494300,
-  "tick": 22307,
+  "tick": 22332,
   "mutation_stats": {
-    "attempted": 22307,
-    "success": 9266
+    "attempted": 22332,
+    "success": 9280
   },
   "recent_events": [
-    "STABLE: 'Mundane Blade of Grace' did not mutate this tick.",
-    "STABLE: 'Phantom Focus of the Sun' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
-    "STABLE: 'Phantom Focus of the Sun' did not mutate this tick.",
+    "MUTATED: 'Zealous Focus of Ruins' evolved to generation 13.",
+    "MUTATED: 'Phantom Focus of the Sun' evolved to generation 20.",
+    "MUTATED: 'Nimble Spear of Might' evolved to generation 15.",
+    "MUTATED: 'Titanic Blade of Grace' evolved to generation 57.",
+    "MUTATED: 'Mundane Blade of the Glacier' evolved to generation 18.",
+    "MUTATED: 'Zealous Focus of Ruins' evolved to generation 14.",
+    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
     "STABLE: 'Shattered Rapier of Pestilence' did not mutate this tick.",
-    "MUTATED: 'Shattered Rapier of Pestilence' evolved to generation 27.",
-    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Grace' did not mutate this tick.",
-    "STABLE: 'Nimble Core of Torment' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of the Glacier' evolved to generation 17."
+    "STABLE: 'Phantom Focus of the Sun' did not mutate this tick.",
+    "MUTATED: 'Shattered Rapier of Pestilence' evolved to generation 29."
   ],
   "created": 272,
   "avg_lifespan": 35.73282442748093,
