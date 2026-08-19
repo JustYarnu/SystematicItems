@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-22482
+22507
 
 ## Oldest Item
-Shattered Sigil of Carnage
+Rusty Axe of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.15
-- Average Volatility: 0.39
-- Average Durability: 48.93
+- Average Volatility: 0.35
+- Average Durability: 55.98
 
 ## Dominant Factions
-- Stability: 0.6
 - STR: 0.5
-- DEX: 0.4
+- Stability: 0.5
+- DEX: 0.2
 
 ## Extremes
-- Most Stable Item: Vampiric Blade of Frost
+- Most Stable Item: Rusty Axe of Iron
 - Most Volatile Item: Shattered Sigil of Carnage
 
 ## Recent Events
-- STABLE: 'Nimble Core of Torment' did not mutate this tick.
+- MUTATED: 'Nimble Spear of Might' evolved to generation 22.
 - STABLE: 'Shattered Sigil of Carnage' did not mutate this tick.
-- MUTATED: 'Nimble Core of Torment' evolved to generation 20.
+- STABLE: 'Rusty Axe of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 275
-- Items Archived: 265
+- Items Created: 276
+- Items Archived: 266
 - Avg Lifespan (ticks): 35.8
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Shattered Sigil of Carnage
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 22482
-- Successful Mutations: 9347
+- Mutations Attempted: 22507
+- Successful Mutations: 9363
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Shattered Sigil of Carnage
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 501000
-- Currency per Tick (avg): 22.28
+- Total Currency: 502500
+- Currency per Tick (avg): 22.33
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

@@ -7160,5 +7160,33 @@
       "DEX": 0.2,
       "Scarceness": 0.1
     }
+  },
+  {
+    "id": "89bdc8c0-a4f3-402d-aaa2-7bd09e74a4cd",
+    "name": "Phantom Focus of the Sun",
+    "type": "Focus",
+    "generation": 28,
+    "damage": 33.5,
+    "damage_type": [
+      "Physical",
+      "Void",
+      "Magic",
+      "Fire"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.01,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 1.4000000000000001,
+    "rarity": 1,
+    "durability": -0.6300000000000221,
+    "max_durability": 111.0,
+    "volatility": 0.52,
+    "resilience": 0.7399999999999999,
+    "worth": 1500,
+    "affinities": {
+      "Stability": 0.2,
+      "DEX": 0.2,
+      "STR": 0.2
+    }
   }
 ]
