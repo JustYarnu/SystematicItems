@@ -2,7 +2,7 @@
   "id": "c13b9e80-1d1d-4c0d-84c0-7b3f029373a5",
   "name": "Vampiric Blade of Frost",
   "type": "Sword",
-  "generation": 3,
+  "generation": 4,
   "damage": 16.0,
   "damage_type": [
     "Physical",
@@ -13,11 +13,11 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.2,
-  "dex_mod": 1.05,
+  "dex_mod": 1.1500000000000001,
   "rarity": 1,
-  "durability": 89.4,
+  "durability": 83.44000000000001,
   "max_durability": 117.0,
-  "volatility": 0.15000000000000002,
+  "volatility": 0.18000000000000005,
   "resilience": 0.6799999999999999,
   "worth": 100,
   "affinities": {

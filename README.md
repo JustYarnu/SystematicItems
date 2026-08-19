@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-22507
+22532
 
 ## Oldest Item
 Rusty Axe of Iron
@@ -12,21 +12,21 @@ Rusty Axe of Iron
 - Active Items: 10
 - Average Rarity: 1.15
 - Average Volatility: 0.35
-- Average Durability: 55.98
+- Average Durability: 52.54
 
 ## Dominant Factions
+- Stability: 0.6
 - STR: 0.5
-- Stability: 0.5
-- DEX: 0.2
+- DEX: 0.3
 
 ## Extremes
 - Most Stable Item: Rusty Axe of Iron
 - Most Volatile Item: Shattered Sigil of Carnage
 
 ## Recent Events
-- MUTATED: 'Nimble Spear of Might' evolved to generation 22.
-- STABLE: 'Shattered Sigil of Carnage' did not mutate this tick.
-- STABLE: 'Rusty Axe of Iron' did not mutate this tick.
+- STABLE: 'Nimble Spear of Might' did not mutate this tick.
+- MUTATED: 'Vampiric Blade of Frost' evolved to generation 4.
+- STABLE: 'Nimble Core of Torment' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 276
@@ -40,8 +40,8 @@ Rusty Axe of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 22507
-- Successful Mutations: 9363
+- Mutations Attempted: 22532
+- Successful Mutations: 9373
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Rusty Axe of Iron
 
 ## Economy
 - Total Currency: 502500
-- Currency per Tick (avg): 22.33
+- Currency per Tick (avg): 22.3
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

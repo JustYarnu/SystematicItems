@@ -1,21 +1,21 @@
 {
   "currency": 502500,
-  "tick": 22507,
+  "tick": 22532,
   "mutation_stats": {
-    "attempted": 22507,
-    "success": 9363
+    "attempted": 22532,
+    "success": 9373
   },
   "recent_events": [
     "STABLE: 'Vampiric Blade of Frost' did not mutate this tick.",
-    "STABLE: 'Phantom Focus of the Sun' did not mutate this tick.",
-    "REPLACED WITH: 'Rusty Axe of Iron' (96f0ca84-7757-4d58-b10f-0cc7bfd66b44)",
-    "MUTATED: 'Mundane Rapier of Might' evolved to generation 15.",
-    "STABLE: 'Nimble Bow of Whispers' did not mutate this tick.",
-    "MUTATED: 'Rusty Axe of Iron' evolved to generation 2.",
-    "STABLE: 'Mundane Blade of Grace' did not mutate this tick.",
-    "MUTATED: 'Nimble Spear of Might' evolved to generation 22.",
+    "STABLE: 'Zealous Bow of Torment' did not mutate this tick.",
     "STABLE: 'Shattered Sigil of Carnage' did not mutate this tick.",
-    "STABLE: 'Rusty Axe of Iron' did not mutate this tick."
+    "STABLE: 'Mundane Blade of Grace' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Might' evolved to generation 17.",
+    "MUTATED: 'Zealous Focus of Ruins' evolved to generation 28.",
+    "MUTATED: 'Nimble Bow of Whispers' evolved to generation 10.",
+    "STABLE: 'Nimble Spear of Might' did not mutate this tick.",
+    "MUTATED: 'Vampiric Blade of Frost' evolved to generation 4.",
+    "STABLE: 'Nimble Core of Torment' did not mutate this tick."
   ],
   "created": 276,
   "avg_lifespan": 35.781954887218056,
