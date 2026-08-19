@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-22457
+22482
 
 ## Oldest Item
-Vampiric Blade of Frost
+Shattered Sigil of Carnage
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.2
+- Average Rarity: 1.15
 - Average Volatility: 0.39
-- Average Durability: 44.36
+- Average Durability: 48.93
 
 ## Dominant Factions
-- STR: 1.0
-- Stability: 0.8
-- DEX: 0.6
+- Stability: 0.6
+- STR: 0.5
+- DEX: 0.4
 
 ## Extremes
 - Most Stable Item: Vampiric Blade of Frost
-- Most Volatile Item: Titanic Blade of Grace
+- Most Volatile Item: Shattered Sigil of Carnage
 
 ## Recent Events
-- MUTATED: 'Titanic Blade of Grace' evolved to generation 64.
-- MUTATED: 'Titanic Blade of Grace' evolved to generation 65.
-- STABLE: 'Vampiric Blade of Frost' did not mutate this tick.
+- STABLE: 'Nimble Core of Torment' did not mutate this tick.
+- STABLE: 'Shattered Sigil of Carnage' did not mutate this tick.
+- MUTATED: 'Nimble Core of Torment' evolved to generation 20.
 
 ## Lifecycle Stats
-- Items Created: 274
-- Items Archived: 264
-- Avg Lifespan (ticks): 35.7
+- Items Created: 275
+- Items Archived: 265
+- Avg Lifespan (ticks): 35.8
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Vampiric Blade of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 22457
-- Successful Mutations: 9339
+- Mutations Attempted: 22482
+- Successful Mutations: 9347
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 8
-- Uncommon: 2
+- Common: 9
+- Uncommon: 1
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Vampiric Blade of Frost
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 497600
-- Currency per Tick (avg): 22.16
+- Total Currency: 501000
+- Currency per Tick (avg): 22.28
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
