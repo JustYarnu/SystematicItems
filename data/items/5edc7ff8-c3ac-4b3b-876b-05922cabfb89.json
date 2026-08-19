@@ -2,7 +2,7 @@
   "id": "5edc7ff8-c3ac-4b3b-876b-05922cabfb89",
   "name": "Shattered Rapier of Pestilence",
   "type": "Generic",
-  "generation": 26,
+  "generation": 27,
   "damage": 35.5,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.1,
   "dex_mod": 1.1,
   "rarity": 3,
-  "durability": 60.69999999999999,
+  "durability": 49.19999999999999,
   "max_durability": 54.0,
-  "volatility": 0.5400000000000001,
+  "volatility": 0.5300000000000001,
   "resilience": 0.45,
   "worth": 100,
   "affinities": {

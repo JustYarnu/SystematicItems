@@ -2,7 +2,7 @@
   "id": "469c92e2-2cf9-4889-b68b-f9652b1bc804",
   "name": "Mundane Rapier of Might",
   "type": "Generic",
-  "generation": 9,
+  "generation": 11,
   "damage": 20.5,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.35,
   "dex_mod": 1.0,
   "rarity": 2,
-  "durability": 55.75,
+  "durability": 57.35,
   "max_durability": 107.0,
-  "volatility": 0.37000000000000033,
+  "volatility": 0.32000000000000034,
   "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {}
