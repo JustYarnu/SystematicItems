@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-22107
+22132
 
 ## Oldest Item
 Nimble Bow of Whispers
@@ -12,26 +12,26 @@ Nimble Bow of Whispers
 - Active Items: 10
 - Average Rarity: 1.5
 - Average Volatility: 0.36
-- Average Durability: 55.26
+- Average Durability: 64.89
 
 ## Dominant Factions
 - Stability: 0.6
-- STR: 0.6
-- Order: 0.5
+- STR: 0.5
+- Restoration: 0.3
 
 ## Extremes
 - Most Stable Item: Mundane Blade of Grace
 - Most Volatile Item: Titanic Blade of Grace
 
 ## Recent Events
-- MUTATED: 'Shattered Rapier of Pestilence' evolved to generation 18.
-- STABLE: 'Nimble Bow of Whispers' did not mutate this tick.
-- STABLE: 'Nimble Spear of Might' did not mutate this tick.
+- MUTATED: 'Zealous Focus of Ruins' evolved to generation 2.
+- STABLE: 'Mundane Rapier of Might' did not mutate this tick.
+- STABLE: 'Titanic Blade of Grace' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 271
-- Items Archived: 261
-- Avg Lifespan (ticks): 35.8
+- Items Created: 272
+- Items Archived: 262
+- Avg Lifespan (ticks): 35.7
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,8 +40,8 @@ Nimble Bow of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 22107
-- Successful Mutations: 9194
+- Mutations Attempted: 22132
+- Successful Mutations: 9202
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Nimble Bow of Whispers
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 493000
-- Currency per Tick (avg): 22.3
+- Total Currency: 494300
+- Currency per Tick (avg): 22.33
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

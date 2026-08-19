@@ -7050,5 +7050,33 @@
       "Order": 0.1,
       "STR": 0.1
     }
+  },
+  {
+    "id": "7ef1ed32-7fbc-4c28-ae45-3a84c76fe219",
+    "name": "Mundane Spear of Blight",
+    "type": "Polearm",
+    "generation": 24,
+    "damage": 18.0,
+    "damage_type": [
+      "Physical",
+      "Piercing",
+      "Dark"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.01,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 1.4500000000000002,
+    "rarity": 1,
+    "durability": -0.1899999999999995,
+    "max_durability": 95.0,
+    "volatility": 0.52,
+    "resilience": 0.6499999999999999,
+    "worth": 1300,
+    "affinities": {
+      "DEX": 0.2,
+      "Order": 0.2,
+      "STR": 0.1,
+      "Stability": 0.1
+    }
   }
 ]
