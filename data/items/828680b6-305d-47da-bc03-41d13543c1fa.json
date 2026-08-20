@@ -2,7 +2,7 @@
   "id": "828680b6-305d-47da-bc03-41d13543c1fa",
   "name": "Zealous Focus of Ruins",
   "type": "Focus",
-  "generation": 28,
+  "generation": 30,
   "damage": 33.5,
   "damage_type": [
     "Physical",
@@ -12,11 +12,11 @@
   "crit_damage": 3.0,
   "crit_rate": 0.01,
   "str_mod": 1.4500000000000002,
-  "dex_mod": 0.9,
+  "dex_mod": 1.0,
   "rarity": 1,
-  "durability": 40.41,
+  "durability": 48.54,
   "max_durability": 83.0,
-  "volatility": 0.46000000000000013,
+  "volatility": 0.48000000000000015,
   "resilience": 0.71,
   "worth": 100,
   "affinities": {
