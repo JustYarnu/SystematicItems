@@ -1,23 +1,23 @@
 {
-  "currency": 512400,
-  "tick": 23007,
+  "currency": 513900,
+  "tick": 23032,
   "mutation_stats": {
-    "attempted": 23007,
-    "success": 9544
+    "attempted": 23032,
+    "success": 9551
   },
   "recent_events": [
+    "STABLE: 'Nimble Bow of Whispers' did not mutate this tick.",
+    "STABLE: 'Blessed Sigil of Sparks' did not mutate this tick.",
+    "STABLE: 'Titanic Bow of Grace' did not mutate this tick.",
     "STABLE: 'Rusty Axe of Iron' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of Gales' evolved to generation 5.",
-    "STABLE: 'Mundane Rapier of Gales' did not mutate this tick.",
+    "MUTATED: 'Nimble Bow of Whispers' evolved to generation 31.",
+    "STABLE: 'Titanic Bow of Grace' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Gales' evolved to generation 6.",
     "STABLE: 'Zealous Rapier of Grace' did not mutate this tick.",
-    "STABLE: 'Ancient Core of Silence' did not mutate this tick.",
-    "STABLE: 'Zealous Rapier of Grace' did not mutate this tick.",
-    "MUTATED: 'Vampiric Blade of Frost' evolved to generation 26.",
-    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
-    "STABLE: 'Blessed Relic of Iron' did not mutate this tick.",
-    "STABLE: 'Titanic Bow of Grace' did not mutate this tick."
+    "MUTATED: 'Vampiric Blade of Frost' evolved to generation 28.",
+    "REPLACED WITH: 'Ancient Spear of Iron' (5e0fd687-07f5-4ac8-9bce-596ca011a64b)"
   ],
-  "created": 282,
-  "avg_lifespan": 35.676470588235304,
-  "archived": 272
+  "created": 283,
+  "avg_lifespan": 35.648351648351664,
+  "archived": 273
 }
