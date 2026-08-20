@@ -2,25 +2,25 @@
   "id": "fac7276b-a15a-40f7-b7c5-41bd117c24fd",
   "name": "Ancient Core of Silence",
   "type": "Artifact",
-  "generation": 6,
-  "damage": 10.0,
+  "generation": 9,
+  "damage": 13.0,
   "damage_type": [
     "Physical"
   ],
   "crit_damage": 2,
   "crit_rate": 0.01,
-  "str_mod": 1.0,
+  "str_mod": 1.2000000000000002,
   "dex_mod": 1.2,
   "rarity": 2.0,
-  "durability": 74.25,
+  "durability": 59.849999999999994,
   "max_durability": 135.0,
-  "volatility": 0.3100000000000001,
+  "volatility": 0.35000000000000014,
   "resilience": 0.45,
   "worth": 100,
   "affinities": {
     "Stability": 0.1,
     "DEX": 0.1,
-    "Order": 0.1,
+    "Order": 0.2,
     "Chaos": 0.1
   }
 }
