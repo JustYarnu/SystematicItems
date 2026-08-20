@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-22732
+22757
 
 ## Oldest Item
-Rusty Axe of Iron
+Zealous Rapier of Grace
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.15
-- Average Volatility: 0.46
-- Average Durability: 29.8
+- Average Volatility: 0.45
+- Average Durability: 37.83
 
 ## Dominant Factions
 - Stability: 0.9
-- STR: 0.7
+- STR: 0.6
 - DEX: 0.3
 
 ## Extremes
-- Most Stable Item: Rusty Axe of Iron
+- Most Stable Item: Zealous Rapier of Grace
 - Most Volatile Item: Zealous Focus of Ruins
 
 ## Recent Events
-- STABLE: 'Mundane Blade of Grace' did not mutate this tick.
-- STABLE: 'Zealous Bow of Torment' did not mutate this tick.
-- STABLE: 'Nimble Bow of Whispers' did not mutate this tick.
+- MUTATED: 'Vampiric Blade of Frost' evolved to generation 13.
+- STABLE: 'Nimble Spear of Might' did not mutate this tick.
+- STABLE: 'Nimble Spear of Might' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 276
-- Items Archived: 266
-- Avg Lifespan (ticks): 35.8
+- Items Created: 277
+- Items Archived: 267
+- Avg Lifespan (ticks): 35.7
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,9 +40,9 @@ Rusty Axe of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 22732
-- Successful Mutations: 9445
-- Failure Rate: 58.5%
+- Mutations Attempted: 22757
+- Successful Mutations: 9456
+- Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -56,8 +56,8 @@ Rusty Axe of Iron
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 502500
-- Currency per Tick (avg): 22.11
+- Total Currency: 503600
+- Currency per Tick (avg): 22.13
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
