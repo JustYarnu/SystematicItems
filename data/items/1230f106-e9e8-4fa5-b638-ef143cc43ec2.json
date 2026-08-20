@@ -2,7 +2,7 @@
   "id": "1230f106-e9e8-4fa5-b638-ef143cc43ec2",
   "name": "Shattered Sigil of Carnage",
   "type": "Focus",
-  "generation": 8,
+  "generation": 10,
   "damage": 36.0,
   "damage_type": [
     "Physical",
@@ -12,12 +12,12 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.0,
-  "dex_mod": 1.1,
+  "dex_mod": 1.2000000000000002,
   "rarity": 1.5,
-  "durability": 64.30000000000001,
-  "max_durability": 90.0,
+  "durability": 57.75000000000001,
+  "max_durability": 95.0,
   "volatility": 0.5792481250360578,
-  "resilience": 0.55,
+  "resilience": 0.6000000000000001,
   "worth": 100,
   "affinities": {
     "Stability": 0.1
