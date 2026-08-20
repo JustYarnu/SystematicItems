@@ -1,21 +1,21 @@
 {
   "currency": 510850,
-  "tick": 22907,
+  "tick": 22932,
   "mutation_stats": {
-    "attempted": 22907,
-    "success": 9512
+    "attempted": 22932,
+    "success": 9518
   },
   "recent_events": [
-    "STABLE: 'Zealous Bow of Torment' did not mutate this tick.",
+    "MUTATED: 'Zealous Rapier of Grace' evolved to generation 5.",
+    "MUTATED: 'Rusty Axe of Iron' evolved to generation 10.",
     "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
     "STABLE: 'Titanic Bow of Grace' did not mutate this tick.",
-    "MUTATED: 'Shattered Sigil of Carnage' evolved to generation 29.",
-    "STABLE: 'Zealous Rapier of Grace' did not mutate this tick.",
-    "MUTATED: 'Shattered Sigil of Carnage' evolved to generation 30.",
-    "REPLACED WITH: 'Ancient Core of Silence' (fac7276b-a15a-40f7-b7c5-41bd117c24fd)",
-    "STABLE: 'Vampiric Blade of Frost' did not mutate this tick.",
-    "STABLE: 'Titanic Bow of Grace' did not mutate this tick.",
-    "STABLE: 'Vampiric Blade of Frost' did not mutate this tick."
+    "STABLE: 'Ancient Core of Silence' did not mutate this tick.",
+    "STABLE: 'Ancient Core of Silence' did not mutate this tick.",
+    "STABLE: 'Zealous Bow of Torment' did not mutate this tick.",
+    "STABLE: 'Rusty Axe of Iron' did not mutate this tick.",
+    "STABLE: 'Rusty Axe of Iron' did not mutate this tick.",
+    "STABLE: 'Zealous Bow of Torment' did not mutate this tick."
   ],
   "created": 281,
   "avg_lifespan": 35.70110701107012,

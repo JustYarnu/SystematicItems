@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-22907
+22932
 
 ## Oldest Item
 Titanic Bow of Grace
@@ -11,22 +11,22 @@ Titanic Bow of Grace
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.25
-- Average Volatility: 0.36
-- Average Durability: 59.89
+- Average Volatility: 0.37
+- Average Durability: 57.23
 
 ## Dominant Factions
 - Stability: 0.7
 - STR: 0.5
-- DEX: 0.1
+- DEX: 0.2
 
 ## Extremes
 - Most Stable Item: Ancient Core of Silence
 - Most Volatile Item: Vampiric Blade of Frost
 
 ## Recent Events
-- STABLE: 'Vampiric Blade of Frost' did not mutate this tick.
-- STABLE: 'Titanic Bow of Grace' did not mutate this tick.
-- STABLE: 'Vampiric Blade of Frost' did not mutate this tick.
+- STABLE: 'Rusty Axe of Iron' did not mutate this tick.
+- STABLE: 'Rusty Axe of Iron' did not mutate this tick.
+- STABLE: 'Zealous Bow of Torment' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 281
@@ -40,8 +40,8 @@ Titanic Bow of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 22907
-- Successful Mutations: 9512
+- Mutations Attempted: 22932
+- Successful Mutations: 9518
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Titanic Bow of Grace
 
 ## Economy
 - Total Currency: 510850
-- Currency per Tick (avg): 22.3
+- Currency per Tick (avg): 22.28
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
