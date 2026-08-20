@@ -2,7 +2,7 @@
   "id": "96f0ca84-7757-4d58-b10f-0cc7bfd66b44",
   "name": "Rusty Axe of Iron",
   "type": "HeavyWeapon",
-  "generation": 12,
+  "generation": 13,
   "damage": 9.5,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.25,
   "dex_mod": 1.15,
   "rarity": 1,
-  "durability": 44.4,
+  "durability": 56.4,
   "max_durability": 122.0,
-  "volatility": 0.4600000000000003,
+  "volatility": 0.4700000000000003,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
