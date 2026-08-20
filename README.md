@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-22707
+22732
 
 ## Oldest Item
 Rusty Axe of Iron
@@ -11,8 +11,8 @@ Rusty Axe of Iron
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.15
-- Average Volatility: 0.45
-- Average Durability: 31.91
+- Average Volatility: 0.46
+- Average Durability: 29.8
 
 ## Dominant Factions
 - Stability: 0.9
@@ -24,9 +24,9 @@ Rusty Axe of Iron
 - Most Volatile Item: Zealous Focus of Ruins
 
 ## Recent Events
-- MUTATED: 'Nimble Spear of Might' evolved to generation 31.
-- MUTATED: 'Nimble Bow of Whispers' evolved to generation 17.
-- STABLE: 'Shattered Sigil of Carnage' did not mutate this tick.
+- STABLE: 'Mundane Blade of Grace' did not mutate this tick.
+- STABLE: 'Zealous Bow of Torment' did not mutate this tick.
+- STABLE: 'Nimble Bow of Whispers' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 276
@@ -40,9 +40,9 @@ Rusty Axe of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 22707
-- Successful Mutations: 9439
-- Failure Rate: 58.4%
+- Mutations Attempted: 22732
+- Successful Mutations: 9445
+- Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Rusty Axe of Iron
 
 ## Economy
 - Total Currency: 502500
-- Currency per Tick (avg): 22.13
+- Currency per Tick (avg): 22.11
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
