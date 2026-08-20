@@ -7265,5 +7265,58 @@
       "STR": 0.1,
       "Chaos": 0.1
     }
+  },
+  {
+    "id": "2a9e66ad-6242-47c8-bcf6-d4ec3c7cff7c",
+    "name": "Nimble Spear of Might",
+    "type": "Polearm",
+    "generation": 39,
+    "damage": 38.0,
+    "damage_type": [
+      "Physical",
+      "Piercing"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.01,
+    "str_mod": 1.7500000000000004,
+    "dex_mod": 1.4,
+    "rarity": 1,
+    "durability": -0.7199999999999922,
+    "max_durability": 96.0,
+    "volatility": 0.5300000000000005,
+    "resilience": 0.58,
+    "worth": 2050,
+    "affinities": {
+      "DEX": 0.1,
+      "Chaos": 0.1,
+      "Stability": 0.2
+    }
+  },
+  {
+    "id": "1230f106-e9e8-4fa5-b638-ef143cc43ec2",
+    "name": "Shattered Sigil of Carnage",
+    "type": "Focus",
+    "generation": 30,
+    "damage": 48.5,
+    "damage_type": [
+      "Physical",
+      "Magic",
+      "Blood"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.5000000000000004,
+    "dex_mod": 1.2000000000000002,
+    "rarity": 1.5,
+    "durability": -1.0,
+    "max_durability": 97.0,
+    "volatility": 0.5192481250360578,
+    "resilience": 0.7300000000000001,
+    "worth": 1600,
+    "affinities": {
+      "Stability": 0.1,
+      "Order": 0.3,
+      "DEX": 0.2
+    }
   }
 ]
