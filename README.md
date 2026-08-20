@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-22782
+22807
 
 ## Oldest Item
 Zealous Rapier of Grace
@@ -11,22 +11,22 @@ Zealous Rapier of Grace
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.15
-- Average Volatility: 0.44
-- Average Durability: 34.79
+- Average Volatility: 0.43
+- Average Durability: 29.82
 
 ## Dominant Factions
-- Stability: 1.0
+- Stability: 1.1
 - STR: 0.6
 - DEX: 0.3
 
 ## Extremes
 - Most Stable Item: Zealous Rapier of Grace
-- Most Volatile Item: Zealous Focus of Ruins
+- Most Volatile Item: Nimble Core of Torment
 
 ## Recent Events
-- STABLE: 'Zealous Bow of Torment' did not mutate this tick.
-- MUTATED: 'Nimble Bow of Whispers' evolved to generation 22.
-- STABLE: 'Zealous Focus of Ruins' did not mutate this tick.
+- STABLE: 'Zealous Rapier of Grace' did not mutate this tick.
+- STABLE: 'Zealous Rapier of Grace' did not mutate this tick.
+- MUTATED: 'Nimble Spear of Might' evolved to generation 36.
 
 ## Lifecycle Stats
 - Items Created: 277
@@ -40,8 +40,8 @@ Zealous Rapier of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 22782
-- Successful Mutations: 9466
+- Mutations Attempted: 22807
+- Successful Mutations: 9482
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Zealous Rapier of Grace
 
 ## Economy
 - Total Currency: 503600
-- Currency per Tick (avg): 22.11
+- Currency per Tick (avg): 22.08
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

@@ -1,21 +1,21 @@
 {
   "currency": 503600,
-  "tick": 22782,
+  "tick": 22807,
   "mutation_stats": {
-    "attempted": 22782,
-    "success": 9466
+    "attempted": 22807,
+    "success": 9482
   },
   "recent_events": [
-    "STABLE: 'Nimble Spear of Might' did not mutate this tick.",
-    "MUTATED: 'Zealous Focus of Ruins' evolved to generation 36.",
-    "STABLE: 'Zealous Bow of Torment' did not mutate this tick.",
-    "MUTATED: 'Zealous Bow of Torment' evolved to generation 20.",
-    "MUTATED: 'Zealous Focus of Ruins' evolved to generation 37.",
-    "MUTATED: 'Vampiric Blade of Frost' evolved to generation 14.",
-    "STABLE: 'Zealous Bow of Torment' did not mutate this tick.",
-    "STABLE: 'Zealous Bow of Torment' did not mutate this tick.",
-    "MUTATED: 'Nimble Bow of Whispers' evolved to generation 22.",
-    "STABLE: 'Zealous Focus of Ruins' did not mutate this tick."
+    "MUTATED: 'Shattered Sigil of Carnage' evolved to generation 20.",
+    "MUTATED: 'Shattered Sigil of Carnage' evolved to generation 21.",
+    "MUTATED: 'Zealous Bow of Torment' evolved to generation 22.",
+    "STABLE: 'Nimble Bow of Whispers' did not mutate this tick.",
+    "MUTATED: 'Zealous Bow of Torment' evolved to generation 23.",
+    "MUTATED: 'Nimble Spear of Might' evolved to generation 35.",
+    "MUTATED: 'Vampiric Blade of Frost' evolved to generation 17.",
+    "STABLE: 'Zealous Rapier of Grace' did not mutate this tick.",
+    "STABLE: 'Zealous Rapier of Grace' did not mutate this tick.",
+    "MUTATED: 'Nimble Spear of Might' evolved to generation 36."
   ],
   "created": 277,
   "avg_lifespan": 35.72284644194758,
