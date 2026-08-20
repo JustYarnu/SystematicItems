@@ -1,23 +1,23 @@
 {
-  "currency": 505100,
-  "tick": 22832,
+  "currency": 507200,
+  "tick": 22857,
   "mutation_stats": {
-    "attempted": 22832,
-    "success": 9489
+    "attempted": 22857,
+    "success": 9497
   },
   "recent_events": [
-    "STABLE: 'Mundane Rapier of Gales' did not mutate this tick.",
-    "MUTATED: 'Nimble Spear of Might' evolved to generation 37.",
-    "MUTATED: 'Mundane Rapier of Might' evolved to generation 27.",
     "STABLE: 'Nimble Spear of Might' did not mutate this tick.",
-    "MUTATED: 'Shattered Sigil of Carnage' evolved to generation 23.",
-    "MUTATED: 'Nimble Spear of Might' evolved to generation 38.",
-    "STABLE: 'Mundane Rapier of Gales' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
+    "MUTATED: 'Shattered Sigil of Carnage' evolved to generation 24.",
+    "MUTATED: 'Mundane Rapier of Gales' evolved to generation 2.",
+    "STABLE: 'Titanic Bow of Grace' did not mutate this tick.",
     "STABLE: 'Zealous Bow of Torment' did not mutate this tick.",
+    "MUTATED: 'Zealous Rapier of Grace' evolved to generation 3.",
+    "MUTATED: 'Shattered Sigil of Carnage' evolved to generation 25.",
+    "STABLE: 'Mundane Rapier of Gales' did not mutate this tick.",
+    "STABLE: 'Shattered Sigil of Carnage' did not mutate this tick.",
     "STABLE: 'Rusty Axe of Iron' did not mutate this tick."
   ],
-  "created": 278,
-  "avg_lifespan": 35.69402985074628,
-  "archived": 268
+  "created": 279,
+  "avg_lifespan": 35.7100371747212,
+  "archived": 269
 }

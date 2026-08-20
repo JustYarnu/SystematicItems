@@ -2,7 +2,7 @@
   "id": "2a9e66ad-6242-47c8-bcf6-d4ec3c7cff7c",
   "name": "Nimble Spear of Might",
   "type": "Polearm",
-  "generation": 38,
+  "generation": 39,
   "damage": 38.0,
   "damage_type": [
     "Physical",
@@ -11,11 +11,11 @@
   "crit_damage": 3.0,
   "crit_rate": 0.01,
   "str_mod": 1.7500000000000004,
-  "dex_mod": 1.2999999999999998,
+  "dex_mod": 1.4,
   "rarity": 1,
-  "durability": 4.540000000000008,
+  "durability": 0.2800000000000078,
   "max_durability": 96.0,
-  "volatility": 0.5100000000000005,
+  "volatility": 0.5200000000000005,
   "resilience": 0.58,
   "worth": 100,
   "affinities": {
