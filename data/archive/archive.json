@@ -7318,5 +7318,32 @@
       "Order": 0.3,
       "DEX": 0.2
     }
+  },
+  {
+    "id": "f63093d5-ea4a-490b-b960-cca21a8c5246",
+    "name": "Zealous Bow of Torment",
+    "type": "Ranged",
+    "generation": 29,
+    "damage": 32.0,
+    "damage_type": [
+      "Physical",
+      "Holy",
+      "Piercing",
+      "Shadow"
+    ],
+    "crit_damage": 3.3,
+    "crit_rate": 0.01,
+    "str_mod": 1.5500000000000003,
+    "dex_mod": 1.35,
+    "rarity": 1,
+    "durability": -0.38999999999999924,
+    "max_durability": 109.0,
+    "volatility": 0.45000000000000034,
+    "resilience": 0.7,
+    "worth": 1550,
+    "affinities": {
+      "STR": 0.1,
+      "Stability": 0.1
+    }
   }
 ]

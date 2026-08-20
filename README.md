@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-22957
+22982
 
 ## Oldest Item
 Ancient Core of Silence
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.25
-- Average Volatility: 0.39
-- Average Durability: 54.14
+- Average Rarity: 1.3
+- Average Volatility: 0.36
+- Average Durability: 62.79
 
 ## Dominant Factions
-- Stability: 0.7
-- STR: 0.6
+- Stability: 0.6
+- STR: 0.5
 - DEX: 0.2
 
 ## Extremes
-- Most Stable Item: Ancient Core of Silence
+- Most Stable Item: Blessed Relic of Iron
 - Most Volatile Item: Vampiric Blade of Frost
 
 ## Recent Events
-- MUTATED: 'Titanic Bow of Grace' evolved to generation 2.
-- STABLE: 'Mundane Rapier of Might' did not mutate this tick.
-- MUTATED: 'Rusty Axe of Iron' evolved to generation 12.
+- MUTATED: 'Titanic Bow of Grace' evolved to generation 3.
+- STABLE: 'Blessed Relic of Iron' did not mutate this tick.
+- MUTATED: 'Blessed Sigil of Sparks' evolved to generation 4.
 
 ## Lifecycle Stats
-- Items Created: 281
-- Items Archived: 271
+- Items Created: 282
+- Items Archived: 272
 - Avg Lifespan (ticks): 35.7
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Ancient Core of Silence
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 22957
-- Successful Mutations: 9526
+- Mutations Attempted: 22982
+- Successful Mutations: 9533
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Ancient Core of Silence
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 510850
-- Currency per Tick (avg): 22.25
+- Total Currency: 512400
+- Currency per Tick (avg): 22.3
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
