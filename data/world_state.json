@@ -1,21 +1,21 @@
 {
   "currency": 515550,
-  "tick": 23057,
+  "tick": 23082,
   "mutation_stats": {
-    "attempted": 23057,
-    "success": 9559
+    "attempted": 23082,
+    "success": 9567
   },
   "recent_events": [
-    "REPLACED WITH: 'Phantom Axe of Blood' (40990552-f1d2-4572-939f-f92ceada6a4c)",
-    "STABLE: 'Ancient Spear of Iron' did not mutate this tick.",
-    "STABLE: 'Ancient Core of Silence' did not mutate this tick.",
-    "MUTATED: 'Phantom Axe of Blood' evolved to generation 2.",
-    "MUTATED: 'Mundane Rapier of Might' evolved to generation 31.",
-    "STABLE: 'Ancient Spear of Iron' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of Gales' evolved to generation 8.",
-    "MUTATED: 'Mundane Rapier of Might' evolved to generation 32.",
-    "STABLE: 'Blessed Relic of Iron' did not mutate this tick.",
-    "STABLE: 'Blessed Relic of Iron' did not mutate this tick."
+    "STABLE: 'Titanic Bow of Grace' did not mutate this tick.",
+    "MUTATED: 'Blessed Relic of Iron' evolved to generation 2.",
+    "MUTATED: 'Rusty Axe of Iron' evolved to generation 15.",
+    "STABLE: 'Titanic Bow of Grace' did not mutate this tick.",
+    "STABLE: 'Zealous Rapier of Grace' did not mutate this tick.",
+    "MUTATED: 'Titanic Bow of Grace' evolved to generation 5.",
+    "STABLE: 'Titanic Bow of Grace' did not mutate this tick.",
+    "MUTATED: 'Phantom Axe of Blood' evolved to generation 3.",
+    "STABLE: 'Titanic Bow of Grace' did not mutate this tick.",
+    "STABLE: 'Zealous Rapier of Grace' did not mutate this tick."
   ],
   "created": 284,
   "avg_lifespan": 35.631386861313885,
