@@ -2,7 +2,7 @@
   "id": "f63093d5-ea4a-490b-b960-cca21a8c5246",
   "name": "Zealous Bow of Torment",
   "type": "Ranged",
-  "generation": 27,
+  "generation": 28,
   "damage": 32.0,
   "damage_type": [
     "Physical",
@@ -15,10 +15,10 @@
   "str_mod": 1.5500000000000003,
   "dex_mod": 1.35,
   "rarity": 1,
-  "durability": 8.71,
+  "durability": 2.210000000000001,
   "max_durability": 109.0,
-  "volatility": 0.39000000000000035,
-  "resilience": 0.75,
+  "volatility": 0.5000000000000003,
+  "resilience": 0.7,
   "worth": 100,
   "affinities": {
     "STR": 0.1,
