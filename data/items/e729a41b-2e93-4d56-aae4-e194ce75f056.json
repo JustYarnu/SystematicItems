@@ -2,7 +2,7 @@
   "id": "e729a41b-2e93-4d56-aae4-e194ce75f056",
   "name": "Nimble Bow of Whispers",
   "type": "Ranged",
-  "generation": 20,
+  "generation": 22,
   "damage": 13.0,
   "damage_type": [
     "Physical",
@@ -12,12 +12,12 @@
   "crit_damage": 2,
   "crit_rate": 0.060000000000000005,
   "str_mod": 1.0,
-  "dex_mod": 1.77,
+  "dex_mod": 1.87,
   "rarity": 1,
-  "durability": 21.98999999999999,
-  "max_durability": 118.0,
+  "durability": 16.24999999999999,
+  "max_durability": 123.0,
   "volatility": 0.43000000000000044,
-  "resilience": 0.6599999999999999,
+  "resilience": 0.71,
   "worth": 100,
   "affinities": {
     "DEX": 0.1
