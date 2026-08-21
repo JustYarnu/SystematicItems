@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-23557
+23582
 
 ## Oldest Item
-Stormcharged Shard of Blight
+Brittle Core of Sparks
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.3
-- Average Volatility: 0.55
-- Average Durability: 33.83
+- Average Rarity: 2.25
+- Average Volatility: 0.51
+- Average Durability: 37.52
 
 ## Dominant Factions
 - Chaos: 0.8
-- Stability: 0.7
+- Stability: 0.6
 - DEX: 0.6
 
 ## Extremes
-- Most Stable Item: Titanic Bow of Grace
+- Most Stable Item: Brittle Core of Sparks
 - Most Volatile Item: Iridescent Bow of Ruins
 
 ## Recent Events
-- MUTATED: 'Phantom Axe of Blood' evolved to generation 21.
-- MUTATED: 'Blessed Sigil of Sparks' evolved to generation 23.
-- MUTATED: 'Phantom Axe of Blood' evolved to generation 22.
+- STABLE: 'Stormcharged Shard of Blight' did not mutate this tick.
+- STABLE: 'Titanic Bow of Grace' did not mutate this tick.
+- MUTATED: 'Phantom Axe of Blood' evolved to generation 24.
 
 ## Lifecycle Stats
-- Items Created: 287
-- Items Archived: 277
+- Items Created: 288
+- Items Archived: 278
 - Avg Lifespan (ticks): 35.6
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Stormcharged Shard of Blight
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 23557
-- Successful Mutations: 9783
+- Mutations Attempted: 23582
+- Successful Mutations: 9798
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Stormcharged Shard of Blight
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 520550
-- Currency per Tick (avg): 22.1
+- Total Currency: 522150
+- Currency per Tick (avg): 22.14
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

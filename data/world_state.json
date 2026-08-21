@@ -1,23 +1,23 @@
 {
-  "currency": 520550,
-  "tick": 23557,
+  "currency": 522150,
+  "tick": 23582,
   "mutation_stats": {
-    "attempted": 23557,
-    "success": 9783
+    "attempted": 23582,
+    "success": 9798
   },
   "recent_events": [
-    "STABLE: 'Phantom Axe of Blood' did not mutate this tick.",
-    "MUTATED: 'Stormcharged Shard of Blight' evolved to generation 12.",
-    "MUTATED: 'Titanic Bow of Grace' evolved to generation 23.",
-    "STABLE: 'Stormcharged Shard of Blight' did not mutate this tick.",
+    "MUTATED: 'Iridescent Bow of Ruins' evolved to generation 21.",
+    "STABLE: 'Ancient Spear of Iron' did not mutate this tick.",
+    "MUTATED: 'Blessed Relic of Iron' evolved to generation 29.",
+    "MUTATED: 'Blessed Sigil of Sparks' evolved to generation 24.",
     "STABLE: 'Blessed Sigil of Sparks' did not mutate this tick.",
-    "STABLE: 'Ancient Core of Silence' did not mutate this tick.",
+    "MUTATED: 'Blessed Relic of Iron' evolved to generation 30.",
+    "REPLACED WITH: 'Brittle Core of Sparks' (14c8396c-db21-457a-bb63-8d3057e9a332)",
     "STABLE: 'Stormcharged Shard of Blight' did not mutate this tick.",
-    "MUTATED: 'Phantom Axe of Blood' evolved to generation 21.",
-    "MUTATED: 'Blessed Sigil of Sparks' evolved to generation 23.",
-    "MUTATED: 'Phantom Axe of Blood' evolved to generation 22."
+    "STABLE: 'Titanic Bow of Grace' did not mutate this tick.",
+    "MUTATED: 'Phantom Axe of Blood' evolved to generation 24."
   ],
-  "created": 287,
-  "avg_lifespan": 35.58483754512637,
-  "archived": 277
+  "created": 288,
+  "avg_lifespan": 35.56474820143886,
+  "archived": 278
 }
