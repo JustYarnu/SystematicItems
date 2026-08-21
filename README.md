@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-23207
+23232
 
 ## Oldest Item
 Ancient Spear of Iron
@@ -11,8 +11,8 @@ Ancient Spear of Iron
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.6
-- Average Volatility: 0.41
-- Average Durability: 58.72
+- Average Volatility: 0.4
+- Average Durability: 55.83
 
 ## Dominant Factions
 - Stability: 0.6
@@ -20,13 +20,13 @@ Ancient Spear of Iron
 - Order: 0.3
 
 ## Extremes
-- Most Stable Item: Ancient Spear of Iron
+- Most Stable Item: Phantom Axe of Blood
 - Most Volatile Item: Rusty Axe of Iron
 
 ## Recent Events
-- MUTATED: 'Ancient Core of Silence' evolved to generation 12.
-- MUTATED: 'Mundane Rapier of Gales' evolved to generation 11.
-- MUTATED: 'Titanic Bow of Grace' evolved to generation 10.
+- STABLE: 'Zealous Rapier of Grace' did not mutate this tick.
+- STABLE: 'Zealous Rapier of Grace' did not mutate this tick.
+- MUTATED: 'Titanic Bow of Grace' evolved to generation 12.
 
 ## Lifecycle Stats
 - Items Created: 285
@@ -40,8 +40,8 @@ Ancient Spear of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 23207
-- Successful Mutations: 9617
+- Mutations Attempted: 23232
+- Successful Mutations: 9625
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Ancient Spear of Iron
 
 ## Economy
 - Total Currency: 517550
-- Currency per Tick (avg): 22.3
+- Currency per Tick (avg): 22.28
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
