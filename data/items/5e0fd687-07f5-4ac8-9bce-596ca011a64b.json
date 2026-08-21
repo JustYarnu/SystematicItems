@@ -2,7 +2,7 @@
   "id": "5e0fd687-07f5-4ac8-9bce-596ca011a64b",
   "name": "Ancient Spear of Iron",
   "type": "Polearm",
-  "generation": 1,
+  "generation": 2,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.1,
   "dex_mod": 1.0,
   "rarity": 2.0,
-  "durability": 80.0,
+  "durability": 86.0,
   "max_durability": 150.0,
-  "volatility": 0.30000000000000016,
+  "volatility": 0.28000000000000014,
   "resilience": 0.7,
   "worth": 100,
   "affinities": {}
