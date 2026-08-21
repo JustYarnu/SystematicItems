@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-23657
+23682
 
 ## Oldest Item
 Mundane Focus of Stone
@@ -11,22 +11,22 @@ Mundane Focus of Stone
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.1
-- Average Volatility: 0.44
-- Average Durability: 50.72
+- Average Volatility: 0.45
+- Average Durability: 45.74
 
 ## Dominant Factions
 - Chaos: 0.8
 - Stability: 0.6
-- STR: 0.5
+- Order: 0.5
 
 ## Extremes
 - Most Stable Item: Mundane Focus of Stone
 - Most Volatile Item: Iridescent Bow of Ruins
 
 ## Recent Events
-- MUTATED: 'Blessed Sigil of Sparks' evolved to generation 28.
-- MUTATED: 'Stormcharged Shard of Blight' evolved to generation 20.
-- MUTATED: 'Ancient Core of Silence' evolved to generation 29.
+- STABLE: 'Iridescent Bow of Ruins' did not mutate this tick.
+- MUTATED: 'Iridescent Bow of Ruins' evolved to generation 29.
+- STABLE: 'Brittle Core of Sparks' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 290
@@ -40,8 +40,8 @@ Mundane Focus of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 23657
-- Successful Mutations: 9836
+- Mutations Attempted: 23682
+- Successful Mutations: 9846
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Focus of Stone
 
 ## Economy
 - Total Currency: 525650
-- Currency per Tick (avg): 22.22
+- Currency per Tick (avg): 22.2
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

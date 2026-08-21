@@ -2,7 +2,7 @@
   "id": "d09821fc-8543-4cb5-8dc1-7787eec59b3d",
   "name": "Stormcharged Shard of Blight",
   "type": "Dagger",
-  "generation": 20,
+  "generation": 22,
   "damage": 20.5,
   "damage_type": [
     "Physical",
@@ -10,14 +10,14 @@
     "Slashing",
     "Dark"
   ],
-  "crit_damage": 2,
+  "crit_damage": 2.5,
   "crit_rate": 0.09,
   "str_mod": 1.1,
   "dex_mod": 1.25,
   "rarity": 2,
-  "durability": 32.63999999999999,
-  "max_durability": 89.0,
-  "volatility": 0.5399999999999999,
+  "durability": 24.789999999999992,
+  "max_durability": 86.0,
+  "volatility": 0.5499999999999999,
   "resilience": 0.43000000000000005,
   "worth": 100,
   "affinities": {
