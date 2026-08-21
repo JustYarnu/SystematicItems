@@ -1,21 +1,21 @@
 {
   "currency": 520550,
-  "tick": 23482,
+  "tick": 23507,
   "mutation_stats": {
-    "attempted": 23482,
-    "success": 9750
+    "attempted": 23507,
+    "success": 9761
   },
   "recent_events": [
-    "STABLE: 'Blessed Relic of Iron' did not mutate this tick.",
-    "MUTATED: 'Stormcharged Shard of Blight' evolved to generation 8.",
-    "STABLE: 'Ancient Spear of Iron' did not mutate this tick.",
-    "STABLE: 'Titanic Bow of Grace' did not mutate this tick.",
-    "STABLE: 'Titanic Bow of Grace' did not mutate this tick.",
-    "STABLE: 'Blessed Relic of Iron' did not mutate this tick.",
-    "MUTATED: 'Stormcharged Shard of Blight' evolved to generation 9.",
     "STABLE: 'Ancient Core of Silence' did not mutate this tick.",
-    "STABLE: 'Iridescent Bow of Ruins' did not mutate this tick.",
-    "MUTATED: 'Unstable Axe of Decay' evolved to generation 16."
+    "MUTATED: 'Blessed Relic of Iron' evolved to generation 25.",
+    "STABLE: 'Blessed Sigil of Sparks' did not mutate this tick.",
+    "MUTATED: 'Phantom Axe of Blood' evolved to generation 17.",
+    "MUTATED: 'Mundane Rapier of Gales' evolved to generation 29.",
+    "MUTATED: 'Phantom Axe of Blood' evolved to generation 18.",
+    "MUTATED: 'Iridescent Bow of Ruins' evolved to generation 12.",
+    "MUTATED: 'Ancient Spear of Iron' evolved to generation 13.",
+    "STABLE: 'Ancient Spear of Iron' did not mutate this tick.",
+    "MUTATED: 'Iridescent Bow of Ruins' evolved to generation 13."
   ],
   "created": 287,
   "avg_lifespan": 35.58483754512637,
