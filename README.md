@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-23407
+23432
 
 ## Oldest Item
 Stormcharged Shard of Blight
@@ -11,8 +11,8 @@ Stormcharged Shard of Blight
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.1
-- Average Volatility: 0.47
-- Average Durability: 52.15
+- Average Volatility: 0.48
+- Average Durability: 50.92
 
 ## Dominant Factions
 - Order: 0.5
@@ -24,9 +24,9 @@ Stormcharged Shard of Blight
 - Most Volatile Item: Mundane Rapier of Gales
 
 ## Recent Events
-- STABLE: 'Ancient Spear of Iron' did not mutate this tick.
-- STABLE: 'Unstable Axe of Decay' did not mutate this tick.
-- MUTATED: 'Phantom Axe of Blood' evolved to generation 14.
+- STABLE: 'Titanic Bow of Grace' did not mutate this tick.
+- STABLE: 'Stormcharged Shard of Blight' did not mutate this tick.
+- STABLE: 'Titanic Bow of Grace' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 287
@@ -40,8 +40,8 @@ Stormcharged Shard of Blight
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 23407
-- Successful Mutations: 9716
+- Mutations Attempted: 23432
+- Successful Mutations: 9725
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Stormcharged Shard of Blight
 
 ## Economy
 - Total Currency: 520550
-- Currency per Tick (avg): 22.24
+- Currency per Tick (avg): 22.22
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
