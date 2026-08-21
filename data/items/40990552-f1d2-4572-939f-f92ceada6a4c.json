@@ -2,8 +2,8 @@
   "id": "40990552-f1d2-4572-939f-f92ceada6a4c",
   "name": "Phantom Axe of Blood",
   "type": "HeavyWeapon",
-  "generation": 20,
-  "damage": 23.0,
+  "generation": 22,
+  "damage": 28.0,
   "damage_type": [
     "Physical",
     "Void",
@@ -14,9 +14,9 @@
   "str_mod": 1.55,
   "dex_mod": 1.0999999999999999,
   "rarity": 1,
-  "durability": 28.039999999999992,
+  "durability": 20.07999999999999,
   "max_durability": 111.0,
-  "volatility": 0.5300000000000002,
+  "volatility": 0.5400000000000003,
   "resilience": 0.63,
   "worth": 100,
   "affinities": {
