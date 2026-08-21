@@ -2,7 +2,7 @@
   "id": "916e2ac3-1a84-4826-8f3b-81772446ad1b",
   "name": "Blessed Relic of Iron",
   "type": "Artifact",
-  "generation": 22,
+  "generation": 23,
   "damage": 12.5,
   "damage_type": [
     "Physical",
@@ -13,12 +13,13 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 1.25,
   "rarity": 1.5,
-  "durability": 32.47112812734373,
+  "durability": 26.471128127343732,
   "max_durability": 136.6240625180289,
-  "volatility": 0.5200000000000004,
+  "volatility": 0.5600000000000004,
   "resilience": 0.6792481250360577,
   "worth": 100,
   "affinities": {
-    "Stability": 0.1
+    "Stability": 0.1,
+    "Order": 0.1
   }
 }
