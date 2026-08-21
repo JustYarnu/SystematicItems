@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-23632
+23657
 
 ## Oldest Item
-Brittle Core of Sparks
+Mundane Focus of Stone
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.25
-- Average Volatility: 0.5
-- Average Durability: 33.25
+- Average Rarity: 2.1
+- Average Volatility: 0.44
+- Average Durability: 50.72
 
 ## Dominant Factions
 - Chaos: 0.8
-- DEX: 0.7
 - Stability: 0.6
+- STR: 0.5
 
 ## Extremes
-- Most Stable Item: Brittle Core of Sparks
+- Most Stable Item: Mundane Focus of Stone
 - Most Volatile Item: Iridescent Bow of Ruins
 
 ## Recent Events
-- STABLE: 'Brittle Core of Sparks' did not mutate this tick.
-- STABLE: 'Titanic Bow of Grace' did not mutate this tick.
-- STABLE: 'Mundane Rapier of Gales' did not mutate this tick.
+- MUTATED: 'Blessed Sigil of Sparks' evolved to generation 28.
+- MUTATED: 'Stormcharged Shard of Blight' evolved to generation 20.
+- MUTATED: 'Ancient Core of Silence' evolved to generation 29.
 
 ## Lifecycle Stats
-- Items Created: 288
-- Items Archived: 278
-- Avg Lifespan (ticks): 35.6
+- Items Created: 290
+- Items Archived: 280
+- Avg Lifespan (ticks): 35.5
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Brittle Core of Sparks
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 23632
-- Successful Mutations: 9824
+- Mutations Attempted: 23657
+- Successful Mutations: 9836
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 4
-- Uncommon: 5
+- Common: 5
+- Uncommon: 4
 - Rare: 1
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Brittle Core of Sparks
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 522150
-- Currency per Tick (avg): 22.1
+- Total Currency: 525650
+- Currency per Tick (avg): 22.22
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
