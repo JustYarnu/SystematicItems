@@ -2,7 +2,7 @@
   "id": "dcef8093-2bc3-4c4f-8cbe-f54982be67a7",
   "name": "Blessed Sigil of Sparks",
   "type": "Focus",
-  "generation": 5,
+  "generation": 6,
   "damage": 13.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.1,
   "rarity": 1.5,
-  "durability": 91.1,
-  "max_durability": 115.0,
-  "volatility": 0.4400000000000001,
+  "durability": 86.6,
+  "max_durability": 117.0,
+  "volatility": 0.4500000000000001,
   "resilience": 0.7,
   "worth": 100,
   "affinities": {}
