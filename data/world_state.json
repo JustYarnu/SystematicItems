@@ -1,23 +1,23 @@
 {
-  "currency": 517550,
-  "tick": 23307,
+  "currency": 518850,
+  "tick": 23332,
   "mutation_stats": {
-    "attempted": 23307,
-    "success": 9664
+    "attempted": 23332,
+    "success": 9674
   },
   "recent_events": [
-    "MUTATED: 'Blessed Sigil of Sparks' evolved to generation 15.",
-    "MUTATED: 'Unstable Axe of Decay' evolved to generation 9.",
-    "STABLE: 'Ancient Core of Silence' did not mutate this tick.",
-    "MUTATED: 'Blessed Relic of Iron' evolved to generation 13.",
-    "MUTATED: 'Mundane Rapier of Gales' evolved to generation 18.",
+    "MUTATED: 'Blessed Sigil of Sparks' evolved to generation 16.",
+    "STABLE: 'Mundane Rapier of Gales' did not mutate this tick.",
     "STABLE: 'Ancient Spear of Iron' did not mutate this tick.",
-    "STABLE: 'Rusty Axe of Iron' did not mutate this tick.",
-    "MUTATED: 'Ancient Spear of Iron' evolved to generation 3.",
-    "MUTATED: 'Rusty Axe of Iron' evolved to generation 30.",
-    "STABLE: 'Ancient Core of Silence' did not mutate this tick."
+    "STABLE: 'Ancient Spear of Iron' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Gales' did not mutate this tick.",
+    "STABLE: 'Ancient Spear of Iron' did not mutate this tick.",
+    "STABLE: 'Ancient Core of Silence' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Gales' did not mutate this tick.",
+    "STABLE: 'Ancient Core of Silence' did not mutate this tick.",
+    "MUTATED: 'Ancient Spear of Iron' evolved to generation 5."
   ],
-  "created": 285,
-  "avg_lifespan": 35.640000000000015,
-  "archived": 275
+  "created": 286,
+  "avg_lifespan": 35.59782608695654,
+  "archived": 276
 }
