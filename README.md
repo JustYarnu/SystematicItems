@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-23607
+23632
 
 ## Oldest Item
 Brittle Core of Sparks
@@ -12,21 +12,21 @@ Brittle Core of Sparks
 - Active Items: 10
 - Average Rarity: 2.25
 - Average Volatility: 0.5
-- Average Durability: 37.96
+- Average Durability: 33.25
 
 ## Dominant Factions
 - Chaos: 0.8
+- DEX: 0.7
 - Stability: 0.6
-- DEX: 0.6
 
 ## Extremes
 - Most Stable Item: Brittle Core of Sparks
 - Most Volatile Item: Iridescent Bow of Ruins
 
 ## Recent Events
-- STABLE: 'Ancient Spear of Iron' did not mutate this tick.
-- MUTATED: 'Titanic Bow of Grace' evolved to generation 24.
+- STABLE: 'Brittle Core of Sparks' did not mutate this tick.
 - STABLE: 'Titanic Bow of Grace' did not mutate this tick.
+- STABLE: 'Mundane Rapier of Gales' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 288
@@ -40,8 +40,8 @@ Brittle Core of Sparks
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 23607
-- Successful Mutations: 9813
+- Mutations Attempted: 23632
+- Successful Mutations: 9824
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Brittle Core of Sparks
 
 ## Economy
 - Total Currency: 522150
-- Currency per Tick (avg): 22.12
+- Currency per Tick (avg): 22.1
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
