@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-24082
+24107
 
 ## Oldest Item
-Mundane Axe of Might
+Glacial Relic of Grace
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.3
+- Average Rarity: 1.35
 - Average Volatility: 0.32
-- Average Durability: 68.81
+- Average Durability: 75.76
 
 ## Dominant Factions
-- Stability: 0.4
-- Order: 0.3
 - Restoration: 0.2
+- Stability: 0.2
+- STR: 0.2
 
 ## Extremes
-- Most Stable Item: Mundane Axe of Might
+- Most Stable Item: Glacial Relic of Grace
 - Most Volatile Item: Mundane Focus of Stone
 
 ## Recent Events
-- STABLE: 'Blessed Spear of Whispers' did not mutate this tick.
-- STABLE: 'Blessed Spear of Whispers' did not mutate this tick.
-- MUTATED: 'Obsidian Focus of Stone' evolved to generation 6.
+- MUTATED: 'Obsidian Focus of Stone' evolved to generation 7.
+- MUTATED: 'Mundane Focus of Stone' evolved to generation 14.
+- STABLE: 'Blessed Edge of Eternity' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 297
-- Items Archived: 287
+- Items Created: 298
+- Items Archived: 288
 - Avg Lifespan (ticks): 35.5
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Mundane Axe of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 24082
-- Successful Mutations: 10010
+- Mutations Attempted: 24107
+- Successful Mutations: 10019
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Mundane Axe of Might
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 537900
-- Currency per Tick (avg): 22.34
+- Total Currency: 540400
+- Currency per Tick (avg): 22.42
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
