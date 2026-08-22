@@ -2,7 +2,7 @@
   "id": "1d9d12f4-a4f0-4c54-b171-75a818cbf06e",
   "name": "Glacial Relic of Grace",
   "type": "Artifact",
-  "generation": 1,
+  "generation": 2,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -13,11 +13,11 @@
   "crit_rate": 0.01,
   "str_mod": 1.0,
   "dex_mod": 1.25,
-  "rarity": 1.5,
-  "durability": 96.0,
+  "rarity": 2.5,
+  "durability": 92.0,
   "max_durability": 120.0,
-  "volatility": 0.14,
-  "resilience": 0.7792481250360578,
+  "volatility": 0.16000000000000003,
+  "resilience": 0.8160964047443681,
   "worth": 100,
   "affinities": {}
 }

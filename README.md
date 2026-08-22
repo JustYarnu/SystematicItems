@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-24107
+24132
 
 ## Oldest Item
 Glacial Relic of Grace
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.35
+- Average Rarity: 1.55
 - Average Volatility: 0.32
-- Average Durability: 75.76
+- Average Durability: 72.07
 
 ## Dominant Factions
 - Restoration: 0.2
@@ -21,12 +21,12 @@ Glacial Relic of Grace
 
 ## Extremes
 - Most Stable Item: Glacial Relic of Grace
-- Most Volatile Item: Mundane Focus of Stone
+- Most Volatile Item: Cursed Sigil of Frost
 
 ## Recent Events
-- MUTATED: 'Obsidian Focus of Stone' evolved to generation 7.
-- MUTATED: 'Mundane Focus of Stone' evolved to generation 14.
-- STABLE: 'Blessed Edge of Eternity' did not mutate this tick.
+- MUTATED: 'Mundane Focus of Stone' evolved to generation 15.
+- STABLE: 'Vampiric Relic of Carnage' did not mutate this tick.
+- MUTATED: 'Mundane Axe of Might' evolved to generation 4.
 
 ## Lifecycle Stats
 - Items Created: 298
@@ -40,15 +40,15 @@ Glacial Relic of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 24107
-- Successful Mutations: 10019
+- Mutations Attempted: 24132
+- Successful Mutations: 10028
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 9
-- Uncommon: 1
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Glacial Relic of Grace
 
 ## Economy
 - Total Currency: 540400
-- Currency per Tick (avg): 22.42
+- Currency per Tick (avg): 22.39
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
