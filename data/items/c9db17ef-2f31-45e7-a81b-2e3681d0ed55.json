@@ -2,7 +2,7 @@
   "id": "c9db17ef-2f31-45e7-a81b-2e3681d0ed55",
   "name": "Iridescent Bow of Ruins",
   "type": "Ranged",
-  "generation": 39,
+  "generation": 40,
   "damage": 43.5,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 1.7500000000000002,
   "rarity": 7,
-  "durability": 28.970000000000002,
+  "durability": 34.97,
   "max_durability": 138.0,
-  "volatility": 0.6803677461028802,
+  "volatility": 0.6603677461028802,
   "resilience": 0.61,
   "worth": 100,
   "affinities": {

@@ -2,7 +2,7 @@
   "id": "4a0b93c7-45a0-4199-8d5f-bc332e2effb5",
   "name": "Vampiric Relic of Carnage",
   "type": "Artifact",
-  "generation": 11,
+  "generation": 16,
   "damage": 30.5,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.25,
   "dex_mod": 1.0,
   "rarity": 1.5,
-  "durability": 63.32000000000002,
+  "durability": 48.3924812503606,
   "max_durability": 109.0,
-  "volatility": 0.53,
-  "resilience": 0.68,
+  "volatility": 0.3200000000000001,
+  "resilience": 0.7792481250360578,
   "worth": 100,
   "affinities": {
     "STR": 0.1
