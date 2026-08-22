@@ -1,23 +1,23 @@
 {
-  "currency": 525650,
-  "tick": 23682,
+  "currency": 527450,
+  "tick": 23707,
   "mutation_stats": {
-    "attempted": 23682,
-    "success": 9846
+    "attempted": 23707,
+    "success": 9859
   },
   "recent_events": [
-    "STABLE: 'Iridescent Bow of Ruins' did not mutate this tick.",
-    "MUTATED: 'Stormcharged Shard of Blight' evolved to generation 22.",
-    "MUTATED: 'Iridescent Bow of Ruins' evolved to generation 28.",
-    "STABLE: 'Brittle Core of Sparks' did not mutate this tick.",
-    "STABLE: 'Brittle Core of Sparks' did not mutate this tick.",
+    "MUTATED: 'Stormcharged Shard of Blight' evolved to generation 25.",
+    "STABLE: 'Blessed Sigil of Sparks' did not mutate this tick.",
+    "MUTATED: 'Ancient Core of Silence' evolved to generation 34.",
+    "REPLACED WITH: 'Cursed Sigil of Frost' (079ec717-952a-4cce-ab92-09c5f2a25f18)",
     "STABLE: 'Stormcharged Shard of Blight' did not mutate this tick.",
-    "STABLE: 'Iridescent Bow of Ruins' did not mutate this tick.",
-    "STABLE: 'Iridescent Bow of Ruins' did not mutate this tick.",
-    "MUTATED: 'Iridescent Bow of Ruins' evolved to generation 29.",
-    "STABLE: 'Brittle Core of Sparks' did not mutate this tick."
+    "STABLE: 'Mundane Focus of Stone' did not mutate this tick.",
+    "MUTATED: 'Cursed Sigil of Frost' evolved to generation 2.",
+    "STABLE: 'Cursed Sigil of Frost' did not mutate this tick.",
+    "MUTATED: 'Stormcharged Shard of Blight' evolved to generation 26.",
+    "MUTATED: 'Cursed Sigil of Frost' evolved to generation 3."
   ],
-  "created": 290,
-  "avg_lifespan": 35.546428571428585,
-  "archived": 280
+  "created": 291,
+  "avg_lifespan": 35.540925266903926,
+  "archived": 281
 }
