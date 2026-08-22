@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-23957
+23982
 
 ## Oldest Item
 Blessed Edge of Eternity
@@ -11,22 +11,22 @@ Blessed Edge of Eternity
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.95
-- Average Volatility: 0.36
-- Average Durability: 64.69
+- Average Volatility: 0.37
+- Average Durability: 61.39
 
 ## Dominant Factions
+- Chaos: 0.6
 - Stability: 0.5
-- Chaos: 0.5
 - Order: 0.5
 
 ## Extremes
-- Most Stable Item: Blessed Edge of Eternity
+- Most Stable Item: Obsidian Bow of Stone
 - Most Volatile Item: Iridescent Bow of Ruins
 
 ## Recent Events
-- MUTATED: 'Blessed Sigil of Sparks' evolved to generation 42.
 - STABLE: 'Vampiric Relic of Carnage' did not mutate this tick.
-- MUTATED: 'Blessed Edge of Eternity' evolved to generation 2.
+- MUTATED: 'Blessed Sigil of Sparks' evolved to generation 46.
+- STABLE: 'Unstable Axe of Decay' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 295
@@ -40,8 +40,8 @@ Blessed Edge of Eternity
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 23957
-- Successful Mutations: 9971
+- Mutations Attempted: 23982
+- Successful Mutations: 9980
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Blessed Edge of Eternity
 
 ## Economy
 - Total Currency: 532800
-- Currency per Tick (avg): 22.24
+- Currency per Tick (avg): 22.22
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
