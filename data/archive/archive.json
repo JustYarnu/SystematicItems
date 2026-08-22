@@ -7613,5 +7613,61 @@
       "STR": 0.2,
       "Order": 0.1
     }
+  },
+  {
+    "id": "d09821fc-8543-4cb5-8dc1-7787eec59b3d",
+    "name": "Stormcharged Shard of Blight",
+    "type": "Dagger",
+    "generation": 37,
+    "damage": 25.5,
+    "damage_type": [
+      "Physical",
+      "Lightning",
+      "Slashing",
+      "Dark"
+    ],
+    "crit_damage": 3.6,
+    "crit_rate": 0.09,
+    "str_mod": 1.1,
+    "dex_mod": 1.25,
+    "rarity": 2,
+    "durability": -1.0,
+    "max_durability": 76.0,
+    "volatility": 0.57,
+    "resilience": 0.56,
+    "worth": 1950,
+    "affinities": {
+      "Chaos": 0.2,
+      "Scarceness": 0.3,
+      "Order": 0.1
+    }
+  },
+  {
+    "id": "5e0fd687-07f5-4ac8-9bce-596ca011a64b",
+    "name": "Ancient Spear of Iron",
+    "type": "Polearm",
+    "generation": 22,
+    "damage": 17.5,
+    "damage_type": [
+      "Physical",
+      "Piercing"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.01,
+    "str_mod": 1.6000000000000005,
+    "dex_mod": 1.2000000000000002,
+    "rarity": 2.0,
+    "durability": -1.0,
+    "max_durability": 140.0,
+    "volatility": 0.5500000000000003,
+    "resilience": 0.7299999999999999,
+    "worth": 1200,
+    "affinities": {
+      "STR": 0.2,
+      "Scarceness": 0.1,
+      "Order": 0.1,
+      "Chaos": 0.2,
+      "Stability": 0.1
+    }
   }
 ]

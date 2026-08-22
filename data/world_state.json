@@ -1,23 +1,23 @@
 {
-  "currency": 528900,
-  "tick": 23857,
+  "currency": 532050,
+  "tick": 23882,
   "mutation_stats": {
-    "attempted": 23857,
-    "success": 9926
+    "attempted": 23882,
+    "success": 9940
   },
   "recent_events": [
-    "STABLE: 'Cursed Sigil of Frost' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Stone' did not mutate this tick.",
-    "STABLE: 'Cursed Sigil of Frost' did not mutate this tick.",
-    "STABLE: 'Cursed Sigil of Frost' did not mutate this tick.",
-    "STABLE: 'Brittle Core of Sparks' did not mutate this tick.",
-    "MUTATED: 'Stormcharged Shard of Blight' evolved to generation 34.",
+    "MUTATED: 'Blessed Sigil of Sparks' evolved to generation 38.",
     "STABLE: 'Blessed Spear of Whispers' did not mutate this tick.",
-    "STABLE: 'Brittle Core of Sparks' did not mutate this tick.",
-    "MUTATED: 'Brittle Core of Sparks' evolved to generation 10.",
-    "MUTATED: 'Iridescent Bow of Ruins' evolved to generation 38."
+    "MUTATED: 'Brittle Core of Sparks' evolved to generation 12.",
+    "MUTATED: 'Stormcharged Shard of Blight' evolved to generation 37.",
+    "REPLACED WITH: 'Blessed Edge of Eternity' (7adfa3ca-1bb0-4765-b9ac-f83a975f22b7)",
+    "MUTATED: 'Unstable Axe of Decay' evolved to generation 40.",
+    "MUTATED: 'Ancient Spear of Iron' evolved to generation 22.",
+    "REPLACED WITH: 'Obsidian Bow of Stone' (58bc99ff-48ab-42f2-bf24-3de6907883af)",
+    "MUTATED: 'Cursed Sigil of Frost' evolved to generation 10.",
+    "MUTATED: 'Mundane Focus of Stone' evolved to generation 6."
   ],
-  "created": 292,
-  "avg_lifespan": 35.510638297872354,
-  "archived": 282
+  "created": 294,
+  "avg_lifespan": 35.46830985915494,
+  "archived": 284
 }
