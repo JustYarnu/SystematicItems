@@ -1,21 +1,21 @@
 {
   "currency": 532800,
-  "tick": 23932,
+  "tick": 23957,
   "mutation_stats": {
-    "attempted": 23932,
-    "success": 9959
+    "attempted": 23957,
+    "success": 9971
   },
   "recent_events": [
-    "STABLE: 'Blessed Sigil of Sparks' did not mutate this tick.",
+    "MUTATED: 'Obsidian Bow of Stone' evolved to generation 3.",
+    "STABLE: 'Cursed Sigil of Frost' did not mutate this tick.",
     "STABLE: 'Vampiric Relic of Carnage' did not mutate this tick.",
+    "STABLE: 'Blessed Sigil of Sparks' did not mutate this tick.",
+    "STABLE: 'Iridescent Bow of Ruins' did not mutate this tick.",
+    "MUTATED: 'Vampiric Relic of Carnage' evolved to generation 19.",
     "STABLE: 'Unstable Axe of Decay' did not mutate this tick.",
-    "STABLE: 'Unstable Axe of Decay' did not mutate this tick.",
-    "MUTATED: 'Iridescent Bow of Ruins' evolved to generation 41.",
-    "STABLE: 'Blessed Spear of Whispers' did not mutate this tick.",
-    "STABLE: 'Blessed Spear of Whispers' did not mutate this tick.",
-    "MUTATED: 'Mundane Focus of Stone' evolved to generation 10.",
-    "MUTATED: 'Unstable Axe of Decay' evolved to generation 41.",
-    "STABLE: 'Obsidian Focus of Stone' did not mutate this tick."
+    "MUTATED: 'Blessed Sigil of Sparks' evolved to generation 42.",
+    "STABLE: 'Vampiric Relic of Carnage' did not mutate this tick.",
+    "MUTATED: 'Blessed Edge of Eternity' evolved to generation 2."
   ],
   "created": 295,
   "avg_lifespan": 35.389473684210536,
