@@ -2,7 +2,7 @@
   "id": "01b9db4d-5434-4efc-b28d-c46305d489ba",
   "name": "Mundane Focus of Stone",
   "type": "Focus",
-  "generation": 15,
+  "generation": 16,
   "damage": 11.5,
   "damage_type": [
     "Physical",
@@ -11,11 +11,11 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.1,
-  "dex_mod": 1.2000000000000002,
+  "dex_mod": 1.3000000000000003,
   "rarity": 1,
-  "durability": 33.449999999999996,
+  "durability": 29.249999999999993,
   "max_durability": 125.0,
-  "volatility": 0.48000000000000015,
+  "volatility": 0.49000000000000016,
   "resilience": 0.5999999999999999,
   "worth": 100,
   "affinities": {}
