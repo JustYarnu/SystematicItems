@@ -1,22 +1,22 @@
 {
-  "id": "58bc99ff-48ab-42f2-bf24-3de6907883af",
-  "name": "Obsidian Bow of Stone",
-  "type": "Ranged",
-  "generation": 2,
+  "id": "7645352e-c575-4696-850a-10dee24ba82b",
+  "name": "Obsidian Focus of Stone",
+  "type": "Focus",
+  "generation": 1,
   "damage": 10.0,
   "damage_type": [
     "Physical",
     "Earth",
-    "Piercing"
+    "Magic"
   ],
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.0,
-  "dex_mod": 1.1,
+  "dex_mod": 0.85,
   "rarity": 1,
-  "durability": 116.95,
+  "durability": 124.0,
   "max_durability": 125.0,
-  "volatility": 0.15000000000000002,
+  "volatility": 0.21000000000000002,
   "resilience": 0.65,
   "worth": 100,
   "affinities": {}
