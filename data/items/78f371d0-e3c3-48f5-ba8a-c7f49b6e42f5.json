@@ -2,7 +2,7 @@
   "id": "78f371d0-e3c3-48f5-ba8a-c7f49b6e42f5",
   "name": "Unstable Axe of Decay",
   "type": "HeavyWeapon",
-  "generation": 47,
+  "generation": 48,
   "damage": 45.5,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.8500000000000005,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 3.9299999999999855,
+  "durability": 0.4299999999999855,
   "max_durability": 101.0,
-  "volatility": 0.3800000000000002,
+  "volatility": 0.34000000000000025,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {

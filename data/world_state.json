@@ -1,23 +1,23 @@
 {
-  "currency": 535350,
-  "tick": 24057,
+  "currency": 537900,
+  "tick": 24082,
   "mutation_stats": {
-    "attempted": 24057,
-    "success": 10003
+    "attempted": 24082,
+    "success": 10010
   },
   "recent_events": [
-    "MUTATED: 'Cursed Sigil of Frost' evolved to generation 15.",
-    "STABLE: 'Obsidian Bow of Stone' did not mutate this tick.",
-    "STABLE: 'Obsidian Bow of Stone' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Stone' did not mutate this tick.",
-    "STABLE: 'Obsidian Focus of Stone' did not mutate this tick.",
-    "MUTATED: 'Mundane Focus of Stone' evolved to generation 12.",
-    "MUTATED: 'Blessed Spear of Whispers' evolved to generation 8.",
-    "MUTATED: 'Blessed Edge of Eternity' evolved to generation 4.",
     "STABLE: 'Blessed Edge of Eternity' did not mutate this tick.",
-    "STABLE: 'Cursed Sigil of Frost' did not mutate this tick."
+    "STABLE: 'Mundane Axe of Might' did not mutate this tick.",
+    "STABLE: 'Blessed Spear of Whispers' did not mutate this tick.",
+    "STABLE: 'Blessed Spear of Whispers' did not mutate this tick.",
+    "STABLE: 'Mundane Axe of Might' did not mutate this tick.",
+    "STABLE: 'Blessed Edge of Eternity' did not mutate this tick.",
+    "STABLE: 'Obsidian Bow of Stone' did not mutate this tick.",
+    "STABLE: 'Blessed Spear of Whispers' did not mutate this tick.",
+    "STABLE: 'Blessed Spear of Whispers' did not mutate this tick.",
+    "MUTATED: 'Obsidian Focus of Stone' evolved to generation 6."
   ],
-  "created": 296,
-  "avg_lifespan": 35.43706293706295,
-  "archived": 286
+  "created": 297,
+  "avg_lifespan": 35.4843205574913,
+  "archived": 287
 }
