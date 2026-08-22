@@ -1,21 +1,21 @@
 {
   "currency": 532800,
-  "tick": 24007,
+  "tick": 24032,
   "mutation_stats": {
-    "attempted": 24007,
-    "success": 9984
+    "attempted": 24032,
+    "success": 9995
   },
   "recent_events": [
-    "STABLE: 'Blessed Spear of Whispers' did not mutate this tick.",
+    "MUTATED: 'Iridescent Bow of Ruins' evolved to generation 48.",
     "STABLE: 'Blessed Edge of Eternity' did not mutate this tick.",
+    "MUTATED: 'Unstable Axe of Decay' evolved to generation 45.",
+    "MUTATED: 'Obsidian Focus of Stone' evolved to generation 5.",
+    "STABLE: 'Iridescent Bow of Ruins' did not mutate this tick.",
     "STABLE: 'Blessed Spear of Whispers' did not mutate this tick.",
-    "STABLE: 'Obsidian Focus of Stone' did not mutate this tick.",
-    "MUTATED: 'Blessed Edge of Eternity' evolved to generation 3.",
+    "STABLE: 'Blessed Spear of Whispers' did not mutate this tick.",
+    "MUTATED: 'Mundane Focus of Stone' evolved to generation 11.",
     "STABLE: 'Obsidian Bow of Stone' did not mutate this tick.",
-    "STABLE: 'Obsidian Bow of Stone' did not mutate this tick.",
-    "MUTATED: 'Unstable Axe of Decay' evolved to generation 44.",
-    "STABLE: 'Blessed Sigil of Sparks' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Stone' did not mutate this tick."
+    "MUTATED: 'Blessed Spear of Whispers' evolved to generation 7."
   ],
   "created": 295,
   "avg_lifespan": 35.389473684210536,
