@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-23782
+23807
 
 ## Oldest Item
 Blessed Spear of Whispers
@@ -11,8 +11,8 @@ Blessed Spear of Whispers
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.95
-- Average Volatility: 0.43
-- Average Durability: 51.67
+- Average Volatility: 0.45
+- Average Durability: 47.42
 
 ## Dominant Factions
 - Chaos: 0.8
@@ -24,9 +24,9 @@ Blessed Spear of Whispers
 - Most Volatile Item: Iridescent Bow of Ruins
 
 ## Recent Events
-- MUTATED: 'Blessed Spear of Whispers' evolved to generation 3.
-- MUTATED: 'Blessed Sigil of Sparks' evolved to generation 35.
-- STABLE: 'Vampiric Relic of Carnage' did not mutate this tick.
+- MUTATED: 'Unstable Axe of Decay' evolved to generation 36.
+- STABLE: 'Iridescent Bow of Ruins' did not mutate this tick.
+- MUTATED: 'Cursed Sigil of Frost' evolved to generation 8.
 
 ## Lifecycle Stats
 - Items Created: 292
@@ -40,8 +40,8 @@ Blessed Spear of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 23782
-- Successful Mutations: 9894
+- Mutations Attempted: 23807
+- Successful Mutations: 9905
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Blessed Spear of Whispers
 
 ## Economy
 - Total Currency: 528900
-- Currency per Tick (avg): 22.24
+- Currency per Tick (avg): 22.22
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
