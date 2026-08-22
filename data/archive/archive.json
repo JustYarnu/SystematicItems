@@ -7588,5 +7588,30 @@
       "Restoration": 0.5,
       "STR": 0.2
     }
+  },
+  {
+    "id": "d93f66f3-d9c0-4bb5-94b7-5880341c0651",
+    "name": "Titanic Bow of Grace",
+    "type": "Ranged",
+    "generation": 27,
+    "damage": 26.5,
+    "damage_type": [
+      "Physical",
+      "Piercing"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.4000000000000001,
+    "dex_mod": 1.0999999999999999,
+    "rarity": 2,
+    "durability": -0.09999999999997744,
+    "max_durability": 127.0,
+    "volatility": 0.3000000000000005,
+    "resilience": 0.7999999999999999,
+    "worth": 1450,
+    "affinities": {
+      "STR": 0.2,
+      "Order": 0.1
+    }
   }
 ]
