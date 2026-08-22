@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-24032
+24057
 
 ## Oldest Item
-Blessed Edge of Eternity
+Mundane Axe of Might
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.95
-- Average Volatility: 0.39
-- Average Durability: 53.04
+- Average Rarity: 1.9
+- Average Volatility: 0.36
+- Average Durability: 60.68
 
 ## Dominant Factions
-- Chaos: 0.6
-- Stability: 0.5
-- Order: 0.5
+- Chaos: 0.4
+- Order: 0.4
+- Stability: 0.3
 
 ## Extremes
-- Most Stable Item: Obsidian Bow of Stone
+- Most Stable Item: Mundane Axe of Might
 - Most Volatile Item: Iridescent Bow of Ruins
 
 ## Recent Events
-- MUTATED: 'Mundane Focus of Stone' evolved to generation 11.
-- STABLE: 'Obsidian Bow of Stone' did not mutate this tick.
-- MUTATED: 'Blessed Spear of Whispers' evolved to generation 7.
+- MUTATED: 'Blessed Edge of Eternity' evolved to generation 4.
+- STABLE: 'Blessed Edge of Eternity' did not mutate this tick.
+- STABLE: 'Cursed Sigil of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 295
-- Items Archived: 285
+- Items Created: 296
+- Items Archived: 286
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Blessed Edge of Eternity
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 24032
-- Successful Mutations: 9995
+- Mutations Attempted: 24057
+- Successful Mutations: 10003
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Blessed Edge of Eternity
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 532800
-- Currency per Tick (avg): 22.17
+- Total Currency: 535350
+- Currency per Tick (avg): 22.25
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
