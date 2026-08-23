@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-24282
+24307
 
 ## Oldest Item
-Glacial Relic of Grace
+Rusty Relic of Grace
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.55
-- Average Volatility: 0.42
-- Average Durability: 53.09
+- Average Volatility: 0.4
+- Average Durability: 59.16
 
 ## Dominant Factions
 - Stability: 0.6
 - Restoration: 0.3
-- Order: 0.2
+- Order: 0.3
 
 ## Extremes
-- Most Stable Item: Glacial Relic of Grace
-- Most Volatile Item: Mundane Focus of Stone
+- Most Stable Item: Rusty Relic of Grace
+- Most Volatile Item: Cursed Sigil of Frost
 
 ## Recent Events
-- MUTATED: 'Fractured Rapier of Whispers' evolved to generation 6.
-- STABLE: 'Blessed Spear of Whispers' did not mutate this tick.
+- MUTATED: 'Fractured Rapier of Whispers' evolved to generation 7.
+- MUTATED: 'Glacial Relic of Grace' evolved to generation 6.
 - STABLE: 'Fractured Rapier of Whispers' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 298
-- Items Archived: 288
+- Items Created: 299
+- Items Archived: 289
 - Avg Lifespan (ticks): 35.5
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Glacial Relic of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 24282
-- Successful Mutations: 10075
+- Mutations Attempted: 24307
+- Successful Mutations: 10084
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Glacial Relic of Grace
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 540400
-- Currency per Tick (avg): 22.26
+- Total Currency: 541900
+- Currency per Tick (avg): 22.29
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
