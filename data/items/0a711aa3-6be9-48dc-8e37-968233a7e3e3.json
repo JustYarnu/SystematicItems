@@ -2,7 +2,7 @@
   "id": "0a711aa3-6be9-48dc-8e37-968233a7e3e3",
   "name": "Rusty Relic of Grace",
   "type": "Artifact",
-  "generation": 21,
+  "generation": 22,
   "damage": 21.5,
   "damage_type": [
     "Physical",
@@ -13,12 +13,13 @@
   "str_mod": 1.1,
   "dex_mod": 1.15,
   "rarity": 1.5,
-  "durability": 17.760451250937503,
+  "durability": 10.760451250937503,
   "max_durability": 114.0,
-  "volatility": 0.34000000000000025,
+  "volatility": 0.3900000000000003,
   "resilience": 0.7792481250360578,
   "worth": 100,
   "affinities": {
-    "Order": 0.1
+    "Order": 0.1,
+    "Chaos": 0.1
   }
 }

@@ -1,20 +1,20 @@
 {
   "currency": 550050,
-  "tick": 24782,
+  "tick": 24807,
   "mutation_stats": {
-    "attempted": 24782,
-    "success": 10295
+    "attempted": 24807,
+    "success": 10302
   },
   "recent_events": [
-    "MUTATED: 'Unstable Spear of Ash' evolved to generation 3.",
-    "STABLE: 'Glacial Relic of Grace' did not mutate this tick.",
-    "MUTATED: 'Feral Sigil of Judgement' evolved to generation 8.",
-    "STABLE: 'Blessed Edge of Eternity' did not mutate this tick.",
+    "STABLE: 'Verdant Relic of Doom' did not mutate this tick.",
+    "STABLE: 'Cursed Sigil of Frost' did not mutate this tick.",
+    "STABLE: 'Mundane Shard of Frost' did not mutate this tick.",
+    "STABLE: 'Rusty Relic of Grace' did not mutate this tick.",
     "STABLE: 'Unstable Spear of Ash' did not mutate this tick.",
-    "STABLE: 'Glacial Relic of Grace' did not mutate this tick.",
-    "MUTATED: 'Unstable Spear of Ash' evolved to generation 4.",
-    "MUTATED: 'Cursed Sigil of Frost' evolved to generation 48.",
-    "MUTATED: 'Glacial Relic of Grace' evolved to generation 22.",
+    "STABLE: 'Mundane Shard of Frost' did not mutate this tick.",
+    "STABLE: 'Mundane Shard of Frost' did not mutate this tick.",
+    "STABLE: 'Unstable Spear of Ash' did not mutate this tick.",
+    "MUTATED: 'Rusty Relic of Grace' evolved to generation 22.",
     "STABLE: 'Mundane Shard of Frost' did not mutate this tick."
   ],
   "created": 304,

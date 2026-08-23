@@ -2,7 +2,7 @@
   "id": "eaa69bcf-80c2-4b39-80e9-f09abf82fd54",
   "name": "Verdant Relic of Doom",
   "type": "Artifact",
-  "generation": 1,
+  "generation": 2,
   "damage": 28.0,
   "damage_type": [
     "Physical",
@@ -13,11 +13,11 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.0,
-  "dex_mod": 1.0,
+  "dex_mod": 1.1,
   "rarity": 1.5,
-  "durability": 99.0,
+  "durability": 94.1,
   "max_durability": 115.0,
-  "volatility": 0.56,
+  "volatility": 0.5800000000000001,
   "resilience": 0.7000000000000001,
   "worth": 100,
   "affinities": {}
