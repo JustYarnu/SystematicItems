@@ -2,7 +2,7 @@
   "id": "7645352e-c575-4696-850a-10dee24ba82b",
   "name": "Obsidian Focus of Stone",
   "type": "Focus",
-  "generation": 32,
+  "generation": 33,
   "damage": 19.0,
   "damage_type": [
     "Physical",
@@ -14,7 +14,7 @@
   "str_mod": 1.6000000000000005,
   "dex_mod": 1.2500000000000002,
   "rarity": 1,
-  "durability": 3.380000000000001,
+  "durability": 0.7800000000000011,
   "max_durability": 125.0,
   "volatility": 0.52,
   "resilience": 0.75,

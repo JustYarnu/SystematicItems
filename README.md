@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-24707
+24732
 
 ## Oldest Item
-Feral Sigil of Judgement
+Mundane Shard of Frost
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.83
-- Average Volatility: 0.48
-- Average Durability: 30.5
+- Average Rarity: 1.73
+- Average Volatility: 0.46
+- Average Durability: 38.0
 
 ## Dominant Factions
-- Stability: 0.8
-- Order: 0.7
-- Chaos: 0.5
+- Stability: 0.7
+- Chaos: 0.6
+- Order: 0.6
 
 ## Extremes
 - Most Stable Item: Rusty Relic of Grace
 - Most Volatile Item: Blessed Edge of Eternity
 
 ## Recent Events
-- MUTATED: 'Cursed Sigil of Frost' evolved to generation 45.
-- MUTATED: 'Blessed Edge of Eternity' evolved to generation 28.
-- MUTATED: 'Fractured Edge of Light' evolved to generation 11.
+- STABLE: 'Mundane Shard of Frost' did not mutate this tick.
+- MUTATED: 'Rusty Relic of Grace' evolved to generation 20.
+- STABLE: 'Mundane Shard of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 301
-- Items Archived: 291
+- Items Created: 302
+- Items Archived: 292
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Feral Sigil of Judgement
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 24707
-- Successful Mutations: 10263
+- Mutations Attempted: 24732
+- Successful Mutations: 10272
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Feral Sigil of Judgement
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 544850
-- Currency per Tick (avg): 22.05
+- Total Currency: 546450
+- Currency per Tick (avg): 22.09
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
