@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-24732
+24757
 
 ## Oldest Item
-Mundane Shard of Frost
+Unstable Spear of Ash
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.73
-- Average Volatility: 0.46
-- Average Durability: 38.0
+- Average Volatility: 0.45
+- Average Durability: 39.21
 
 ## Dominant Factions
 - Stability: 0.7
-- Chaos: 0.6
-- Order: 0.6
+- Order: 0.5
+- Restoration: 0.4
 
 ## Extremes
-- Most Stable Item: Rusty Relic of Grace
-- Most Volatile Item: Blessed Edge of Eternity
+- Most Stable Item: Mundane Shard of Frost
+- Most Volatile Item: Feral Sigil of Judgement
 
 ## Recent Events
-- STABLE: 'Mundane Shard of Frost' did not mutate this tick.
-- MUTATED: 'Rusty Relic of Grace' evolved to generation 20.
-- STABLE: 'Mundane Shard of Frost' did not mutate this tick.
+- MUTATED: 'Cursed Sigil of Frost' evolved to generation 47.
+- MUTATED: 'Glacial Relic of Grace' evolved to generation 21.
+- MUTATED: 'Unstable Spear of Ash' evolved to generation 2.
 
 ## Lifecycle Stats
-- Items Created: 302
-- Items Archived: 292
+- Items Created: 303
+- Items Archived: 293
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,9 +40,9 @@ Mundane Shard of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 24732
-- Successful Mutations: 10272
-- Failure Rate: 58.5%
+- Mutations Attempted: 24757
+- Successful Mutations: 10287
+- Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -56,8 +56,8 @@ Mundane Shard of Frost
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 546450
-- Currency per Tick (avg): 22.09
+- Total Currency: 548250
+- Currency per Tick (avg): 22.15
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

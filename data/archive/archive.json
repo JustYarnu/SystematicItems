@@ -7882,5 +7882,31 @@
       "Stability": 0.1,
       "Order": 0.1
     }
+  },
+  {
+    "id": "73300086-0e28-407b-a7da-3ad04da76b5f",
+    "name": "Mundane Axe of Might",
+    "type": "HeavyWeapon",
+    "generation": 34,
+    "damage": 28.5,
+    "damage_type": [
+      "Physical",
+      "Slashing"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.7000000000000002,
+    "dex_mod": 1.1,
+    "rarity": 1,
+    "durability": -1.0,
+    "max_durability": 125.0,
+    "volatility": 0.5100000000000002,
+    "resilience": 0.75,
+    "worth": 1800,
+    "affinities": {
+      "Chaos": 0.3,
+      "Order": 0.1,
+      "DEX": 0.1
+    }
   }
 ]
