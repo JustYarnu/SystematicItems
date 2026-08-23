@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-24357
+24382
 
 ## Oldest Item
 Rusty Relic of Grace
@@ -11,8 +11,8 @@ Rusty Relic of Grace
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.55
-- Average Volatility: 0.41
-- Average Durability: 53.15
+- Average Volatility: 0.42
+- Average Durability: 52.17
 
 ## Dominant Factions
 - Stability: 0.6
@@ -24,9 +24,9 @@ Rusty Relic of Grace
 - Most Volatile Item: Blessed Spear of Whispers
 
 ## Recent Events
-- MUTATED: 'Rusty Relic of Grace' evolved to generation 2.
-- STABLE: 'Mundane Axe of Might' did not mutate this tick.
-- STABLE: 'Blessed Spear of Whispers' did not mutate this tick.
+- MUTATED: 'Obsidian Focus of Stone' evolved to generation 16.
+- STABLE: 'Blessed Edge of Eternity' did not mutate this tick.
+- STABLE: 'Rusty Relic of Grace' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 299
@@ -40,8 +40,8 @@ Rusty Relic of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 24357
-- Successful Mutations: 10101
+- Mutations Attempted: 24382
+- Successful Mutations: 10108
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Rusty Relic of Grace
 
 ## Economy
 - Total Currency: 541900
-- Currency per Tick (avg): 22.25
+- Currency per Tick (avg): 22.23
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
