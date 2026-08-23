@@ -1,21 +1,21 @@
 {
   "currency": 544850,
-  "tick": 24607,
+  "tick": 24632,
   "mutation_stats": {
-    "attempted": 24607,
-    "success": 10208
+    "attempted": 24632,
+    "success": 10224
   },
   "recent_events": [
-    "STABLE: 'Rusty Relic of Grace' did not mutate this tick.",
-    "MUTATED: 'Feral Sigil of Judgement' evolved to generation 2.",
-    "MUTATED: 'Blessed Edge of Eternity' evolved to generation 22.",
-    "STABLE: 'Feral Sigil of Judgement' did not mutate this tick.",
-    "MUTATED: 'Glacial Relic of Grace' evolved to generation 13.",
     "STABLE: 'Glacial Relic of Grace' did not mutate this tick.",
-    "STABLE: 'Rusty Relic of Grace' did not mutate this tick.",
-    "MUTATED: 'Cursed Sigil of Frost' evolved to generation 38.",
-    "MUTATED: 'Cursed Sigil of Frost' evolved to generation 39.",
-    "STABLE: 'Obsidian Bow of Stone' did not mutate this tick."
+    "MUTATED: 'Obsidian Focus of Stone' evolved to generation 30.",
+    "MUTATED: 'Mundane Axe of Might' evolved to generation 21.",
+    "STABLE: 'Fractured Rapier of Whispers' did not mutate this tick.",
+    "MUTATED: 'Cursed Sigil of Frost' evolved to generation 40.",
+    "MUTATED: 'Cursed Sigil of Frost' evolved to generation 41.",
+    "MUTATED: 'Fractured Rapier of Whispers' evolved to generation 24.",
+    "MUTATED: 'Fractured Edge of Light' evolved to generation 8.",
+    "STABLE: 'Blessed Edge of Eternity' did not mutate this tick.",
+    "STABLE: 'Obsidian Focus of Stone' did not mutate this tick."
   ],
   "created": 301,
   "avg_lifespan": 35.44673539518902,

@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-24607
+24632
 
 ## Oldest Item
 Feral Sigil of Judgement
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.53
-- Average Volatility: 0.44
-- Average Durability: 42.9
+- Average Rarity: 1.63
+- Average Volatility: 0.45
+- Average Durability: 39.82
 
 ## Dominant Factions
 - Order: 0.6
 - Stability: 0.6
-- Restoration: 0.4
+- Chaos: 0.5
 
 ## Extremes
 - Most Stable Item: Rusty Relic of Grace
 - Most Volatile Item: Fractured Rapier of Whispers
 
 ## Recent Events
-- MUTATED: 'Cursed Sigil of Frost' evolved to generation 38.
-- MUTATED: 'Cursed Sigil of Frost' evolved to generation 39.
-- STABLE: 'Obsidian Bow of Stone' did not mutate this tick.
+- MUTATED: 'Fractured Edge of Light' evolved to generation 8.
+- STABLE: 'Blessed Edge of Eternity' did not mutate this tick.
+- STABLE: 'Obsidian Focus of Stone' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 301
@@ -40,15 +40,15 @@ Feral Sigil of Judgement
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 24607
-- Successful Mutations: 10208
+- Mutations Attempted: 24632
+- Successful Mutations: 10224
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 8
-- Uncommon: 2
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Feral Sigil of Judgement
 
 ## Economy
 - Total Currency: 544850
-- Currency per Tick (avg): 22.14
+- Currency per Tick (avg): 22.12
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
