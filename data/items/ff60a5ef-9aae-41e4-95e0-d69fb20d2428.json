@@ -2,7 +2,7 @@
   "id": "ff60a5ef-9aae-41e4-95e0-d69fb20d2428",
   "name": "Fractured Rapier of Whispers",
   "type": "Generic",
-  "generation": 15,
+  "generation": 17,
   "damage": 21.5,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.1,
   "dex_mod": 1.02,
   "rarity": 1,
-  "durability": 24.849999999999994,
-  "max_durability": 109.0,
-  "volatility": 0.55,
-  "resilience": 0.45,
+  "durability": 15.849999999999994,
+  "max_durability": 116.0,
+  "volatility": 0.56,
+  "resilience": 0.5,
   "worth": 100,
   "affinities": {
     "Stability": 0.1,
