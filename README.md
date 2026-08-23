@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-24432
+24457
 
 ## Oldest Item
-Rusty Relic of Grace
+Fractured Edge of Light
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.58
-- Average Volatility: 0.41
-- Average Durability: 55.02
+- Average Volatility: 0.42
+- Average Durability: 52.67
 
 ## Dominant Factions
 - Stability: 0.6
@@ -24,9 +24,9 @@ Rusty Relic of Grace
 - Most Volatile Item: Cursed Sigil of Frost
 
 ## Recent Events
-- STABLE: 'Obsidian Focus of Stone' did not mutate this tick.
-- STABLE: 'Obsidian Bow of Stone' did not mutate this tick.
-- MUTATED: 'Fractured Edge of Light' evolved to generation 4.
+- STABLE: 'Fractured Rapier of Whispers' did not mutate this tick.
+- STABLE: 'Mundane Axe of Might' did not mutate this tick.
+- STABLE: 'Fractured Edge of Light' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 300
@@ -40,8 +40,8 @@ Rusty Relic of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 24432
-- Successful Mutations: 10132
+- Mutations Attempted: 24457
+- Successful Mutations: 10141
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Rusty Relic of Grace
 
 ## Economy
 - Total Currency: 543400
-- Currency per Tick (avg): 22.24
+- Currency per Tick (avg): 22.22
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
