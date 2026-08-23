@@ -2,7 +2,7 @@
   "id": "d3d3b70f-feb0-4f52-9e98-d6d6a0321d8e",
   "name": "Blessed Spear of Whispers",
   "type": "Polearm",
-  "generation": 14,
+  "generation": 15,
   "damage": 11.5,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.12,
   "rarity": 2,
-  "durability": 47.35,
-  "max_durability": 122.0,
-  "volatility": 0.44000000000000034,
+  "durability": 40.9,
+  "max_durability": 127.0,
+  "volatility": 0.48000000000000037,
   "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {
