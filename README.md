@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-24382
+24407
 
 ## Oldest Item
-Rusty Relic of Grace
+Fractured Edge of Light
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.55
-- Average Volatility: 0.42
-- Average Durability: 52.17
+- Average Rarity: 1.58
+- Average Volatility: 0.4
+- Average Durability: 57.86
 
 ## Dominant Factions
 - Stability: 0.6
-- Restoration: 0.3
+- Restoration: 0.4
 - Order: 0.3
 
 ## Extremes
 - Most Stable Item: Rusty Relic of Grace
-- Most Volatile Item: Blessed Spear of Whispers
+- Most Volatile Item: Cursed Sigil of Frost
 
 ## Recent Events
-- MUTATED: 'Obsidian Focus of Stone' evolved to generation 16.
 - STABLE: 'Blessed Edge of Eternity' did not mutate this tick.
-- STABLE: 'Rusty Relic of Grace' did not mutate this tick.
+- MUTATED: 'Blessed Edge of Eternity' evolved to generation 14.
+- STABLE: 'Mundane Axe of Might' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 299
-- Items Archived: 289
+- Items Created: 300
+- Items Archived: 290
 - Avg Lifespan (ticks): 35.5
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Rusty Relic of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 24382
-- Successful Mutations: 10108
+- Mutations Attempted: 24407
+- Successful Mutations: 10118
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Rusty Relic of Grace
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 541900
-- Currency per Tick (avg): 22.23
+- Total Currency: 543400
+- Currency per Tick (avg): 22.26
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
