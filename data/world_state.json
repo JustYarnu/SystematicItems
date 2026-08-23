@@ -1,23 +1,23 @@
 {
-  "currency": 548250,
-  "tick": 24757,
+  "currency": 550050,
+  "tick": 24782,
   "mutation_stats": {
-    "attempted": 24757,
-    "success": 10287
+    "attempted": 24782,
+    "success": 10295
   },
   "recent_events": [
-    "MUTATED: 'Blessed Edge of Eternity' evolved to generation 33.",
-    "STABLE: 'Feral Sigil of Judgement' did not mutate this tick.",
-    "MUTATED: 'Glacial Relic of Grace' evolved to generation 20.",
-    "STABLE: 'Fractured Edge of Light' did not mutate this tick.",
-    "STABLE: 'Obsidian Bow of Stone' did not mutate this tick.",
-    "STABLE: 'Feral Sigil of Judgement' did not mutate this tick.",
-    "STABLE: 'Rusty Relic of Grace' did not mutate this tick.",
-    "MUTATED: 'Cursed Sigil of Frost' evolved to generation 47.",
-    "MUTATED: 'Glacial Relic of Grace' evolved to generation 21.",
-    "MUTATED: 'Unstable Spear of Ash' evolved to generation 2."
+    "MUTATED: 'Unstable Spear of Ash' evolved to generation 3.",
+    "STABLE: 'Glacial Relic of Grace' did not mutate this tick.",
+    "MUTATED: 'Feral Sigil of Judgement' evolved to generation 8.",
+    "STABLE: 'Blessed Edge of Eternity' did not mutate this tick.",
+    "STABLE: 'Unstable Spear of Ash' did not mutate this tick.",
+    "STABLE: 'Glacial Relic of Grace' did not mutate this tick.",
+    "MUTATED: 'Unstable Spear of Ash' evolved to generation 4.",
+    "MUTATED: 'Cursed Sigil of Frost' evolved to generation 48.",
+    "MUTATED: 'Glacial Relic of Grace' evolved to generation 22.",
+    "STABLE: 'Mundane Shard of Frost' did not mutate this tick."
   ],
-  "created": 303,
-  "avg_lifespan": 35.4232081911263,
-  "archived": 293
+  "created": 304,
+  "avg_lifespan": 35.418367346938794,
+  "archived": 294
 }

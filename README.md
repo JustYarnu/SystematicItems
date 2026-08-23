@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-24757
+24782
 
 ## Oldest Item
-Unstable Spear of Ash
+Verdant Relic of Doom
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.73
-- Average Volatility: 0.45
-- Average Durability: 39.21
+- Average Rarity: 1.78
+- Average Volatility: 0.46
+- Average Durability: 47.02
 
 ## Dominant Factions
-- Stability: 0.7
-- Order: 0.5
-- Restoration: 0.4
+- Order: 0.6
+- Stability: 0.6
+- STR: 0.5
 
 ## Extremes
 - Most Stable Item: Mundane Shard of Frost
-- Most Volatile Item: Feral Sigil of Judgement
+- Most Volatile Item: Blessed Edge of Eternity
 
 ## Recent Events
-- MUTATED: 'Cursed Sigil of Frost' evolved to generation 47.
-- MUTATED: 'Glacial Relic of Grace' evolved to generation 21.
-- MUTATED: 'Unstable Spear of Ash' evolved to generation 2.
+- MUTATED: 'Cursed Sigil of Frost' evolved to generation 48.
+- MUTATED: 'Glacial Relic of Grace' evolved to generation 22.
+- STABLE: 'Mundane Shard of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 303
-- Items Archived: 293
+- Items Created: 304
+- Items Archived: 294
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,9 +40,9 @@ Unstable Spear of Ash
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 24757
-- Successful Mutations: 10287
-- Failure Rate: 58.4%
+- Mutations Attempted: 24782
+- Successful Mutations: 10295
+- Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -56,8 +56,8 @@ Unstable Spear of Ash
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 548250
-- Currency per Tick (avg): 22.15
+- Total Currency: 550050
+- Currency per Tick (avg): 22.2
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
