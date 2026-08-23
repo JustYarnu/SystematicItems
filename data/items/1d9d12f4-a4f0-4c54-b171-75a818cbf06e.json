@@ -14,9 +14,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.1999999999999997,
   "rarity": 2.5,
-  "durability": 27.35460292809795,
+  "durability": 26.35460292809795,
   "max_durability": 122.0,
-  "volatility": 0.4500000000000004,
+  "volatility": 0.4600000000000004,
   "resilience": 0.8160964047443681,
   "worth": 100,
   "affinities": {
