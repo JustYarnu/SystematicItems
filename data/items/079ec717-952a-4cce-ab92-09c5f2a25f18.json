@@ -2,7 +2,7 @@
   "id": "079ec717-952a-4cce-ab92-09c5f2a25f18",
   "name": "Cursed Sigil of Frost",
   "type": "Focus",
-  "generation": 32,
+  "generation": 33,
   "damage": 29.5,
   "damage_type": [
     "Physical",
@@ -14,14 +14,14 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 0.9,
   "rarity": 1.5,
-  "durability": 56.05999999999999,
+  "durability": 54.05999999999999,
   "max_durability": 102.0,
-  "volatility": 0.5800000000000002,
+  "volatility": 0.5792481250360578,
   "resilience": 0.74,
   "worth": 100,
   "affinities": {
     "Restoration": 0.1,
-    "Order": 0.2,
+    "Order": 0.3,
     "STR": 0.1
   }
 }

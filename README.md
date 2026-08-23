@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-24482
+24507
 
 ## Oldest Item
 Fractured Edge of Light
@@ -12,20 +12,20 @@ Fractured Edge of Light
 - Active Items: 10
 - Average Rarity: 1.58
 - Average Volatility: 0.44
-- Average Durability: 49.24
+- Average Durability: 46.49
 
 ## Dominant Factions
 - Stability: 0.7
+- Order: 0.6
 - Restoration: 0.4
-- Order: 0.3
 
 ## Extremes
 - Most Stable Item: Fractured Edge of Light
 - Most Volatile Item: Cursed Sigil of Frost
 
 ## Recent Events
-- MUTATED: 'Blessed Spear of Whispers' evolved to generation 24.
-- STABLE: 'Obsidian Focus of Stone' did not mutate this tick.
+- MUTATED: 'Rusty Relic of Grace' evolved to generation 13.
+- MUTATED: 'Blessed Spear of Whispers' evolved to generation 25.
 - STABLE: 'Obsidian Focus of Stone' did not mutate this tick.
 
 ## Lifecycle Stats
@@ -40,8 +40,8 @@ Fractured Edge of Light
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 24482
-- Successful Mutations: 10155
+- Mutations Attempted: 24507
+- Successful Mutations: 10169
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Fractured Edge of Light
 
 ## Economy
 - Total Currency: 543400
-- Currency per Tick (avg): 22.2
+- Currency per Tick (avg): 22.17
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
