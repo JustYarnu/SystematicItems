@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-25232
+25257
 
 ## Oldest Item
-Nimble Blade of Whispers
+Titanic Axe of Blight
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.28
-- Average Volatility: 0.39
-- Average Durability: 61.91
+- Average Rarity: 2.15
+- Average Volatility: 0.36
+- Average Durability: 70.05
 
 ## Dominant Factions
-- Scarceness: 0.3
 - Order: 0.3
-- Stability: 0.3
+- Scarceness: 0.2
+- DEX: 0.2
 
 ## Extremes
 - Most Stable Item: Nimble Blade of Whispers
-- Most Volatile Item: Verdant Sigil of the Void
+- Most Volatile Item: Corrosive Sigil of Gales
 
 ## Recent Events
-- STABLE: 'Iridescent Blade of Iron' did not mutate this tick.
-- STABLE: 'Echoing Edge of Carnage' did not mutate this tick.
-- MUTATED: 'Corrosive Sigil of Gales' evolved to generation 20.
+- MUTATED: 'Verdant Sigil of the Void' evolved to generation 24.
+- STABLE: 'Verdant Relic of Doom' did not mutate this tick.
+- STABLE: 'Verdant Relic of Doom' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 311
-- Items Archived: 301
+- Items Created: 312
+- Items Archived: 302
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Nimble Blade of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 25232
-- Successful Mutations: 10480
+- Mutations Attempted: 25257
+- Successful Mutations: 10489
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 5
-- Uncommon: 4
+- Common: 6
+- Uncommon: 3
 - Rare: 1
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Nimble Blade of Whispers
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 562600
-- Currency per Tick (avg): 22.3
+- Total Currency: 564250
+- Currency per Tick (avg): 22.34
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
