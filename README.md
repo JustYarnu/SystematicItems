@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-25082
+25107
 
 ## Oldest Item
-Echoing Edge of Carnage
+Mundane Edge of Torment
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.78
-- Average Volatility: 0.45
-- Average Durability: 45.57
+- Average Rarity: 1.63
+- Average Volatility: 0.42
+- Average Durability: 52.7
 
 ## Dominant Factions
-- Order: 0.7
-- Chaos: 0.5
-- Scarceness: 0.2
+- Order: 0.4
+- Scarceness: 0.3
+- Stability: 0.3
 
 ## Extremes
-- Most Stable Item: Dread Shard of the Deep
+- Most Stable Item: Mundane Edge of Torment
 - Most Volatile Item: Verdant Sigil of the Void
 
 ## Recent Events
-- MUTATED: 'Feral Sigil of Judgement' evolved to generation 24.
-- STABLE: 'Unstable Spear of Ash' did not mutate this tick.
-- MUTATED: 'Feral Sigil of Judgement' evolved to generation 25.
+- REPLACED WITH: 'Mundane Edge of Torment' (b390c7d5-5cbb-4ae0-af6b-a5d0385b150a)
+- MUTATED: 'Dread Shard of the Deep' evolved to generation 10.
+- STABLE: 'Verdant Sigil of the Void' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 308
-- Items Archived: 298
+- Items Created: 309
+- Items Archived: 299
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Echoing Edge of Carnage
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 25082
-- Successful Mutations: 10421
-- Failure Rate: 58.5%
+- Mutations Attempted: 25107
+- Successful Mutations: 10433
+- Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Echoing Edge of Carnage
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 556950
-- Currency per Tick (avg): 22.21
+- Total Currency: 559800
+- Currency per Tick (avg): 22.3
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
