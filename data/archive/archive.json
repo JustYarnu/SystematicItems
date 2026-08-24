@@ -8014,5 +8014,31 @@
       "Order": 0.1,
       "Chaos": 0.1
     }
+  },
+  {
+    "id": "58bc99ff-48ab-42f2-bf24-3de6907883af",
+    "name": "Obsidian Bow of Stone",
+    "type": "Ranged",
+    "generation": 44,
+    "damage": 34.5,
+    "damage_type": [
+      "Physical",
+      "Earth",
+      "Piercing"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 1.0,
+    "rarity": 2,
+    "durability": -0.5100000000000122,
+    "max_durability": 115.0,
+    "volatility": 0.5200000000000006,
+    "resilience": 0.7,
+    "worth": 2300,
+    "affinities": {
+      "Stability": 0.1,
+      "STR": 0.2
+    }
   }
 ]
