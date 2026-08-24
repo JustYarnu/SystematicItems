@@ -7963,5 +7963,31 @@
       "Restoration": 0.1,
       "Scarceness": 0.1
     }
+  },
+  {
+    "id": "7adfa3ca-1bb0-4765-b9ac-f83a975f22b7",
+    "name": "Blessed Edge of Eternity",
+    "type": "Sword",
+    "generation": 38,
+    "damage": 27.5,
+    "damage_type": [
+      "Physical"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.01,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 1.15,
+    "rarity": 4.0,
+    "durability": -1.0,
+    "max_durability": 173.6240625180289,
+    "volatility": 0.65,
+    "resilience": 0.85,
+    "worth": 2000,
+    "affinities": {
+      "Restoration": 0.1,
+      "Stability": 0.2,
+      "Order": 0.1,
+      "STR": 0.3
+    }
   }
 ]
