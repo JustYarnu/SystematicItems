@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-24807
+24832
 
 ## Oldest Item
 Verdant Relic of Doom
@@ -11,8 +11,8 @@ Verdant Relic of Doom
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.78
-- Average Volatility: 0.46
-- Average Durability: 43.37
+- Average Volatility: 0.44
+- Average Durability: 39.69
 
 ## Dominant Factions
 - Stability: 0.7
@@ -20,13 +20,13 @@ Verdant Relic of Doom
 - STR: 0.5
 
 ## Extremes
-- Most Stable Item: Mundane Shard of Frost
+- Most Stable Item: Obsidian Bow of Stone
 - Most Volatile Item: Blessed Edge of Eternity
 
 ## Recent Events
-- STABLE: 'Unstable Spear of Ash' did not mutate this tick.
-- MUTATED: 'Rusty Relic of Grace' evolved to generation 22.
-- STABLE: 'Mundane Shard of Frost' did not mutate this tick.
+- STABLE: 'Verdant Relic of Doom' did not mutate this tick.
+- STABLE: 'Blessed Edge of Eternity' did not mutate this tick.
+- STABLE: 'Cursed Sigil of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 304
@@ -40,8 +40,8 @@ Verdant Relic of Doom
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 24807
-- Successful Mutations: 10302
+- Mutations Attempted: 24832
+- Successful Mutations: 10313
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Verdant Relic of Doom
 
 ## Economy
 - Total Currency: 550050
-- Currency per Tick (avg): 22.17
+- Currency per Tick (avg): 22.15
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

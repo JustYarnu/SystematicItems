@@ -2,7 +2,7 @@
   "id": "58bc99ff-48ab-42f2-bf24-3de6907883af",
   "name": "Obsidian Bow of Stone",
   "type": "Ranged",
-  "generation": 33,
+  "generation": 36,
   "damage": 29.5,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 36.98999999999999,
+  "durability": 26.489999999999988,
   "max_durability": 125.0,
-  "volatility": 0.4800000000000005,
+  "volatility": 0.3400000000000005,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
