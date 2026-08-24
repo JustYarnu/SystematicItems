@@ -1,21 +1,21 @@
 {
   "currency": 556950,
-  "tick": 25007,
+  "tick": 25032,
   "mutation_stats": {
-    "attempted": 25007,
-    "success": 10390
+    "attempted": 25032,
+    "success": 10401
   },
   "recent_events": [
-    "STABLE: 'Corrosive Sigil of Gales' did not mutate this tick.",
-    "MUTATED: 'Fractured Edge of Light' evolved to generation 23.",
-    "MUTATED: 'Cursed Sigil of Frost' evolved to generation 53.",
-    "STABLE: 'Feral Sigil of Judgement' did not mutate this tick.",
-    "STABLE: 'Cursed Sigil of Frost' did not mutate this tick.",
-    "MUTATED: 'Verdant Relic of Doom' evolved to generation 15.",
-    "MUTATED: 'Verdant Sigil of the Void' evolved to generation 5.",
-    "MUTATED: 'Cursed Sigil of Frost' evolved to generation 54.",
-    "MUTATED: 'Echoing Edge of Carnage' evolved to generation 6.",
-    "MUTATED: 'Dread Shard of the Deep' evolved to generation 4."
+    "MUTATED: 'Corrosive Sigil of Gales' evolved to generation 9.",
+    "STABLE: 'Echoing Edge of Carnage' did not mutate this tick.",
+    "STABLE: 'Mundane Shard of Frost' did not mutate this tick.",
+    "STABLE: 'Echoing Edge of Carnage' did not mutate this tick.",
+    "STABLE: 'Echoing Edge of Carnage' did not mutate this tick.",
+    "STABLE: 'Dread Shard of the Deep' did not mutate this tick.",
+    "STABLE: 'Dread Shard of the Deep' did not mutate this tick.",
+    "STABLE: 'Unstable Spear of Ash' did not mutate this tick.",
+    "STABLE: 'Dread Shard of the Deep' did not mutate this tick.",
+    "MUTATED: 'Dread Shard of the Deep' evolved to generation 6."
   ],
   "created": 308,
   "avg_lifespan": 35.379194630872504,

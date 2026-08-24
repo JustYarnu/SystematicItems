@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-25007
+25032
 
 ## Oldest Item
-Dread Shard of the Deep
+Echoing Edge of Carnage
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.58
-- Average Volatility: 0.43
-- Average Durability: 54.16
+- Average Volatility: 0.42
+- Average Durability: 50.42
 
 ## Dominant Factions
 - Order: 0.6
@@ -24,9 +24,9 @@ Dread Shard of the Deep
 - Most Volatile Item: Verdant Sigil of the Void
 
 ## Recent Events
-- MUTATED: 'Cursed Sigil of Frost' evolved to generation 54.
-- MUTATED: 'Echoing Edge of Carnage' evolved to generation 6.
-- MUTATED: 'Dread Shard of the Deep' evolved to generation 4.
+- STABLE: 'Unstable Spear of Ash' did not mutate this tick.
+- STABLE: 'Dread Shard of the Deep' did not mutate this tick.
+- MUTATED: 'Dread Shard of the Deep' evolved to generation 6.
 
 ## Lifecycle Stats
 - Items Created: 308
@@ -40,9 +40,9 @@ Dread Shard of the Deep
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 25007
-- Successful Mutations: 10390
-- Failure Rate: 58.5%
+- Mutations Attempted: 25032
+- Successful Mutations: 10401
+- Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Dread Shard of the Deep
 
 ## Economy
 - Total Currency: 556950
-- Currency per Tick (avg): 22.27
+- Currency per Tick (avg): 22.25
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
