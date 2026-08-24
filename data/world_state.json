@@ -1,21 +1,21 @@
 {
   "currency": 564250,
-  "tick": 25282,
+  "tick": 25307,
   "mutation_stats": {
-    "attempted": 25282,
-    "success": 10497
+    "attempted": 25307,
+    "success": 10508
   },
   "recent_events": [
+    "MUTATED: 'Mundane Shard of Frost' evolved to generation 21.",
+    "STABLE: 'Nimble Blade of Whispers' did not mutate this tick.",
     "STABLE: 'Dread Shard of the Deep' did not mutate this tick.",
-    "STABLE: 'Mundane Edge of Torment' did not mutate this tick.",
+    "MUTATED: 'Echoing Edge of Carnage' evolved to generation 16.",
+    "STABLE: 'Titanic Axe of Blight' did not mutate this tick.",
+    "STABLE: 'Titanic Axe of Blight' did not mutate this tick.",
+    "MUTATED: 'Verdant Relic of Doom' evolved to generation 26.",
+    "MUTATED: 'Nimble Blade of Whispers' evolved to generation 3.",
     "STABLE: 'Iridescent Blade of Iron' did not mutate this tick.",
-    "MUTATED: 'Mundane Shard of Frost' evolved to generation 19.",
-    "MUTATED: 'Mundane Shard of Frost' evolved to generation 20.",
-    "STABLE: 'Echoing Edge of Carnage' did not mutate this tick.",
-    "STABLE: 'Verdant Relic of Doom' did not mutate this tick.",
-    "STABLE: 'Dread Shard of the Deep' did not mutate this tick.",
-    "STABLE: 'Iridescent Blade of Iron' did not mutate this tick.",
-    "STABLE: 'Iridescent Blade of Iron' did not mutate this tick."
+    "MUTATED: 'Dread Shard of the Deep' evolved to generation 13."
   ],
   "created": 312,
   "avg_lifespan": 35.36754966887419,
