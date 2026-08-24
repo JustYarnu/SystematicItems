@@ -1,23 +1,23 @@
 {
-  "currency": 550050,
-  "tick": 24857,
+  "currency": 551300,
+  "tick": 24882,
   "mutation_stats": {
-    "attempted": 24857,
-    "success": 10316
+    "attempted": 24882,
+    "success": 10329
   },
   "recent_events": [
-    "STABLE: 'Glacial Relic of Grace' did not mutate this tick.",
-    "STABLE: 'Unstable Spear of Ash' did not mutate this tick.",
     "STABLE: 'Fractured Edge of Light' did not mutate this tick.",
-    "STABLE: 'Unstable Spear of Ash' did not mutate this tick.",
-    "STABLE: 'Feral Sigil of Judgement' did not mutate this tick.",
-    "MUTATED: 'Feral Sigil of Judgement' evolved to generation 14.",
-    "STABLE: 'Obsidian Bow of Stone' did not mutate this tick.",
-    "STABLE: 'Verdant Relic of Doom' did not mutate this tick.",
-    "STABLE: 'Blessed Edge of Eternity' did not mutate this tick.",
-    "STABLE: 'Unstable Spear of Ash' did not mutate this tick."
+    "MUTATED: 'Blessed Edge of Eternity' evolved to generation 37.",
+    "STABLE: 'Echoing Edge of Carnage' did not mutate this tick.",
+    "MUTATED: 'Verdant Relic of Doom' evolved to generation 5.",
+    "STABLE: 'Mundane Shard of Frost' did not mutate this tick.",
+    "STABLE: 'Fractured Edge of Light' did not mutate this tick.",
+    "MUTATED: 'Verdant Relic of Doom' evolved to generation 6.",
+    "MUTATED: 'Verdant Relic of Doom' evolved to generation 7.",
+    "MUTATED: 'Fractured Edge of Light' evolved to generation 19.",
+    "STABLE: 'Blessed Edge of Eternity' did not mutate this tick."
   ],
-  "created": 304,
-  "avg_lifespan": 35.418367346938794,
-  "archived": 294
+  "created": 305,
+  "avg_lifespan": 35.3762711864407,
+  "archived": 295
 }

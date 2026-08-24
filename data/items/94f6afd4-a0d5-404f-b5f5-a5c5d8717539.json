@@ -2,7 +2,7 @@
   "id": "94f6afd4-a0d5-404f-b5f5-a5c5d8717539",
   "name": "Feral Sigil of Judgement",
   "type": "Focus",
-  "generation": 14,
+  "generation": 15,
   "damage": 23.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.3,
   "dex_mod": 0.9,
   "rarity": 1.5,
-  "durability": 45.82000000000001,
+  "durability": 41.88000000000001,
   "max_durability": 106.0,
-  "volatility": 0.3992481250360579,
+  "volatility": 0.3592481250360579,
   "resilience": 0.53,
   "worth": 100,
   "affinities": {
