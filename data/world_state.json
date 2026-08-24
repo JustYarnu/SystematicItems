@@ -1,21 +1,21 @@
 {
   "currency": 553300,
-  "tick": 24907,
+  "tick": 24932,
   "mutation_stats": {
-    "attempted": 24907,
-    "success": 10341
+    "attempted": 24932,
+    "success": 10352
   },
   "recent_events": [
-    "MUTATED: 'Feral Sigil of Judgement' evolved to generation 16.",
+    "STABLE: 'Obsidian Bow of Stone' did not mutate this tick.",
     "STABLE: 'Corrosive Sigil of Gales' did not mutate this tick.",
-    "MUTATED: 'Unstable Spear of Ash' evolved to generation 9.",
-    "STABLE: 'Echoing Edge of Carnage' did not mutate this tick.",
-    "MUTATED: 'Corrosive Sigil of Gales' evolved to generation 2.",
-    "STABLE: 'Feral Sigil of Judgement' did not mutate this tick.",
-    "MUTATED: 'Corrosive Sigil of Gales' evolved to generation 3.",
-    "MUTATED: 'Rusty Relic of Grace' evolved to generation 25.",
-    "STABLE: 'Corrosive Sigil of Gales' did not mutate this tick.",
-    "STABLE: 'Cursed Sigil of Frost' did not mutate this tick."
+    "MUTATED: 'Obsidian Bow of Stone' evolved to generation 41.",
+    "MUTATED: 'Cursed Sigil of Frost' evolved to generation 50.",
+    "STABLE: 'Cursed Sigil of Frost' did not mutate this tick.",
+    "STABLE: 'Mundane Shard of Frost' did not mutate this tick.",
+    "STABLE: 'Fractured Edge of Light' did not mutate this tick.",
+    "MUTATED: 'Obsidian Bow of Stone' evolved to generation 42.",
+    "STABLE: 'Mundane Shard of Frost' did not mutate this tick.",
+    "STABLE: 'Rusty Relic of Grace' did not mutate this tick."
   ],
   "created": 306,
   "avg_lifespan": 35.38513513513515,

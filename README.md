@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-24907
+24932
 
 ## Oldest Item
 Echoing Edge of Carnage
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.38
-- Average Volatility: 0.43
-- Average Durability: 50.76
+- Average Rarity: 1.48
+- Average Volatility: 0.44
+- Average Durability: 47.18
 
 ## Dominant Factions
 - Order: 0.5
@@ -24,9 +24,9 @@ Echoing Edge of Carnage
 - Most Volatile Item: Corrosive Sigil of Gales
 
 ## Recent Events
-- MUTATED: 'Rusty Relic of Grace' evolved to generation 25.
-- STABLE: 'Corrosive Sigil of Gales' did not mutate this tick.
-- STABLE: 'Cursed Sigil of Frost' did not mutate this tick.
+- MUTATED: 'Obsidian Bow of Stone' evolved to generation 42.
+- STABLE: 'Mundane Shard of Frost' did not mutate this tick.
+- STABLE: 'Rusty Relic of Grace' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 306
@@ -40,15 +40,15 @@ Echoing Edge of Carnage
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 24907
-- Successful Mutations: 10341
+- Mutations Attempted: 24932
+- Successful Mutations: 10352
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 9
-- Uncommon: 1
+- Common: 8
+- Uncommon: 2
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Echoing Edge of Carnage
 
 ## Economy
 - Total Currency: 553300
-- Currency per Tick (avg): 22.21
+- Currency per Tick (avg): 22.19
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
