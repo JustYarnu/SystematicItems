@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-24932
+24957
 
 ## Oldest Item
-Echoing Edge of Carnage
+Verdant Sigil of the Void
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.48
-- Average Volatility: 0.44
-- Average Durability: 47.18
+- Average Rarity: 1.68
+- Average Volatility: 0.46
+- Average Durability: 52.45
 
 ## Dominant Factions
-- Order: 0.5
-- Chaos: 0.5
+- Order: 0.4
+- Chaos: 0.4
 - Stability: 0.3
 
 ## Extremes
 - Most Stable Item: Echoing Edge of Carnage
-- Most Volatile Item: Corrosive Sigil of Gales
+- Most Volatile Item: Verdant Sigil of the Void
 
 ## Recent Events
-- MUTATED: 'Obsidian Bow of Stone' evolved to generation 42.
-- STABLE: 'Mundane Shard of Frost' did not mutate this tick.
-- STABLE: 'Rusty Relic of Grace' did not mutate this tick.
+- REPLACED WITH: 'Verdant Sigil of the Void' (bf52f834-9489-410c-a166-bf919b89e4b3)
+- STABLE: 'Verdant Relic of Doom' did not mutate this tick.
+- STABLE: 'Obsidian Bow of Stone' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 306
-- Items Archived: 296
+- Items Created: 307
+- Items Archived: 297
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Echoing Edge of Carnage
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 24932
-- Successful Mutations: 10352
+- Mutations Attempted: 24957
+- Successful Mutations: 10364
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 8
-- Uncommon: 2
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Echoing Edge of Carnage
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 553300
-- Currency per Tick (avg): 22.19
+- Total Currency: 554650
+- Currency per Tick (avg): 22.22
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

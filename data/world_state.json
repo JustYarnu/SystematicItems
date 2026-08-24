@@ -1,23 +1,23 @@
 {
-  "currency": 553300,
-  "tick": 24932,
+  "currency": 554650,
+  "tick": 24957,
   "mutation_stats": {
-    "attempted": 24932,
-    "success": 10352
+    "attempted": 24957,
+    "success": 10364
   },
   "recent_events": [
+    "MUTATED: 'Mundane Shard of Frost' evolved to generation 6.",
+    "MUTATED: 'Cursed Sigil of Frost' evolved to generation 52.",
+    "STABLE: 'Obsidian Bow of Stone' did not mutate this tick.",
     "STABLE: 'Obsidian Bow of Stone' did not mutate this tick.",
     "STABLE: 'Corrosive Sigil of Gales' did not mutate this tick.",
-    "MUTATED: 'Obsidian Bow of Stone' evolved to generation 41.",
-    "MUTATED: 'Cursed Sigil of Frost' evolved to generation 50.",
-    "STABLE: 'Cursed Sigil of Frost' did not mutate this tick.",
-    "STABLE: 'Mundane Shard of Frost' did not mutate this tick.",
-    "STABLE: 'Fractured Edge of Light' did not mutate this tick.",
-    "MUTATED: 'Obsidian Bow of Stone' evolved to generation 42.",
-    "STABLE: 'Mundane Shard of Frost' did not mutate this tick.",
-    "STABLE: 'Rusty Relic of Grace' did not mutate this tick."
+    "STABLE: 'Verdant Relic of Doom' did not mutate this tick.",
+    "STABLE: 'Rusty Relic of Grace' did not mutate this tick.",
+    "REPLACED WITH: 'Verdant Sigil of the Void' (bf52f834-9489-410c-a166-bf919b89e4b3)",
+    "STABLE: 'Verdant Relic of Doom' did not mutate this tick.",
+    "STABLE: 'Obsidian Bow of Stone' did not mutate this tick."
   ],
-  "created": 306,
-  "avg_lifespan": 35.38513513513515,
-  "archived": 296
+  "created": 307,
+  "avg_lifespan": 35.35016835016837,
+  "archived": 297
 }

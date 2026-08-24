@@ -2,7 +2,7 @@
   "id": "75cd7f77-6e19-44b1-b606-9043ee8b79ba",
   "name": "Mundane Shard of Frost",
   "type": "Dagger",
-  "generation": 4,
+  "generation": 6,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.0,
   "rarity": 1,
-  "durability": 87.5,
-  "max_durability": 110.0,
-  "volatility": 0.4400000000000002,
+  "durability": 90.25,
+  "max_durability": 112.0,
+  "volatility": 0.4200000000000002,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
