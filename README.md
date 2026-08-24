@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-25107
+25132
 
 ## Oldest Item
 Mundane Edge of Torment
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.63
-- Average Volatility: 0.42
-- Average Durability: 52.7
+- Average Rarity: 1.73
+- Average Volatility: 0.43
+- Average Durability: 49.86
 
 ## Dominant Factions
 - Order: 0.4
@@ -24,9 +24,9 @@ Mundane Edge of Torment
 - Most Volatile Item: Verdant Sigil of the Void
 
 ## Recent Events
-- REPLACED WITH: 'Mundane Edge of Torment' (b390c7d5-5cbb-4ae0-af6b-a5d0385b150a)
-- MUTATED: 'Dread Shard of the Deep' evolved to generation 10.
-- STABLE: 'Verdant Sigil of the Void' did not mutate this tick.
+- STABLE: 'Mundane Edge of Torment' did not mutate this tick.
+- STABLE: 'Echoing Edge of Carnage' did not mutate this tick.
+- MUTATED: 'Mundane Edge of Torment' evolved to generation 2.
 
 ## Lifecycle Stats
 - Items Created: 309
@@ -40,9 +40,9 @@ Mundane Edge of Torment
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 25107
-- Successful Mutations: 10433
-- Failure Rate: 58.4%
+- Mutations Attempted: 25132
+- Successful Mutations: 10440
+- Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
@@ -57,7 +57,7 @@ Mundane Edge of Torment
 
 ## Economy
 - Total Currency: 559800
-- Currency per Tick (avg): 22.3
+- Currency per Tick (avg): 22.27
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
