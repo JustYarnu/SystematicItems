@@ -2,7 +2,7 @@
   "id": "b4d05b34-1384-4844-85e9-ec598e98eb11",
   "name": "Fractured Edge of Light",
   "type": "Sword",
-  "generation": 15,
+  "generation": 16,
   "damage": 23.0,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.0499999999999998,
   "rarity": 2.3,
-  "durability": 56.26346975953133,
-  "max_durability": 80.0,
-  "volatility": 0.3800000000000002,
+  "durability": 49.25809766534476,
+  "max_durability": 82.0,
+  "volatility": 0.42000000000000026,
   "resilience": 0.7989255811626864,
   "worth": 100,
   "affinities": {
