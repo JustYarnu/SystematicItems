@@ -2,7 +2,7 @@
   "id": "e6f9b862-8af4-473c-8a54-8326c643ddf4",
   "name": "Corrosive Sigil of Gales",
   "type": "Focus",
-  "generation": 10,
+  "generation": 11,
   "damage": 20.0,
   "damage_type": [
     "Physical",
@@ -15,9 +15,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.28,
   "rarity": 1.5,
-  "durability": 71.5,
+  "durability": 60.5,
   "max_durability": 90.0,
-  "volatility": 0.5400000000000001,
+  "volatility": 0.5300000000000001,
   "resilience": 0.5,
   "worth": 100,
   "affinities": {

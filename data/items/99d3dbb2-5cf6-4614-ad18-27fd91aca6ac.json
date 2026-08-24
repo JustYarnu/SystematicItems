@@ -2,7 +2,7 @@
   "id": "99d3dbb2-5cf6-4614-ad18-27fd91aca6ac",
   "name": "Unstable Spear of Ash",
   "type": "Polearm",
-  "generation": 15,
+  "generation": 16,
   "damage": 28.0,
   "damage_type": [
     "Physical",
@@ -14,13 +14,13 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 1.0,
   "rarity": 2,
-  "durability": 8.719999999999985,
+  "durability": 4.719999999999985,
   "max_durability": 94.0,
-  "volatility": 0.54,
+  "volatility": 0.56,
   "resilience": 0.6099999999999999,
   "worth": 100,
   "affinities": {
-    "Order": 0.1,
+    "Order": 0.2,
     "Chaos": 0.1
   }
 }

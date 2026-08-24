@@ -1,21 +1,21 @@
 {
   "currency": 556950,
-  "tick": 25057,
+  "tick": 25082,
   "mutation_stats": {
-    "attempted": 25057,
-    "success": 10412
+    "attempted": 25082,
+    "success": 10421
   },
   "recent_events": [
-    "STABLE: 'Dread Shard of the Deep' did not mutate this tick.",
-    "STABLE: 'Unstable Spear of Ash' did not mutate this tick.",
-    "MUTATED: 'Verdant Relic of Doom' evolved to generation 17.",
-    "STABLE: 'Feral Sigil of Judgement' did not mutate this tick.",
-    "STABLE: 'Verdant Relic of Doom' did not mutate this tick.",
-    "MUTATED: 'Feral Sigil of Judgement' evolved to generation 22.",
+    "STABLE: 'Corrosive Sigil of Gales' did not mutate this tick.",
+    "STABLE: 'Fractured Edge of Light' did not mutate this tick.",
     "STABLE: 'Mundane Shard of Frost' did not mutate this tick.",
-    "MUTATED: 'Dread Shard of the Deep' evolved to generation 8.",
     "STABLE: 'Feral Sigil of Judgement' did not mutate this tick.",
-    "MUTATED: 'Verdant Relic of Doom' evolved to generation 18."
+    "STABLE: 'Corrosive Sigil of Gales' did not mutate this tick.",
+    "STABLE: 'Mundane Shard of Frost' did not mutate this tick.",
+    "STABLE: 'Verdant Relic of Doom' did not mutate this tick.",
+    "MUTATED: 'Feral Sigil of Judgement' evolved to generation 24.",
+    "STABLE: 'Unstable Spear of Ash' did not mutate this tick.",
+    "MUTATED: 'Feral Sigil of Judgement' evolved to generation 25."
   ],
   "created": 308,
   "avg_lifespan": 35.379194630872504,
