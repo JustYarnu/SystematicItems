@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-25257
+25282
 
 ## Oldest Item
 Titanic Axe of Blight
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.15
+- Average Rarity: 2.25
 - Average Volatility: 0.36
-- Average Durability: 70.05
+- Average Durability: 66.22
 
 ## Dominant Factions
+- Scarceness: 0.3
 - Order: 0.3
-- Scarceness: 0.2
 - DEX: 0.2
 
 ## Extremes
 - Most Stable Item: Nimble Blade of Whispers
-- Most Volatile Item: Corrosive Sigil of Gales
+- Most Volatile Item: Verdant Sigil of the Void
 
 ## Recent Events
-- MUTATED: 'Verdant Sigil of the Void' evolved to generation 24.
-- STABLE: 'Verdant Relic of Doom' did not mutate this tick.
-- STABLE: 'Verdant Relic of Doom' did not mutate this tick.
+- STABLE: 'Dread Shard of the Deep' did not mutate this tick.
+- STABLE: 'Iridescent Blade of Iron' did not mutate this tick.
+- STABLE: 'Iridescent Blade of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 312
@@ -40,8 +40,8 @@ Titanic Axe of Blight
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 25257
-- Successful Mutations: 10489
+- Mutations Attempted: 25282
+- Successful Mutations: 10497
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Titanic Axe of Blight
 
 ## Economy
 - Total Currency: 564250
-- Currency per Tick (avg): 22.34
+- Currency per Tick (avg): 22.32
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
