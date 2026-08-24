@@ -1,23 +1,23 @@
 {
-  "currency": 559800,
-  "tick": 25157,
+  "currency": 560900,
+  "tick": 25182,
   "mutation_stats": {
-    "attempted": 25157,
-    "success": 10456
+    "attempted": 25182,
+    "success": 10462
   },
   "recent_events": [
-    "MUTATED: 'Feral Sigil of Judgement' evolved to generation 29.",
-    "STABLE: 'Verdant Relic of Doom' did not mutate this tick.",
-    "MUTATED: 'Fractured Edge of Light' evolved to generation 27.",
-    "MUTATED: 'Corrosive Sigil of Gales' evolved to generation 15.",
-    "MUTATED: 'Echoing Edge of Carnage' evolved to generation 10.",
     "STABLE: 'Feral Sigil of Judgement' did not mutate this tick.",
-    "MUTATED: 'Mundane Shard of Frost' evolved to generation 16.",
-    "MUTATED: 'Unstable Spear of Ash' evolved to generation 20.",
+    "STABLE: 'Corrosive Sigil of Gales' did not mutate this tick.",
+    "STABLE: 'Fractured Edge of Light' did not mutate this tick.",
+    "STABLE: 'Corrosive Sigil of Gales' did not mutate this tick.",
+    "STABLE: 'Echoing Edge of Carnage' did not mutate this tick.",
+    "STABLE: 'Iridescent Blade of Iron' did not mutate this tick.",
+    "MUTATED: 'Iridescent Blade of Iron' evolved to generation 3.",
+    "MUTATED: 'Verdant Sigil of the Void' evolved to generation 19.",
     "STABLE: 'Mundane Edge of Torment' did not mutate this tick.",
-    "STABLE: 'Unstable Spear of Ash' did not mutate this tick."
+    "STABLE: 'Echoing Edge of Carnage' did not mutate this tick."
   ],
-  "created": 309,
-  "avg_lifespan": 35.44481605351172,
-  "archived": 299
+  "created": 310,
+  "avg_lifespan": 35.39333333333335,
+  "archived": 300
 }

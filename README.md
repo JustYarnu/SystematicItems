@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-25157
+25182
 
 ## Oldest Item
 Mundane Edge of Torment
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.83
+- Average Rarity: 2.23
 - Average Volatility: 0.41
-- Average Durability: 47.03
+- Average Durability: 58.16
 
 ## Dominant Factions
-- Order: 0.4
 - Scarceness: 0.3
 - Stability: 0.3
+- Order: 0.2
 
 ## Extremes
 - Most Stable Item: Mundane Edge of Torment
 - Most Volatile Item: Verdant Sigil of the Void
 
 ## Recent Events
-- MUTATED: 'Unstable Spear of Ash' evolved to generation 20.
+- MUTATED: 'Verdant Sigil of the Void' evolved to generation 19.
 - STABLE: 'Mundane Edge of Torment' did not mutate this tick.
-- STABLE: 'Unstable Spear of Ash' did not mutate this tick.
+- STABLE: 'Echoing Edge of Carnage' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 309
-- Items Archived: 299
+- Items Created: 310
+- Items Archived: 300
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,24 +40,24 @@ Mundane Edge of Torment
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 25157
-- Successful Mutations: 10456
-- Failure Rate: 58.4%
+- Mutations Attempted: 25182
+- Successful Mutations: 10462
+- Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
 - Common: 6
-- Uncommon: 4
-- Rare: 0
+- Uncommon: 3
+- Rare: 1
 - Epic: 0
 - Legendary+: 0
 
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 559800
-- Currency per Tick (avg): 22.25
+- Total Currency: 560900
+- Currency per Tick (avg): 22.27
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
