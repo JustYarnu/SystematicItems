@@ -2,7 +2,7 @@
   "id": "baafabe4-4157-4941-8f14-d1ff220829bc",
   "name": "Verdant Edge of Sovereignty",
   "type": "Sword",
-  "generation": 12,
+  "generation": 14,
   "damage": 8.0,
   "damage_type": [
     "Physical",
@@ -13,13 +13,14 @@
   "str_mod": 1.1,
   "dex_mod": 1.4500000000000002,
   "rarity": 3.5,
-  "durability": 75.52999999999999,
-  "max_durability": 115.0,
+  "durability": 71.20110323830863,
+  "max_durability": 120.0,
   "volatility": 0.31000000000000016,
   "resilience": 0.8403677461028802,
   "worth": 100,
   "affinities": {
     "DEX": 0.2,
-    "Chaos": 0.1
+    "Chaos": 0.1,
+    "Scarceness": 0.1
   }
 }

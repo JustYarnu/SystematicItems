@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-25882
+25907
 
 ## Oldest Item
 Mundane Blade of the Sun
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.35
-- Average Volatility: 0.42
-- Average Durability: 45.19
+- Average Rarity: 2.45
+- Average Volatility: 0.41
+- Average Durability: 44.05
 
 ## Dominant Factions
 - Order: 0.9
 - Chaos: 0.9
-- DEX: 0.6
+- DEX: 0.8
 
 ## Extremes
 - Most Stable Item: Mundane Blade of the Sun
 - Most Volatile Item: Verdant Sigil of the Void
 
 ## Recent Events
-- STABLE: 'Verdant Edge of Sovereignty' did not mutate this tick.
-- STABLE: 'Mundane Blade of the Sun' did not mutate this tick.
-- MUTATED: 'Rusty Rapier of Stone' evolved to generation 13.
+- MUTATED: 'Titanic Axe of Blight' evolved to generation 28.
+- MUTATED: 'Verdant Sigil of the Void' evolved to generation 75.
+- STABLE: 'Verdant Sigil of the Void' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 316
@@ -40,15 +40,15 @@ Mundane Blade of the Sun
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 25882
-- Successful Mutations: 10742
+- Mutations Attempted: 25907
+- Successful Mutations: 10758
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 1
+- Common: 6
+- Uncommon: 2
 - Rare: 2
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Mundane Blade of the Sun
 
 ## Economy
 - Total Currency: 571650
-- Currency per Tick (avg): 22.09
+- Currency per Tick (avg): 22.07
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
