@@ -2,7 +2,7 @@
   "id": "bf52f834-9489-410c-a166-bf919b89e4b3",
   "name": "Verdant Sigil of the Void",
   "type": "Focus",
-  "generation": 43,
+  "generation": 47,
   "damage": 30.0,
   "damage_type": [
     "Physical",
@@ -12,18 +12,19 @@
   "crit_damage": 2,
   "crit_rate": 0.060000000000000005,
   "str_mod": 1.0,
-  "dex_mod": 1.0,
-  "rarity": 4.5,
-  "durability": 66.57225625468755,
-  "max_durability": 144.0,
-  "volatility": 0.5784962500721156,
+  "dex_mod": 1.1,
+  "rarity": 5.5,
+  "durability": 57.14774500490389,
+  "max_durability": 134.0,
+  "volatility": 0.6384962500721156,
   "resilience": 0.8584962500721156,
   "worth": 100,
   "affinities": {
     "Scarceness": 0.3,
-    "Order": 0.2,
+    "Order": 0.3,
     "DEX": 0.1,
     "Stability": 0.1,
-    "Restoration": 0.1
+    "Restoration": 0.1,
+    "Chaos": 0.1
   }
 }

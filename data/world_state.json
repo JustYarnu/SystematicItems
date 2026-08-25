@@ -1,23 +1,23 @@
 {
-  "currency": 565850,
-  "tick": 25507,
+  "currency": 567750,
+  "tick": 25532,
   "mutation_stats": {
-    "attempted": 25507,
-    "success": 10591
+    "attempted": 25532,
+    "success": 10601
   },
   "recent_events": [
-    "STABLE: 'Echoing Edge of Carnage' did not mutate this tick.",
-    "MUTATED: 'Verdant Sigil of the Void' evolved to generation 42.",
-    "MUTATED: 'Mundane Edge of Torment' evolved to generation 8.",
-    "STABLE: 'Iridescent Blade of Iron' did not mutate this tick.",
-    "MUTATED: 'Verdant Edge of Sovereignty' evolved to generation 2.",
-    "STABLE: 'Titanic Axe of Blight' did not mutate this tick.",
+    "MUTATED: 'Dread Shard of the Deep' evolved to generation 22.",
+    "STABLE: 'Verdant Relic of Doom' did not mutate this tick.",
+    "REPLACED WITH: 'Mundane Relic of Pestilence' (0d0cc84f-7cf3-4e5e-a930-4e01c5fb785e)",
+    "STABLE: 'Mundane Edge of Torment' did not mutate this tick.",
+    "MUTATED: 'Verdant Sigil of the Void' evolved to generation 46.",
+    "STABLE: 'Dread Shard of the Deep' did not mutate this tick.",
+    "STABLE: 'Mundane Relic of Pestilence' did not mutate this tick.",
     "STABLE: 'Verdant Edge of Sovereignty' did not mutate this tick.",
-    "STABLE: 'Echoing Edge of Carnage' did not mutate this tick.",
-    "MUTATED: 'Verdant Sigil of the Void' evolved to generation 43.",
-    "STABLE: 'Echoing Edge of Carnage' did not mutate this tick."
+    "MUTATED: 'Verdant Sigil of the Void' evolved to generation 47.",
+    "STABLE: 'Verdant Edge of Sovereignty' did not mutate this tick."
   ],
-  "created": 313,
-  "avg_lifespan": 35.34983498349837,
-  "archived": 303
+  "created": 314,
+  "avg_lifespan": 35.35197368421054,
+  "archived": 304
 }

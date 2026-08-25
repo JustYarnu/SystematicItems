@@ -1,0 +1,23 @@
+{
+  "id": "0d0cc84f-7cf3-4e5e-a930-4e01c5fb785e",
+  "name": "Mundane Relic of Pestilence",
+  "type": "Artifact",
+  "generation": 1,
+  "damage": 16.0,
+  "damage_type": [
+    "Physical",
+    "Holy",
+    "Acid"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.0,
+  "rarity": 1.5,
+  "durability": 99.0,
+  "max_durability": 88.0,
+  "volatility": 0.11,
+  "resilience": 0.7792481250360578,
+  "worth": 100,
+  "affinities": {}
+}
