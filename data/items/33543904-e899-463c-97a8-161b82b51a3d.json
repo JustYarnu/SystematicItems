@@ -2,7 +2,7 @@
   "id": "33543904-e899-463c-97a8-161b82b51a3d",
   "name": "Iridescent Blade of Iron",
   "type": "Sword",
-  "generation": 32,
+  "generation": 34,
   "damage": 32.5,
   "damage_type": [
     "Physical",
@@ -14,15 +14,16 @@
   "str_mod": 1.5500000000000005,
   "dex_mod": 1.0499999999999998,
   "rarity": 6,
-  "durability": 65.61744375108174,
+  "durability": 74.61744375108174,
   "max_durability": 189.6240625180289,
-  "volatility": 0.5500000000000004,
+  "volatility": 0.5700000000000004,
   "resilience": 0.8292481250360577,
   "worth": 100,
   "affinities": {
     "Chaos": 0.3,
     "Scarceness": 0.2,
     "Order": 0.2,
-    "STR": 0.1
+    "STR": 0.1,
+    "Restoration": 0.1
   }
 }

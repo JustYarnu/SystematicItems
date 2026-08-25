@@ -1,21 +1,21 @@
 {
   "currency": 571650,
-  "tick": 25857,
+  "tick": 25882,
   "mutation_stats": {
-    "attempted": 25857,
-    "success": 10727
+    "attempted": 25882,
+    "success": 10742
   },
   "recent_events": [
+    "MUTATED: 'Mundane Relic of Pestilence' evolved to generation 9.",
+    "MUTATED: 'Iridescent Blade of Iron' evolved to generation 34.",
     "STABLE: 'Nimble Blade of Whispers' did not mutate this tick.",
-    "STABLE: 'Nimble Blade of Whispers' did not mutate this tick.",
-    "STABLE: 'Echoing Edge of Carnage' did not mutate this tick.",
-    "MUTATED: 'Echoing Edge of Carnage' evolved to generation 42.",
-    "REPLACED WITH: 'Mundane Blade of the Sun' (5502b015-c0e9-473f-b6ae-13390564422f)",
-    "STABLE: 'Titanic Axe of Blight' did not mutate this tick.",
-    "STABLE: 'Verdant Edge of Sovereignty' did not mutate this tick.",
-    "MUTATED: 'Mundane Relic of Pestilence' evolved to generation 8.",
+    "MUTATED: 'Titanic Axe of Blight' evolved to generation 24.",
+    "STABLE: 'Iridescent Blade of Iron' did not mutate this tick.",
     "STABLE: 'Mundane Relic of Pestilence' did not mutate this tick.",
-    "MUTATED: 'Verdant Sigil of the Void' evolved to generation 70."
+    "STABLE: 'Nimble Blade of Whispers' did not mutate this tick.",
+    "STABLE: 'Verdant Edge of Sovereignty' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of the Sun' did not mutate this tick.",
+    "MUTATED: 'Rusty Rapier of Stone' evolved to generation 13."
   ],
   "created": 316,
   "avg_lifespan": 35.362745098039234,
