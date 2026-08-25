@@ -1,21 +1,21 @@
 {
   "currency": 569450,
-  "tick": 25707,
+  "tick": 25732,
   "mutation_stats": {
-    "attempted": 25707,
-    "success": 10675
+    "attempted": 25732,
+    "success": 10683
   },
   "recent_events": [
-    "STABLE: 'Verdant Edge of Sovereignty' did not mutate this tick.",
-    "STABLE: 'Mundane Relic of Pestilence' did not mutate this tick.",
-    "STABLE: 'Dread Shard of the Deep' did not mutate this tick.",
-    "STABLE: 'Nimble Blade of Whispers' did not mutate this tick.",
-    "MUTATED: 'Iridescent Blade of Iron' evolved to generation 25.",
-    "STABLE: 'Mundane Relic of Pestilence' did not mutate this tick.",
-    "MUTATED: 'Iridescent Blade of Iron' evolved to generation 26.",
+    "MUTATED: 'Titanic Axe of Blight' evolved to generation 18.",
     "STABLE: 'Rusty Rapier of Stone' did not mutate this tick.",
-    "MUTATED: 'Titanic Axe of Blight' evolved to generation 17.",
-    "MUTATED: 'Dread Shard of the Deep' evolved to generation 32."
+    "STABLE: 'Dread Shard of the Deep' did not mutate this tick.",
+    "STABLE: 'Echoing Edge of Carnage' did not mutate this tick.",
+    "STABLE: 'Echoing Edge of Carnage' did not mutate this tick.",
+    "MUTATED: 'Titanic Axe of Blight' evolved to generation 19.",
+    "STABLE: 'Verdant Sigil of the Void' did not mutate this tick.",
+    "STABLE: 'Mundane Relic of Pestilence' did not mutate this tick.",
+    "STABLE: 'Mundane Relic of Pestilence' did not mutate this tick.",
+    "STABLE: 'Nimble Blade of Whispers' did not mutate this tick."
   ],
   "created": 315,
   "avg_lifespan": 35.340983606557394,
