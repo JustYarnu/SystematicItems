@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-25582
+25607
 
 ## Oldest Item
-Mundane Relic of Pestilence
+Rusty Rapier of Stone
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.25
-- Average Volatility: 0.34
-- Average Durability: 64.82
+- Average Rarity: 2.35
+- Average Volatility: 0.36
+- Average Durability: 62.33
 
 ## Dominant Factions
 - Order: 0.7
@@ -20,13 +20,13 @@ Mundane Relic of Pestilence
 - Scarceness: 0.4
 
 ## Extremes
-- Most Stable Item: Rusty Rapier of Stone
+- Most Stable Item: Verdant Edge of Sovereignty
 - Most Volatile Item: Verdant Sigil of the Void
 
 ## Recent Events
-- STABLE: 'Verdant Sigil of the Void' did not mutate this tick.
-- MUTATED: 'Echoing Edge of Carnage' evolved to generation 35.
-- STABLE: 'Verdant Edge of Sovereignty' did not mutate this tick.
+- STABLE: 'Rusty Rapier of Stone' did not mutate this tick.
+- STABLE: 'Mundane Relic of Pestilence' did not mutate this tick.
+- STABLE: 'Iridescent Blade of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 315
@@ -40,8 +40,8 @@ Mundane Relic of Pestilence
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 25582
-- Successful Mutations: 10621
+- Mutations Attempted: 25607
+- Successful Mutations: 10630
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Relic of Pestilence
 
 ## Economy
 - Total Currency: 569450
-- Currency per Tick (avg): 22.26
+- Currency per Tick (avg): 22.24
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

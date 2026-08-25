@@ -1,21 +1,21 @@
 {
   "currency": 569450,
-  "tick": 25582,
+  "tick": 25607,
   "mutation_stats": {
-    "attempted": 25582,
-    "success": 10621
+    "attempted": 25607,
+    "success": 10630
   },
   "recent_events": [
-    "MUTATED: 'Iridescent Blade of Iron' evolved to generation 18.",
+    "MUTATED: 'Verdant Sigil of the Void' evolved to generation 54.",
+    "MUTATED: 'Verdant Sigil of the Void' evolved to generation 55.",
+    "STABLE: 'Echoing Edge of Carnage' did not mutate this tick.",
     "STABLE: 'Titanic Axe of Blight' did not mutate this tick.",
-    "STABLE: 'Verdant Sigil of the Void' did not mutate this tick.",
-    "MUTATED: 'Verdant Sigil of the Void' evolved to generation 52.",
-    "MUTATED: 'Echoing Edge of Carnage' evolved to generation 34.",
+    "STABLE: 'Nimble Blade of Whispers' did not mutate this tick.",
+    "MUTATED: 'Iridescent Blade of Iron' evolved to generation 19.",
+    "STABLE: 'Nimble Blade of Whispers' did not mutate this tick.",
     "STABLE: 'Rusty Rapier of Stone' did not mutate this tick.",
-    "STABLE: 'Rusty Rapier of Stone' did not mutate this tick.",
-    "STABLE: 'Verdant Sigil of the Void' did not mutate this tick.",
-    "MUTATED: 'Echoing Edge of Carnage' evolved to generation 35.",
-    "STABLE: 'Verdant Edge of Sovereignty' did not mutate this tick."
+    "STABLE: 'Mundane Relic of Pestilence' did not mutate this tick.",
+    "STABLE: 'Iridescent Blade of Iron' did not mutate this tick."
   ],
   "created": 315,
   "avg_lifespan": 35.340983606557394,
