@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-25657
+25682
 
 ## Oldest Item
-Rusty Rapier of Stone
+Mundane Relic of Pestilence
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.35
-- Average Volatility: 0.38
-- Average Durability: 55.52
+- Average Volatility: 0.37
+- Average Durability: 53.06
 
 ## Dominant Factions
-- Order: 0.8
+- Order: 0.9
 - Chaos: 0.6
-- Scarceness: 0.4
+- Scarceness: 0.5
 
 ## Extremes
-- Most Stable Item: Mundane Relic of Pestilence
+- Most Stable Item: Rusty Rapier of Stone
 - Most Volatile Item: Verdant Sigil of the Void
 
 ## Recent Events
-- STABLE: 'Titanic Axe of Blight' did not mutate this tick.
-- STABLE: 'Echoing Edge of Carnage' did not mutate this tick.
-- MUTATED: 'Dread Shard of the Deep' evolved to generation 29.
+- STABLE: 'Rusty Rapier of Stone' did not mutate this tick.
+- STABLE: 'Mundane Relic of Pestilence' did not mutate this tick.
+- STABLE: 'Iridescent Blade of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 315
@@ -40,8 +40,8 @@ Rusty Rapier of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 25657
-- Successful Mutations: 10652
+- Mutations Attempted: 25682
+- Successful Mutations: 10665
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Rusty Rapier of Stone
 
 ## Economy
 - Total Currency: 569450
-- Currency per Tick (avg): 22.19
+- Currency per Tick (avg): 22.17
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
