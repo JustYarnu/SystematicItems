@@ -1,23 +1,23 @@
 {
-  "currency": 564250,
-  "tick": 25482,
+  "currency": 565850,
+  "tick": 25507,
   "mutation_stats": {
-    "attempted": 25482,
-    "success": 10583
+    "attempted": 25507,
+    "success": 10591
   },
   "recent_events": [
-    "STABLE: 'Mundane Edge of Torment' did not mutate this tick.",
-    "STABLE: 'Verdant Sigil of the Void' did not mutate this tick.",
-    "STABLE: 'Titanic Axe of Blight' did not mutate this tick.",
-    "STABLE: 'Nimble Blade of Whispers' did not mutate this tick.",
-    "STABLE: 'Nimble Blade of Whispers' did not mutate this tick.",
+    "STABLE: 'Echoing Edge of Carnage' did not mutate this tick.",
+    "MUTATED: 'Verdant Sigil of the Void' evolved to generation 42.",
+    "MUTATED: 'Mundane Edge of Torment' evolved to generation 8.",
     "STABLE: 'Iridescent Blade of Iron' did not mutate this tick.",
-    "MUTATED: 'Titanic Axe of Blight' evolved to generation 7.",
-    "MUTATED: 'Mundane Edge of Torment' evolved to generation 7.",
-    "MUTATED: 'Iridescent Blade of Iron' evolved to generation 15.",
-    "MUTATED: 'Mundane Shard of Frost' evolved to generation 29."
+    "MUTATED: 'Verdant Edge of Sovereignty' evolved to generation 2.",
+    "STABLE: 'Titanic Axe of Blight' did not mutate this tick.",
+    "STABLE: 'Verdant Edge of Sovereignty' did not mutate this tick.",
+    "STABLE: 'Echoing Edge of Carnage' did not mutate this tick.",
+    "MUTATED: 'Verdant Sigil of the Void' evolved to generation 43.",
+    "STABLE: 'Echoing Edge of Carnage' did not mutate this tick."
   ],
-  "created": 312,
-  "avg_lifespan": 35.36754966887419,
-  "archived": 302
+  "created": 313,
+  "avg_lifespan": 35.34983498349837,
+  "archived": 303
 }
