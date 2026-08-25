@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-25457
+25482
 
 ## Oldest Item
-Mundane Edge of Torment
+Nimble Blade of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.55
-- Average Volatility: 0.42
-- Average Durability: 52.08
+- Average Volatility: 0.44
+- Average Durability: 47.55
 
 ## Dominant Factions
-- Order: 0.6
+- Order: 0.8
 - Stability: 0.5
 - Scarceness: 0.4
 
@@ -24,9 +24,9 @@ Mundane Edge of Torment
 - Most Volatile Item: Verdant Sigil of the Void
 
 ## Recent Events
-- MUTATED: 'Verdant Sigil of the Void' evolved to generation 40.
-- STABLE: 'Verdant Sigil of the Void' did not mutate this tick.
-- STABLE: 'Nimble Blade of Whispers' did not mutate this tick.
+- MUTATED: 'Mundane Edge of Torment' evolved to generation 7.
+- MUTATED: 'Iridescent Blade of Iron' evolved to generation 15.
+- MUTATED: 'Mundane Shard of Frost' evolved to generation 29.
 
 ## Lifecycle Stats
 - Items Created: 312
@@ -40,8 +40,8 @@ Mundane Edge of Torment
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 25457
-- Successful Mutations: 10572
+- Mutations Attempted: 25482
+- Successful Mutations: 10583
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Edge of Torment
 
 ## Economy
 - Total Currency: 564250
-- Currency per Tick (avg): 22.16
+- Currency per Tick (avg): 22.14
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
