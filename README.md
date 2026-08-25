@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-25682
+25707
 
 ## Oldest Item
-Mundane Relic of Pestilence
+Rusty Rapier of Stone
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.35
-- Average Volatility: 0.37
-- Average Durability: 53.06
+- Average Volatility: 0.38
+- Average Durability: 50.08
 
 ## Dominant Factions
-- Order: 0.9
+- Order: 1.0
 - Chaos: 0.6
 - Scarceness: 0.5
 
@@ -25,8 +25,8 @@ Mundane Relic of Pestilence
 
 ## Recent Events
 - STABLE: 'Rusty Rapier of Stone' did not mutate this tick.
-- STABLE: 'Mundane Relic of Pestilence' did not mutate this tick.
-- STABLE: 'Iridescent Blade of Iron' did not mutate this tick.
+- MUTATED: 'Titanic Axe of Blight' evolved to generation 17.
+- MUTATED: 'Dread Shard of the Deep' evolved to generation 32.
 
 ## Lifecycle Stats
 - Items Created: 315
@@ -40,8 +40,8 @@ Mundane Relic of Pestilence
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 25682
-- Successful Mutations: 10665
+- Mutations Attempted: 25707
+- Successful Mutations: 10675
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Relic of Pestilence
 
 ## Economy
 - Total Currency: 569450
-- Currency per Tick (avg): 22.17
+- Currency per Tick (avg): 22.15
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
