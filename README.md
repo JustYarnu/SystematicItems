@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-25607
+25632
 
 ## Oldest Item
 Rusty Rapier of Stone
@@ -12,21 +12,21 @@ Rusty Rapier of Stone
 - Active Items: 10
 - Average Rarity: 2.35
 - Average Volatility: 0.36
-- Average Durability: 62.33
+- Average Durability: 57.81
 
 ## Dominant Factions
-- Order: 0.7
+- Order: 0.8
 - Chaos: 0.5
 - Scarceness: 0.4
 
 ## Extremes
-- Most Stable Item: Verdant Edge of Sovereignty
+- Most Stable Item: Mundane Relic of Pestilence
 - Most Volatile Item: Verdant Sigil of the Void
 
 ## Recent Events
-- STABLE: 'Rusty Rapier of Stone' did not mutate this tick.
+- MUTATED: 'Rusty Rapier of Stone' evolved to generation 3.
+- STABLE: 'Verdant Edge of Sovereignty' did not mutate this tick.
 - STABLE: 'Mundane Relic of Pestilence' did not mutate this tick.
-- STABLE: 'Iridescent Blade of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 315
@@ -40,8 +40,8 @@ Rusty Rapier of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 25607
-- Successful Mutations: 10630
+- Mutations Attempted: 25632
+- Successful Mutations: 10640
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Rusty Rapier of Stone
 
 ## Economy
 - Total Currency: 569450
-- Currency per Tick (avg): 22.24
+- Currency per Tick (avg): 22.22
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
