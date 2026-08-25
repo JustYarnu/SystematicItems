@@ -2,7 +2,7 @@
   "id": "13ca2df7-e82d-4367-a9f6-656878aabeaf",
   "name": "Echoing Edge of Carnage",
   "type": "Sword",
-  "generation": 36,
+  "generation": 38,
   "damage": 43.5,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.1,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 7.050000000000001,
+  "durability": 6.300000000000001,
   "max_durability": 114.0,
-  "volatility": 0.47000000000000025,
-  "resilience": 0.7,
+  "volatility": 0.55,
+  "resilience": 0.6499999999999999,
   "worth": 100,
   "affinities": {
     "Order": 0.3,
