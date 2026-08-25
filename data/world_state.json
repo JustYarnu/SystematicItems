@@ -1,23 +1,23 @@
 {
-  "currency": 569450,
-  "tick": 25832,
+  "currency": 571650,
+  "tick": 25857,
   "mutation_stats": {
-    "attempted": 25832,
-    "success": 10719
+    "attempted": 25857,
+    "success": 10727
   },
   "recent_events": [
-    "MUTATED: 'Verdant Edge of Sovereignty' evolved to generation 11.",
-    "STABLE: 'Mundane Edge of Torment' did not mutate this tick.",
-    "STABLE: 'Titanic Axe of Blight' did not mutate this tick.",
-    "MUTATED: 'Iridescent Blade of Iron' evolved to generation 30.",
-    "MUTATED: 'Iridescent Blade of Iron' evolved to generation 31.",
-    "STABLE: 'Verdant Edge of Sovereignty' did not mutate this tick.",
-    "MUTATED: 'Mundane Edge of Torment' evolved to generation 18.",
+    "STABLE: 'Nimble Blade of Whispers' did not mutate this tick.",
+    "STABLE: 'Nimble Blade of Whispers' did not mutate this tick.",
+    "STABLE: 'Echoing Edge of Carnage' did not mutate this tick.",
+    "MUTATED: 'Echoing Edge of Carnage' evolved to generation 42.",
+    "REPLACED WITH: 'Mundane Blade of the Sun' (5502b015-c0e9-473f-b6ae-13390564422f)",
     "STABLE: 'Titanic Axe of Blight' did not mutate this tick.",
     "STABLE: 'Verdant Edge of Sovereignty' did not mutate this tick.",
-    "MUTATED: 'Rusty Rapier of Stone' evolved to generation 9."
+    "MUTATED: 'Mundane Relic of Pestilence' evolved to generation 8.",
+    "STABLE: 'Mundane Relic of Pestilence' did not mutate this tick.",
+    "MUTATED: 'Verdant Sigil of the Void' evolved to generation 70."
   ],
-  "created": 315,
-  "avg_lifespan": 35.340983606557394,
-  "archived": 305
+  "created": 316,
+  "avg_lifespan": 35.362745098039234,
+  "archived": 306
 }
