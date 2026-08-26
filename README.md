@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-26007
+26032
 
 ## Oldest Item
-Titanic Edge of Blood
+Mundane Bow of Grace
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.93
-- Average Volatility: 0.38
-- Average Durability: 65.44
+- Average Volatility: 0.36
+- Average Durability: 72.36
 
 ## Dominant Factions
-- Chaos: 0.9
-- DEX: 0.6
-- Order: 0.5
+- Chaos: 0.8
+- Scarceness: 0.4
+- Order: 0.4
 
 ## Extremes
-- Most Stable Item: Heavy Rapier of Might
+- Most Stable Item: Mundane Bow of Grace
 - Most Volatile Item: Iridescent Blade of Iron
 
 ## Recent Events
-- STABLE: 'Mundane Blade of the Sun' did not mutate this tick.
-- STABLE: 'Mundane Blade of the Sun' did not mutate this tick.
-- STABLE: 'Titanic Edge of Blood' did not mutate this tick.
+- STABLE: 'Corrosive Shard of Echoes' did not mutate this tick.
+- STABLE: 'Mundane Bow of Grace' did not mutate this tick.
+- MUTATED: 'Iridescent Blade of Iron' evolved to generation 42.
 
 ## Lifecycle Stats
-- Items Created: 319
-- Items Archived: 309
+- Items Created: 320
+- Items Archived: 310
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Titanic Edge of Blood
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 26007
-- Successful Mutations: 10796
+- Mutations Attempted: 26032
+- Successful Mutations: 10804
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Titanic Edge of Blood
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 578300
-- Currency per Tick (avg): 22.24
+- Total Currency: 580450
+- Currency per Tick (avg): 22.3
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
