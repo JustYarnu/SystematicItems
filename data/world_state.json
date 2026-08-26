@@ -1,21 +1,21 @@
 {
   "currency": 580450,
-  "tick": 26082,
+  "tick": 26107,
   "mutation_stats": {
-    "attempted": 26082,
-    "success": 10827
+    "attempted": 26107,
+    "success": 10837
   },
   "recent_events": [
-    "MUTATED: 'Rusty Rapier of Stone' evolved to generation 26.",
-    "MUTATED: 'Verdant Edge of Sovereignty' evolved to generation 18.",
-    "STABLE: 'Titanic Edge of Blood' did not mutate this tick.",
-    "STABLE: 'Nimble Blade of Whispers' did not mutate this tick.",
-    "MUTATED: 'Nimble Blade of Whispers' evolved to generation 22.",
-    "MUTATED: 'Heavy Rapier of Might' evolved to generation 3.",
-    "STABLE: 'Titanic Edge of Blood' did not mutate this tick.",
-    "MUTATED: 'Nimble Blade of Whispers' evolved to generation 23.",
-    "STABLE: 'Mundane Relic of Pestilence' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of the Sun' did not mutate this tick."
+    "STABLE: 'Heavy Rapier of Might' did not mutate this tick.",
+    "MUTATED: 'Nimble Blade of Whispers' evolved to generation 25.",
+    "STABLE: 'Rusty Rapier of Stone' did not mutate this tick.",
+    "STABLE: 'Verdant Edge of Sovereignty' did not mutate this tick.",
+    "MUTATED: 'Mundane Blade of the Sun' evolved to generation 9.",
+    "MUTATED: 'Iridescent Blade of Iron' evolved to generation 51.",
+    "STABLE: 'Heavy Rapier of Might' did not mutate this tick.",
+    "STABLE: 'Iridescent Blade of Iron' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of the Sun' did not mutate this tick.",
+    "MUTATED: 'Mundane Blade of the Sun' evolved to generation 10."
   ],
   "created": 320,
   "avg_lifespan": 35.44838709677422,
