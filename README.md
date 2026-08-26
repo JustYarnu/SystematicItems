@@ -3,20 +3,20 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-26132
+26157
 
 ## Oldest Item
 Mundane Bow of Grace
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.93
-- Average Volatility: 0.37
-- Average Durability: 61.06
+- Average Rarity: 2.03
+- Average Volatility: 0.4
+- Average Durability: 57.71
 
 ## Dominant Factions
 - Chaos: 1.0
-- DEX: 0.6
+- DEX: 0.7
 - Order: 0.6
 
 ## Extremes
@@ -24,9 +24,9 @@ Mundane Bow of Grace
 - Most Volatile Item: Corrosive Shard of Echoes
 
 ## Recent Events
-- MUTATED: 'Heavy Rapier of Might' evolved to generation 4.
-- STABLE: 'Iridescent Blade of Iron' did not mutate this tick.
-- STABLE: 'Mundane Relic of Pestilence' did not mutate this tick.
+- STABLE: 'Titanic Edge of Blood' did not mutate this tick.
+- STABLE: 'Rusty Rapier of Stone' did not mutate this tick.
+- MUTATED: 'Titanic Edge of Blood' evolved to generation 7.
 
 ## Lifecycle Stats
 - Items Created: 320
@@ -40,15 +40,15 @@ Mundane Bow of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 26132
-- Successful Mutations: 10848
+- Mutations Attempted: 26157
+- Successful Mutations: 10858
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 2
+- Common: 6
+- Uncommon: 3
 - Rare: 1
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Mundane Bow of Grace
 
 ## Economy
 - Total Currency: 580450
-- Currency per Tick (avg): 22.21
+- Currency per Tick (avg): 22.19
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
