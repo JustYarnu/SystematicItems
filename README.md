@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-25957
+25982
 
 ## Oldest Item
 Corrosive Shard of Echoes
@@ -11,11 +11,11 @@ Corrosive Shard of Echoes
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.93
-- Average Volatility: 0.37
-- Average Durability: 70.78
+- Average Volatility: 0.38
+- Average Durability: 67.65
 
 ## Dominant Factions
-- Chaos: 0.7
+- Chaos: 0.8
 - DEX: 0.6
 - Order: 0.5
 
@@ -24,9 +24,9 @@ Corrosive Shard of Echoes
 - Most Volatile Item: Iridescent Blade of Iron
 
 ## Recent Events
-- STABLE: 'Iridescent Blade of Iron' did not mutate this tick.
-- STABLE: 'Corrosive Shard of Echoes' did not mutate this tick.
-- MUTATED: 'Heavy Rapier of Might' evolved to generation 2.
+- STABLE: 'Verdant Edge of Sovereignty' did not mutate this tick.
+- STABLE: 'Verdant Edge of Sovereignty' did not mutate this tick.
+- MUTATED: 'Mundane Relic of Pestilence' evolved to generation 16.
 
 ## Lifecycle Stats
 - Items Created: 319
@@ -40,8 +40,8 @@ Corrosive Shard of Echoes
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 25957
-- Successful Mutations: 10776
+- Mutations Attempted: 25982
+- Successful Mutations: 10788
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Corrosive Shard of Echoes
 
 ## Economy
 - Total Currency: 578300
-- Currency per Tick (avg): 22.28
+- Currency per Tick (avg): 22.26
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
