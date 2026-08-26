@@ -1,21 +1,21 @@
 {
   "currency": 580450,
-  "tick": 26107,
+  "tick": 26132,
   "mutation_stats": {
-    "attempted": 26107,
-    "success": 10837
+    "attempted": 26132,
+    "success": 10848
   },
   "recent_events": [
-    "STABLE: 'Heavy Rapier of Might' did not mutate this tick.",
-    "MUTATED: 'Nimble Blade of Whispers' evolved to generation 25.",
-    "STABLE: 'Rusty Rapier of Stone' did not mutate this tick.",
-    "STABLE: 'Verdant Edge of Sovereignty' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of the Sun' evolved to generation 9.",
-    "MUTATED: 'Iridescent Blade of Iron' evolved to generation 51.",
-    "STABLE: 'Heavy Rapier of Might' did not mutate this tick.",
-    "STABLE: 'Iridescent Blade of Iron' did not mutate this tick.",
+    "MUTATED: 'Iridescent Blade of Iron' evolved to generation 52.",
+    "MUTATED: 'Corrosive Shard of Echoes' evolved to generation 8.",
     "STABLE: 'Mundane Blade of the Sun' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of the Sun' evolved to generation 10."
+    "MUTATED: 'Verdant Edge of Sovereignty' evolved to generation 22.",
+    "STABLE: 'Corrosive Shard of Echoes' did not mutate this tick.",
+    "STABLE: 'Mundane Relic of Pestilence' did not mutate this tick.",
+    "STABLE: 'Corrosive Shard of Echoes' did not mutate this tick.",
+    "MUTATED: 'Heavy Rapier of Might' evolved to generation 4.",
+    "STABLE: 'Iridescent Blade of Iron' did not mutate this tick.",
+    "STABLE: 'Mundane Relic of Pestilence' did not mutate this tick."
   ],
   "created": 320,
   "avg_lifespan": 35.44838709677422,

@@ -2,7 +2,7 @@
   "id": "9e72face-6367-4c69-9571-0559d0735839",
   "name": "Nimble Blade of Whispers",
   "type": "Sword",
-  "generation": 25,
+  "generation": 26,
   "damage": 20.0,
   "damage_type": [
     "Physical",
@@ -14,13 +14,13 @@
   "str_mod": 1.05,
   "dex_mod": 1.42,
   "rarity": 1,
-  "durability": 28.70000000000002,
+  "durability": 26.70000000000002,
   "max_durability": 106.0,
   "volatility": 0.5000000000000003,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
-    "DEX": 0.1,
+    "DEX": 0.2,
     "Stability": 0.1,
     "Chaos": 0.2,
     "Order": 0.1
