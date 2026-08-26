@@ -2,7 +2,7 @@
   "id": "bcd644af-289e-49aa-8d2e-7fa837474d02",
   "name": "Dread Shard of the Deep",
   "type": "Dagger",
-  "generation": 39,
+  "generation": 41,
   "damage": 16.0,
   "damage_type": [
     "Physical",
@@ -15,16 +15,17 @@
   "str_mod": 1.4000000000000001,
   "dex_mod": 1.35,
   "rarity": 1,
-  "durability": 8.390000000000033,
+  "durability": 2.540000000000033,
   "max_durability": 124.0,
-  "volatility": 0.4100000000000005,
-  "resilience": 0.68,
+  "volatility": 0.4900000000000005,
+  "resilience": 0.63,
   "worth": 100,
   "affinities": {
     "Chaos": 0.1,
     "Stability": 0.1,
     "STR": 0.1,
     "DEX": 0.3,
-    "Restoration": 0.1
+    "Restoration": 0.1,
+    "Order": 0.1
   }
 }

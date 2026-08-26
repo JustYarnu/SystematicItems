@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-25932
+25957
 
 ## Oldest Item
-Titanic Edge of Blood
+Corrosive Shard of Echoes
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.9
-- Average Volatility: 0.35
-- Average Durability: 63.68
+- Average Rarity: 1.93
+- Average Volatility: 0.37
+- Average Durability: 70.78
 
 ## Dominant Factions
-- DEX: 0.7
-- Chaos: 0.6
-- Restoration: 0.4
+- Chaos: 0.7
+- DEX: 0.6
+- Order: 0.5
 
 ## Extremes
 - Most Stable Item: Heavy Rapier of Might
 - Most Volatile Item: Iridescent Blade of Iron
 
 ## Recent Events
-- STABLE: 'Dread Shard of the Deep' did not mutate this tick.
-- STABLE: 'Mundane Relic of Pestilence' did not mutate this tick.
 - STABLE: 'Iridescent Blade of Iron' did not mutate this tick.
+- STABLE: 'Corrosive Shard of Echoes' did not mutate this tick.
+- MUTATED: 'Heavy Rapier of Might' evolved to generation 2.
 
 ## Lifecycle Stats
-- Items Created: 318
-- Items Archived: 308
+- Items Created: 319
+- Items Archived: 309
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Titanic Edge of Blood
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 25932
-- Successful Mutations: 10767
+- Mutations Attempted: 25957
+- Successful Mutations: 10776
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Titanic Edge of Blood
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 576700
-- Currency per Tick (avg): 22.24
+- Total Currency: 578300
+- Currency per Tick (avg): 22.28
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
