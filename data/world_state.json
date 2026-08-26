@@ -1,23 +1,23 @@
 {
-  "currency": 580450,
-  "tick": 26232,
+  "currency": 582350,
+  "tick": 26257,
   "mutation_stats": {
-    "attempted": 26232,
-    "success": 10889
+    "attempted": 26257,
+    "success": 10898
   },
   "recent_events": [
-    "MUTATED: 'Verdant Edge of Sovereignty' evolved to generation 27.",
-    "STABLE: 'Mundane Bow of Grace' did not mutate this tick.",
+    "MUTATED: 'Iridescent Blade of Iron' evolved to generation 55.",
+    "STABLE: 'Heavy Rapier of Might' did not mutate this tick.",
     "STABLE: 'Corrosive Shard of Echoes' did not mutate this tick.",
-    "STABLE: 'Corrosive Shard of Echoes' did not mutate this tick.",
-    "MUTATED: 'Mundane Bow of Grace' evolved to generation 4.",
-    "MUTATED: 'Verdant Edge of Sovereignty' evolved to generation 28.",
-    "MUTATED: 'Nimble Blade of Whispers' evolved to generation 36.",
-    "STABLE: 'Rusty Rapier of Stone' did not mutate this tick.",
-    "MUTATED: 'Iridescent Blade of Iron' evolved to generation 54.",
-    "STABLE: 'Rusty Rapier of Stone' did not mutate this tick."
+    "STABLE: 'Nimble Blade of Whispers' did not mutate this tick.",
+    "REPLACED WITH: 'Iridescent Edge of Eternity' (9d005c5b-aeed-4be8-9c7f-27000d848bf3)",
+    "STABLE: 'Mundane Blade of the Sun' did not mutate this tick.",
+    "STABLE: 'Mundane Relic of Pestilence' did not mutate this tick.",
+    "STABLE: 'Iridescent Edge of Eternity' did not mutate this tick.",
+    "STABLE: 'Iridescent Edge of Eternity' did not mutate this tick.",
+    "STABLE: 'Mundane Bow of Grace' did not mutate this tick."
   ],
-  "created": 320,
-  "avg_lifespan": 35.44838709677422,
-  "archived": 310
+  "created": 321,
+  "avg_lifespan": 35.450160771704205,
+  "archived": 311
 }
