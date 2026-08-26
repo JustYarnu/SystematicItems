@@ -2,8 +2,8 @@
   "id": "0158109e-6afd-43dd-b79f-d5a20b4606be",
   "name": "Rusty Rapier of Stone",
   "type": "Generic",
-  "generation": 15,
-  "damage": 11.5,
+  "generation": 17,
+  "damage": 16.5,
   "damage_type": [
     "Physical",
     "Piercing"
@@ -11,12 +11,12 @@
   "crit_damage": 2,
   "crit_rate": 0.060000000000000005,
   "str_mod": 1.1,
-  "dex_mod": 1.5000000000000004,
+  "dex_mod": 1.4000000000000004,
   "rarity": 1,
-  "durability": 53.00000000000001,
+  "durability": 44.00000000000001,
   "max_durability": 125.0,
-  "volatility": 0.3100000000000002,
-  "resilience": 0.65,
+  "volatility": 0.40000000000000024,
+  "resilience": 0.6,
   "worth": 100,
   "affinities": {
     "Restoration": 0.1

@@ -2,7 +2,7 @@
   "id": "4d463357-58c3-4b1a-bf0b-8d444205d0f1",
   "name": "Titanic Axe of Blight",
   "type": "HeavyWeapon",
-  "generation": 28,
+  "generation": 30,
   "damage": 16.5,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.55,
   "dex_mod": 1.5500000000000005,
   "rarity": 1,
-  "durability": 9.129999999999985,
+  "durability": 0.47999999999998266,
   "max_durability": 125.0,
-  "volatility": 0.55,
+  "volatility": 0.5,
   "resilience": 0.6899999999999998,
   "worth": 100,
   "affinities": {

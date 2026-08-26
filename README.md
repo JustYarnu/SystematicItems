@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-25907
+25932
 
 ## Oldest Item
-Mundane Blade of the Sun
+Titanic Edge of Blood
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.45
-- Average Volatility: 0.41
-- Average Durability: 44.05
+- Average Rarity: 1.9
+- Average Volatility: 0.35
+- Average Durability: 63.68
 
 ## Dominant Factions
-- Order: 0.9
-- Chaos: 0.9
-- DEX: 0.8
+- DEX: 0.7
+- Chaos: 0.6
+- Restoration: 0.4
 
 ## Extremes
-- Most Stable Item: Mundane Blade of the Sun
-- Most Volatile Item: Verdant Sigil of the Void
+- Most Stable Item: Heavy Rapier of Might
+- Most Volatile Item: Iridescent Blade of Iron
 
 ## Recent Events
-- MUTATED: 'Titanic Axe of Blight' evolved to generation 28.
-- MUTATED: 'Verdant Sigil of the Void' evolved to generation 75.
-- STABLE: 'Verdant Sigil of the Void' did not mutate this tick.
+- STABLE: 'Dread Shard of the Deep' did not mutate this tick.
+- STABLE: 'Mundane Relic of Pestilence' did not mutate this tick.
+- STABLE: 'Iridescent Blade of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 316
-- Items Archived: 306
+- Items Created: 318
+- Items Archived: 308
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,24 +40,24 @@ Mundane Blade of the Sun
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 25907
-- Successful Mutations: 10758
+- Mutations Attempted: 25932
+- Successful Mutations: 10767
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
+- Common: 7
 - Uncommon: 2
-- Rare: 2
+- Rare: 1
 - Epic: 0
 - Legendary+: 0
 
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 571650
-- Currency per Tick (avg): 22.07
+- Total Currency: 576700
+- Currency per Tick (avg): 22.24
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
