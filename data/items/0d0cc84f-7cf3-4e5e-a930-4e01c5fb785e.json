@@ -2,7 +2,7 @@
   "id": "0d0cc84f-7cf3-4e5e-a930-4e01c5fb785e",
   "name": "Mundane Relic of Pestilence",
   "type": "Artifact",
-  "generation": 20,
+  "generation": 21,
   "damage": 17.0,
   "damage_type": [
     "Physical",
@@ -12,11 +12,11 @@
   "crit_damage": 3.0,
   "crit_rate": 0.01,
   "str_mod": 1.2000000000000002,
-  "dex_mod": 1.25,
+  "dex_mod": 1.35,
   "rarity": 2.5,
-  "durability": 32.99380169071991,
+  "durability": 28.442090904953016,
   "max_durability": 97.0,
-  "volatility": 0.34000000000000036,
+  "volatility": 0.3600000000000004,
   "resilience": 0.8160964047443681,
   "worth": 100,
   "affinities": {
