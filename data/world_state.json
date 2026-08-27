@@ -1,23 +1,23 @@
 {
-  "currency": 582350,
-  "tick": 26282,
+  "currency": 583900,
+  "tick": 26307,
   "mutation_stats": {
-    "attempted": 26282,
-    "success": 10909
+    "attempted": 26307,
+    "success": 10922
   },
   "recent_events": [
-    "MUTATED: 'Verdant Edge of Sovereignty' evolved to generation 31.",
-    "MUTATED: 'Mundane Relic of Pestilence' evolved to generation 28.",
-    "MUTATED: 'Verdant Edge of Sovereignty' evolved to generation 32.",
+    "MUTATED: 'Iridescent Edge of Eternity' evolved to generation 4.",
+    "STABLE: 'Iridescent Blade of Iron' did not mutate this tick.",
     "STABLE: 'Rusty Rapier of Stone' did not mutate this tick.",
-    "MUTATED: 'Corrosive Shard of Echoes' evolved to generation 16.",
-    "STABLE: 'Titanic Edge of Blood' did not mutate this tick.",
-    "STABLE: 'Corrosive Shard of Echoes' did not mutate this tick.",
-    "STABLE: 'Titanic Edge of Blood' did not mutate this tick.",
-    "STABLE: 'Rusty Rapier of Stone' did not mutate this tick.",
-    "STABLE: 'Iridescent Edge of Eternity' did not mutate this tick."
+    "MUTATED: 'Mundane Blade of the Sun' evolved to generation 18.",
+    "MUTATED: 'Titanic Edge of Blood' evolved to generation 15.",
+    "MUTATED: 'Verdant Edge of Sovereignty' evolved to generation 33.",
+    "MUTATED: 'Mundane Bow of Grace' evolved to generation 6.",
+    "MUTATED: 'Iridescent Blade of Iron' evolved to generation 58.",
+    "STABLE: 'Iridescent Blade of Iron' did not mutate this tick.",
+    "MUTATED: 'Rusty Rapier of Stone' evolved to generation 33."
   ],
-  "created": 321,
-  "avg_lifespan": 35.450160771704205,
-  "archived": 311
+  "created": 322,
+  "avg_lifespan": 35.429487179487204,
+  "archived": 312
 }
