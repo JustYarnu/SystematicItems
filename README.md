@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-26382
+26407
 
 ## Oldest Item
 Mundane Core of the Deep
@@ -11,8 +11,8 @@ Mundane Core of the Deep
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.68
-- Average Volatility: 0.41
-- Average Durability: 60.81
+- Average Volatility: 0.42
+- Average Durability: 57.55
 
 ## Dominant Factions
 - DEX: 0.8
@@ -24,9 +24,9 @@ Mundane Core of the Deep
 - Most Volatile Item: Iridescent Blade of Iron
 
 ## Recent Events
-- STABLE: 'Iridescent Blade of Iron' did not mutate this tick.
-- STABLE: 'Corrosive Shard of Echoes' did not mutate this tick.
-- STABLE: 'Mundane Blade of the Sun' did not mutate this tick.
+- MUTATED: 'Fractured Shard of Ruins' evolved to generation 7.
+- STABLE: 'Iridescent Edge of Eternity' did not mutate this tick.
+- STABLE: 'Mundane Core of the Deep' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 323
@@ -40,8 +40,8 @@ Mundane Core of the Deep
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 26382
-- Successful Mutations: 10960
+- Mutations Attempted: 26407
+- Successful Mutations: 10965
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Core of the Deep
 
 ## Economy
 - Total Currency: 585700
-- Currency per Tick (avg): 22.2
+- Currency per Tick (avg): 22.18
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
