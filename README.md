@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-26482
+26507
 
 ## Oldest Item
-Mundane Core of the Deep
+Mundane Bow of Grace
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.78
-- Average Volatility: 0.41
-- Average Durability: 47.4
+- Average Rarity: 2.88
+- Average Volatility: 0.43
+- Average Durability: 44.89
 
 ## Dominant Factions
 - DEX: 0.9
@@ -24,9 +24,9 @@ Mundane Core of the Deep
 - Most Volatile Item: Iridescent Blade of Iron
 
 ## Recent Events
-- STABLE: 'Mundane Bow of Grace' did not mutate this tick.
-- MUTATED: 'Mundane Blade of the Sun' evolved to generation 25.
-- MUTATED: 'Iridescent Blade of Iron' evolved to generation 71.
+- STABLE: 'Heavy Rapier of Might' did not mutate this tick.
+- STABLE: 'Heavy Rapier of Might' did not mutate this tick.
+- STABLE: 'Iridescent Edge of Eternity' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 323
@@ -40,8 +40,8 @@ Mundane Core of the Deep
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 26482
-- Successful Mutations: 11001
+- Mutations Attempted: 26507
+- Successful Mutations: 11012
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -49,15 +49,15 @@ Mundane Core of the Deep
 ## Rarity Distribution
 - Common: 7
 - Uncommon: 1
-- Rare: 2
-- Epic: 0
+- Rare: 1
+- Epic: 1
 - Legendary+: 0
 
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
 - Total Currency: 585700
-- Currency per Tick (avg): 22.12
+- Currency per Tick (avg): 22.1
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

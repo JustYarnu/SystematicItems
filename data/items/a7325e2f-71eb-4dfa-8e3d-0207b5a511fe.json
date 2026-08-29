@@ -2,7 +2,7 @@
   "id": "a7325e2f-71eb-4dfa-8e3d-0207b5a511fe",
   "name": "Mundane Core of the Deep",
   "type": "Artifact",
-  "generation": 7,
+  "generation": 11,
   "damage": 8.0,
   "damage_type": [
     "Physical",
@@ -13,13 +13,13 @@
   "str_mod": 1.0,
   "dex_mod": 1.15,
   "rarity": 1,
-  "durability": 70.5,
+  "durability": 66.4,
   "max_durability": 125.0,
-  "volatility": 0.2500000000000001,
-  "resilience": 0.75,
+  "volatility": 0.3300000000000001,
+  "resilience": 0.7,
   "worth": 100,
   "affinities": {
-    "Restoration": 0.1,
+    "Restoration": 0.2,
     "Order": 0.1,
     "Chaos": 0.1
   }
