@@ -2,7 +2,7 @@
   "id": "5502b015-c0e9-473f-b6ae-13390564422f",
   "name": "Mundane Blade of the Sun",
   "type": "Sword",
-  "generation": 23,
+  "generation": 25,
   "damage": 24.5,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.3500000000000003,
   "dex_mod": 1.6500000000000001,
   "rarity": 1,
-  "durability": 54.249999999999986,
-  "max_durability": 112.0,
-  "volatility": 0.40000000000000024,
+  "durability": 43.499999999999986,
+  "max_durability": 114.0,
+  "volatility": 0.3800000000000003,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
