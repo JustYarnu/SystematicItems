@@ -1,23 +1,23 @@
 {
-  "currency": 585700,
-  "tick": 26582,
+  "currency": 591250,
+  "tick": 26607,
   "mutation_stats": {
-    "attempted": 26582,
-    "success": 11040
+    "attempted": 26607,
+    "success": 11051
   },
   "recent_events": [
-    "STABLE: 'Fractured Shard of Ruins' did not mutate this tick.",
-    "MUTATED: 'Mundane Bow of Grace' evolved to generation 11.",
-    "STABLE: 'Mundane Core of the Deep' did not mutate this tick.",
+    "MUTATED: 'Blessed Spear of Light' evolved to generation 2.",
     "STABLE: 'Titanic Edge of Blood' did not mutate this tick.",
-    "STABLE: 'Mundane Bow of Grace' did not mutate this tick.",
-    "STABLE: 'Iridescent Blade of Iron' did not mutate this tick.",
-    "STABLE: 'Iridescent Blade of Iron' did not mutate this tick.",
-    "STABLE: 'Heavy Rapier of Might' did not mutate this tick.",
-    "MUTATED: 'Heavy Rapier of Might' evolved to generation 18.",
-    "STABLE: 'Corrosive Shard of Echoes' did not mutate this tick."
+    "MUTATED: 'Mundane Bow of Grace' evolved to generation 12.",
+    "MUTATED: 'Heavy Rapier of Might' evolved to generation 19.",
+    "STABLE: 'Fractured Shard of Ruins' did not mutate this tick.",
+    "STABLE: 'Fractured Shard of Ruins' did not mutate this tick.",
+    "MUTATED: 'Heavy Blade of Iron' evolved to generation 2.",
+    "STABLE: 'Titanic Edge of Blood' did not mutate this tick.",
+    "STABLE: 'Titanic Edge of Blood' did not mutate this tick.",
+    "MUTATED: 'Iridescent Edge of Eternity' evolved to generation 19."
   ],
-  "created": 323,
-  "avg_lifespan": 35.42492012779555,
-  "archived": 313
+  "created": 325,
+  "avg_lifespan": 35.539682539682566,
+  "archived": 315
 }
