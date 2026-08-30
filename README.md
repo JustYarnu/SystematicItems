@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-26607
+26632
 
 ## Oldest Item
-Blessed Spear of Light
+Heavy Blade of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.08
-- Average Volatility: 0.37
-- Average Durability: 54.05
+- Average Volatility: 0.38
+- Average Durability: 49.98
 
 ## Dominant Factions
 - STR: 0.9
 - DEX: 0.8
-- Order: 0.4
+- Order: 0.5
 
 ## Extremes
 - Most Stable Item: Blessed Spear of Light
-- Most Volatile Item: Titanic Edge of Blood
+- Most Volatile Item: Verdant Edge of Sovereignty
 
 ## Recent Events
-- STABLE: 'Titanic Edge of Blood' did not mutate this tick.
-- STABLE: 'Titanic Edge of Blood' did not mutate this tick.
-- MUTATED: 'Iridescent Edge of Eternity' evolved to generation 19.
+- MUTATED: 'Fractured Shard of Ruins' evolved to generation 16.
+- STABLE: 'Mundane Core of the Deep' did not mutate this tick.
+- STABLE: 'Iridescent Edge of Eternity' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 325
@@ -40,8 +40,8 @@ Blessed Spear of Light
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 26607
-- Successful Mutations: 11051
+- Mutations Attempted: 26632
+- Successful Mutations: 11064
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Blessed Spear of Light
 
 ## Economy
 - Total Currency: 591250
-- Currency per Tick (avg): 22.22
+- Currency per Tick (avg): 22.2
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

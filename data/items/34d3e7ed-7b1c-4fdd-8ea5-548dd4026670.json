@@ -2,7 +2,7 @@
   "id": "34d3e7ed-7b1c-4fdd-8ea5-548dd4026670",
   "name": "Mundane Bow of Grace",
   "type": "Ranged",
-  "generation": 12,
+  "generation": 13,
   "damage": 18.0,
   "damage_type": [
     "Physical",
@@ -13,13 +13,14 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.2999999999999998,
   "rarity": 2,
-  "durability": 29.799999999999997,
+  "durability": 27.799999999999997,
   "max_durability": 97.0,
   "volatility": 0.5100000000000003,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
     "DEX": 0.1,
-    "STR": 0.1
+    "STR": 0.1,
+    "Order": 0.1
   }
 }
