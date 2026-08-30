@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-26507
+26532
 
 ## Oldest Item
 Mundane Bow of Grace
@@ -12,21 +12,21 @@ Mundane Bow of Grace
 - Active Items: 10
 - Average Rarity: 2.88
 - Average Volatility: 0.43
-- Average Durability: 44.89
+- Average Durability: 40.4
 
 ## Dominant Factions
+- STR: 1.0
 - DEX: 0.9
-- STR: 0.8
 - Chaos: 0.7
 
 ## Extremes
-- Most Stable Item: Mundane Core of the Deep
+- Most Stable Item: Fractured Shard of Ruins
 - Most Volatile Item: Iridescent Blade of Iron
 
 ## Recent Events
-- STABLE: 'Heavy Rapier of Might' did not mutate this tick.
-- STABLE: 'Heavy Rapier of Might' did not mutate this tick.
-- STABLE: 'Iridescent Edge of Eternity' did not mutate this tick.
+- MUTATED: 'Iridescent Edge of Eternity' evolved to generation 16.
+- MUTATED: 'Mundane Blade of the Sun' evolved to generation 28.
+- STABLE: 'Corrosive Shard of Echoes' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 323
@@ -40,8 +40,8 @@ Mundane Bow of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 26507
-- Successful Mutations: 11012
+- Mutations Attempted: 26532
+- Successful Mutations: 11023
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Bow of Grace
 
 ## Economy
 - Total Currency: 585700
-- Currency per Tick (avg): 22.1
+- Currency per Tick (avg): 22.08
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

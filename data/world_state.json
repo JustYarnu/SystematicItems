@@ -1,21 +1,21 @@
 {
   "currency": 585700,
-  "tick": 26507,
+  "tick": 26532,
   "mutation_stats": {
-    "attempted": 26507,
-    "success": 11012
+    "attempted": 26532,
+    "success": 11023
   },
   "recent_events": [
-    "STABLE: 'Mundane Blade of the Sun' did not mutate this tick.",
+    "MUTATED: 'Titanic Edge of Blood' evolved to generation 21.",
+    "MUTATED: 'Fractured Shard of Ruins' evolved to generation 13.",
+    "MUTATED: 'Mundane Core of the Deep' evolved to generation 12.",
     "STABLE: 'Iridescent Blade of Iron' did not mutate this tick.",
-    "MUTATED: 'Fractured Shard of Ruins' evolved to generation 12.",
+    "MUTATED: 'Mundane Blade of the Sun' evolved to generation 27.",
     "STABLE: 'Fractured Shard of Ruins' did not mutate this tick.",
-    "STABLE: 'Titanic Edge of Blood' did not mutate this tick.",
-    "STABLE: 'Verdant Edge of Sovereignty' did not mutate this tick.",
-    "STABLE: 'Titanic Edge of Blood' did not mutate this tick.",
-    "STABLE: 'Heavy Rapier of Might' did not mutate this tick.",
-    "STABLE: 'Heavy Rapier of Might' did not mutate this tick.",
-    "STABLE: 'Iridescent Edge of Eternity' did not mutate this tick."
+    "STABLE: 'Mundane Bow of Grace' did not mutate this tick.",
+    "MUTATED: 'Iridescent Edge of Eternity' evolved to generation 16.",
+    "MUTATED: 'Mundane Blade of the Sun' evolved to generation 28.",
+    "STABLE: 'Corrosive Shard of Echoes' did not mutate this tick."
   ],
   "created": 323,
   "avg_lifespan": 35.42492012779555,
