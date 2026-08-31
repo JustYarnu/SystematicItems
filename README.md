@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-26732
+26757
 
 ## Oldest Item
-Mundane Spear of Distortion
+Heavy Blade of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.83
-- Average Volatility: 0.42
-- Average Durability: 46.89
+- Average Volatility: 0.43
+- Average Durability: 47.3
 
 ## Dominant Factions
 - STR: 1.1
@@ -24,9 +24,9 @@ Mundane Spear of Distortion
 - Most Volatile Item: Mundane Blade of the Sun
 
 ## Recent Events
-- MUTATED: 'Titanic Edge of Blood' evolved to generation 32.
 - STABLE: 'Mundane Core of the Deep' did not mutate this tick.
-- STABLE: 'Fractured Shard of Ruins' did not mutate this tick.
+- STABLE: 'Mundane Core of the Deep' did not mutate this tick.
+- MUTATED: 'Heavy Rapier of Might' evolved to generation 23.
 
 ## Lifecycle Stats
 - Items Created: 326
@@ -40,8 +40,8 @@ Mundane Spear of Distortion
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 26732
-- Successful Mutations: 11096
+- Mutations Attempted: 26757
+- Successful Mutations: 11103
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Spear of Distortion
 
 ## Economy
 - Total Currency: 594000
-- Currency per Tick (avg): 22.22
+- Currency per Tick (avg): 22.2
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
