@@ -2,7 +2,7 @@
   "id": "a132b36c-ffd0-4a4d-8d95-4154885be71a",
   "name": "Fractured Shard of Ruins",
   "type": "Dagger",
-  "generation": 19,
+  "generation": 21,
   "damage": 30.5,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.1,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 52.86,
+  "durability": 43.019999999999996,
   "max_durability": 50.0,
-  "volatility": 0.3700000000000002,
+  "volatility": 0.29000000000000026,
   "resilience": 0.68,
   "worth": 100,
   "affinities": {}

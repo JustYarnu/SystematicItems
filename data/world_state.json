@@ -1,21 +1,21 @@
 {
   "currency": 594000,
-  "tick": 26682,
+  "tick": 26707,
   "mutation_stats": {
-    "attempted": 26682,
-    "success": 11080
+    "attempted": 26707,
+    "success": 11090
   },
   "recent_events": [
-    "REPLACED WITH: 'Mundane Spear of Distortion' (628d3e5f-55ef-4e77-8c59-81180a50b48e)",
+    "STABLE: 'Mundane Spear of Distortion' did not mutate this tick.",
     "STABLE: 'Blessed Spear of Light' did not mutate this tick.",
-    "STABLE: 'Mundane Core of the Deep' did not mutate this tick.",
-    "STABLE: 'Mundane Core of the Deep' did not mutate this tick.",
-    "STABLE: 'Mundane Core of the Deep' did not mutate this tick.",
-    "MUTATED: 'Iridescent Edge of Eternity' evolved to generation 22.",
-    "STABLE: 'Mundane Core of the Deep' did not mutate this tick.",
+    "MUTATED: 'Fractured Shard of Ruins' evolved to generation 20.",
+    "MUTATED: 'Fractured Shard of Ruins' evolved to generation 21.",
     "STABLE: 'Blessed Spear of Light' did not mutate this tick.",
-    "STABLE: 'Fractured Shard of Ruins' did not mutate this tick.",
-    "STABLE: 'Fractured Shard of Ruins' did not mutate this tick."
+    "STABLE: 'Blessed Spear of Light' did not mutate this tick.",
+    "MUTATED: 'Titanic Edge of Blood' evolved to generation 28.",
+    "STABLE: 'Mundane Spear of Distortion' did not mutate this tick.",
+    "STABLE: 'Blessed Spear of Light' did not mutate this tick.",
+    "MUTATED: 'Titanic Edge of Blood' evolved to generation 29."
   ],
   "created": 326,
   "avg_lifespan": 35.594936708860786,
