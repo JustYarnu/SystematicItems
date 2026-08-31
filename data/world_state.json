@@ -1,23 +1,23 @@
 {
-  "currency": 591250,
-  "tick": 26657,
+  "currency": 594000,
+  "tick": 26682,
   "mutation_stats": {
-    "attempted": 26657,
-    "success": 11070
+    "attempted": 26682,
+    "success": 11080
   },
   "recent_events": [
-    "STABLE: 'Heavy Blade of Iron' did not mutate this tick.",
-    "STABLE: 'Mundane Bow of Grace' did not mutate this tick.",
-    "MUTATED: 'Iridescent Edge of Eternity' evolved to generation 21.",
-    "MUTATED: 'Titanic Edge of Blood' evolved to generation 26.",
-    "STABLE: 'Mundane Blade of the Sun' did not mutate this tick.",
-    "MUTATED: 'Blessed Spear of Light' evolved to generation 4.",
-    "STABLE: 'Heavy Rapier of Might' did not mutate this tick.",
-    "STABLE: 'Titanic Edge of Blood' did not mutate this tick.",
+    "REPLACED WITH: 'Mundane Spear of Distortion' (628d3e5f-55ef-4e77-8c59-81180a50b48e)",
     "STABLE: 'Blessed Spear of Light' did not mutate this tick.",
-    "STABLE: 'Blessed Spear of Light' did not mutate this tick."
+    "STABLE: 'Mundane Core of the Deep' did not mutate this tick.",
+    "STABLE: 'Mundane Core of the Deep' did not mutate this tick.",
+    "STABLE: 'Mundane Core of the Deep' did not mutate this tick.",
+    "MUTATED: 'Iridescent Edge of Eternity' evolved to generation 22.",
+    "STABLE: 'Mundane Core of the Deep' did not mutate this tick.",
+    "STABLE: 'Blessed Spear of Light' did not mutate this tick.",
+    "STABLE: 'Fractured Shard of Ruins' did not mutate this tick.",
+    "STABLE: 'Fractured Shard of Ruins' did not mutate this tick."
   ],
-  "created": 325,
-  "avg_lifespan": 35.539682539682566,
-  "archived": 315
+  "created": 326,
+  "avg_lifespan": 35.594936708860786,
+  "archived": 316
 }
