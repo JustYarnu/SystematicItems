@@ -2,7 +2,7 @@
   "id": "de4f8e9d-0cda-4121-880b-481a88654f9a",
   "name": "Titanic Edge of Blood",
   "type": "Sword",
-  "generation": 33,
+  "generation": 35,
   "damage": 36.0,
   "damage_type": [
     "Physical"
@@ -11,11 +11,11 @@
   "crit_rate": 0.01,
   "str_mod": 1.9000000000000004,
   "dex_mod": 1.0,
-  "rarity": 1,
-  "durability": 15.710000000000008,
-  "max_durability": 124.0,
+  "rarity": 2,
+  "durability": 10.210000000000008,
+  "max_durability": 125.0,
   "volatility": 0.53,
-  "resilience": 0.7,
+  "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {
     "Stability": 0.1,
