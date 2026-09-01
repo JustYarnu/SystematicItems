@@ -8538,5 +8538,85 @@
       "Restoration": 0.2,
       "STR": 0.1
     }
+  },
+  {
+    "id": "5502b015-c0e9-473f-b6ae-13390564422f",
+    "name": "Mundane Blade of the Sun",
+    "type": "Sword",
+    "generation": 42,
+    "damage": 27.5,
+    "damage_type": [
+      "Physical",
+      "Slashing",
+      "Fire"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.5500000000000005,
+    "dex_mod": 1.7500000000000002,
+    "rarity": 1,
+    "durability": -1.0,
+    "max_durability": 125.0,
+    "volatility": 0.5000000000000003,
+    "resilience": 0.75,
+    "worth": 2200,
+    "affinities": {
+      "DEX": 0.1,
+      "STR": 0.1,
+      "Order": 0.1,
+      "Chaos": 0.1,
+      "Stability": 0.1
+    }
+  },
+  {
+    "id": "34d3e7ed-7b1c-4fdd-8ea5-548dd4026670",
+    "name": "Mundane Bow of Grace",
+    "type": "Ranged",
+    "generation": 21,
+    "damage": 24.5,
+    "damage_type": [
+      "Physical",
+      "Piercing"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 1.1999999999999997,
+    "rarity": 2,
+    "durability": -1.0,
+    "max_durability": 102.0,
+    "volatility": 0.46000000000000046,
+    "resilience": 0.7999999999999999,
+    "worth": 1150,
+    "affinities": {
+      "DEX": 0.2,
+      "STR": 0.3,
+      "Order": 0.1
+    }
+  },
+  {
+    "id": "de4f8e9d-0cda-4121-880b-481a88654f9a",
+    "name": "Titanic Edge of Blood",
+    "type": "Sword",
+    "generation": 36,
+    "damage": 36.0,
+    "damage_type": [
+      "Physical"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.01,
+    "str_mod": 1.9000000000000004,
+    "dex_mod": 1.0,
+    "rarity": 2,
+    "durability": -0.789999999999992,
+    "max_durability": 125.0,
+    "volatility": 0.6200000000000001,
+    "resilience": 0.7999999999999999,
+    "worth": 1900,
+    "affinities": {
+      "Stability": 0.1,
+      "STR": 0.3,
+      "Order": 0.1
+    }
   }
 ]

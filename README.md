@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-26857
+26882
 
 ## Oldest Item
-Heavy Blade of Iron
+Corrosive Shard of Light
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.93
-- Average Volatility: 0.48
-- Average Durability: 33.83
+- Average Rarity: 1.76
+- Average Volatility: 0.44
+- Average Durability: 57.52
 
 ## Dominant Factions
-- STR: 1.5
-- Order: 0.5
-- DEX: 0.5
+- STR: 0.8
+- Stability: 0.3
+- DEX: 0.3
 
 ## Extremes
-- Most Stable Item: Heavy Blade of Iron
-- Most Volatile Item: Titanic Edge of Blood
+- Most Stable Item: Brittle Rapier of Sparks
+- Most Volatile Item: Mundane Core of the Deep
 
 ## Recent Events
-- STABLE: 'Iridescent Edge of Eternity' did not mutate this tick.
-- MUTATED: 'Heavy Rapier of Might' evolved to generation 28.
-- STABLE: 'Fractured Shard of Ruins' did not mutate this tick.
+- STABLE: 'Titanic Edge of Blood' did not mutate this tick.
+- REPLACED WITH: 'Brittle Rapier of Sparks' (929ad15d-aa94-43ba-b906-a8236c3429ad)
+- STABLE: 'Corrosive Shard of Light' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 326
-- Items Archived: 316
+- Items Created: 329
+- Items Archived: 319
 - Avg Lifespan (ticks): 35.6
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Heavy Blade of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 26857
-- Successful Mutations: 11137
+- Mutations Attempted: 26882
+- Successful Mutations: 11149
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 2
+- Common: 9
+- Uncommon: 0
 - Rare: 1
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Heavy Blade of Iron
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 594000
-- Currency per Tick (avg): 22.12
+- Total Currency: 599250
+- Currency per Tick (avg): 22.29
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
