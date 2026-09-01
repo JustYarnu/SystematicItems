@@ -2,7 +2,7 @@
   "id": "a7f0b4f9-d184-467f-aa9f-4bf0eb6a327c",
   "name": "Heavy Rapier of Might",
   "type": "Generic",
-  "generation": 26,
+  "generation": 28,
   "damage": 21.5,
   "damage_type": [
     "Physical",
@@ -13,13 +13,13 @@
   "str_mod": 1.7500000000000002,
   "dex_mod": 1.3,
   "rarity": 1,
-  "durability": 4.27999999999998,
+  "durability": 12.27999999999998,
   "max_durability": 114.0,
-  "volatility": 0.41000000000000036,
+  "volatility": 0.4400000000000004,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
     "DEX": 0.2,
-    "STR": 0.1
+    "STR": 0.2
   }
 }

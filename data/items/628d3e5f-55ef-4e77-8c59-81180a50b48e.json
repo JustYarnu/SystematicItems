@@ -2,7 +2,7 @@
   "id": "628d3e5f-55ef-4e77-8c59-81180a50b48e",
   "name": "Mundane Spear of Distortion",
   "type": "Polearm",
-  "generation": 5,
+  "generation": 6,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -15,10 +15,12 @@
   "str_mod": 1.1,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 79.72,
+  "durability": 76.72,
   "max_durability": 107.0,
-  "volatility": 0.51,
+  "volatility": 0.52,
   "resilience": 0.75,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Chaos": 0.1
+  }
 }
