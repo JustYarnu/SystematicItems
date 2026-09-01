@@ -2,22 +2,22 @@
   "id": "c89ea8df-67f9-4d17-ae24-f10a3fb6bbf1",
   "name": "Blessed Spear of Light",
   "type": "Polearm",
-  "generation": 4,
+  "generation": 6,
   "damage": 11.5,
   "damage_type": [
     "Physical",
     "Piercing",
     "Holy"
   ],
-  "crit_damage": 2,
+  "crit_damage": 2.5,
   "crit_rate": 0.01,
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.0,
   "rarity": 1.3,
-  "durability": 65.22710697395225,
-  "max_durability": 130.0,
-  "volatility": 0.3600000000000002,
-  "resilience": 0.7689255811626865,
+  "durability": 58.82173487976568,
+  "max_durability": 125.0,
+  "volatility": 0.45000000000000023,
+  "resilience": 0.7189255811626865,
   "worth": 100,
   "affinities": {
     "STR": 0.1
