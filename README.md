@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-26932
+26957
 
 ## Oldest Item
-Corrosive Shard of Light
+Verdant Rapier of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.76
 - Average Volatility: 0.42
-- Average Durability: 67.43
+- Average Durability: 62.76
 
 ## Dominant Factions
 - STR: 0.6
-- Order: 0.3
-- Chaos: 0.3
+- Order: 0.4
+- Chaos: 0.4
 
 ## Extremes
 - Most Stable Item: Verdant Rapier of Iron
-- Most Volatile Item: Blessed Spear of Light
+- Most Volatile Item: Mundane Core of the Deep
 
 ## Recent Events
-- STABLE: 'Blessed Spear of Light' did not mutate this tick.
-- STABLE: 'Heavy Blade of Iron' did not mutate this tick.
-- STABLE: 'Iridescent Edge of Eternity' did not mutate this tick.
+- STABLE: 'Shattered Rapier of Ash' did not mutate this tick.
+- STABLE: 'Shattered Rapier of Ash' did not mutate this tick.
+- STABLE: 'Brittle Rapier of Sparks' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 331
@@ -40,8 +40,8 @@ Corrosive Shard of Light
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 26932
-- Successful Mutations: 11173
+- Mutations Attempted: 26957
+- Successful Mutations: 11183
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Corrosive Shard of Light
 
 ## Economy
 - Total Currency: 602550
-- Currency per Tick (avg): 22.37
+- Currency per Tick (avg): 22.35
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

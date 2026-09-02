@@ -2,7 +2,7 @@
   "id": "e816f68f-505f-4980-b791-7d4f0e70243c",
   "name": "Verdant Rapier of Distortion",
   "type": "Generic",
-  "generation": 6,
+  "generation": 9,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -16,12 +16,13 @@
   "str_mod": 1.0,
   "dex_mod": 1.2000000000000002,
   "rarity": 1,
-  "durability": 89.47,
+  "durability": 78.00999999999999,
   "max_durability": 115.0,
-  "volatility": 0.44999999999999996,
-  "resilience": 0.73,
+  "volatility": 0.39,
+  "resilience": 0.75,
   "worth": 100,
   "affinities": {
-    "Order": 0.1
+    "Order": 0.1,
+    "Chaos": 0.1
   }
 }
