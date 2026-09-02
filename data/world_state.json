@@ -1,23 +1,23 @@
 {
-  "currency": 599250,
-  "tick": 26907,
+  "currency": 602550,
+  "tick": 26932,
   "mutation_stats": {
-    "attempted": 26907,
-    "success": 11159
+    "attempted": 26932,
+    "success": 11173
   },
   "recent_events": [
-    "MUTATED: 'Fractured Shard of Ruins' evolved to generation 27.",
-    "STABLE: 'Corrosive Shard of Light' did not mutate this tick.",
+    "MUTATED: 'Fractured Shard of Ruins' evolved to generation 30.",
+    "REPLACED WITH: 'Shattered Rapier of Ash' (f6adac31-a960-4763-beff-95ee66008011)",
     "STABLE: 'Verdant Rapier of Distortion' did not mutate this tick.",
-    "STABLE: 'Iridescent Edge of Eternity' did not mutate this tick.",
-    "STABLE: 'Heavy Rapier of Might' did not mutate this tick.",
+    "MUTATED: 'Iridescent Edge of Eternity' evolved to generation 30.",
+    "MUTATED: 'Heavy Rapier of Might' evolved to generation 32.",
+    "REPLACED WITH: 'Verdant Rapier of Iron' (1ceb30dc-5acd-401c-bb0b-7f89c65a0acd)",
+    "MUTATED: 'Blessed Spear of Light' evolved to generation 12.",
+    "STABLE: 'Blessed Spear of Light' did not mutate this tick.",
     "STABLE: 'Heavy Blade of Iron' did not mutate this tick.",
-    "MUTATED: 'Verdant Rapier of Distortion' evolved to generation 4.",
-    "MUTATED: 'Mundane Core of the Deep' evolved to generation 25.",
-    "MUTATED: 'Mundane Spear of Distortion' evolved to generation 7.",
-    "MUTATED: 'Heavy Blade of Iron' evolved to generation 6."
+    "STABLE: 'Iridescent Edge of Eternity' did not mutate this tick."
   ],
-  "created": 329,
-  "avg_lifespan": 35.57053291536053,
-  "archived": 319
+  "created": 331,
+  "avg_lifespan": 35.542056074766386,
+  "archived": 321
 }
