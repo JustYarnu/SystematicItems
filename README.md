@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-26982
+27007
 
 ## Oldest Item
 Verdant Rapier of Iron
@@ -12,11 +12,11 @@ Verdant Rapier of Iron
 - Active Items: 10
 - Average Rarity: 1.76
 - Average Volatility: 0.43
-- Average Durability: 58.96
+- Average Durability: 56.32
 
 ## Dominant Factions
 - STR: 0.6
-- Order: 0.4
+- Stability: 0.5
 - Chaos: 0.4
 
 ## Extremes
@@ -24,8 +24,8 @@ Verdant Rapier of Iron
 - Most Volatile Item: Blessed Spear of Light
 
 ## Recent Events
-- STABLE: 'Heavy Blade of Iron' did not mutate this tick.
-- STABLE: 'Shattered Rapier of Ash' did not mutate this tick.
+- STABLE: 'Mundane Spear of Distortion' did not mutate this tick.
+- MUTATED: 'Mundane Spear of Distortion' evolved to generation 11.
 - STABLE: 'Mundane Spear of Distortion' did not mutate this tick.
 
 ## Lifecycle Stats
@@ -40,8 +40,8 @@ Verdant Rapier of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 26982
-- Successful Mutations: 11189
+- Mutations Attempted: 27007
+- Successful Mutations: 11199
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Verdant Rapier of Iron
 
 ## Economy
 - Total Currency: 602550
-- Currency per Tick (avg): 22.33
+- Currency per Tick (avg): 22.31
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
