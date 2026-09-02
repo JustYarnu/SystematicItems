@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-26882
+26907
 
 ## Oldest Item
 Corrosive Shard of Light
@@ -11,22 +11,22 @@ Corrosive Shard of Light
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.76
-- Average Volatility: 0.44
-- Average Durability: 57.52
+- Average Volatility: 0.47
+- Average Durability: 53.02
 
 ## Dominant Factions
-- STR: 0.8
+- STR: 0.9
+- Chaos: 0.3
 - Stability: 0.3
-- DEX: 0.3
 
 ## Extremes
 - Most Stable Item: Brittle Rapier of Sparks
-- Most Volatile Item: Mundane Core of the Deep
+- Most Volatile Item: Blessed Spear of Light
 
 ## Recent Events
-- STABLE: 'Titanic Edge of Blood' did not mutate this tick.
-- REPLACED WITH: 'Brittle Rapier of Sparks' (929ad15d-aa94-43ba-b906-a8236c3429ad)
-- STABLE: 'Corrosive Shard of Light' did not mutate this tick.
+- MUTATED: 'Mundane Core of the Deep' evolved to generation 25.
+- MUTATED: 'Mundane Spear of Distortion' evolved to generation 7.
+- MUTATED: 'Heavy Blade of Iron' evolved to generation 6.
 
 ## Lifecycle Stats
 - Items Created: 329
@@ -40,8 +40,8 @@ Corrosive Shard of Light
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 26882
-- Successful Mutations: 11149
+- Mutations Attempted: 26907
+- Successful Mutations: 11159
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Corrosive Shard of Light
 
 ## Economy
 - Total Currency: 599250
-- Currency per Tick (avg): 22.29
+- Currency per Tick (avg): 22.27
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
