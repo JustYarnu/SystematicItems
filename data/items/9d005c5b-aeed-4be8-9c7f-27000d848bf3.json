@@ -2,7 +2,7 @@
   "id": "9d005c5b-aeed-4be8-9c7f-27000d848bf3",
   "name": "Iridescent Edge of Eternity",
   "type": "Sword",
-  "generation": 30,
+  "generation": 31,
   "damage": 28.0,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.4000000000000001,
   "rarity": 8.0,
-  "durability": 52.01999999999999,
+  "durability": 48.179999999999986,
   "max_durability": 197.0,
-  "volatility": 0.5600000000000003,
-  "resilience": 0.71,
+  "volatility": 0.5400000000000003,
+  "resilience": 0.7899999999999999,
   "worth": 100,
   "affinities": {
     "Stability": 0.1,

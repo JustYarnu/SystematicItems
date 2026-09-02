@@ -2,7 +2,7 @@
   "id": "77e0237a-a152-42c0-b265-8d76686c612a",
   "name": "Corrosive Shard of Light",
   "type": "Dagger",
-  "generation": 2,
+  "generation": 3,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -15,10 +15,10 @@
   "str_mod": 1.0,
   "dex_mod": 1.0,
   "rarity": 1.3,
-  "durability": 93.0,
-  "max_durability": 85.0,
+  "durability": 90.31,
+  "max_durability": 90.0,
   "volatility": 0.55,
-  "resilience": 0.72,
+  "resilience": 0.7689255811626865,
   "worth": 100,
   "affinities": {
     "Order": 0.1
