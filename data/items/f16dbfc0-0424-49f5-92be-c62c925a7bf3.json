@@ -2,7 +2,7 @@
   "id": "f16dbfc0-0424-49f5-92be-c62c925a7bf3",
   "name": "Heavy Blade of Iron",
   "type": "Sword",
-  "generation": 13,
+  "generation": 14,
   "damage": 12.5,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.5500000000000003,
   "dex_mod": 1.4500000000000002,
   "rarity": 1,
-  "durability": 44.69999999999999,
+  "durability": 39.69999999999999,
   "max_durability": 125.0,
-  "volatility": 0.33000000000000024,
+  "volatility": 0.28000000000000025,
   "resilience": 0.7,
   "worth": 100,
   "affinities": {
