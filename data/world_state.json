@@ -1,21 +1,21 @@
 {
   "currency": 602550,
-  "tick": 27132,
+  "tick": 27157,
   "mutation_stats": {
-    "attempted": 27132,
-    "success": 11263
+    "attempted": 27157,
+    "success": 11274
   },
   "recent_events": [
+    "STABLE: 'Corrosive Shard of Light' did not mutate this tick.",
+    "MUTATED: 'Corrosive Shard of Light' evolved to generation 11.",
+    "MUTATED: 'Corrosive Shard of Light' evolved to generation 12.",
+    "MUTATED: 'Mundane Spear of Distortion' evolved to generation 23.",
+    "STABLE: 'Verdant Rapier of Distortion' did not mutate this tick.",
+    "STABLE: 'Brittle Rapier of Sparks' did not mutate this tick.",
+    "STABLE: 'Blessed Spear of Light' did not mutate this tick.",
     "STABLE: 'Verdant Rapier of Iron' did not mutate this tick.",
-    "STABLE: 'Mundane Spear of Distortion' did not mutate this tick.",
-    "MUTATED: 'Blessed Spear of Light' evolved to generation 22.",
     "STABLE: 'Verdant Rapier of Distortion' did not mutate this tick.",
-    "MUTATED: 'Shattered Rapier of Ash' evolved to generation 10.",
-    "MUTATED: 'Shattered Rapier of Ash' evolved to generation 11.",
-    "STABLE: 'Verdant Rapier of Distortion' did not mutate this tick.",
-    "MUTATED: 'Mundane Spear of Distortion' evolved to generation 20.",
-    "MUTATED: 'Mundane Spear of Distortion' evolved to generation 21.",
-    "STABLE: 'Verdant Rapier of Distortion' did not mutate this tick."
+    "MUTATED: 'Verdant Rapier of Distortion' evolved to generation 15."
   ],
   "created": 331,
   "avg_lifespan": 35.542056074766386,
