@@ -1,21 +1,21 @@
 {
   "currency": 602550,
-  "tick": 27107,
+  "tick": 27132,
   "mutation_stats": {
-    "attempted": 27107,
-    "success": 11250
+    "attempted": 27132,
+    "success": 11263
   },
   "recent_events": [
-    "STABLE: 'Heavy Blade of Iron' did not mutate this tick.",
-    "MUTATED: 'Mundane Core of the Deep' evolved to generation 36.",
-    "MUTATED: 'Shattered Rapier of Ash' evolved to generation 8.",
-    "MUTATED: 'Mundane Spear of Distortion' evolved to generation 17.",
-    "MUTATED: 'Mundane Spear of Distortion' evolved to generation 18.",
-    "MUTATED: 'Verdant Rapier of Distortion' evolved to generation 14.",
-    "MUTATED: 'Mundane Core of the Deep' evolved to generation 37.",
-    "STABLE: 'Brittle Rapier of Sparks' did not mutate this tick.",
-    "STABLE: 'Iridescent Edge of Eternity' did not mutate this tick.",
-    "STABLE: 'Heavy Blade of Iron' did not mutate this tick."
+    "STABLE: 'Verdant Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Mundane Spear of Distortion' did not mutate this tick.",
+    "MUTATED: 'Blessed Spear of Light' evolved to generation 22.",
+    "STABLE: 'Verdant Rapier of Distortion' did not mutate this tick.",
+    "MUTATED: 'Shattered Rapier of Ash' evolved to generation 10.",
+    "MUTATED: 'Shattered Rapier of Ash' evolved to generation 11.",
+    "STABLE: 'Verdant Rapier of Distortion' did not mutate this tick.",
+    "MUTATED: 'Mundane Spear of Distortion' evolved to generation 20.",
+    "MUTATED: 'Mundane Spear of Distortion' evolved to generation 21.",
+    "STABLE: 'Verdant Rapier of Distortion' did not mutate this tick."
   ],
   "created": 331,
   "avg_lifespan": 35.542056074766386,
