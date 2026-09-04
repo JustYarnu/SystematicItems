@@ -8668,5 +8668,56 @@
       "STR": 0.2,
       "Chaos": 0.1
     }
+  },
+  {
+    "id": "929ad15d-aa94-43ba-b906-a8236c3429ad",
+    "name": "Brittle Rapier of Sparks",
+    "type": "Generic",
+    "generation": 14,
+    "damage": 31.5,
+    "damage_type": [
+      "Physical",
+      "Piercing",
+      "Lightning"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.01,
+    "str_mod": 1.1,
+    "dex_mod": 1.15,
+    "rarity": 1,
+    "durability": -0.7300000000000093,
+    "max_durability": 91.0,
+    "volatility": 0.3800000000000003,
+    "resilience": 0.75,
+    "worth": 800,
+    "affinities": {}
+  },
+  {
+    "id": "a7325e2f-71eb-4dfa-8e3d-0207b5a511fe",
+    "name": "Mundane Core of the Deep",
+    "type": "Artifact",
+    "generation": 52,
+    "damage": 24.0,
+    "damage_type": [
+      "Physical",
+      "Water"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.01,
+    "str_mod": 1.4000000000000004,
+    "dex_mod": 1.15,
+    "rarity": 1,
+    "durability": -1.0,
+    "max_durability": 125.0,
+    "volatility": 0.47000000000000003,
+    "resilience": 0.75,
+    "worth": 2700,
+    "affinities": {
+      "Restoration": 0.4,
+      "Order": 0.2,
+      "Chaos": 0.2,
+      "Stability": 0.4,
+      "STR": 0.1
+    }
   }
 ]
