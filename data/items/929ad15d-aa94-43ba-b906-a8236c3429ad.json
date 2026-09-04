@@ -2,7 +2,7 @@
   "id": "929ad15d-aa94-43ba-b906-a8236c3429ad",
   "name": "Brittle Rapier of Sparks",
   "type": "Generic",
-  "generation": 12,
+  "generation": 13,
   "damage": 30.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.15,
   "rarity": 1,
-  "durability": 11.76999999999999,
+  "durability": 5.269999999999991,
   "max_durability": 91.0,
-  "volatility": 0.3600000000000002,
+  "volatility": 0.35000000000000026,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {}
