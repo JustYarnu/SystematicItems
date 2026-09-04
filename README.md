@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-27307
+27332
 
 ## Oldest Item
 Gilded Rapier of Frost
@@ -11,8 +11,8 @@ Gilded Rapier of Frost
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.11
-- Average Volatility: 0.41
-- Average Durability: 43.91
+- Average Volatility: 0.43
+- Average Durability: 43.88
 
 ## Dominant Factions
 - STR: 0.9
@@ -25,8 +25,8 @@ Gilded Rapier of Frost
 
 ## Recent Events
 - STABLE: 'Heavy Blade of Iron' did not mutate this tick.
-- STABLE: 'Corrosive Shard of Light' did not mutate this tick.
-- STABLE: 'Blessed Focus of Silence' did not mutate this tick.
+- MUTATED: 'Shattered Rapier of Ash' evolved to generation 24.
+- STABLE: 'Gilded Rapier of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 333
@@ -40,8 +40,8 @@ Gilded Rapier of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 27307
-- Successful Mutations: 11338
+- Mutations Attempted: 27332
+- Successful Mutations: 11346
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Gilded Rapier of Frost
 
 ## Economy
 - Total Currency: 606050
-- Currency per Tick (avg): 22.19
+- Currency per Tick (avg): 22.17
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
