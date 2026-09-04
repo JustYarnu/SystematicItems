@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-27282
+27307
 
 ## Oldest Item
 Gilded Rapier of Frost
@@ -12,7 +12,7 @@ Gilded Rapier of Frost
 - Active Items: 10
 - Average Rarity: 2.11
 - Average Volatility: 0.41
-- Average Durability: 45.25
+- Average Durability: 43.91
 
 ## Dominant Factions
 - STR: 0.9
@@ -24,9 +24,9 @@ Gilded Rapier of Frost
 - Most Volatile Item: Iridescent Edge of Eternity
 
 ## Recent Events
-- MUTATED: 'Mundane Spear of Distortion' evolved to generation 31.
-- MUTATED: 'Corrosive Shard of Light' evolved to generation 17.
-- STABLE: 'Iridescent Edge of Eternity' did not mutate this tick.
+- STABLE: 'Heavy Blade of Iron' did not mutate this tick.
+- STABLE: 'Corrosive Shard of Light' did not mutate this tick.
+- STABLE: 'Blessed Focus of Silence' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 333
@@ -40,8 +40,8 @@ Gilded Rapier of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 27282
-- Successful Mutations: 11331
+- Mutations Attempted: 27307
+- Successful Mutations: 11338
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Gilded Rapier of Frost
 
 ## Economy
 - Total Currency: 606050
-- Currency per Tick (avg): 22.21
+- Currency per Tick (avg): 22.19
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
