@@ -1,21 +1,21 @@
 {
   "currency": 602550,
-  "tick": 27182,
+  "tick": 27207,
   "mutation_stats": {
-    "attempted": 27182,
-    "success": 11286
+    "attempted": 27207,
+    "success": 11302
   },
   "recent_events": [
+    "MUTATED: 'Mundane Core of the Deep' evolved to generation 44.",
+    "MUTATED: 'Heavy Blade of Iron' evolved to generation 19.",
+    "MUTATED: 'Heavy Blade of Iron' evolved to generation 20.",
     "STABLE: 'Brittle Rapier of Sparks' did not mutate this tick.",
-    "STABLE: 'Corrosive Shard of Light' did not mutate this tick.",
-    "MUTATED: 'Verdant Rapier of Iron' evolved to generation 8.",
-    "STABLE: 'Shattered Rapier of Ash' did not mutate this tick.",
-    "STABLE: 'Shattered Rapier of Ash' did not mutate this tick.",
-    "MUTATED: 'Mundane Core of the Deep' evolved to generation 42.",
-    "STABLE: 'Verdant Rapier of Distortion' did not mutate this tick.",
-    "MUTATED: 'Heavy Blade of Iron' evolved to generation 17.",
-    "MUTATED: 'Iridescent Edge of Eternity' evolved to generation 42.",
-    "MUTATED: 'Corrosive Shard of Light' evolved to generation 13."
+    "MUTATED: 'Mundane Core of the Deep' evolved to generation 45.",
+    "MUTATED: 'Mundane Core of the Deep' evolved to generation 46.",
+    "MUTATED: 'Mundane Core of the Deep' evolved to generation 47.",
+    "STABLE: 'Brittle Rapier of Sparks' did not mutate this tick.",
+    "MUTATED: 'Brittle Rapier of Sparks' evolved to generation 12.",
+    "MUTATED: 'Blessed Spear of Light' evolved to generation 25."
   ],
   "created": 331,
   "avg_lifespan": 35.542056074766386,

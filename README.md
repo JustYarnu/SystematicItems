@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-27182
+27207
 
 ## Oldest Item
 Verdant Rapier of Iron
@@ -12,7 +12,7 @@ Verdant Rapier of Iron
 - Active Items: 10
 - Average Rarity: 1.96
 - Average Volatility: 0.46
-- Average Durability: 40.32
+- Average Durability: 35.48
 
 ## Dominant Factions
 - STR: 0.9
@@ -24,9 +24,9 @@ Verdant Rapier of Iron
 - Most Volatile Item: Iridescent Edge of Eternity
 
 ## Recent Events
-- MUTATED: 'Heavy Blade of Iron' evolved to generation 17.
-- MUTATED: 'Iridescent Edge of Eternity' evolved to generation 42.
-- MUTATED: 'Corrosive Shard of Light' evolved to generation 13.
+- STABLE: 'Brittle Rapier of Sparks' did not mutate this tick.
+- MUTATED: 'Brittle Rapier of Sparks' evolved to generation 12.
+- MUTATED: 'Blessed Spear of Light' evolved to generation 25.
 
 ## Lifecycle Stats
 - Items Created: 331
@@ -40,8 +40,8 @@ Verdant Rapier of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 27182
-- Successful Mutations: 11286
+- Mutations Attempted: 27207
+- Successful Mutations: 11302
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Verdant Rapier of Iron
 
 ## Economy
 - Total Currency: 602550
-- Currency per Tick (avg): 22.17
+- Currency per Tick (avg): 22.15
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
