@@ -2,7 +2,7 @@
   "id": "f6adac31-a960-4763-beff-95ee66008011",
   "name": "Shattered Rapier of Ash",
   "type": "Generic",
-  "generation": 26,
+  "generation": 27,
   "damage": 29.0,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "str_mod": 1.4000000000000004,
   "dex_mod": 1.0,
   "rarity": 2,
-  "durability": 43.85,
+  "durability": 40.15,
   "max_durability": 81.0,
-  "volatility": 0.5000000000000002,
-  "resilience": 0.71,
+  "volatility": 0.5800000000000002,
+  "resilience": 0.6599999999999999,
   "worth": 100,
   "affinities": {
     "Chaos": 0.2,
