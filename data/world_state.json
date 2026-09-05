@@ -1,21 +1,21 @@
 {
   "currency": 611400,
-  "tick": 27432,
+  "tick": 27457,
   "mutation_stats": {
-    "attempted": 27432,
-    "success": 11377
+    "attempted": 27457,
+    "success": 11387
   },
   "recent_events": [
-    "MUTATED: 'Verdant Rapier of Iron' evolved to generation 12.",
-    "MUTATED: 'Corrosive Shard of Light' evolved to generation 24.",
-    "MUTATED: 'Blessed Focus of Silence' evolved to generation 2.",
-    "MUTATED: 'Corrosive Shard of Light' evolved to generation 25.",
-    "STABLE: 'Blessed Focus of Silence' did not mutate this tick.",
-    "STABLE: 'Corrosive Shard of Light' did not mutate this tick.",
-    "STABLE: 'Blessed Focus of Silence' did not mutate this tick.",
+    "MUTATED: 'Verdant Sigil of Might' evolved to generation 9.",
+    "MUTATED: 'Shattered Rapier of Ash' evolved to generation 26.",
+    "STABLE: 'Verdant Rapier of Iron' did not mutate this tick.",
     "STABLE: 'Nimble Blade of Blood' did not mutate this tick.",
-    "STABLE: 'Blessed Focus of Silence' did not mutate this tick.",
-    "MUTATED: 'Verdant Rapier of Iron' evolved to generation 13."
+    "MUTATED: 'Verdant Rapier of Distortion' evolved to generation 23.",
+    "MUTATED: 'Mundane Spear of Distortion' evolved to generation 36.",
+    "MUTATED: 'Gilded Rapier of Frost' evolved to generation 4.",
+    "MUTATED: 'Mundane Spear of Distortion' evolved to generation 37.",
+    "STABLE: 'Nimble Blade of Blood' did not mutate this tick.",
+    "STABLE: 'Verdant Rapier of Distortion' did not mutate this tick."
   ],
   "created": 336,
   "avg_lifespan": 35.50920245398776,

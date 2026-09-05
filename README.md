@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-27432
+27457
 
 ## Oldest Item
 Nimble Blade of Blood
@@ -11,22 +11,22 @@ Nimble Blade of Blood
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.53
-- Average Volatility: 0.4
-- Average Durability: 58.64
+- Average Volatility: 0.42
+- Average Durability: 54.78
 
 ## Dominant Factions
-- Chaos: 0.4
-- Order: 0.4
-- STR: 0.2
+- Chaos: 0.6
+- Order: 0.6
+- Stability: 0.3
 
 ## Extremes
 - Most Stable Item: Nimble Blade of Blood
 - Most Volatile Item: Verdant Rapier of Distortion
 
 ## Recent Events
+- MUTATED: 'Mundane Spear of Distortion' evolved to generation 37.
 - STABLE: 'Nimble Blade of Blood' did not mutate this tick.
-- STABLE: 'Blessed Focus of Silence' did not mutate this tick.
-- MUTATED: 'Verdant Rapier of Iron' evolved to generation 13.
+- STABLE: 'Verdant Rapier of Distortion' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 336
@@ -40,8 +40,8 @@ Nimble Blade of Blood
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 27432
-- Successful Mutations: 11377
+- Mutations Attempted: 27457
+- Successful Mutations: 11387
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Nimble Blade of Blood
 
 ## Economy
 - Total Currency: 611400
-- Currency per Tick (avg): 22.29
+- Currency per Tick (avg): 22.27
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
