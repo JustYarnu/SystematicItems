@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-27382
+27407
 
 ## Oldest Item
-Blessed Focus of Silence
+Nimble Blade of Blood
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.53
-- Average Volatility: 0.4
-- Average Durability: 54.83
+- Average Volatility: 0.38
+- Average Durability: 62.9
 
 ## Dominant Factions
-- Chaos: 0.6
-- Order: 0.5
-- STR: 0.3
+- Chaos: 0.4
+- Order: 0.4
+- STR: 0.2
 
 ## Extremes
-- Most Stable Item: Gilded Rapier of Frost
+- Most Stable Item: Nimble Blade of Blood
 - Most Volatile Item: Verdant Rapier of Distortion
 
 ## Recent Events
-- STABLE: 'Blessed Focus of Silence' did not mutate this tick.
-- MUTATED: 'Shattered Rapier of Ash' evolved to generation 25.
-- STABLE: 'Blessed Focus of Silence' did not mutate this tick.
+- MUTATED: 'Verdant Rapier of Distortion' evolved to generation 20.
+- MUTATED: 'Shattered Focus of Frost' evolved to generation 5.
+- STABLE: 'Shattered Focus of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 335
-- Items Archived: 325
-- Avg Lifespan (ticks): 35.6
+- Items Created: 336
+- Items Archived: 326
+- Avg Lifespan (ticks): 35.5
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,8 +40,8 @@ Blessed Focus of Silence
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 27382
-- Successful Mutations: 11362
+- Mutations Attempted: 27407
+- Successful Mutations: 11368
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Blessed Focus of Silence
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 610250
-- Currency per Tick (avg): 22.29
+- Total Currency: 611400
+- Currency per Tick (avg): 22.31
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

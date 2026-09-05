@@ -2,7 +2,7 @@
   "id": "ae4b82fa-2f93-4529-a508-7dbc7d3f64fb",
   "name": "Shattered Focus of Frost",
   "type": "Focus",
-  "generation": 4,
+  "generation": 5,
   "damage": 23.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.0,
   "dex_mod": 0.9,
   "rarity": 1,
-  "durability": 64.70000000000002,
-  "max_durability": 102.0,
-  "volatility": 0.52,
+  "durability": 58.850000000000016,
+  "max_durability": 104.0,
+  "volatility": 0.54,
   "resilience": 0.6299999999999999,
   "worth": 100,
   "affinities": {}
