@@ -1,23 +1,23 @@
 {
-  "currency": 611400,
-  "tick": 27482,
+  "currency": 612900,
+  "tick": 27507,
   "mutation_stats": {
-    "attempted": 27482,
-    "success": 11401
+    "attempted": 27507,
+    "success": 11415
   },
   "recent_events": [
-    "STABLE: 'Verdant Sigil of Might' did not mutate this tick.",
-    "MUTATED: 'Shattered Rapier of Ash' evolved to generation 27.",
-    "MUTATED: 'Shattered Focus of Frost' evolved to generation 8.",
-    "STABLE: 'Gilded Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Verdant Rapier of Distortion' evolved to generation 27.",
-    "MUTATED: 'Verdant Rapier of Iron' evolved to generation 14.",
-    "STABLE: 'Mundane Spear of Distortion' did not mutate this tick.",
+    "MUTATED: 'Mundane Spear of Distortion' evolved to generation 41.",
+    "STABLE: 'Corrosive Shard of Light' did not mutate this tick.",
+    "REPLACED WITH: 'Mundane Rapier of Echoes' (fb5ce4c3-b812-4803-bb53-64ebcf509c01)",
+    "MUTATED: 'Verdant Rapier of Iron' evolved to generation 19.",
+    "MUTATED: 'Shattered Rapier of Ash' evolved to generation 29.",
+    "MUTATED: 'Shattered Focus of Frost' evolved to generation 9.",
+    "STABLE: 'Nimble Blade of Blood' did not mutate this tick.",
+    "MUTATED: 'Blessed Focus of Silence' evolved to generation 3.",
     "STABLE: 'Shattered Focus of Frost' did not mutate this tick.",
-    "MUTATED: 'Verdant Sigil of Might' evolved to generation 11.",
-    "MUTATED: 'Corrosive Shard of Light' evolved to generation 28."
+    "STABLE: 'Mundane Rapier of Echoes' did not mutate this tick."
   ],
-  "created": 336,
-  "avg_lifespan": 35.50920245398776,
-  "archived": 326
+  "created": 337,
+  "avg_lifespan": 35.48623853211013,
+  "archived": 327
 }
