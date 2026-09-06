@@ -1,21 +1,21 @@
 {
   "currency": 615200,
-  "tick": 27582,
+  "tick": 27607,
   "mutation_stats": {
-    "attempted": 27582,
-    "success": 11443
+    "attempted": 27607,
+    "success": 11454
   },
   "recent_events": [
-    "STABLE: 'Verdant Rapier of Distortion' did not mutate this tick.",
-    "STABLE: 'Blessed Focus of Silence' did not mutate this tick.",
-    "STABLE: 'Starlight Blade of Might' did not mutate this tick.",
-    "STABLE: 'Shattered Rapier of Ash' did not mutate this tick.",
-    "MUTATED: 'Verdant Sigil of Might' evolved to generation 14.",
-    "MUTATED: 'Starlight Blade of Might' evolved to generation 3.",
-    "MUTATED: 'Gilded Rapier of Frost' evolved to generation 8.",
-    "MUTATED: 'Verdant Sigil of Might' evolved to generation 15.",
-    "MUTATED: 'Shattered Focus of Frost' evolved to generation 11.",
-    "MUTATED: 'Shattered Rapier of Ash' evolved to generation 34."
+    "STABLE: 'Nimble Blade of Blood' did not mutate this tick.",
+    "STABLE: 'Verdant Sigil of Might' did not mutate this tick.",
+    "MUTATED: 'Verdant Rapier of Distortion' evolved to generation 35.",
+    "MUTATED: 'Shattered Focus of Frost' evolved to generation 13.",
+    "STABLE: 'Gilded Rapier of Frost' did not mutate this tick.",
+    "MUTATED: 'Shattered Rapier of Ash' evolved to generation 35.",
+    "STABLE: 'Verdant Sigil of Might' did not mutate this tick.",
+    "MUTATED: 'Blessed Focus of Silence' evolved to generation 6.",
+    "STABLE: 'Mundane Rapier of Echoes' did not mutate this tick.",
+    "MUTATED: 'Starlight Blade of Might' evolved to generation 4."
   ],
   "created": 338,
   "avg_lifespan": 35.51219512195126,
