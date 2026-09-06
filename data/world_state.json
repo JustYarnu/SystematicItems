@@ -1,21 +1,21 @@
 {
   "currency": 615200,
-  "tick": 27657,
+  "tick": 27682,
   "mutation_stats": {
-    "attempted": 27657,
-    "success": 11467
+    "attempted": 27682,
+    "success": 11477
   },
   "recent_events": [
-    "MUTATED: 'Verdant Sigil of Might' evolved to generation 17.",
-    "STABLE: 'Verdant Rapier of Distortion' did not mutate this tick.",
-    "STABLE: 'Starlight Blade of Might' did not mutate this tick.",
-    "MUTATED: 'Shattered Rapier of Ash' evolved to generation 37.",
-    "STABLE: 'Verdant Sigil of Might' did not mutate this tick.",
-    "MUTATED: 'Blessed Focus of Silence' evolved to generation 9.",
-    "STABLE: 'Verdant Rapier of Iron' did not mutate this tick.",
     "STABLE: 'Gilded Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Verdant Sigil of Might' evolved to generation 18.",
-    "MUTATED: 'Verdant Sigil of Might' evolved to generation 19."
+    "MUTATED: 'Verdant Rapier of Distortion' evolved to generation 41.",
+    "MUTATED: 'Shattered Focus of Frost' evolved to generation 15.",
+    "STABLE: 'Shattered Focus of Frost' did not mutate this tick.",
+    "STABLE: 'Verdant Rapier of Distortion' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Echoes' evolved to generation 4.",
+    "MUTATED: 'Verdant Rapier of Iron' evolved to generation 25.",
+    "STABLE: 'Mundane Rapier of Echoes' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Echoes' did not mutate this tick.",
+    "STABLE: 'Gilded Rapier of Frost' did not mutate this tick."
   ],
   "created": 338,
   "avg_lifespan": 35.51219512195126,

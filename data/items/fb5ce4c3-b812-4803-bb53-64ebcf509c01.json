@@ -2,7 +2,7 @@
   "id": "fb5ce4c3-b812-4803-bb53-64ebcf509c01",
   "name": "Mundane Rapier of Echoes",
   "type": "Generic",
-  "generation": 3,
+  "generation": 4,
   "damage": 13.0,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.2,
   "rarity": 1.3,
-  "durability": 85.84462790581344,
+  "durability": 79.3824790681388,
   "max_durability": 100.0,
-  "volatility": 0.19000000000000006,
+  "volatility": 0.1800000000000001,
   "resilience": 0.7689255811626865,
   "worth": 100,
   "affinities": {}
