@@ -1,23 +1,23 @@
 {
-  "currency": 612900,
-  "tick": 27532,
+  "currency": 615200,
+  "tick": 27557,
   "mutation_stats": {
-    "attempted": 27532,
-    "success": 11423
+    "attempted": 27557,
+    "success": 11430
   },
   "recent_events": [
-    "STABLE: 'Verdant Rapier of Iron' did not mutate this tick.",
-    "STABLE: 'Verdant Rapier of Iron' did not mutate this tick.",
-    "STABLE: 'Gilded Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Mundane Spear of Distortion' evolved to generation 42.",
-    "STABLE: 'Mundane Spear of Distortion' did not mutate this tick.",
+    "MUTATED: 'Mundane Spear of Distortion' evolved to generation 44.",
+    "REPLACED WITH: 'Starlight Blade of Might' (85e8b078-85fc-4ebe-bd34-cf49367ff50e)",
     "STABLE: 'Blessed Focus of Silence' did not mutate this tick.",
-    "MUTATED: 'Verdant Rapier of Distortion' evolved to generation 29.",
     "STABLE: 'Shattered Focus of Frost' did not mutate this tick.",
-    "MUTATED: 'Verdant Sigil of Might' evolved to generation 13.",
-    "MUTATED: 'Shattered Rapier of Ash' evolved to generation 31."
+    "MUTATED: 'Verdant Rapier of Iron' evolved to generation 20.",
+    "STABLE: 'Shattered Rapier of Ash' did not mutate this tick.",
+    "MUTATED: 'Shattered Rapier of Ash' evolved to generation 32.",
+    "STABLE: 'Nimble Blade of Blood' did not mutate this tick.",
+    "STABLE: 'Verdant Sigil of Might' did not mutate this tick.",
+    "STABLE: 'Verdant Rapier of Distortion' did not mutate this tick."
   ],
-  "created": 337,
-  "avg_lifespan": 35.48623853211013,
-  "archived": 327
+  "created": 338,
+  "avg_lifespan": 35.51219512195126,
+  "archived": 328
 }

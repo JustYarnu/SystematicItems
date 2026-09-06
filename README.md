@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-27532
+27557
 
 ## Oldest Item
 Nimble Blade of Blood
@@ -11,26 +11,26 @@ Nimble Blade of Blood
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.53
-- Average Volatility: 0.42
-- Average Durability: 60.09
+- Average Volatility: 0.38
+- Average Durability: 66.46
 
 ## Dominant Factions
-- Order: 0.7
-- Chaos: 0.6
-- STR: 0.4
+- Order: 0.6
+- Chaos: 0.4
+- DEX: 0.3
 
 ## Extremes
-- Most Stable Item: Mundane Rapier of Echoes
-- Most Volatile Item: Mundane Spear of Distortion
+- Most Stable Item: Starlight Blade of Might
+- Most Volatile Item: Verdant Rapier of Distortion
 
 ## Recent Events
-- STABLE: 'Shattered Focus of Frost' did not mutate this tick.
-- MUTATED: 'Verdant Sigil of Might' evolved to generation 13.
-- MUTATED: 'Shattered Rapier of Ash' evolved to generation 31.
+- STABLE: 'Nimble Blade of Blood' did not mutate this tick.
+- STABLE: 'Verdant Sigil of Might' did not mutate this tick.
+- STABLE: 'Verdant Rapier of Distortion' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 337
-- Items Archived: 327
+- Items Created: 338
+- Items Archived: 328
 - Avg Lifespan (ticks): 35.5
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Nimble Blade of Blood
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 27532
-- Successful Mutations: 11423
+- Mutations Attempted: 27557
+- Successful Mutations: 11430
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Nimble Blade of Blood
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 612900
-- Currency per Tick (avg): 22.26
+- Total Currency: 615200
+- Currency per Tick (avg): 22.32
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
