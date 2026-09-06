@@ -2,7 +2,7 @@
   "id": "bfa4e68b-3fbc-448a-940a-b4cae2c0ee0d",
   "name": "Gilded Rapier of Frost",
   "type": "Generic",
-  "generation": 10,
+  "generation": 13,
   "damage": 8.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.0,
   "dex_mod": 1.5,
   "rarity": 2.5,
-  "durability": 49.00000000000001,
+  "durability": 56.04,
   "max_durability": 124.0,
-  "volatility": 0.3700000000000002,
-  "resilience": 0.73,
+  "volatility": 0.4200000000000002,
+  "resilience": 0.7599999999999999,
   "worth": 100,
   "affinities": {
     "Order": 0.1,
