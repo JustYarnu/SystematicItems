@@ -1,0 +1,22 @@
+{
+  "id": "a5c8366e-136c-404f-a53c-a8111918531e",
+  "name": "Nimble Bow of Blood",
+  "type": "Ranged",
+  "generation": 1,
+  "damage": 10.0,
+  "damage_type": [
+    "Physical",
+    "Piercing"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.2,
+  "dex_mod": 1.4,
+  "rarity": 1,
+  "durability": 94.0,
+  "max_durability": 90.0,
+  "volatility": 0.16000000000000003,
+  "resilience": 0.5,
+  "worth": 100,
+  "affinities": {}
+}
