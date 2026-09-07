@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-27807
+27832
 
 ## Oldest Item
 Nimble Bow of Blood
@@ -11,12 +11,12 @@ Nimble Bow of Blood
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.43
-- Average Volatility: 0.43
-- Average Durability: 46.69
+- Average Volatility: 0.44
+- Average Durability: 42.86
 
 ## Dominant Factions
-- Order: 1.1
-- DEX: 0.4
+- Order: 1.2
+- DEX: 0.5
 - Stability: 0.4
 
 ## Extremes
@@ -24,9 +24,9 @@ Nimble Bow of Blood
 - Most Volatile Item: Verdant Rapier of Distortion
 
 ## Recent Events
-- STABLE: 'Gilded Rapier of Frost' did not mutate this tick.
+- STABLE: 'Blessed Focus of Silence' did not mutate this tick.
+- MUTATED: 'Gilded Rapier of Frost' evolved to generation 22.
 - STABLE: 'Nimble Bow of Blood' did not mutate this tick.
-- STABLE: 'Mundane Rapier of Echoes' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 339
@@ -40,8 +40,8 @@ Nimble Bow of Blood
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 27807
-- Successful Mutations: 11528
+- Mutations Attempted: 27832
+- Successful Mutations: 11539
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Nimble Bow of Blood
 
 ## Economy
 - Total Currency: 617450
-- Currency per Tick (avg): 22.2
+- Currency per Tick (avg): 22.18
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
