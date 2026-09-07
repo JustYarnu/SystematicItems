@@ -2,7 +2,7 @@
   "id": "b4e12b03-c9af-46ff-84e0-2b4988511f6a",
   "name": "Nimble Blade of Blood",
   "type": "Sword",
-  "generation": 9,
+  "generation": 10,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -13,7 +13,7 @@
   "str_mod": 1.25,
   "dex_mod": 1.4000000000000001,
   "rarity": 1,
-  "durability": 44.5,
+  "durability": 57.5,
   "max_durability": 105.0,
   "volatility": 0.3100000000000003,
   "resilience": 0.6500000000000001,

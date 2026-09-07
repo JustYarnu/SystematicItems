@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-27832
+27857
 
 ## Oldest Item
-Nimble Bow of Blood
+Dread Blade of Carnage
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.43
 - Average Volatility: 0.44
-- Average Durability: 42.86
+- Average Durability: 56.31
 
 ## Dominant Factions
-- Order: 1.2
+- Order: 0.9
 - DEX: 0.5
 - Stability: 0.4
 
 ## Extremes
-- Most Stable Item: Nimble Bow of Blood
+- Most Stable Item: Mundane Rapier of Echoes
 - Most Volatile Item: Verdant Rapier of Distortion
 
 ## Recent Events
-- STABLE: 'Blessed Focus of Silence' did not mutate this tick.
-- MUTATED: 'Gilded Rapier of Frost' evolved to generation 22.
-- STABLE: 'Nimble Bow of Blood' did not mutate this tick.
+- STABLE: 'Gilded Rapier of Frost' did not mutate this tick.
+- STABLE: 'Starlight Blade of Might' did not mutate this tick.
+- MUTATED: 'Starlight Blade of Might' evolved to generation 8.
 
 ## Lifecycle Stats
-- Items Created: 339
-- Items Archived: 329
+- Items Created: 340
+- Items Archived: 330
 - Avg Lifespan (ticks): 35.5
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Nimble Bow of Blood
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 27832
-- Successful Mutations: 11539
+- Mutations Attempted: 27857
+- Successful Mutations: 11549
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Nimble Bow of Blood
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 617450
-- Currency per Tick (avg): 22.18
+- Total Currency: 618450
+- Currency per Tick (avg): 22.2
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

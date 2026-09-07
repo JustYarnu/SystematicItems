@@ -1,23 +1,23 @@
 {
-  "currency": 617450,
-  "tick": 27832,
+  "currency": 618450,
+  "tick": 27857,
   "mutation_stats": {
-    "attempted": 27832,
-    "success": 11539
+    "attempted": 27857,
+    "success": 11549
   },
   "recent_events": [
-    "STABLE: 'Mundane Rapier of Echoes' did not mutate this tick.",
-    "STABLE: 'Gilded Rapier of Frost' did not mutate this tick.",
-    "STABLE: 'Nimble Bow of Blood' did not mutate this tick.",
-    "MUTATED: 'Verdant Rapier of Distortion' evolved to generation 53.",
-    "MUTATED: 'Verdant Sigil of Might' evolved to generation 29.",
-    "MUTATED: 'Verdant Rapier of Iron' evolved to generation 30.",
-    "STABLE: 'Verdant Sigil of Might' did not mutate this tick.",
+    "STABLE: 'Dread Blade of Carnage' did not mutate this tick.",
     "STABLE: 'Blessed Focus of Silence' did not mutate this tick.",
-    "MUTATED: 'Gilded Rapier of Frost' evolved to generation 22.",
-    "STABLE: 'Nimble Bow of Blood' did not mutate this tick."
+    "MUTATED: 'Mundane Rapier of Echoes' evolved to generation 8.",
+    "STABLE: 'Verdant Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Verdant Rapier of Iron' did not mutate this tick.",
+    "MUTATED: 'Nimble Bow of Blood' evolved to generation 2.",
+    "STABLE: 'Gilded Rapier of Frost' did not mutate this tick.",
+    "STABLE: 'Gilded Rapier of Frost' did not mutate this tick.",
+    "STABLE: 'Starlight Blade of Might' did not mutate this tick.",
+    "MUTATED: 'Starlight Blade of Might' evolved to generation 8."
   ],
-  "created": 339,
-  "avg_lifespan": 35.53495440729487,
-  "archived": 329
+  "created": 340,
+  "avg_lifespan": 35.48181818181822,
+  "archived": 330
 }
