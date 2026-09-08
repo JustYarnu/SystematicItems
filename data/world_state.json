@@ -1,21 +1,21 @@
 {
   "currency": 618450,
-  "tick": 27982,
+  "tick": 28007,
   "mutation_stats": {
-    "attempted": 27982,
-    "success": 11613
+    "attempted": 28007,
+    "success": 11622
   },
   "recent_events": [
-    "STABLE: 'Verdant Sigil of Might' did not mutate this tick.",
-    "MUTATED: 'Blessed Focus of Silence' evolved to generation 23.",
-    "MUTATED: 'Nimble Bow of Blood' evolved to generation 8.",
-    "STABLE: 'Blessed Focus of Silence' did not mutate this tick.",
-    "STABLE: 'Gilded Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Gilded Rapier of Frost' evolved to generation 28.",
     "STABLE: 'Mundane Rapier of Echoes' did not mutate this tick.",
-    "MUTATED: 'Gilded Rapier of Frost' evolved to generation 29.",
-    "MUTATED: 'Starlight Blade of Might' evolved to generation 16.",
-    "STABLE: 'Gilded Rapier of Frost' did not mutate this tick."
+    "MUTATED: 'Starlight Blade of Might' evolved to generation 17.",
+    "STABLE: 'Nimble Bow of Blood' did not mutate this tick.",
+    "STABLE: 'Blessed Focus of Silence' did not mutate this tick.",
+    "STABLE: 'Nimble Blade of Blood' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Echoes' did not mutate this tick.",
+    "MUTATED: 'Dread Blade of Carnage' evolved to generation 7.",
+    "MUTATED: 'Mundane Rapier of Echoes' evolved to generation 13.",
+    "STABLE: 'Nimble Bow of Blood' did not mutate this tick.",
+    "STABLE: 'Starlight Blade of Might' did not mutate this tick."
   ],
   "created": 340,
   "avg_lifespan": 35.48181818181822,

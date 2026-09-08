@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-27982
+28007
 
 ## Oldest Item
 Dread Blade of Carnage
@@ -12,21 +12,21 @@ Dread Blade of Carnage
 - Active Items: 10
 - Average Rarity: 1.53
 - Average Volatility: 0.45
-- Average Durability: 40.98
+- Average Durability: 38.4
 
 ## Dominant Factions
-- Order: 0.9
-- DEX: 0.8
-- Stability: 0.6
+- Order: 1.0
+- DEX: 0.9
+- Chaos: 0.6
 
 ## Extremes
-- Most Stable Item: Mundane Rapier of Echoes
-- Most Volatile Item: Verdant Rapier of Iron
+- Most Stable Item: Nimble Blade of Blood
+- Most Volatile Item: Verdant Sigil of Might
 
 ## Recent Events
-- MUTATED: 'Gilded Rapier of Frost' evolved to generation 29.
-- MUTATED: 'Starlight Blade of Might' evolved to generation 16.
-- STABLE: 'Gilded Rapier of Frost' did not mutate this tick.
+- MUTATED: 'Mundane Rapier of Echoes' evolved to generation 13.
+- STABLE: 'Nimble Bow of Blood' did not mutate this tick.
+- STABLE: 'Starlight Blade of Might' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 340
@@ -40,8 +40,8 @@ Dread Blade of Carnage
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 27982
-- Successful Mutations: 11613
+- Mutations Attempted: 28007
+- Successful Mutations: 11622
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Dread Blade of Carnage
 
 ## Economy
 - Total Currency: 618450
-- Currency per Tick (avg): 22.1
+- Currency per Tick (avg): 22.08
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
