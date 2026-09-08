@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-27907
+27932
 
 ## Oldest Item
 Dread Blade of Carnage
@@ -12,11 +12,11 @@ Dread Blade of Carnage
 - Active Items: 10
 - Average Rarity: 1.53
 - Average Volatility: 0.44
-- Average Durability: 47.68
+- Average Durability: 42.87
 
 ## Dominant Factions
 - Order: 0.9
-- DEX: 0.7
+- DEX: 0.8
 - Stability: 0.6
 
 ## Extremes
@@ -24,9 +24,9 @@ Dread Blade of Carnage
 - Most Volatile Item: Verdant Sigil of Might
 
 ## Recent Events
-- STABLE: 'Verdant Sigil of Might' did not mutate this tick.
-- MUTATED: 'Nimble Bow of Blood' evolved to generation 6.
-- MUTATED: 'Verdant Sigil of Might' evolved to generation 31.
+- STABLE: 'Dread Blade of Carnage' did not mutate this tick.
+- STABLE: 'Dread Blade of Carnage' did not mutate this tick.
+- MUTATED: 'Nimble Bow of Blood' evolved to generation 7.
 
 ## Lifecycle Stats
 - Items Created: 340
@@ -40,8 +40,8 @@ Dread Blade of Carnage
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 27907
-- Successful Mutations: 11575
+- Mutations Attempted: 27932
+- Successful Mutations: 11589
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Dread Blade of Carnage
 
 ## Economy
 - Total Currency: 618450
-- Currency per Tick (avg): 22.16
+- Currency per Tick (avg): 22.14
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
