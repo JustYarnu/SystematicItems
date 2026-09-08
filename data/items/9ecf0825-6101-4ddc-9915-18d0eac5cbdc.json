@@ -2,7 +2,7 @@
   "id": "9ecf0825-6101-4ddc-9915-18d0eac5cbdc",
   "name": "Verdant Sigil of Might",
   "type": "Focus",
-  "generation": 32,
+  "generation": 33,
   "damage": 28.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.6500000000000004,
   "dex_mod": 1.05,
   "rarity": 1.5,
-  "durability": 58.68000000000003,
+  "durability": 53.72000000000003,
   "max_durability": 113.0,
-  "volatility": 0.5792481250360578,
-  "resilience": 0.6799999999999999,
+  "volatility": 0.5692481250360578,
+  "resilience": 0.7599999999999999,
   "worth": 100,
   "affinities": {
     "Order": 0.1,
