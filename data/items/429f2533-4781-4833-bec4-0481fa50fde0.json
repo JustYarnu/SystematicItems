@@ -2,8 +2,8 @@
   "id": "429f2533-4781-4833-bec4-0481fa50fde0",
   "name": "Dread Blade of Carnage",
   "type": "Sword",
-  "generation": 13,
-  "damage": 39.5,
+  "generation": 15,
+  "damage": 41.0,
   "damage_type": [
     "Physical",
     "Dark",
@@ -12,16 +12,16 @@
   ],
   "crit_damage": 2,
   "crit_rate": 0.01,
-  "str_mod": 1.35,
+  "str_mod": 1.4500000000000002,
   "dex_mod": 0.8500000000000001,
   "rarity": 1,
-  "durability": 44.85999999999999,
+  "durability": 38.379999999999995,
   "max_durability": 100.0,
-  "volatility": 0.5800000000000001,
+  "volatility": 0.55,
   "resilience": 0.38000000000000006,
   "worth": 100,
   "affinities": {
     "Stability": 0.1,
-    "Chaos": 0.1
+    "Chaos": 0.2
   }
 }
