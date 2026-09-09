@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-28082
+28107
 
 ## Oldest Item
 Mundane Relic of Eternity
@@ -11,12 +11,12 @@ Mundane Relic of Eternity
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.88
-- Average Volatility: 0.45
-- Average Durability: 38.57
+- Average Volatility: 0.46
+- Average Durability: 37.38
 
 ## Dominant Factions
+- DEX: 1.1
 - Order: 1.1
-- DEX: 1.0
 - Chaos: 0.6
 
 ## Extremes
@@ -24,9 +24,9 @@ Mundane Relic of Eternity
 - Most Volatile Item: Verdant Sigil of Might
 
 ## Recent Events
-- MUTATED: 'Dread Blade of Carnage' evolved to generation 12.
-- STABLE: 'Starlight Blade of Might' did not mutate this tick.
-- STABLE: 'Mundane Relic of Eternity' did not mutate this tick.
+- STABLE: 'Verdant Rapier of Distortion' did not mutate this tick.
+- STABLE: 'Verdant Rapier of Distortion' did not mutate this tick.
+- STABLE: 'Dread Blade of Carnage' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 341
@@ -40,8 +40,8 @@ Mundane Relic of Eternity
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 28082
-- Successful Mutations: 11661
+- Mutations Attempted: 28107
+- Successful Mutations: 11668
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Relic of Eternity
 
 ## Economy
 - Total Currency: 620950
-- Currency per Tick (avg): 22.11
+- Currency per Tick (avg): 22.09
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
