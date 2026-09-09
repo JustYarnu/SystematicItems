@@ -2,7 +2,7 @@
   "id": "08867fe6-779e-49be-a121-5ab727269869",
   "name": "Blessed Focus of Silence",
   "type": "Focus",
-  "generation": 23,
+  "generation": 24,
   "damage": 18.0,
   "damage_type": [
     "Physical",
@@ -13,13 +13,14 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.4000000000000001,
   "rarity": 1,
-  "durability": 41.56999999999999,
+  "durability": 38.56999999999999,
   "max_durability": 124.0,
-  "volatility": 0.4800000000000001,
+  "volatility": 0.4900000000000001,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
     "DEX": 0.3,
-    "Restoration": 0.1
+    "Restoration": 0.1,
+    "Order": 0.1
   }
 }
