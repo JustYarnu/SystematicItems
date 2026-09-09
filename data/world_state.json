@@ -1,23 +1,23 @@
 {
-  "currency": 620950,
-  "tick": 28107,
+  "currency": 622800,
+  "tick": 28132,
   "mutation_stats": {
-    "attempted": 28107,
-    "success": 11668
+    "attempted": 28132,
+    "success": 11678
   },
   "recent_events": [
-    "MUTATED: 'Blessed Focus of Silence' evolved to generation 28.",
-    "STABLE: 'Blessed Focus of Silence' did not mutate this tick.",
-    "MUTATED: 'Blessed Focus of Silence' evolved to generation 29.",
-    "STABLE: 'Mundane Rapier of Echoes' did not mutate this tick.",
-    "STABLE: 'Verdant Sigil of Might' did not mutate this tick.",
+    "MUTATED: 'Verdant Rapier of Distortion' evolved to generation 68.",
+    "STABLE: 'Mundane Relic of Eternity' did not mutate this tick.",
+    "STABLE: 'Dread Blade of Carnage' did not mutate this tick.",
+    "MUTATED: 'Gilded Rapier of Frost' evolved to generation 35.",
+    "REPLACED WITH: 'Verdant Rapier of Iron' (eecaf937-339e-48f4-985c-b023f6962c60)",
+    "STABLE: 'Dread Blade of Carnage' did not mutate this tick.",
     "STABLE: 'Starlight Blade of Might' did not mutate this tick.",
-    "MUTATED: 'Starlight Blade of Might' evolved to generation 19.",
-    "STABLE: 'Verdant Rapier of Distortion' did not mutate this tick.",
-    "STABLE: 'Verdant Rapier of Distortion' did not mutate this tick.",
+    "MUTATED: 'Blessed Focus of Silence' evolved to generation 31.",
+    "MUTATED: 'Verdant Rapier of Iron' evolved to generation 2.",
     "STABLE: 'Dread Blade of Carnage' did not mutate this tick."
   ],
-  "created": 341,
-  "avg_lifespan": 35.519637462235686,
-  "archived": 331
+  "created": 342,
+  "avg_lifespan": 35.51807228915666,
+  "archived": 332
 }
