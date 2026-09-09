@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-28057
+28082
 
 ## Oldest Item
-Dread Blade of Carnage
+Mundane Relic of Eternity
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.63
-- Average Volatility: 0.48
-- Average Durability: 29.7
+- Average Rarity: 1.88
+- Average Volatility: 0.45
+- Average Durability: 38.57
 
 ## Dominant Factions
-- Order: 1.3
+- Order: 1.1
 - DEX: 1.0
-- STR: 0.7
+- Chaos: 0.6
 
 ## Extremes
-- Most Stable Item: Mundane Rapier of Echoes
-- Most Volatile Item: Verdant Rapier of Distortion
+- Most Stable Item: Mundane Relic of Eternity
+- Most Volatile Item: Verdant Sigil of Might
 
 ## Recent Events
-- MUTATED: 'Verdant Sigil of Might' evolved to generation 38.
+- MUTATED: 'Dread Blade of Carnage' evolved to generation 12.
 - STABLE: 'Starlight Blade of Might' did not mutate this tick.
-- STABLE: 'Mundane Rapier of Echoes' did not mutate this tick.
+- STABLE: 'Mundane Relic of Eternity' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 340
-- Items Archived: 330
+- Items Created: 341
+- Items Archived: 331
 - Avg Lifespan (ticks): 35.5
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Dread Blade of Carnage
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 28057
-- Successful Mutations: 11650
+- Mutations Attempted: 28082
+- Successful Mutations: 11661
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 5
+- Uncommon: 5
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Dread Blade of Carnage
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 618450
-- Currency per Tick (avg): 22.04
+- Total Currency: 620950
+- Currency per Tick (avg): 22.11
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
