@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-28257
+28282
 
 ## Oldest Item
 Mortal Axe of Ruins
@@ -12,11 +12,11 @@ Mortal Axe of Ruins
 - Active Items: 10
 - Average Rarity: 1.53
 - Average Volatility: 0.45
-- Average Durability: 47.64
+- Average Durability: 43.38
 
 ## Dominant Factions
-- Order: 0.9
-- DEX: 0.9
+- DEX: 1.1
+- Order: 1.0
 - Chaos: 0.7
 
 ## Extremes
@@ -24,9 +24,9 @@ Mortal Axe of Ruins
 - Most Volatile Item: Blessed Focus of Silence
 
 ## Recent Events
-- MUTATED: 'Mundane Rapier of Echoes' evolved to generation 22.
-- MUTATED: 'Verdant Rapier of Distortion' evolved to generation 78.
-- STABLE: 'Verdant Rapier of Iron' did not mutate this tick.
+- MUTATED: 'Broken Blade of Ash' evolved to generation 5.
+- STABLE: 'Mundane Relic of Eternity' did not mutate this tick.
+- MUTATED: 'Broken Blade of Ash' evolved to generation 6.
 
 ## Lifecycle Stats
 - Items Created: 344
@@ -40,8 +40,8 @@ Mortal Axe of Ruins
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 28257
-- Successful Mutations: 11727
+- Mutations Attempted: 28282
+- Successful Mutations: 11736
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mortal Axe of Ruins
 
 ## Economy
 - Total Currency: 625450
-- Currency per Tick (avg): 22.13
+- Currency per Tick (avg): 22.11
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
