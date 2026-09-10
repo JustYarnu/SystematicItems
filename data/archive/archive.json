@@ -8995,5 +8995,30 @@
       "STR": 0.1,
       "DEX": 0.2
     }
+  },
+  {
+    "id": "85e8b078-85fc-4ebe-bd34-cf49367ff50e",
+    "name": "Starlight Blade of Might",
+    "type": "Sword",
+    "generation": 22,
+    "damage": 13.5,
+    "damage_type": [
+      "Physical",
+      "Cosmic",
+      "Slashing"
+    ],
+    "crit_damage": 3.5,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.4000000000000001,
+    "dex_mod": 1.8500000000000003,
+    "rarity": 2.0,
+    "durability": -0.949999999999998,
+    "max_durability": 102.0,
+    "volatility": 0.5200000000000005,
+    "resilience": 0.6000000000000001,
+    "worth": 1200,
+    "affinities": {
+      "STR": 0.1
+    }
   }
 ]

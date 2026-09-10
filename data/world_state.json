@@ -1,23 +1,23 @@
 {
-  "currency": 624250,
-  "tick": 28232,
+  "currency": 625450,
+  "tick": 28257,
   "mutation_stats": {
-    "attempted": 28232,
-    "success": 11716
+    "attempted": 28257,
+    "success": 11727
   },
   "recent_events": [
+    "STABLE: 'Verdant Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Verdant Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Dread Blade of Carnage' did not mutate this tick.",
     "STABLE: 'Mundane Relic of Eternity' did not mutate this tick.",
-    "MUTATED: 'Verdant Rapier of Distortion' evolved to generation 75.",
-    "STABLE: 'Nimble Blade of Blood' did not mutate this tick.",
-    "REPLACED WITH: 'Broken Blade of Ash' (2132fe4a-af20-4875-838e-51316f1d3ffa)",
+    "MUTATED: 'Mundane Relic of Eternity' evolved to generation 4.",
+    "MUTATED: 'Broken Blade of Ash' evolved to generation 4.",
     "STABLE: 'Blessed Focus of Silence' did not mutate this tick.",
-    "STABLE: 'Nimble Bow of Blood' did not mutate this tick.",
-    "STABLE: 'Starlight Blade of Might' did not mutate this tick.",
-    "STABLE: 'Mundane Relic of Eternity' did not mutate this tick.",
-    "MUTATED: 'Verdant Rapier of Distortion' evolved to generation 76.",
-    "STABLE: 'Blessed Focus of Silence' did not mutate this tick."
+    "MUTATED: 'Mundane Rapier of Echoes' evolved to generation 22.",
+    "MUTATED: 'Verdant Rapier of Distortion' evolved to generation 78.",
+    "STABLE: 'Verdant Rapier of Iron' did not mutate this tick."
   ],
-  "created": 343,
-  "avg_lifespan": 35.49249249249253,
-  "archived": 333
+  "created": 344,
+  "avg_lifespan": 35.45209580838327,
+  "archived": 334
 }
