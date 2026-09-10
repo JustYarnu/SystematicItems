@@ -1,23 +1,23 @@
 {
-  "currency": 622800,
-  "tick": 28207,
+  "currency": 624250,
+  "tick": 28232,
   "mutation_stats": {
-    "attempted": 28207,
-    "success": 11710
+    "attempted": 28232,
+    "success": 11716
   },
   "recent_events": [
-    "STABLE: 'Starlight Blade of Might' did not mutate this tick.",
-    "MUTATED: 'Verdant Sigil of Might' evolved to generation 48.",
+    "STABLE: 'Mundane Relic of Eternity' did not mutate this tick.",
+    "MUTATED: 'Verdant Rapier of Distortion' evolved to generation 75.",
+    "STABLE: 'Nimble Blade of Blood' did not mutate this tick.",
+    "REPLACED WITH: 'Broken Blade of Ash' (2132fe4a-af20-4875-838e-51316f1d3ffa)",
+    "STABLE: 'Blessed Focus of Silence' did not mutate this tick.",
     "STABLE: 'Nimble Bow of Blood' did not mutate this tick.",
-    "MUTATED: 'Nimble Blade of Blood' evolved to generation 26.",
     "STABLE: 'Starlight Blade of Might' did not mutate this tick.",
     "STABLE: 'Mundane Relic of Eternity' did not mutate this tick.",
-    "STABLE: 'Verdant Sigil of Might' did not mutate this tick.",
-    "STABLE: 'Verdant Rapier of Distortion' did not mutate this tick.",
-    "MUTATED: 'Blessed Focus of Silence' evolved to generation 36.",
-    "MUTATED: 'Verdant Sigil of Might' evolved to generation 49."
+    "MUTATED: 'Verdant Rapier of Distortion' evolved to generation 76.",
+    "STABLE: 'Blessed Focus of Silence' did not mutate this tick."
   ],
-  "created": 342,
-  "avg_lifespan": 35.51807228915666,
-  "archived": 332
+  "created": 343,
+  "avg_lifespan": 35.49249249249253,
+  "archived": 333
 }
