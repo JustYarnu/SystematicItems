@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-28182
+28207
 
 ## Oldest Item
 Mundane Relic of Eternity
@@ -11,8 +11,8 @@ Mundane Relic of Eternity
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.63
-- Average Volatility: 0.44
-- Average Durability: 38.47
+- Average Volatility: 0.46
+- Average Durability: 36.1
 
 ## Dominant Factions
 - DEX: 1.0
@@ -24,9 +24,9 @@ Mundane Relic of Eternity
 - Most Volatile Item: Verdant Rapier of Distortion
 
 ## Recent Events
-- STABLE: 'Mundane Relic of Eternity' did not mutate this tick.
-- MUTATED: 'Verdant Rapier of Distortion' evolved to generation 74.
-- STABLE: 'Mundane Rapier of Echoes' did not mutate this tick.
+- STABLE: 'Verdant Rapier of Distortion' did not mutate this tick.
+- MUTATED: 'Blessed Focus of Silence' evolved to generation 36.
+- MUTATED: 'Verdant Sigil of Might' evolved to generation 49.
 
 ## Lifecycle Stats
 - Items Created: 342
@@ -40,8 +40,8 @@ Mundane Relic of Eternity
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 28182
-- Successful Mutations: 11700
+- Mutations Attempted: 28207
+- Successful Mutations: 11710
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Relic of Eternity
 
 ## Economy
 - Total Currency: 622800
-- Currency per Tick (avg): 22.1
+- Currency per Tick (avg): 22.08
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
