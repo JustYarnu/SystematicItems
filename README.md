@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-28407
+28432
 
 ## Oldest Item
-Verdant Blade of Flame
+Verdant Axe of Blood
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.63
-- Average Volatility: 0.4
-- Average Durability: 54.65
+- Average Volatility: 0.42
+- Average Durability: 52.1
 
 ## Dominant Factions
 - Chaos: 0.5
 - Order: 0.4
-- DEX: 0.3
+- Stability: 0.4
 
 ## Extremes
 - Most Stable Item: Verdant Axe of Blood
-- Most Volatile Item: Broken Blade of Ash
+- Most Volatile Item: Mundane Rapier of Echoes
 
 ## Recent Events
-- MUTATED: 'Mundane Rapier of Echoes' evolved to generation 32.
-- MUTATED: 'Mundane Rapier of the Void' evolved to generation 6.
-- STABLE: 'Verdant Blade of Flame' did not mutate this tick.
+- MUTATED: 'Broken Blade of Ash' evolved to generation 10.
+- STABLE: 'Mundane Rapier of the Void' did not mutate this tick.
+- STABLE: 'Mundane Rapier of the Void' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 347
@@ -40,8 +40,8 @@ Verdant Blade of Flame
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 28407
-- Successful Mutations: 11789
+- Mutations Attempted: 28432
+- Successful Mutations: 11796
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Verdant Blade of Flame
 
 ## Economy
 - Total Currency: 632650
-- Currency per Tick (avg): 22.27
+- Currency per Tick (avg): 22.25
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
