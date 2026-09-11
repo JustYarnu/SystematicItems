@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-28332
+28357
 
 ## Oldest Item
-Mundane Rapier of the Void
+Verdant Axe of Blood
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.63
 - Average Volatility: 0.39
-- Average Durability: 55.67
+- Average Durability: 51.98
 
 ## Dominant Factions
-- Order: 0.5
+- Order: 0.6
 - DEX: 0.5
 - Chaos: 0.5
 
@@ -24,9 +24,9 @@ Mundane Rapier of the Void
 - Most Volatile Item: Mundane Rapier of Echoes
 
 ## Recent Events
-- MUTATED: 'Broken Blade of Ash' evolved to generation 8.
 - STABLE: 'Mundane Relic of Eternity' did not mutate this tick.
-- MUTATED: 'Verdant Sigil of Might' evolved to generation 55.
+- MUTATED: 'Mundane Rapier of the Void' evolved to generation 4.
+- STABLE: 'Mortal Axe of Ruins' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 346
@@ -40,8 +40,8 @@ Mundane Rapier of the Void
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 28332
-- Successful Mutations: 11762
+- Mutations Attempted: 28357
+- Successful Mutations: 11770
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Rapier of the Void
 
 ## Economy
 - Total Currency: 630500
-- Currency per Tick (avg): 22.25
+- Currency per Tick (avg): 22.23
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

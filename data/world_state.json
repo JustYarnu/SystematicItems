@@ -1,21 +1,21 @@
 {
   "currency": 630500,
-  "tick": 28332,
+  "tick": 28357,
   "mutation_stats": {
-    "attempted": 28332,
-    "success": 11762
+    "attempted": 28357,
+    "success": 11770
   },
   "recent_events": [
-    "REPLACED WITH: 'Mundane Rapier of the Void' (96bc7a7c-c087-433d-a7ed-5e31def3a8ed)",
-    "MUTATED: 'Mortal Axe of Ruins' evolved to generation 4.",
-    "MUTATED: 'Mundane Rapier of the Void' evolved to generation 2.",
-    "STABLE: 'Mundane Relic of Eternity' did not mutate this tick.",
-    "MUTATED: 'Verdant Axe of Blood' evolved to generation 2.",
-    "MUTATED: 'Verdant Rapier of Iron' evolved to generation 7.",
+    "STABLE: 'Mortal Axe of Ruins' did not mutate this tick.",
+    "MUTATED: 'Verdant Sigil of Might' evolved to generation 57.",
     "STABLE: 'Verdant Axe of Blood' did not mutate this tick.",
-    "MUTATED: 'Broken Blade of Ash' evolved to generation 8.",
+    "STABLE: 'Dread Blade of Carnage' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of the Void' did not mutate this tick.",
+    "STABLE: 'Verdant Sigil of Might' did not mutate this tick.",
     "STABLE: 'Mundane Relic of Eternity' did not mutate this tick.",
-    "MUTATED: 'Verdant Sigil of Might' evolved to generation 55."
+    "STABLE: 'Mundane Relic of Eternity' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of the Void' evolved to generation 4.",
+    "STABLE: 'Mortal Axe of Ruins' did not mutate this tick."
   ],
   "created": 346,
   "avg_lifespan": 35.52976190476194,
