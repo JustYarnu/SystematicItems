@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-28582
+28607
 
 ## Oldest Item
-Rusty Spear of Grace
+Brittle Bow of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.58
-- Average Volatility: 0.43
-- Average Durability: 53.09
+- Average Rarity: 1.45
+- Average Volatility: 0.39
+- Average Durability: 56.23
 
 ## Dominant Factions
-- Stability: 0.5
-- DEX: 0.4
-- Order: 0.3
+- Stability: 0.6
+- Order: 0.2
+- DEX: 0.2
 
 ## Extremes
-- Most Stable Item: Rusty Spear of Grace
-- Most Volatile Item: Mundane Rapier of Echoes
+- Most Stable Item: Brittle Bow of Iron
+- Most Volatile Item: Mundane Rapier of the Void
 
 ## Recent Events
-- MUTATED: 'Mundane Rapier of the Void' evolved to generation 13.
+- STABLE: 'Brittle Bow of Iron' did not mutate this tick.
 - STABLE: 'Verdant Rapier of Iron' did not mutate this tick.
-- STABLE: 'Verdant Blade of Flame' did not mutate this tick.
+- STABLE: 'Brittle Bow of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 349
-- Items Archived: 339
+- Items Created: 350
+- Items Archived: 340
 - Avg Lifespan (ticks): 35.6
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Rusty Spear of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 28582
-- Successful Mutations: 11853
+- Mutations Attempted: 28607
+- Successful Mutations: 11860
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Rusty Spear of Grace
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 637200
-- Currency per Tick (avg): 22.29
+- Total Currency: 639200
+- Currency per Tick (avg): 22.34
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
