@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-28507
+28532
 
 ## Oldest Item
 Rusty Spear of Grace
@@ -12,7 +12,7 @@ Rusty Spear of Grace
 - Active Items: 10
 - Average Rarity: 1.58
 - Average Volatility: 0.4
-- Average Durability: 60.81
+- Average Durability: 59.4
 
 ## Dominant Factions
 - DEX: 0.4
@@ -24,9 +24,9 @@ Rusty Spear of Grace
 - Most Volatile Item: Mundane Rapier of Echoes
 
 ## Recent Events
-- MUTATED: 'Unstable Rapier of Ruins' evolved to generation 4.
-- STABLE: 'Mundane Rapier of Echoes' did not mutate this tick.
-- STABLE: 'Rusty Spear of Grace' did not mutate this tick.
+- STABLE: 'Verdant Axe of Blood' did not mutate this tick.
+- MUTATED: 'Mundane Rapier of Echoes' evolved to generation 38.
+- STABLE: 'Verdant Rapier of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 349
@@ -40,8 +40,8 @@ Rusty Spear of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 28507
-- Successful Mutations: 11822
+- Mutations Attempted: 28532
+- Successful Mutations: 11833
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Rusty Spear of Grace
 
 ## Economy
 - Total Currency: 637200
-- Currency per Tick (avg): 22.35
+- Currency per Tick (avg): 22.33
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
