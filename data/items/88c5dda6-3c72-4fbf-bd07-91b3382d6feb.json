@@ -2,7 +2,7 @@
   "id": "88c5dda6-3c72-4fbf-bd07-91b3382d6feb",
   "name": "Verdant Blade of Flame",
   "type": "Sword",
-  "generation": 10,
+  "generation": 12,
   "damage": 13.0,
   "damage_type": [
     "Physical",
@@ -10,13 +10,13 @@
     "Slashing"
   ],
   "crit_damage": 2,
-  "crit_rate": 0.01,
+  "crit_rate": 0.060000000000000005,
   "str_mod": 1.05,
   "dex_mod": 1.2,
   "rarity": 1,
-  "durability": 58.650000000000006,
+  "durability": 50.85,
   "max_durability": 125.0,
-  "volatility": 0.39000000000000024,
+  "volatility": 0.36000000000000026,
   "resilience": 0.7,
   "worth": 100,
   "affinities": {}
