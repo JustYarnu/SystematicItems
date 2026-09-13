@@ -2,8 +2,8 @@
   "id": "2132fe4a-af20-4875-838e-51316f1d3ffa",
   "name": "Broken Blade of Ash",
   "type": "Sword",
-  "generation": 25,
-  "damage": 19.0,
+  "generation": 28,
+  "damage": 29.0,
   "damage_type": [
     "Physical",
     "Slashing"
@@ -11,9 +11,9 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.6500000000000006,
-  "dex_mod": 1.05,
+  "dex_mod": 0.9500000000000001,
   "rarity": 2,
-  "durability": 35.879999999999974,
+  "durability": 27.279999999999973,
   "max_durability": 67.0,
   "volatility": 0.43999999999999995,
   "resilience": 0.7999999999999999,

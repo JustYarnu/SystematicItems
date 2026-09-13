@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-28682
+28707
 
 ## Oldest Item
 Brittle Bow of Iron
@@ -11,22 +11,22 @@ Brittle Bow of Iron
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.45
-- Average Volatility: 0.37
-- Average Durability: 45.24
+- Average Volatility: 0.38
+- Average Durability: 43.47
 
 ## Dominant Factions
 - Stability: 0.7
-- Order: 0.3
+- Order: 0.5
 - DEX: 0.2
 
 ## Extremes
 - Most Stable Item: Brittle Bow of Iron
-- Most Volatile Item: Unstable Rapier of Ruins
+- Most Volatile Item: Mundane Rapier of the Void
 
 ## Recent Events
-- MUTATED: 'Rusty Spear of Grace' evolved to generation 7.
-- MUTATED: 'Verdant Axe of Blood' evolved to generation 10.
-- STABLE: 'Broken Blade of Ash' did not mutate this tick.
+- MUTATED: 'Mundane Rapier of the Void' evolved to generation 21.
+- STABLE: 'Brittle Bow of Iron' did not mutate this tick.
+- STABLE: 'Brittle Bow of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 350
@@ -40,8 +40,8 @@ Brittle Bow of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 28682
-- Successful Mutations: 11893
+- Mutations Attempted: 28707
+- Successful Mutations: 11903
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Brittle Bow of Iron
 
 ## Economy
 - Total Currency: 639200
-- Currency per Tick (avg): 22.29
+- Currency per Tick (avg): 22.27
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
