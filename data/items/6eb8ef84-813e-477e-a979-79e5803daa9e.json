@@ -2,7 +2,7 @@
   "id": "6eb8ef84-813e-477e-a979-79e5803daa9e",
   "name": "Unstable Rapier of Ruins",
   "type": "Generic",
-  "generation": 13,
+  "generation": 15,
   "damage": 40.5,
   "damage_type": [
     "Physical",
@@ -12,11 +12,11 @@
   "crit_damage": 2,
   "crit_rate": 0.060000000000000005,
   "str_mod": 1.1,
-  "dex_mod": 1.2000000000000002,
+  "dex_mod": 1.3000000000000003,
   "rarity": 1,
-  "durability": 33.099999999999994,
+  "durability": 40.599999999999994,
   "max_durability": 84.0,
-  "volatility": 0.51,
+  "volatility": 0.53,
   "resilience": 0.5,
   "worth": 100,
   "affinities": {
