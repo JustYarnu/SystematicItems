@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-28907
+28932
 
 ## Oldest Item
-Heavy Focus of Sovereignty
+Mundane Edge of Carnage
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.5
-- Average Volatility: 0.4
-- Average Durability: 36.25
+- Average Rarity: 1.6
+- Average Volatility: 0.42
+- Average Durability: 43.77
 
 ## Dominant Factions
-- Stability: 0.9
-- STR: 0.6
-- Order: 0.5
+- Stability: 0.7
+- STR: 0.4
+- Order: 0.4
 
 ## Extremes
 - Most Stable Item: Heavy Focus of Sovereignty
-- Most Volatile Item: Rusty Spear of Grace
+- Most Volatile Item: Verdant Rapier of Iron
 
 ## Recent Events
-- STABLE: 'Verdant Blade of Flame' did not mutate this tick.
-- MUTATED: 'Broken Blade of Ash' evolved to generation 36.
-- STABLE: 'Mortal Axe of Ruins' did not mutate this tick.
+- MUTATED: 'Phantom Sigil of Blood' evolved to generation 6.
+- STABLE: 'Phantom Sigil of Blood' did not mutate this tick.
+- STABLE: 'Mundane Rapier of the Void' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 352
-- Items Archived: 342
+- Items Created: 353
+- Items Archived: 343
 - Avg Lifespan (ticks): 35.5
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Heavy Focus of Sovereignty
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 28907
-- Successful Mutations: 11990
+- Mutations Attempted: 28932
+- Successful Mutations: 11999
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 3
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Heavy Focus of Sovereignty
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 641700
-- Currency per Tick (avg): 22.2
+- Total Currency: 643700
+- Currency per Tick (avg): 22.25
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
