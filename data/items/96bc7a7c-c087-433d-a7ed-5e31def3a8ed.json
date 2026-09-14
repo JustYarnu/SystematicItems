@@ -2,7 +2,7 @@
   "id": "96bc7a7c-c087-433d-a7ed-5e31def3a8ed",
   "name": "Mundane Rapier of the Void",
   "type": "Generic",
-  "generation": 32,
+  "generation": 34,
   "damage": 24.5,
   "damage_type": [
     "Physical",
@@ -13,13 +13,13 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 1.0,
   "rarity": 2.0,
-  "durability": 42.89,
+  "durability": 37.49,
   "max_durability": 131.0,
-  "volatility": 0.46000000000000013,
+  "volatility": 0.42000000000000015,
   "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {
-    "Stability": 0.1,
+    "Stability": 0.2,
     "Restoration": 0.1,
     "STR": 0.1
   }

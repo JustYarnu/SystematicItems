@@ -9213,5 +9213,31 @@
       "Stability": 0.1,
       "Scarceness": 0.1
     }
+  },
+  {
+    "id": "6eb8ef84-813e-477e-a979-79e5803daa9e",
+    "name": "Unstable Rapier of Ruins",
+    "type": "Generic",
+    "generation": 22,
+    "damage": 53.5,
+    "damage_type": [
+      "Physical",
+      "Chaos",
+      "Piercing"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 1.1,
+    "rarity": 1,
+    "durability": -0.05000000000000515,
+    "max_durability": 84.0,
+    "volatility": 0.54,
+    "resilience": 0.45,
+    "worth": 1200,
+    "affinities": {
+      "Stability": 0.1,
+      "DEX": 0.1
+    }
   }
 ]

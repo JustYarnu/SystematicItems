@@ -2,7 +2,7 @@
   "id": "024b7cfa-6e67-42a3-b23a-eaffd363e297",
   "name": "Mortal Axe of Ruins",
   "type": "HeavyWeapon",
-  "generation": 23,
+  "generation": 24,
   "damage": 47.5,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.25,
   "dex_mod": 0.9,
   "rarity": 1,
-  "durability": 35.959999999999994,
+  "durability": 27.059999999999995,
   "max_durability": 37.0,
-  "volatility": 0.4400000000000004,
+  "volatility": 0.42000000000000043,
   "resilience": 0.61,
   "worth": 100,
   "affinities": {

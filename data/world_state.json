@@ -1,23 +1,23 @@
 {
-  "currency": 640500,
-  "tick": 28832,
+  "currency": 641700,
+  "tick": 28857,
   "mutation_stats": {
-    "attempted": 28832,
-    "success": 11954
+    "attempted": 28857,
+    "success": 11964
   },
   "recent_events": [
-    "STABLE: 'Brittle Bow of Iron' did not mutate this tick.",
     "STABLE: 'Verdant Blade of Flame' did not mutate this tick.",
+    "MUTATED: 'Broken Blade of Ash' evolved to generation 32.",
+    "STABLE: 'Brittle Bow of Iron' did not mutate this tick.",
+    "MUTATED: 'Rusty Spear of Grace' evolved to generation 13.",
+    "MUTATED: 'Rusty Spear of Grace' evolved to generation 14.",
+    "STABLE: 'Mortal Axe of Ruins' did not mutate this tick.",
+    "MUTATED: 'Broken Blade of Ash' evolved to generation 33.",
     "STABLE: 'Heavy Focus of Sovereignty' did not mutate this tick.",
-    "STABLE: 'Verdant Axe of Blood' did not mutate this tick.",
-    "MUTATED: 'Verdant Rapier of Iron' evolved to generation 19.",
-    "MUTATED: 'Mundane Rapier of the Void' evolved to generation 32.",
-    "STABLE: 'Broken Blade of Ash' did not mutate this tick.",
-    "STABLE: 'Heavy Focus of Sovereignty' did not mutate this tick.",
-    "MUTATED: 'Broken Blade of Ash' evolved to generation 31.",
-    "MUTATED: 'Verdant Rapier of Iron' evolved to generation 20."
+    "STABLE: 'Verdant Blade of Flame' did not mutate this tick.",
+    "MUTATED: 'Mortal Axe of Ruins' evolved to generation 24."
   ],
-  "created": 351,
-  "avg_lifespan": 35.56598240469212,
-  "archived": 341
+  "created": 352,
+  "avg_lifespan": 35.52631578947372,
+  "archived": 342
 }
