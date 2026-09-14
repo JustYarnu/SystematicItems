@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-28807
+28832
 
 ## Oldest Item
 Heavy Focus of Sovereignty
@@ -11,22 +11,22 @@ Heavy Focus of Sovereignty
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.45
-- Average Volatility: 0.39
-- Average Durability: 39.95
+- Average Volatility: 0.41
+- Average Durability: 38.36
 
 ## Dominant Factions
-- Stability: 0.7
+- Stability: 0.8
 - Order: 0.5
-- DEX: 0.3
+- STR: 0.4
 
 ## Extremes
 - Most Stable Item: Heavy Focus of Sovereignty
 - Most Volatile Item: Verdant Rapier of Iron
 
 ## Recent Events
-- STABLE: 'Verdant Blade of Flame' did not mutate this tick.
-- MUTATED: 'Verdant Rapier of Iron' evolved to generation 18.
-- STABLE: 'Brittle Bow of Iron' did not mutate this tick.
+- STABLE: 'Heavy Focus of Sovereignty' did not mutate this tick.
+- MUTATED: 'Broken Blade of Ash' evolved to generation 31.
+- MUTATED: 'Verdant Rapier of Iron' evolved to generation 20.
 
 ## Lifecycle Stats
 - Items Created: 351
@@ -40,8 +40,8 @@ Heavy Focus of Sovereignty
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 28807
-- Successful Mutations: 11945
+- Mutations Attempted: 28832
+- Successful Mutations: 11954
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Heavy Focus of Sovereignty
 
 ## Economy
 - Total Currency: 640500
-- Currency per Tick (avg): 22.23
+- Currency per Tick (avg): 22.21
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

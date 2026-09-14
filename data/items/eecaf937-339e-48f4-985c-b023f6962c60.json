@@ -2,7 +2,7 @@
   "id": "eecaf937-339e-48f4-985c-b023f6962c60",
   "name": "Verdant Rapier of Iron",
   "type": "Generic",
-  "generation": 18,
+  "generation": 20,
   "damage": 18.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.5000000000000004,
   "rarity": 1,
-  "durability": 37.75,
+  "durability": 46.5,
   "max_durability": 125.0,
-  "volatility": 0.5100000000000003,
+  "volatility": 0.5200000000000004,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {

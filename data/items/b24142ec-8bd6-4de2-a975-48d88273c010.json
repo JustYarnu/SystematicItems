@@ -2,7 +2,7 @@
   "id": "b24142ec-8bd6-4de2-a975-48d88273c010",
   "name": "Rusty Spear of Grace",
   "type": "Polearm",
-  "generation": 11,
+  "generation": 12,
   "damage": 9.5,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.5,
   "rarity": 1,
-  "durability": 30.97,
-  "max_durability": 87.0,
-  "volatility": 0.3700000000000003,
+  "durability": 24.619999999999997,
+  "max_durability": 89.0,
+  "volatility": 0.3900000000000003,
   "resilience": 0.5299999999999999,
   "worth": 100,
   "affinities": {
