@@ -3,21 +3,21 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-28857
+28882
 
 ## Oldest Item
-Phantom Sigil of Blood
+Heavy Focus of Sovereignty
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.5
-- Average Volatility: 0.39
-- Average Durability: 43.54
+- Average Volatility: 0.4
+- Average Durability: 38.86
 
 ## Dominant Factions
 - Stability: 0.8
+- STR: 0.5
 - Order: 0.5
-- STR: 0.4
 
 ## Extremes
 - Most Stable Item: Heavy Focus of Sovereignty
@@ -25,8 +25,8 @@ Phantom Sigil of Blood
 
 ## Recent Events
 - STABLE: 'Heavy Focus of Sovereignty' did not mutate this tick.
-- STABLE: 'Verdant Blade of Flame' did not mutate this tick.
-- MUTATED: 'Mortal Axe of Ruins' evolved to generation 24.
+- MUTATED: 'Brittle Bow of Iron' evolved to generation 13.
+- STABLE: 'Broken Blade of Ash' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 352
@@ -40,8 +40,8 @@ Phantom Sigil of Blood
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 28857
-- Successful Mutations: 11964
+- Mutations Attempted: 28882
+- Successful Mutations: 11976
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Phantom Sigil of Blood
 
 ## Economy
 - Total Currency: 641700
-- Currency per Tick (avg): 22.24
+- Currency per Tick (avg): 22.22
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
