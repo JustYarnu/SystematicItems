@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-28782
+28807
 
 ## Oldest Item
-Brittle Bow of Iron
+Heavy Focus of Sovereignty
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.45
-- Average Volatility: 0.4
-- Average Durability: 34.78
+- Average Volatility: 0.39
+- Average Durability: 39.95
 
 ## Dominant Factions
 - Stability: 0.7
-- Order: 0.6
-- DEX: 0.4
+- Order: 0.5
+- DEX: 0.3
 
 ## Extremes
-- Most Stable Item: Rusty Spear of Grace
-- Most Volatile Item: Unstable Rapier of Ruins
+- Most Stable Item: Heavy Focus of Sovereignty
+- Most Volatile Item: Verdant Rapier of Iron
 
 ## Recent Events
-- MUTATED: 'Verdant Blade of Flame' evolved to generation 16.
-- STABLE: 'Rusty Spear of Grace' did not mutate this tick.
-- STABLE: 'Broken Blade of Ash' did not mutate this tick.
+- STABLE: 'Verdant Blade of Flame' did not mutate this tick.
+- MUTATED: 'Verdant Rapier of Iron' evolved to generation 18.
+- STABLE: 'Brittle Bow of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 350
-- Items Archived: 340
+- Items Created: 351
+- Items Archived: 341
 - Avg Lifespan (ticks): 35.6
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Brittle Bow of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 28782
-- Successful Mutations: 11934
+- Mutations Attempted: 28807
+- Successful Mutations: 11945
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Brittle Bow of Iron
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 639200
-- Currency per Tick (avg): 22.21
+- Total Currency: 640500
+- Currency per Tick (avg): 22.23
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

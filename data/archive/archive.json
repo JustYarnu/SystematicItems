@@ -9186,5 +9186,32 @@
       "DEX": 0.3,
       "Chaos": 0.1
     }
+  },
+  {
+    "id": "f5485217-18bb-437b-8cc3-171246418fbe",
+    "name": "Mundane Relic of Eternity",
+    "type": "Artifact",
+    "generation": 24,
+    "damage": 13.0,
+    "damage_type": [
+      "Physical",
+      "Holy"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.2000000000000002,
+    "dex_mod": 1.6000000000000005,
+    "rarity": 3.5,
+    "durability": -1.0,
+    "max_durability": 154.0,
+    "volatility": 0.40000000000000047,
+    "resilience": 0.7903677461028802,
+    "worth": 1300,
+    "affinities": {
+      "Order": 0.1,
+      "DEX": 0.2,
+      "Stability": 0.1,
+      "Scarceness": 0.1
+    }
   }
 ]
