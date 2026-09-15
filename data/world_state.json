@@ -1,23 +1,23 @@
 {
-  "currency": 645500,
-  "tick": 29032,
+  "currency": 647400,
+  "tick": 29057,
   "mutation_stats": {
-    "attempted": 29032,
-    "success": 12045
+    "attempted": 29057,
+    "success": 12059
   },
   "recent_events": [
-    "STABLE: 'Verdant Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of the Void' did not mutate this tick.",
+    "MUTATED: 'Verdant Rapier of Iron' evolved to generation 32.",
+    "MUTATED: 'Mortal Axe of Ruins' evolved to generation 36.",
+    "REPLACED WITH: 'Unstable Sigil of Frost' (dc073de4-9f45-4b35-b531-96cb888d9611)",
+    "MUTATED: 'Phantom Sigil of Blood' evolved to generation 15.",
+    "STABLE: 'Singed Blade of Might' did not mutate this tick.",
+    "STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick.",
     "STABLE: 'Mundane Edge of Carnage' did not mutate this tick.",
-    "MUTATED: 'Heavy Focus of Sovereignty' evolved to generation 6.",
-    "MUTATED: 'Heavy Focus of Sovereignty' evolved to generation 7.",
-    "MUTATED: 'Phantom Sigil of Blood' evolved to generation 12.",
-    "MUTATED: 'Verdant Rapier of Iron' evolved to generation 30.",
-    "MUTATED: 'Heavy Focus of Sovereignty' evolved to generation 8.",
     "STABLE: 'Heavy Focus of Sovereignty' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of the Void' evolved to generation 43.",
-    "STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick."
+    "STABLE: 'Verdant Blade of Flame' did not mutate this tick."
   ],
-  "created": 355,
-  "avg_lifespan": 35.4202898550725,
-  "archived": 345
+  "created": 356,
+  "avg_lifespan": 35.42196531791911,
+  "archived": 346
 }
