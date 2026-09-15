@@ -2,7 +2,7 @@
   "id": "f173a659-8c0b-4f21-8e8d-bb9e86efbf01",
   "name": "Phantom Sigil of Blood",
   "type": "Focus",
-  "generation": 11,
+  "generation": 12,
   "damage": 13.0,
   "damage_type": [
     "Physical",
@@ -12,11 +12,11 @@
   "crit_damage": 2.5,
   "crit_rate": 0.060000000000000005,
   "str_mod": 1.4000000000000001,
-  "dex_mod": 1.2,
+  "dex_mod": 1.3,
   "rarity": 1.5,
-  "durability": 68.80000000000001,
+  "durability": 64.15,
   "max_durability": 100.0,
-  "volatility": 0.56,
+  "volatility": 0.5700000000000001,
   "resilience": 0.45,
   "worth": 100,
   "affinities": {

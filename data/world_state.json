@@ -1,21 +1,21 @@
 {
   "currency": 645500,
-  "tick": 29007,
+  "tick": 29032,
   "mutation_stats": {
-    "attempted": 29007,
-    "success": 12032
+    "attempted": 29032,
+    "success": 12045
   },
   "recent_events": [
-    "STABLE: 'Singed Blade of Might' did not mutate this tick.",
-    "STABLE: 'Singed Blade of Might' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick.",
-    "MUTATED: 'Phantom Sigil of Blood' evolved to generation 10.",
+    "STABLE: 'Verdant Rapier of Iron' did not mutate this tick.",
     "STABLE: 'Mundane Edge of Carnage' did not mutate this tick.",
-    "STABLE: 'Phantom Sigil of Blood' did not mutate this tick.",
+    "MUTATED: 'Heavy Focus of Sovereignty' evolved to generation 6.",
+    "MUTATED: 'Heavy Focus of Sovereignty' evolved to generation 7.",
+    "MUTATED: 'Phantom Sigil of Blood' evolved to generation 12.",
+    "MUTATED: 'Verdant Rapier of Iron' evolved to generation 30.",
+    "MUTATED: 'Heavy Focus of Sovereignty' evolved to generation 8.",
     "STABLE: 'Heavy Focus of Sovereignty' did not mutate this tick.",
-    "MUTATED: 'Mortal Axe of Ruins' evolved to generation 32.",
-    "MUTATED: 'Phantom Sigil of Blood' evolved to generation 11.",
-    "MUTATED: 'Mundane Edge of Carnage' evolved to generation 8."
+    "MUTATED: 'Mundane Rapier of the Void' evolved to generation 43.",
+    "STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick."
   ],
   "created": 355,
   "avg_lifespan": 35.4202898550725,
