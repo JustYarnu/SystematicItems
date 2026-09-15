@@ -1,23 +1,23 @@
 {
-  "currency": 643700,
-  "tick": 28932,
+  "currency": 644550,
+  "tick": 28957,
   "mutation_stats": {
-    "attempted": 28932,
-    "success": 11999
+    "attempted": 28957,
+    "success": 12010
   },
   "recent_events": [
-    "MUTATED: 'Broken Blade of Ash' evolved to generation 38.",
-    "REPLACED WITH: 'Mundane Edge of Carnage' (8eb93b5d-8b9d-4f3d-a12b-28ed0bd2f7f7)",
-    "STABLE: 'Verdant Blade of Flame' did not mutate this tick.",
-    "STABLE: 'Rusty Spear of Grace' did not mutate this tick.",
-    "STABLE: 'Mortal Axe of Ruins' did not mutate this tick.",
-    "STABLE: 'Verdant Blade of Flame' did not mutate this tick.",
+    "STABLE: 'Singed Blade of Might' did not mutate this tick.",
+    "STABLE: 'Verdant Axe of Blood' did not mutate this tick.",
+    "MUTATED: 'Mundane Edge of Carnage' evolved to generation 4.",
     "STABLE: 'Heavy Focus of Sovereignty' did not mutate this tick.",
-    "MUTATED: 'Phantom Sigil of Blood' evolved to generation 6.",
-    "STABLE: 'Phantom Sigil of Blood' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of the Void' did not mutate this tick."
+    "STABLE: 'Verdant Blade of Flame' did not mutate this tick.",
+    "STABLE: 'Verdant Blade of Flame' did not mutate this tick.",
+    "STABLE: 'Singed Blade of Might' did not mutate this tick.",
+    "STABLE: 'Mundane Edge of Carnage' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of the Void' did not mutate this tick.",
+    "STABLE: 'Heavy Focus of Sovereignty' did not mutate this tick."
   ],
-  "created": 353,
-  "avg_lifespan": 35.53352769679304,
-  "archived": 343
+  "created": 354,
+  "avg_lifespan": 35.47383720930236,
+  "archived": 344
 }

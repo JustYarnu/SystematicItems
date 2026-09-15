@@ -9265,5 +9265,29 @@
       "Stability": 0.2,
       "STR": 0.2
     }
+  },
+  {
+    "id": "17091647-78b6-4460-b373-c10adb42c27c",
+    "name": "Brittle Bow of Iron",
+    "type": "Ranged",
+    "generation": 15,
+    "damage": 38.5,
+    "damage_type": [
+      "Physical",
+      "Piercing"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.01,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 1.25,
+    "rarity": 1,
+    "durability": -1.0,
+    "max_durability": 117.0,
+    "volatility": 0.33000000000000024,
+    "resilience": 0.75,
+    "worth": 850,
+    "affinities": {
+      "DEX": 0.1
+    }
   }
 ]

@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-28932
+28957
 
 ## Oldest Item
-Mundane Edge of Carnage
+Singed Blade of Might
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.6
-- Average Volatility: 0.42
-- Average Durability: 43.77
+- Average Volatility: 0.41
+- Average Durability: 48.84
 
 ## Dominant Factions
 - Stability: 0.7
-- STR: 0.4
-- Order: 0.4
+- STR: 0.5
+- Order: 0.5
 
 ## Extremes
-- Most Stable Item: Heavy Focus of Sovereignty
+- Most Stable Item: Singed Blade of Might
 - Most Volatile Item: Verdant Rapier of Iron
 
 ## Recent Events
-- MUTATED: 'Phantom Sigil of Blood' evolved to generation 6.
-- STABLE: 'Phantom Sigil of Blood' did not mutate this tick.
+- STABLE: 'Mundane Edge of Carnage' did not mutate this tick.
 - STABLE: 'Mundane Rapier of the Void' did not mutate this tick.
+- STABLE: 'Heavy Focus of Sovereignty' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 353
-- Items Archived: 343
+- Items Created: 354
+- Items Archived: 344
 - Avg Lifespan (ticks): 35.5
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Mundane Edge of Carnage
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 28932
-- Successful Mutations: 11999
+- Mutations Attempted: 28957
+- Successful Mutations: 12010
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Mundane Edge of Carnage
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 643700
-- Currency per Tick (avg): 22.25
+- Total Currency: 644550
+- Currency per Tick (avg): 22.26
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
