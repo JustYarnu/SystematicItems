@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-29057
+29082
 
 ## Oldest Item
-Unstable Sigil of Frost
+Singed Blade of Might
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.9
-- Average Volatility: 0.41
-- Average Durability: 58.24
+- Average Volatility: 0.43
+- Average Durability: 54.13
 
 ## Dominant Factions
 - Stability: 0.6
+- STR: 0.6
 - Order: 0.6
-- STR: 0.4
 
 ## Extremes
 - Most Stable Item: Singed Blade of Might
-- Most Volatile Item: Unstable Sigil of Frost
+- Most Volatile Item: Verdant Rapier of Iron
 
 ## Recent Events
-- STABLE: 'Mundane Edge of Carnage' did not mutate this tick.
-- STABLE: 'Heavy Focus of Sovereignty' did not mutate this tick.
-- STABLE: 'Verdant Blade of Flame' did not mutate this tick.
+- STABLE: 'Mundane Rapier of the Void' did not mutate this tick.
+- STABLE: 'Verdant Axe of Blood' did not mutate this tick.
+- STABLE: 'Verdant Rapier of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 356
@@ -40,8 +40,8 @@ Unstable Sigil of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 29057
-- Successful Mutations: 12059
+- Mutations Attempted: 29082
+- Successful Mutations: 12072
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Unstable Sigil of Frost
 
 ## Economy
 - Total Currency: 647400
-- Currency per Tick (avg): 22.28
+- Currency per Tick (avg): 22.26
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
