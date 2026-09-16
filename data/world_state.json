@@ -1,21 +1,21 @@
 {
   "currency": 649450,
-  "tick": 29182,
+  "tick": 29207,
   "mutation_stats": {
-    "attempted": 29182,
-    "success": 12120
+    "attempted": 29207,
+    "success": 12136
   },
   "recent_events": [
-    "STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of the Void' evolved to generation 48.",
-    "MUTATED: 'Phantom Sigil of Blood' evolved to generation 30.",
-    "STABLE: 'Phantom Sigil of Blood' did not mutate this tick.",
-    "MUTATED: 'Mundane Edge of Carnage' evolved to generation 18.",
-    "MUTATED: 'Verdant Axe of Blood' evolved to generation 26.",
-    "STABLE: 'Verdant Blade of Flame' did not mutate this tick.",
-    "STABLE: 'Verdant Axe of Blood' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick.",
-    "MUTATED: 'Unstable Sigil of Frost' evolved to generation 6."
+    "MUTATED: 'Singed Blade of Might' evolved to generation 5.",
+    "MUTATED: 'Verdant Blade of Flame' evolved to generation 31.",
+    "STABLE: 'Glacial Focus of Carnage' did not mutate this tick.",
+    "MUTATED: 'Singed Blade of Might' evolved to generation 6.",
+    "STABLE: 'Glacial Focus of Carnage' did not mutate this tick.",
+    "MUTATED: 'Verdant Blade of Flame' evolved to generation 32.",
+    "MUTATED: 'Phantom Sigil of Blood' evolved to generation 32.",
+    "STABLE: 'Mundane Rapier of the Void' did not mutate this tick.",
+    "MUTATED: 'Unstable Sigil of Frost' evolved to generation 9.",
+    "STABLE: 'Mundane Edge of Carnage' did not mutate this tick."
   ],
   "created": 357,
   "avg_lifespan": 35.432276657060555,
