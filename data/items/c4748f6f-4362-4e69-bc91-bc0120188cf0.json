@@ -2,7 +2,7 @@
   "id": "c4748f6f-4362-4e69-bc91-bc0120188cf0",
   "name": "Glacial Focus of Carnage",
   "type": "Focus",
-  "generation": 4,
+  "generation": 5,
   "damage": 23.0,
   "damage_type": [
     "Physical",
@@ -15,7 +15,7 @@
   "str_mod": 1.0,
   "dex_mod": 1.0,
   "rarity": 1,
-  "durability": 85.5,
+  "durability": 82.25,
   "max_durability": 125.0,
   "volatility": 0.31000000000000005,
   "resilience": 0.75,

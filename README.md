@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-29157
+29182
 
 ## Oldest Item
 Singed Blade of Might
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.8
-- Average Volatility: 0.42
-- Average Durability: 51.97
+- Average Rarity: 1.9
+- Average Volatility: 0.43
+- Average Durability: 49.13
 
 ## Dominant Factions
 - STR: 0.8
@@ -20,13 +20,13 @@ Singed Blade of Might
 - Stability: 0.5
 
 ## Extremes
-- Most Stable Item: Mundane Focus of Sovereignty
-- Most Volatile Item: Unstable Sigil of Frost
+- Most Stable Item: Glacial Focus of Carnage
+- Most Volatile Item: Verdant Axe of Blood
 
 ## Recent Events
-- MUTATED: 'Verdant Axe of Blood' evolved to generation 24.
-- STABLE: 'Singed Blade of Might' did not mutate this tick.
-- MUTATED: 'Phantom Sigil of Blood' evolved to generation 28.
+- STABLE: 'Verdant Axe of Blood' did not mutate this tick.
+- STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick.
+- MUTATED: 'Unstable Sigil of Frost' evolved to generation 6.
 
 ## Lifecycle Stats
 - Items Created: 357
@@ -40,15 +40,15 @@ Singed Blade of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 29157
-- Successful Mutations: 12109
+- Mutations Attempted: 29182
+- Successful Mutations: 12120
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 5
+- Uncommon: 5
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Singed Blade of Might
 
 ## Economy
 - Total Currency: 649450
-- Currency per Tick (avg): 22.27
+- Currency per Tick (avg): 22.26
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
