@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-29232
+29257
 
 ## Oldest Item
-Resolute Sigil of Stone
+Starlight Edge of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.0
-- Average Volatility: 0.41
-- Average Durability: 54.93
+- Average Volatility: 0.38
+- Average Durability: 61.28
 
 ## Dominant Factions
 - Stability: 0.5
-- Order: 0.5
-- STR: 0.4
+- STR: 0.5
+- Order: 0.3
 
 ## Extremes
-- Most Stable Item: Singed Blade of Might
+- Most Stable Item: Starlight Edge of Whispers
 - Most Volatile Item: Verdant Axe of Blood
 
 ## Recent Events
 - STABLE: 'Resolute Sigil of Stone' did not mutate this tick.
-- STABLE: 'Resolute Sigil of Stone' did not mutate this tick.
-- STABLE: 'Resolute Sigil of Stone' did not mutate this tick.
+- STABLE: 'Starlight Edge of Whispers' did not mutate this tick.
+- STABLE: 'Singed Blade of Might' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 358
-- Items Archived: 348
+- Items Created: 359
+- Items Archived: 349
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Resolute Sigil of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 29232
-- Successful Mutations: 12140
+- Mutations Attempted: 29257
+- Successful Mutations: 12149
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Resolute Sigil of Stone
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 651200
-- Currency per Tick (avg): 22.28
+- Total Currency: 653000
+- Currency per Tick (avg): 22.32
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

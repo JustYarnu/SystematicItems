@@ -1,23 +1,23 @@
 {
-  "currency": 651200,
-  "tick": 29232,
+  "currency": 653000,
+  "tick": 29257,
   "mutation_stats": {
-    "attempted": 29232,
-    "success": 12140
+    "attempted": 29257,
+    "success": 12149
   },
   "recent_events": [
-    "MUTATED: 'Heavy Focus of Sovereignty' evolved to generation 12.",
-    "STABLE: 'Verdant Axe of Blood' did not mutate this tick.",
+    "MUTATED: 'Verdant Axe of Blood' evolved to generation 30.",
+    "STABLE: 'Mundane Rapier of the Void' did not mutate this tick.",
     "STABLE: 'Glacial Focus of Carnage' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick.",
-    "STABLE: 'Mundane Edge of Carnage' did not mutate this tick.",
-    "STABLE: 'Mundane Edge of Carnage' did not mutate this tick.",
+    "MUTATED: 'Mundane Focus of Sovereignty' evolved to generation 7.",
+    "STABLE: 'Singed Blade of Might' did not mutate this tick.",
+    "MUTATED: 'Mundane Focus of Sovereignty' evolved to generation 8.",
+    "STABLE: 'Mundane Rapier of the Void' did not mutate this tick.",
     "STABLE: 'Resolute Sigil of Stone' did not mutate this tick.",
-    "STABLE: 'Resolute Sigil of Stone' did not mutate this tick.",
-    "STABLE: 'Resolute Sigil of Stone' did not mutate this tick."
+    "STABLE: 'Starlight Edge of Whispers' did not mutate this tick.",
+    "STABLE: 'Singed Blade of Might' did not mutate this tick."
   ],
-  "created": 358,
-  "avg_lifespan": 35.425287356321874,
-  "archived": 348
+  "created": 359,
+  "avg_lifespan": 35.42120343839545,
+  "archived": 349
 }
