@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-29307
+29332
 
 ## Oldest Item
-Starlight Edge of Whispers
+Resolute Sigil of Stone
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.0
-- Average Volatility: 0.41
-- Average Durability: 56.09
+- Average Rarity: 2.1
+- Average Volatility: 0.42
+- Average Durability: 52.52
 
 ## Dominant Factions
 - Stability: 0.5
@@ -24,9 +24,9 @@ Starlight Edge of Whispers
 - Most Volatile Item: Verdant Axe of Blood
 
 ## Recent Events
-- STABLE: 'Mundane Rapier of the Void' did not mutate this tick.
-- STABLE: 'Unstable Sigil of Frost' did not mutate this tick.
-- STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick.
+- MUTATED: 'Unstable Sigil of Frost' evolved to generation 16.
+- STABLE: 'Starlight Edge of Whispers' did not mutate this tick.
+- MUTATED: 'Mundane Rapier of the Void' evolved to generation 55.
 
 ## Lifecycle Stats
 - Items Created: 359
@@ -40,8 +40,8 @@ Starlight Edge of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 29307
-- Successful Mutations: 12170
+- Mutations Attempted: 29332
+- Successful Mutations: 12180
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Starlight Edge of Whispers
 
 ## Economy
 - Total Currency: 653000
-- Currency per Tick (avg): 22.28
+- Currency per Tick (avg): 22.26
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
