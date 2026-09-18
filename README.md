@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-29332
+29357
 
 ## Oldest Item
-Resolute Sigil of Stone
+Starlight Edge of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.1
-- Average Volatility: 0.42
-- Average Durability: 52.52
+- Average Volatility: 0.43
+- Average Durability: 48.97
 
 ## Dominant Factions
-- Stability: 0.5
+- Stability: 0.6
 - STR: 0.5
 - Order: 0.5
 
@@ -24,9 +24,9 @@ Resolute Sigil of Stone
 - Most Volatile Item: Verdant Axe of Blood
 
 ## Recent Events
-- MUTATED: 'Unstable Sigil of Frost' evolved to generation 16.
-- STABLE: 'Starlight Edge of Whispers' did not mutate this tick.
-- MUTATED: 'Mundane Rapier of the Void' evolved to generation 55.
+- STABLE: 'Mundane Edge of Carnage' did not mutate this tick.
+- STABLE: 'Singed Blade of Might' did not mutate this tick.
+- STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 359
@@ -40,8 +40,8 @@ Resolute Sigil of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 29332
-- Successful Mutations: 12180
+- Mutations Attempted: 29357
+- Successful Mutations: 12188
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Resolute Sigil of Stone
 
 ## Economy
 - Total Currency: 653000
-- Currency per Tick (avg): 22.26
+- Currency per Tick (avg): 22.24
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
