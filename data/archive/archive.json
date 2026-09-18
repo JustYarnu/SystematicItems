@@ -9422,5 +9422,32 @@
       "Order": 0.2,
       "Stability": 0.1
     }
+  },
+  {
+    "id": "51459a8f-8483-47eb-81f0-5addf6921d5f",
+    "name": "Verdant Axe of Blood",
+    "type": "HeavyWeapon",
+    "generation": 30,
+    "damage": 17.5,
+    "damage_type": [
+      "Physical",
+      "Nature",
+      "Slashing"
+    ],
+    "crit_damage": 3.5,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.45,
+    "dex_mod": 1.4,
+    "rarity": 2,
+    "durability": -0.649999999999995,
+    "max_durability": 99.0,
+    "volatility": 0.65,
+    "resilience": 0.6,
+    "worth": 1600,
+    "affinities": {
+      "STR": 0.4,
+      "Order": 0.2,
+      "Stability": 0.2
+    }
   }
 ]

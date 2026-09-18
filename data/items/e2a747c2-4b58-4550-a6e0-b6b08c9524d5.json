@@ -2,7 +2,7 @@
   "id": "e2a747c2-4b58-4550-a6e0-b6b08c9524d5",
   "name": "Mundane Focus of Sovereignty",
   "type": "Focus",
-  "generation": 11,
+  "generation": 13,
   "damage": 9.5,
   "damage_type": [
     "Physical",
@@ -13,12 +13,13 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.4500000000000002,
   "rarity": 4.5,
-  "durability": 56.957354922057604,
-  "max_durability": 97.0,
-  "volatility": 0.46000000000000024,
+  "durability": 50.15919365257201,
+  "max_durability": 99.0,
+  "volatility": 0.48000000000000026,
   "resilience": 0.8403677461028802,
   "worth": 100,
   "affinities": {
-    "Scarceness": 0.1
+    "Scarceness": 0.1,
+    "STR": 0.1
   }
 }
