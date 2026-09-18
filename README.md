@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-29382
+29407
 
 ## Oldest Item
 Mundane Relic of Judgement
@@ -11,22 +11,22 @@ Mundane Relic of Judgement
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.05
-- Average Volatility: 0.39
-- Average Durability: 55.91
+- Average Volatility: 0.41
+- Average Durability: 55.06
 
 ## Dominant Factions
-- Stability: 0.4
+- Stability: 0.5
 - DEX: 0.4
 - Chaos: 0.4
 
 ## Extremes
 - Most Stable Item: Mundane Relic of Judgement
-- Most Volatile Item: Mundane Rapier of the Void
+- Most Volatile Item: Resolute Sigil of Stone
 
 ## Recent Events
-- STABLE: 'Glacial Focus of Carnage' did not mutate this tick.
-- MUTATED: 'Mundane Focus of Sovereignty' evolved to generation 13.
+- STABLE: 'Starlight Edge of Whispers' did not mutate this tick.
 - STABLE: 'Mundane Relic of Judgement' did not mutate this tick.
+- STABLE: 'Glacial Focus of Carnage' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 360
@@ -40,8 +40,8 @@ Mundane Relic of Judgement
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 29382
-- Successful Mutations: 12198
+- Mutations Attempted: 29407
+- Successful Mutations: 12207
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Relic of Judgement
 
 ## Economy
 - Total Currency: 654600
-- Currency per Tick (avg): 22.28
+- Currency per Tick (avg): 22.26
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

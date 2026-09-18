@@ -2,7 +2,7 @@
   "id": "ea03a962-407f-4ab1-9c82-b92e3324edba",
   "name": "Resolute Sigil of Stone",
   "type": "Focus",
-  "generation": 8,
+  "generation": 11,
   "damage": 14.5,
   "damage_type": [
     "Physical",
@@ -11,12 +11,14 @@
   "crit_damage": 2,
   "crit_rate": 0.060000000000000005,
   "str_mod": 1.3000000000000003,
-  "dex_mod": 1.2000000000000002,
+  "dex_mod": 1.3000000000000003,
   "rarity": 1.5,
-  "durability": 85.23969937597356,
+  "durability": 74.82368437626201,
   "max_durability": 139.6240625180289,
-  "volatility": 0.47000000000000014,
-  "resilience": 0.7292481250360577,
+  "volatility": 0.5700000000000002,
+  "resilience": 0.6792481250360577,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Stability": 0.1
+  }
 }
