@@ -2,7 +2,7 @@
   "id": "8eb93b5d-8b9d-4f3d-a12b-28ed0bd2f7f7",
   "name": "Mundane Edge of Carnage",
   "type": "Sword",
-  "generation": 26,
+  "generation": 29,
   "damage": 27.5,
   "damage_type": [
     "Physical",
@@ -11,15 +11,15 @@
   "crit_damage": 2.5,
   "crit_rate": 0.07,
   "str_mod": 1.3000000000000003,
-  "dex_mod": 1.3000000000000003,
+  "dex_mod": 1.4000000000000004,
   "rarity": 2,
-  "durability": 54.49999999999999,
+  "durability": 46.419999999999995,
   "max_durability": 114.0,
-  "volatility": 0.36000000000000026,
+  "volatility": 0.3400000000000003,
   "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {
     "Order": 0.1,
-    "DEX": 0.2
+    "DEX": 0.3
   }
 }
