@@ -2,7 +2,7 @@
   "id": "c4748f6f-4362-4e69-bc91-bc0120188cf0",
   "name": "Glacial Focus of Carnage",
   "type": "Focus",
-  "generation": 11,
+  "generation": 12,
   "damage": 24.5,
   "damage_type": [
     "Physical",
@@ -10,14 +10,14 @@
     "Magic",
     "Blood"
   ],
-  "crit_damage": 2,
+  "crit_damage": 2.5,
   "crit_rate": 0.01,
   "str_mod": 1.1,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 50.15,
-  "max_durability": 125.0,
-  "volatility": 0.46000000000000024,
+  "durability": 45.15,
+  "max_durability": 120.0,
+  "volatility": 0.49000000000000027,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {}
