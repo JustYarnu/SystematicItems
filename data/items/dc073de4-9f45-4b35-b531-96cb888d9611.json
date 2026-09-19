@@ -2,7 +2,7 @@
   "id": "dc073de4-9f45-4b35-b531-96cb888d9611",
   "name": "Unstable Sigil of Frost",
   "type": "Focus",
-  "generation": 32,
+  "generation": 34,
   "damage": 39.5,
   "damage_type": [
     "Physical",
@@ -15,14 +15,14 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 1.0,
   "rarity": 1.5,
-  "durability": 31.700000000000003,
+  "durability": 26.060000000000002,
   "max_durability": 128.0,
-  "volatility": 0.5092481250360578,
-  "resilience": 0.7599999999999999,
+  "volatility": 0.48924812503605775,
+  "resilience": 0.7792481250360578,
   "worth": 100,
   "affinities": {
     "DEX": 0.1,
-    "Chaos": 0.3,
+    "Chaos": 0.4,
     "Order": 0.2,
     "Restoration": 0.1,
     "STR": 0.1
