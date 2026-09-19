@@ -1,21 +1,21 @@
 {
   "currency": 654600,
-  "tick": 29482,
+  "tick": 29507,
   "mutation_stats": {
-    "attempted": 29482,
-    "success": 12237
+    "attempted": 29507,
+    "success": 12252
   },
   "recent_events": [
-    "STABLE: 'Singed Blade of Might' did not mutate this tick.",
-    "STABLE: 'Heavy Focus of Sovereignty' did not mutate this tick.",
-    "STABLE: 'Starlight Edge of Whispers' did not mutate this tick.",
-    "MUTATED: 'Glacial Focus of Carnage' evolved to generation 14.",
+    "STABLE: 'Mundane Edge of Carnage' did not mutate this tick.",
     "STABLE: 'Resolute Sigil of Stone' did not mutate this tick.",
-    "STABLE: 'Mundane Relic of Judgement' did not mutate this tick.",
+    "MUTATED: 'Singed Blade of Might' evolved to generation 19.",
+    "MUTATED: 'Mundane Focus of Sovereignty' evolved to generation 24.",
     "STABLE: 'Starlight Edge of Whispers' did not mutate this tick.",
-    "MUTATED: 'Mundane Edge of Carnage' evolved to generation 32.",
-    "STABLE: 'Glacial Focus of Carnage' did not mutate this tick.",
-    "MUTATED: 'Mundane Focus of Sovereignty' evolved to generation 21."
+    "MUTATED: 'Mundane Focus of Sovereignty' evolved to generation 25.",
+    "MUTATED: 'Mundane Focus of Sovereignty' evolved to generation 26.",
+    "STABLE: 'Heavy Focus of Sovereignty' did not mutate this tick.",
+    "MUTATED: 'Mundane Focus of Sovereignty' evolved to generation 27.",
+    "STABLE: 'Resolute Sigil of Stone' did not mutate this tick."
   ],
   "created": 360,
   "avg_lifespan": 35.405714285714325,
