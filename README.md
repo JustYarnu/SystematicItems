@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-29782
+29807
 
 ## Oldest Item
-Gilded Spear of the Void
+Mundane Blade of Might
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.8
-- Average Volatility: 0.52
-- Average Durability: 29.94
+- Average Rarity: 2.7
+- Average Volatility: 0.49
+- Average Durability: 35.02
 
 ## Dominant Factions
-- Chaos: 1.1
-- Order: 1.0
-- Stability: 0.9
+- Order: 1.1
+- Chaos: 1.0
+- Stability: 0.8
 
 ## Extremes
-- Most Stable Item: Starlight Edge of Whispers
-- Most Volatile Item: Mundane Rapier of the Void
+- Most Stable Item: Mundane Blade of Might
+- Most Volatile Item: Resolute Sigil of Stone
 
 ## Recent Events
-- STABLE: 'Singed Blade of Might' did not mutate this tick.
-- MUTATED: 'Starlight Edge of Whispers' evolved to generation 18.
-- MUTATED: 'Mundane Relic of Judgement' evolved to generation 13.
+- REPLACED WITH: 'Mundane Blade of Might' (4ca8193c-8957-469a-8d93-3172ac5daeeb)
+- STABLE: 'Mundane Relic of Judgement' did not mutate this tick.
+- MUTATED: 'Singed Blade of Might' evolved to generation 31.
 
 ## Lifecycle Stats
-- Items Created: 361
-- Items Archived: 351
-- Avg Lifespan (ticks): 35.4
+- Items Created: 362
+- Items Archived: 352
+- Avg Lifespan (ticks): 35.3
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Gilded Spear of the Void
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 29782
-- Successful Mutations: 12376
+- Mutations Attempted: 29807
+- Successful Mutations: 12389
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 2
-- Uncommon: 7
+- Common: 3
+- Uncommon: 6
 - Rare: 1
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Gilded Spear of the Void
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 656150
-- Currency per Tick (avg): 22.03
+- Total Currency: 657300
+- Currency per Tick (avg): 22.05
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

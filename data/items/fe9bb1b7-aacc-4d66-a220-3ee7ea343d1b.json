@@ -2,7 +2,7 @@
   "id": "fe9bb1b7-aacc-4d66-a220-3ee7ea343d1b",
   "name": "Heavy Focus of Sovereignty",
   "type": "Focus",
-  "generation": 30,
+  "generation": 31,
   "damage": 16.0,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.5000000000000002,
   "dex_mod": 1.4000000000000001,
   "rarity": 3.5,
-  "durability": 11.450000000000006,
+  "durability": 5.950000000000006,
   "max_durability": 94.0,
-  "volatility": 0.5600000000000005,
+  "volatility": 0.5100000000000005,
   "resilience": 0.65,
   "worth": 100,
   "affinities": {
