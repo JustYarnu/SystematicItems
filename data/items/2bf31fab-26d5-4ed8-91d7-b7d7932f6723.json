@@ -2,7 +2,7 @@
   "id": "2bf31fab-26d5-4ed8-91d7-b7d7932f6723",
   "name": "Starlight Edge of Whispers",
   "type": "Sword",
-  "generation": 12,
+  "generation": 14,
   "damage": 15.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.5700000000000003,
   "rarity": 2.0,
-  "durability": 37.02,
-  "max_durability": 104.0,
-  "volatility": 0.5000000000000003,
+  "durability": 25.720000000000002,
+  "max_durability": 106.0,
+  "volatility": 0.46000000000000035,
   "resilience": 0.58,
   "worth": 100,
   "affinities": {
