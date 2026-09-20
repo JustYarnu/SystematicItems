@@ -1,21 +1,21 @@
 {
   "currency": 656150,
-  "tick": 29757,
+  "tick": 29782,
   "mutation_stats": {
-    "attempted": 29757,
-    "success": 12365
+    "attempted": 29782,
+    "success": 12376
   },
   "recent_events": [
-    "STABLE: 'Mundane Relic of Judgement' did not mutate this tick.",
-    "STABLE: 'Mundane Relic of Judgement' did not mutate this tick.",
-    "MUTATED: 'Gilded Spear of the Void' evolved to generation 5.",
-    "STABLE: 'Singed Blade of Might' did not mutate this tick.",
+    "MUTATED: 'Resolute Sigil of Stone' evolved to generation 32.",
+    "MUTATED: 'Heavy Focus of Sovereignty' evolved to generation 28.",
+    "STABLE: 'Unstable Sigil of Frost' did not mutate this tick.",
+    "MUTATED: 'Heavy Focus of Sovereignty' evolved to generation 29.",
+    "MUTATED: 'Heavy Focus of Sovereignty' evolved to generation 30.",
     "STABLE: 'Resolute Sigil of Stone' did not mutate this tick.",
     "STABLE: 'Mundane Rapier of the Void' did not mutate this tick.",
-    "MUTATED: 'Resolute Sigil of Stone' evolved to generation 30.",
-    "MUTATED: 'Gilded Spear of the Void' evolved to generation 6.",
-    "STABLE: 'Unstable Sigil of Frost' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of the Void' evolved to generation 68."
+    "STABLE: 'Singed Blade of Might' did not mutate this tick.",
+    "MUTATED: 'Starlight Edge of Whispers' evolved to generation 18.",
+    "MUTATED: 'Mundane Relic of Judgement' evolved to generation 13."
   ],
   "created": 361,
   "avg_lifespan": 35.387464387464426,
