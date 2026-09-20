@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-29682
+29707
 
 ## Oldest Item
 Gilded Spear of the Void
@@ -11,22 +11,22 @@ Gilded Spear of the Void
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.7
-- Average Volatility: 0.5
-- Average Durability: 36.54
+- Average Volatility: 0.51
+- Average Durability: 35.9
 
 ## Dominant Factions
 - Chaos: 1.1
 - Order: 0.7
-- DEX: 0.6
+- Scarceness: 0.6
 
 ## Extremes
 - Most Stable Item: Mundane Relic of Judgement
 - Most Volatile Item: Mundane Rapier of the Void
 
 ## Recent Events
-- STABLE: 'Resolute Sigil of Stone' did not mutate this tick.
+- MUTATED: 'Heavy Focus of Sovereignty' evolved to generation 24.
 - STABLE: 'Mundane Rapier of the Void' did not mutate this tick.
-- STABLE: 'Mundane Relic of Judgement' did not mutate this tick.
+- STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 361
@@ -40,8 +40,8 @@ Gilded Spear of the Void
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 29682
-- Successful Mutations: 12328
+- Mutations Attempted: 29707
+- Successful Mutations: 12340
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Gilded Spear of the Void
 
 ## Economy
 - Total Currency: 656150
-- Currency per Tick (avg): 22.11
+- Currency per Tick (avg): 22.09
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
