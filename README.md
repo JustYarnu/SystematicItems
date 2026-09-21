@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-29882
+29907
 
 ## Oldest Item
-Vampiric Edge of Sparks
+Nimble Rapier of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.5
-- Average Volatility: 0.43
-- Average Durability: 47.14
+- Average Volatility: 0.4
+- Average Durability: 55.86
 
 ## Dominant Factions
-- Order: 0.8
 - Scarceness: 0.6
 - STR: 0.6
+- Order: 0.6
 
 ## Extremes
-- Most Stable Item: Verdant Rapier of Grace
+- Most Stable Item: Nimble Rapier of Iron
 - Most Volatile Item: Mundane Focus of Sovereignty
 
 ## Recent Events
-- MUTATED: 'Mundane Edge of Carnage' evolved to generation 46.
-- STABLE: 'Mundane Edge of Carnage' did not mutate this tick.
-- MUTATED: 'Mundane Relic of Judgement' evolved to generation 15.
+- STABLE: 'Resolute Sigil of Stone' did not mutate this tick.
+- STABLE: 'Verdant Rapier of Grace' did not mutate this tick.
+- STABLE: 'Nimble Rapier of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 364
-- Items Archived: 354
+- Items Created: 365
+- Items Archived: 355
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Vampiric Edge of Sparks
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 29882
-- Successful Mutations: 12418
+- Mutations Attempted: 29907
+- Successful Mutations: 12428
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Vampiric Edge of Sparks
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 661350
-- Currency per Tick (avg): 22.13
+- Total Currency: 663050
+- Currency per Tick (avg): 22.17
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
