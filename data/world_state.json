@@ -1,21 +1,21 @@
 {
   "currency": 657300,
-  "tick": 29807,
+  "tick": 29832,
   "mutation_stats": {
-    "attempted": 29807,
-    "success": 12389
+    "attempted": 29832,
+    "success": 12397
   },
   "recent_events": [
+    "STABLE: 'Resolute Sigil of Stone' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of the Void' evolved to generation 73.",
     "STABLE: 'Mundane Relic of Judgement' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of the Void' evolved to generation 71.",
-    "STABLE: 'Gilded Spear of the Void' did not mutate this tick.",
-    "MUTATED: 'Resolute Sigil of Stone' evolved to generation 34.",
-    "MUTATED: 'Mundane Edge of Carnage' evolved to generation 42.",
-    "STABLE: 'Starlight Edge of Whispers' did not mutate this tick.",
-    "MUTATED: 'Starlight Edge of Whispers' evolved to generation 21.",
-    "REPLACED WITH: 'Mundane Blade of Might' (4ca8193c-8957-469a-8d93-3172ac5daeeb)",
+    "MUTATED: 'Mundane Rapier of the Void' evolved to generation 74.",
     "STABLE: 'Mundane Relic of Judgement' did not mutate this tick.",
-    "MUTATED: 'Singed Blade of Might' evolved to generation 31."
+    "STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick.",
+    "STABLE: 'Mundane Relic of Judgement' did not mutate this tick.",
+    "STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick.",
+    "STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick."
   ],
   "created": 362,
   "avg_lifespan": 35.34659090909095,
