@@ -2,7 +2,7 @@
   "id": "fd784d9d-bee2-41d5-8e3f-037cec626d6f",
   "name": "Mundane Relic of Judgement",
   "type": "Artifact",
-  "generation": 13,
+  "generation": 15,
   "damage": 19.5,
   "damage_type": [
     "Physical",
@@ -13,10 +13,12 @@
   "str_mod": 1.3,
   "dex_mod": 1.3000000000000003,
   "rarity": 2.5,
-  "durability": 49.79443625122595,
-  "max_durability": 106.0,
-  "volatility": 0.5500000000000003,
+  "durability": 43.874918274947795,
+  "max_durability": 108.0,
+  "volatility": 0.5600000000000003,
   "resilience": 0.8160964047443681,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "DEX": 0.1
+  }
 }

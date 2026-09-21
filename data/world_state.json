@@ -1,21 +1,21 @@
 {
   "currency": 661350,
-  "tick": 29857,
+  "tick": 29882,
   "mutation_stats": {
-    "attempted": 29857,
-    "success": 12405
+    "attempted": 29882,
+    "success": 12418
   },
   "recent_events": [
-    "STABLE: 'Mundane Rapier of the Void' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of Might' evolved to generation 2.",
+    "MUTATED: 'Mundane Relic of Judgement' evolved to generation 14.",
+    "MUTATED: 'Verdant Rapier of Grace' evolved to generation 2.",
     "STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick.",
     "STABLE: 'Mundane Relic of Judgement' did not mutate this tick.",
-    "MUTATED: 'Unstable Sigil of Frost' evolved to generation 44.",
-    "REPLACED WITH: 'Verdant Rapier of Grace' (bc2ca1be-a8a9-4cb4-85bf-bdfa54ce5440)",
-    "STABLE: 'Singed Blade of Might' did not mutate this tick.",
-    "STABLE: 'Verdant Rapier of Grace' did not mutate this tick.",
-    "MUTATED: 'Resolute Sigil of Stone' evolved to generation 36."
+    "MUTATED: 'Mundane Rapier of the Void' evolved to generation 80.",
+    "MUTATED: 'Mundane Edge of Carnage' evolved to generation 45.",
+    "STABLE: 'Vampiric Edge of Sparks' did not mutate this tick.",
+    "MUTATED: 'Mundane Edge of Carnage' evolved to generation 46.",
+    "STABLE: 'Mundane Edge of Carnage' did not mutate this tick.",
+    "MUTATED: 'Mundane Relic of Judgement' evolved to generation 15."
   ],
   "created": 364,
   "avg_lifespan": 35.36440677966106,

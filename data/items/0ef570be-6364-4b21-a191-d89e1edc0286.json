@@ -2,7 +2,7 @@
   "id": "0ef570be-6364-4b21-a191-d89e1edc0286",
   "name": "Singed Blade of Might",
   "type": "Sword",
-  "generation": 31,
+  "generation": 32,
   "damage": 29.5,
   "damage_type": [
     "Physical",
@@ -14,7 +14,7 @@
   "str_mod": 1.8000000000000005,
   "dex_mod": 1.2500000000000002,
   "rarity": 1,
-  "durability": 4.77000000000001,
+  "durability": 0.9200000000000101,
   "max_durability": 125.0,
   "volatility": 0.5300000000000004,
   "resilience": 0.63,
