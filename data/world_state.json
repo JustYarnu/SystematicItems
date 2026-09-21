@@ -1,21 +1,21 @@
 {
   "currency": 663050,
-  "tick": 29907,
+  "tick": 29932,
   "mutation_stats": {
-    "attempted": 29907,
-    "success": 12428
+    "attempted": 29932,
+    "success": 12443
   },
   "recent_events": [
-    "MUTATED: 'Resolute Sigil of Stone' evolved to generation 37.",
+    "MUTATED: 'Mundane Rapier of the Void' evolved to generation 85.",
+    "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
+    "MUTATED: 'Mundane Blade of Might' evolved to generation 5.",
+    "MUTATED: 'Mundane Relic of Judgement' evolved to generation 19.",
+    "MUTATED: 'Mundane Rapier of the Void' evolved to generation 86.",
     "STABLE: 'Nimble Rapier of Iron' did not mutate this tick.",
-    "MUTATED: 'Vampiric Edge of Sparks' evolved to generation 2.",
-    "MUTATED: 'Mundane Relic of Judgement' evolved to generation 18.",
-    "STABLE: 'Mundane Relic of Judgement' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick.",
-    "STABLE: 'Vampiric Edge of Sparks' did not mutate this tick.",
-    "STABLE: 'Resolute Sigil of Stone' did not mutate this tick.",
-    "STABLE: 'Verdant Rapier of Grace' did not mutate this tick.",
-    "STABLE: 'Nimble Rapier of Iron' did not mutate this tick."
+    "MUTATED: 'Mundane Relic of Judgement' evolved to generation 20.",
+    "MUTATED: 'Mundane Relic of Judgement' evolved to generation 21.",
+    "MUTATED: 'Mundane Rapier of the Void' evolved to generation 87.",
+    "STABLE: 'Mundane Blade of Might' did not mutate this tick."
   ],
   "created": 365,
   "avg_lifespan": 35.35492957746483,

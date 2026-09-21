@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-29907
+29932
 
 ## Oldest Item
 Nimble Rapier of Iron
@@ -11,22 +11,22 @@ Nimble Rapier of Iron
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.5
-- Average Volatility: 0.4
-- Average Durability: 55.86
+- Average Volatility: 0.41
+- Average Durability: 50.75
 
 ## Dominant Factions
+- Order: 0.7
 - Scarceness: 0.6
 - STR: 0.6
-- Order: 0.6
 
 ## Extremes
 - Most Stable Item: Nimble Rapier of Iron
 - Most Volatile Item: Mundane Focus of Sovereignty
 
 ## Recent Events
-- STABLE: 'Resolute Sigil of Stone' did not mutate this tick.
-- STABLE: 'Verdant Rapier of Grace' did not mutate this tick.
-- STABLE: 'Nimble Rapier of Iron' did not mutate this tick.
+- MUTATED: 'Mundane Relic of Judgement' evolved to generation 21.
+- MUTATED: 'Mundane Rapier of the Void' evolved to generation 87.
+- STABLE: 'Mundane Blade of Might' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 365
@@ -40,8 +40,8 @@ Nimble Rapier of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 29907
-- Successful Mutations: 12428
+- Mutations Attempted: 29932
+- Successful Mutations: 12443
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Nimble Rapier of Iron
 
 ## Economy
 - Total Currency: 663050
-- Currency per Tick (avg): 22.17
+- Currency per Tick (avg): 22.15
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
