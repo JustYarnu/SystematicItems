@@ -1,23 +1,23 @@
 {
-  "currency": 657300,
-  "tick": 29832,
+  "currency": 661350,
+  "tick": 29857,
   "mutation_stats": {
-    "attempted": 29832,
-    "success": 12397
+    "attempted": 29857,
+    "success": 12405
   },
   "recent_events": [
-    "STABLE: 'Resolute Sigil of Stone' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of the Void' did not mutate this tick.",
     "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of the Void' evolved to generation 73.",
-    "STABLE: 'Mundane Relic of Judgement' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of the Void' evolved to generation 74.",
-    "STABLE: 'Mundane Relic of Judgement' did not mutate this tick.",
+    "MUTATED: 'Mundane Blade of Might' evolved to generation 2.",
     "STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick.",
     "STABLE: 'Mundane Relic of Judgement' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick."
+    "MUTATED: 'Unstable Sigil of Frost' evolved to generation 44.",
+    "REPLACED WITH: 'Verdant Rapier of Grace' (bc2ca1be-a8a9-4cb4-85bf-bdfa54ce5440)",
+    "STABLE: 'Singed Blade of Might' did not mutate this tick.",
+    "STABLE: 'Verdant Rapier of Grace' did not mutate this tick.",
+    "MUTATED: 'Resolute Sigil of Stone' evolved to generation 36."
   ],
-  "created": 362,
-  "avg_lifespan": 35.34659090909095,
-  "archived": 352
+  "created": 364,
+  "avg_lifespan": 35.36440677966106,
+  "archived": 354
 }

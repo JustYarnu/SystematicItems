@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-29832
+29857
 
 ## Oldest Item
-Mundane Blade of Might
+Vampiric Edge of Sparks
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.8
-- Average Volatility: 0.49
-- Average Durability: 31.5
+- Average Rarity: 2.5
+- Average Volatility: 0.43
+- Average Durability: 48.55
 
 ## Dominant Factions
-- Order: 1.2
-- Chaos: 1.0
-- Stability: 0.9
+- Order: 0.7
+- STR: 0.6
+- Stability: 0.6
 
 ## Extremes
-- Most Stable Item: Mundane Blade of Might
-- Most Volatile Item: Mundane Rapier of the Void
+- Most Stable Item: Verdant Rapier of Grace
+- Most Volatile Item: Mundane Focus of Sovereignty
 
 ## Recent Events
-- STABLE: 'Mundane Relic of Judgement' did not mutate this tick.
-- STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick.
-- STABLE: 'Mundane Focus of Sovereignty' did not mutate this tick.
+- STABLE: 'Singed Blade of Might' did not mutate this tick.
+- STABLE: 'Verdant Rapier of Grace' did not mutate this tick.
+- MUTATED: 'Resolute Sigil of Stone' evolved to generation 36.
 
 ## Lifecycle Stats
-- Items Created: 362
-- Items Archived: 352
-- Avg Lifespan (ticks): 35.3
+- Items Created: 364
+- Items Archived: 354
+- Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Mundane Blade of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 29832
-- Successful Mutations: 12397
-- Failure Rate: 58.4%
+- Mutations Attempted: 29857
+- Successful Mutations: 12405
+- Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 3
-- Uncommon: 6
+- Common: 4
+- Uncommon: 5
 - Rare: 1
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Mundane Blade of Might
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 657300
-- Currency per Tick (avg): 22.03
+- Total Currency: 661350
+- Currency per Tick (avg): 22.15
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
