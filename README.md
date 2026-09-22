@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-30057
+30082
 
 ## Oldest Item
 Mundane Bow of Gales
@@ -12,7 +12,7 @@ Mundane Bow of Gales
 - Active Items: 10
 - Average Rarity: 2.1
 - Average Volatility: 0.42
-- Average Durability: 55.33
+- Average Durability: 53.75
 
 ## Dominant Factions
 - Order: 0.5
@@ -25,8 +25,8 @@ Mundane Bow of Gales
 
 ## Recent Events
 - STABLE: 'Nimble Rapier of Iron' did not mutate this tick.
-- STABLE: 'Verdant Rapier of Grace' did not mutate this tick.
-- MUTATED: 'Mundane Relic of Judgement' evolved to generation 28.
+- MUTATED: 'Stormcharged Relic of Blight' evolved to generation 6.
+- STABLE: 'Nimble Rapier of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 367
@@ -40,8 +40,8 @@ Mundane Bow of Gales
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 30057
-- Successful Mutations: 12504
+- Mutations Attempted: 30082
+- Successful Mutations: 12514
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Bow of Gales
 
 ## Economy
 - Total Currency: 668450
-- Currency per Tick (avg): 22.24
+- Currency per Tick (avg): 22.22
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
