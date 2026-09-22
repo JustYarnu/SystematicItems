@@ -1,21 +1,21 @@
 {
   "currency": 665650,
-  "tick": 29982,
+  "tick": 30007,
   "mutation_stats": {
-    "attempted": 29982,
-    "success": 12465
+    "attempted": 30007,
+    "success": 12476
   },
   "recent_events": [
-    "STABLE: 'Mundane Relic of Judgement' did not mutate this tick.",
-    "STABLE: 'Verdant Rapier of Grace' did not mutate this tick.",
-    "STABLE: 'Verdant Rapier of Grace' did not mutate this tick.",
-    "MUTATED: 'Vampiric Edge of Sparks' evolved to generation 4.",
+    "STABLE: 'Nimble Rapier of Iron' did not mutate this tick.",
+    "MUTATED: 'Stormcharged Relic of Blight' evolved to generation 2.",
+    "STABLE: 'Vampiric Edge of Sparks' did not mutate this tick.",
+    "MUTATED: 'Gilded Spear of the Void' evolved to generation 14.",
+    "STABLE: 'Gilded Spear of the Void' did not mutate this tick.",
     "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of the Void' evolved to generation 90.",
-    "MUTATED: 'Gilded Spear of the Void' evolved to generation 12.",
-    "STABLE: 'Verdant Rapier of Grace' did not mutate this tick.",
-    "MUTATED: 'Mundane Focus of Sovereignty' evolved to generation 50.",
-    "STABLE: 'Resolute Sigil of Stone' did not mutate this tick."
+    "STABLE: 'Gilded Spear of the Void' did not mutate this tick.",
+    "MUTATED: 'Verdant Rapier of Grace' evolved to generation 3.",
+    "MUTATED: 'Stormcharged Relic of Blight' evolved to generation 3.",
+    "MUTATED: 'Verdant Rapier of Grace' evolved to generation 4."
   ],
   "created": 366,
   "avg_lifespan": 35.39606741573038,
