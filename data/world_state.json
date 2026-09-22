@@ -1,23 +1,23 @@
 {
-  "currency": 665650,
-  "tick": 30032,
+  "currency": 668450,
+  "tick": 30057,
   "mutation_stats": {
-    "attempted": 30032,
-    "success": 12490
+    "attempted": 30057,
+    "success": 12504
   },
   "recent_events": [
-    "STABLE: 'Mundane Rapier of the Void' did not mutate this tick.",
-    "STABLE: 'Nimble Rapier of Iron' did not mutate this tick.",
-    "MUTATED: 'Resolute Sigil of Stone' evolved to generation 42.",
-    "MUTATED: 'Verdant Rapier of Grace' evolved to generation 5.",
-    "STABLE: 'Vampiric Edge of Sparks' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of the Void' evolved to generation 94.",
+    "STABLE: 'Mundane Relic of Judgement' did not mutate this tick.",
     "STABLE: 'Stormcharged Relic of Blight' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of the Void' evolved to generation 93.",
-    "MUTATED: 'Verdant Rapier of Grace' evolved to generation 6.",
-    "MUTATED: 'Mundane Relic of Judgement' evolved to generation 25.",
-    "STABLE: 'Verdant Rapier of Grace' did not mutate this tick."
+    "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
+    "STABLE: 'Gilded Spear of the Void' did not mutate this tick.",
+    "MUTATED: 'Gilded Spear of the Void' evolved to generation 18.",
+    "STABLE: 'Nimble Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Verdant Rapier of Grace' did not mutate this tick.",
+    "MUTATED: 'Mundane Relic of Judgement' evolved to generation 28."
   ],
-  "created": 366,
-  "avg_lifespan": 35.39606741573038,
-  "archived": 356
+  "created": 367,
+  "avg_lifespan": 35.448179271708725,
+  "archived": 357
 }

@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-30032
+30057
 
 ## Oldest Item
-Nimble Rapier of Iron
+Mundane Bow of Gales
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.55
-- Average Volatility: 0.46
-- Average Durability: 48.06
+- Average Rarity: 2.1
+- Average Volatility: 0.42
+- Average Durability: 55.33
 
 ## Dominant Factions
-- STR: 0.6
-- Order: 0.6
+- Order: 0.5
 - Stability: 0.5
+- STR: 0.4
 
 ## Extremes
-- Most Stable Item: Nimble Rapier of Iron
-- Most Volatile Item: Mundane Focus of Sovereignty
+- Most Stable Item: Mundane Bow of Gales
+- Most Volatile Item: Mundane Rapier of the Void
 
 ## Recent Events
-- MUTATED: 'Verdant Rapier of Grace' evolved to generation 6.
-- MUTATED: 'Mundane Relic of Judgement' evolved to generation 25.
+- STABLE: 'Nimble Rapier of Iron' did not mutate this tick.
 - STABLE: 'Verdant Rapier of Grace' did not mutate this tick.
+- MUTATED: 'Mundane Relic of Judgement' evolved to generation 28.
 
 ## Lifecycle Stats
-- Items Created: 366
-- Items Archived: 356
+- Items Created: 367
+- Items Archived: 357
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,24 +40,24 @@ Nimble Rapier of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 30032
-- Successful Mutations: 12490
+- Mutations Attempted: 30057
+- Successful Mutations: 12504
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
 - Common: 5
-- Uncommon: 3
-- Rare: 2
+- Uncommon: 4
+- Rare: 1
 - Epic: 0
 - Legendary+: 0
 
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 665650
-- Currency per Tick (avg): 22.16
+- Total Currency: 668450
+- Currency per Tick (avg): 22.24
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

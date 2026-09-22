@@ -9620,5 +9620,32 @@
       "Chaos": 0.1,
       "Scarceness": 0.3
     }
+  },
+  {
+    "id": "e2a747c2-4b58-4550-a6e0-b6b08c9524d5",
+    "name": "Mundane Focus of Sovereignty",
+    "type": "Focus",
+    "generation": 54,
+    "damage": 20.5,
+    "damage_type": [
+      "Physical",
+      "Magic"
+    ],
+    "crit_damage": 4.0,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.6000000000000005,
+    "dex_mod": 1.8500000000000005,
+    "rarity": 6.5,
+    "durability": -1.0,
+    "max_durability": 93.0,
+    "volatility": 0.6850219859070547,
+    "resilience": 0.7850219859070545,
+    "worth": 2800,
+    "affinities": {
+      "Scarceness": 0.1,
+      "STR": 0.2,
+      "Chaos": 0.1,
+      "Order": 0.1
+    }
   }
 ]
