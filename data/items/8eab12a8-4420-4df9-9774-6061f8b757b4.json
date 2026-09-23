@@ -2,7 +2,7 @@
   "id": "8eab12a8-4420-4df9-9774-6061f8b757b4",
   "name": "Stormcharged Relic of Blight",
   "type": "Artifact",
-  "generation": 11,
+  "generation": 13,
   "damage": 20.0,
   "damage_type": [
     "Physical",
@@ -15,9 +15,9 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.15,
   "rarity": 1.5,
-  "durability": 73.45,
+  "durability": 91.45,
   "max_durability": 100.0,
-  "volatility": 0.5,
+  "volatility": 0.49,
   "resilience": 0.55,
   "worth": 100,
   "affinities": {
