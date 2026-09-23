@@ -1,21 +1,21 @@
 {
   "currency": 675200,
-  "tick": 30107,
+  "tick": 30132,
   "mutation_stats": {
-    "attempted": 30107,
-    "success": 12524
+    "attempted": 30132,
+    "success": 12531
   },
   "recent_events": [
-    "STABLE: 'Gilded Spear of the Void' did not mutate this tick.",
-    "MUTATED: 'Mundane Relic of Judgement' evolved to generation 29.",
-    "STABLE: 'Mundane Relic of Judgement' did not mutate this tick.",
-    "MUTATED: 'Verdant Rapier of Grace' evolved to generation 11.",
-    "MUTATED: 'Mundane Relic of Judgement' evolved to generation 30.",
-    "REPLACED WITH: 'Searing Bow of Grace' (8f1d91d8-026d-4500-8bbd-3db4842c463c)",
-    "MUTATED: 'Mundane Rapier of the Void' evolved to generation 101.",
-    "REPLACED WITH: 'Corrosive Edge of Iron' (348635d8-318b-463a-85ed-e2f4d2a40c3a)",
+    "STABLE: 'Mundane Bow of Gales' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
+    "STABLE: 'Verdant Rapier of Grace' did not mutate this tick.",
+    "STABLE: 'Vampiric Edge of Sparks' did not mutate this tick.",
+    "STABLE: 'Nimble Rapier of Iron' did not mutate this tick.",
+    "MUTATED: 'Mundane Bow of Gales' evolved to generation 2.",
     "STABLE: 'Corrosive Edge of Iron' did not mutate this tick.",
-    "STABLE: 'Mundane Bow of Gales' did not mutate this tick."
+    "MUTATED: 'Gilded Spear of the Void' evolved to generation 22.",
+    "STABLE: 'Vampiric Edge of Sparks' did not mutate this tick.",
+    "STABLE: 'Vampiric Edge of Sparks' did not mutate this tick."
   ],
   "created": 369,
   "avg_lifespan": 35.615598885793915,
