@@ -1,0 +1,23 @@
+{
+  "id": "8f1d91d8-026d-4500-8bbd-3db4842c463c",
+  "name": "Searing Bow of Grace",
+  "type": "Ranged",
+  "generation": 1,
+  "damage": 20.0,
+  "damage_type": [
+    "Physical",
+    "Fire",
+    "Piercing"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.4,
+  "rarity": 1,
+  "durability": 100.0,
+  "max_durability": 95.0,
+  "volatility": 0.2,
+  "resilience": 0.5,
+  "worth": 100,
+  "affinities": {}
+}

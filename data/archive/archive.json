@@ -9647,5 +9647,58 @@
       "Chaos": 0.1,
       "Order": 0.1
     }
+  },
+  {
+    "id": "fd784d9d-bee2-41d5-8e3f-037cec626d6f",
+    "name": "Mundane Relic of Judgement",
+    "type": "Artifact",
+    "generation": 30,
+    "damage": 21.0,
+    "damage_type": [
+      "Physical",
+      "Holy"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.09643856189774726,
+    "str_mod": 1.4000000000000001,
+    "dex_mod": 1.4000000000000004,
+    "rarity": 2.5,
+    "durability": -0.7824542973225395,
+    "max_durability": 120.0,
+    "volatility": 0.6060964047443681,
+    "resilience": 0.8160964047443681,
+    "worth": 1600,
+    "affinities": {
+      "DEX": 0.2,
+      "Order": 0.1
+    }
+  },
+  {
+    "id": "96bc7a7c-c087-433d-a7ed-5e31def3a8ed",
+    "name": "Mundane Rapier of the Void",
+    "type": "Generic",
+    "generation": 101,
+    "damage": 62.0,
+    "damage_type": [
+      "Physical",
+      "Piercing"
+    ],
+    "crit_damage": 3.9965784284662087,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.8000000000000007,
+    "dex_mod": 0.8,
+    "rarity": 5.0,
+    "durability": -1.0,
+    "max_durability": 111.0,
+    "volatility": 0.6460964047443681,
+    "resilience": 0.8660964047443681,
+    "worth": 5150,
+    "affinities": {
+      "Stability": 0.3,
+      "Restoration": 0.2,
+      "STR": 0.2,
+      "Order": 0.2,
+      "Scarceness": 0.3
+    }
   }
 ]
