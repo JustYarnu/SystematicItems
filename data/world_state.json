@@ -1,21 +1,21 @@
 {
   "currency": 675200,
-  "tick": 30132,
+  "tick": 30157,
   "mutation_stats": {
-    "attempted": 30132,
-    "success": 12531
+    "attempted": 30157,
+    "success": 12541
   },
   "recent_events": [
-    "STABLE: 'Mundane Bow of Gales' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
-    "STABLE: 'Verdant Rapier of Grace' did not mutate this tick.",
+    "MUTATED: 'Stormcharged Relic of Blight' evolved to generation 7.",
+    "MUTATED: 'Mundane Bow of Gales' evolved to generation 3.",
+    "STABLE: 'Searing Bow of Grace' did not mutate this tick.",
     "STABLE: 'Vampiric Edge of Sparks' did not mutate this tick.",
     "STABLE: 'Nimble Rapier of Iron' did not mutate this tick.",
-    "MUTATED: 'Mundane Bow of Gales' evolved to generation 2.",
-    "STABLE: 'Corrosive Edge of Iron' did not mutate this tick.",
-    "MUTATED: 'Gilded Spear of the Void' evolved to generation 22.",
-    "STABLE: 'Vampiric Edge of Sparks' did not mutate this tick.",
-    "STABLE: 'Vampiric Edge of Sparks' did not mutate this tick."
+    "MUTATED: 'Resolute Sigil of Stone' evolved to generation 47.",
+    "STABLE: 'Resolute Sigil of Stone' did not mutate this tick.",
+    "STABLE: 'Searing Bow of Grace' did not mutate this tick.",
+    "MUTATED: 'Vampiric Edge of Sparks' evolved to generation 10.",
+    "MUTATED: 'Gilded Spear of the Void' evolved to generation 26."
   ],
   "created": 369,
   "avg_lifespan": 35.615598885793915,

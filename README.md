@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-30132
+30157
 
 ## Oldest Item
 Corrosive Edge of Iron
@@ -11,22 +11,22 @@ Corrosive Edge of Iron
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.55
-- Average Volatility: 0.38
-- Average Durability: 69.38
+- Average Volatility: 0.39
+- Average Durability: 65.86
 
 ## Dominant Factions
+- Stability: 0.3
 - Scarceness: 0.2
 - Order: 0.2
-- Stability: 0.2
 
 ## Extremes
 - Most Stable Item: Searing Bow of Grace
 - Most Volatile Item: Resolute Sigil of Stone
 
 ## Recent Events
-- MUTATED: 'Gilded Spear of the Void' evolved to generation 22.
-- STABLE: 'Vampiric Edge of Sparks' did not mutate this tick.
-- STABLE: 'Vampiric Edge of Sparks' did not mutate this tick.
+- STABLE: 'Searing Bow of Grace' did not mutate this tick.
+- MUTATED: 'Vampiric Edge of Sparks' evolved to generation 10.
+- MUTATED: 'Gilded Spear of the Void' evolved to generation 26.
 
 ## Lifecycle Stats
 - Items Created: 369
@@ -40,8 +40,8 @@ Corrosive Edge of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 30132
-- Successful Mutations: 12531
+- Mutations Attempted: 30157
+- Successful Mutations: 12541
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Corrosive Edge of Iron
 
 ## Economy
 - Total Currency: 675200
-- Currency per Tick (avg): 22.41
+- Currency per Tick (avg): 22.39
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
