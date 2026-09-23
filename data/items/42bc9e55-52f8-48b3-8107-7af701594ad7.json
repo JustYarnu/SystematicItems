@@ -2,7 +2,7 @@
   "id": "42bc9e55-52f8-48b3-8107-7af701594ad7",
   "name": "Gilded Spear of the Void",
   "type": "Polearm",
-  "generation": 26,
+  "generation": 28,
   "damage": 23.5,
   "damage_type": [
     "Physical",
@@ -13,12 +13,13 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.1,
   "rarity": 3.5,
-  "durability": 44.35,
+  "durability": 37.410000000000004,
   "max_durability": 83.0,
-  "volatility": 0.5600000000000002,
+  "volatility": 0.5300000000000001,
   "resilience": 0.53,
   "worth": 100,
   "affinities": {
-    "Scarceness": 0.1
+    "Scarceness": 0.1,
+    "Order": 0.1
   }
 }
