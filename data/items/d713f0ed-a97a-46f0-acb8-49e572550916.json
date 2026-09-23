@@ -2,7 +2,7 @@
   "id": "d713f0ed-a97a-46f0-acb8-49e572550916",
   "name": "Mundane Bow of Gales",
   "type": "Ranged",
-  "generation": 3,
+  "generation": 5,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.3299999999999998,
   "rarity": 1,
-  "durability": 84.75,
-  "max_durability": 102.0,
-  "volatility": 0.2500000000000001,
+  "durability": 83.5,
+  "max_durability": 104.0,
+  "volatility": 0.27000000000000013,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {

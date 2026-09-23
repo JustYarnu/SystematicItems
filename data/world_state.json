@@ -1,21 +1,21 @@
 {
   "currency": 677800,
-  "tick": 30182,
+  "tick": 30207,
   "mutation_stats": {
-    "attempted": 30182,
-    "success": 12551
+    "attempted": 30207,
+    "success": 12562
   },
   "recent_events": [
-    "STABLE: 'Gilded Spear of the Void' did not mutate this tick.",
-    "MUTATED: 'Resolute Sigil of Stone' evolved to generation 49.",
-    "MUTATED: 'Resolute Sigil of Stone' evolved to generation 50.",
-    "REPLACED WITH: 'Shattered Focus of the Glacier' (46f341f1-0a02-43c9-a42a-9121731a4b18)",
-    "STABLE: 'Vampiric Edge of Sparks' did not mutate this tick.",
     "STABLE: 'Searing Bow of Grace' did not mutate this tick.",
     "STABLE: 'Mundane Bow of Gales' did not mutate this tick.",
-    "STABLE: 'Searing Bow of Grace' did not mutate this tick.",
-    "STABLE: 'Corrosive Edge of Iron' did not mutate this tick.",
-    "STABLE: 'Searing Bow of Grace' did not mutate this tick."
+    "STABLE: 'Vampiric Edge of Sparks' did not mutate this tick.",
+    "STABLE: 'Stormcharged Relic of Blight' did not mutate this tick.",
+    "MUTATED: 'Mundane Blade of Might' evolved to generation 14.",
+    "STABLE: 'Verdant Rapier of Grace' did not mutate this tick.",
+    "STABLE: 'Mundane Bow of Gales' did not mutate this tick.",
+    "MUTATED: 'Mundane Bow of Gales' evolved to generation 5.",
+    "MUTATED: 'Stormcharged Relic of Blight' evolved to generation 11.",
+    "MUTATED: 'Vampiric Edge of Sparks' evolved to generation 12."
   ],
   "created": 370,
   "avg_lifespan": 35.6555555555556,
