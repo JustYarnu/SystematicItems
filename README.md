@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-30257
+30282
 
 ## Oldest Item
-Corrosive Edge of Iron
+Shattered Focus of the Glacier
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.5
-- Average Volatility: 0.39
-- Average Durability: 64.31
+- Average Volatility: 0.41
+- Average Durability: 59.16
 
 ## Dominant Factions
 - Chaos: 0.3
@@ -20,13 +20,13 @@ Corrosive Edge of Iron
 - Order: 0.2
 
 ## Extremes
-- Most Stable Item: Corrosive Edge of Iron
-- Most Volatile Item: Stormcharged Relic of Blight
+- Most Stable Item: Searing Bow of Grace
+- Most Volatile Item: Gilded Spear of the Void
 
 ## Recent Events
-- STABLE: 'Mundane Bow of Gales' did not mutate this tick.
-- STABLE: 'Verdant Rapier of Grace' did not mutate this tick.
+- STABLE: 'Stormcharged Relic of Blight' did not mutate this tick.
 - STABLE: 'Corrosive Edge of Iron' did not mutate this tick.
+- MUTATED: 'Stormcharged Relic of Blight' evolved to generation 16.
 
 ## Lifecycle Stats
 - Items Created: 370
@@ -40,8 +40,8 @@ Corrosive Edge of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 30257
-- Successful Mutations: 12585
+- Mutations Attempted: 30282
+- Successful Mutations: 12598
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Corrosive Edge of Iron
 
 ## Economy
 - Total Currency: 677800
-- Currency per Tick (avg): 22.4
+- Currency per Tick (avg): 22.38
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

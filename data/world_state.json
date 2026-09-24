@@ -1,21 +1,21 @@
 {
   "currency": 677800,
-  "tick": 30257,
+  "tick": 30282,
   "mutation_stats": {
-    "attempted": 30257,
-    "success": 12585
+    "attempted": 30282,
+    "success": 12598
   },
   "recent_events": [
-    "MUTATED: 'Mundane Bow of Gales' evolved to generation 8.",
-    "STABLE: 'Searing Bow of Grace' did not mutate this tick.",
-    "STABLE: 'Mundane Bow of Gales' did not mutate this tick.",
-    "MUTATED: 'Corrosive Edge of Iron' evolved to generation 4.",
-    "STABLE: 'Verdant Rapier of Grace' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of Might' evolved to generation 18.",
-    "MUTATED: 'Gilded Spear of the Void' evolved to generation 31.",
-    "STABLE: 'Mundane Bow of Gales' did not mutate this tick.",
-    "STABLE: 'Verdant Rapier of Grace' did not mutate this tick.",
-    "STABLE: 'Corrosive Edge of Iron' did not mutate this tick."
+    "STABLE: 'Gilded Spear of the Void' did not mutate this tick.",
+    "MUTATED: 'Gilded Spear of the Void' evolved to generation 32.",
+    "MUTATED: 'Vampiric Edge of Sparks' evolved to generation 16.",
+    "MUTATED: 'Corrosive Edge of Iron' evolved to generation 6.",
+    "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
+    "MUTATED: 'Vampiric Edge of Sparks' evolved to generation 17.",
+    "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
+    "STABLE: 'Stormcharged Relic of Blight' did not mutate this tick.",
+    "STABLE: 'Corrosive Edge of Iron' did not mutate this tick.",
+    "MUTATED: 'Stormcharged Relic of Blight' evolved to generation 16."
   ],
   "created": 370,
   "avg_lifespan": 35.6555555555556,

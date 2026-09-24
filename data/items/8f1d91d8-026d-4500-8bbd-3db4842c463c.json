@@ -2,7 +2,7 @@
   "id": "8f1d91d8-026d-4500-8bbd-3db4842c463c",
   "name": "Searing Bow of Grace",
   "type": "Ranged",
-  "generation": 6,
+  "generation": 7,
   "damage": 26.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.4999999999999996,
   "rarity": 1,
-  "durability": 75.0,
+  "durability": 68.0,
   "max_durability": 95.0,
-  "volatility": 0.3000000000000001,
+  "volatility": 0.2500000000000001,
   "resilience": 0.5,
   "worth": 100,
   "affinities": {
