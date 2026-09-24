@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-30332
+30357
 
 ## Oldest Item
 Shattered Focus of the Glacier
@@ -11,22 +11,22 @@ Shattered Focus of the Glacier
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.5
-- Average Volatility: 0.42
-- Average Durability: 49.96
+- Average Volatility: 0.43
+- Average Durability: 46.95
 
 ## Dominant Factions
 - Stability: 0.6
 - Chaos: 0.4
-- STR: 0.2
+- STR: 0.3
 
 ## Extremes
-- Most Stable Item: Searing Bow of Grace
+- Most Stable Item: Nimble Rapier of Iron
 - Most Volatile Item: Gilded Spear of the Void
 
 ## Recent Events
-- STABLE: 'Stormcharged Relic of Blight' did not mutate this tick.
-- MUTATED: 'Nimble Rapier of Iron' evolved to generation 12.
-- STABLE: 'Nimble Rapier of Iron' did not mutate this tick.
+- MUTATED: 'Mundane Blade of Might' evolved to generation 22.
+- MUTATED: 'Stormcharged Relic of Blight' evolved to generation 22.
+- STABLE: 'Mundane Bow of Gales' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 370
@@ -40,8 +40,8 @@ Shattered Focus of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 30332
-- Successful Mutations: 12622
+- Mutations Attempted: 30357
+- Successful Mutations: 12634
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Shattered Focus of the Glacier
 
 ## Economy
 - Total Currency: 677800
-- Currency per Tick (avg): 22.35
+- Currency per Tick (avg): 22.33
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

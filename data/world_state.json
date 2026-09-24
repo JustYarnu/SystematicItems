@@ -1,21 +1,21 @@
 {
   "currency": 677800,
-  "tick": 30332,
+  "tick": 30357,
   "mutation_stats": {
-    "attempted": 30332,
-    "success": 12622
+    "attempted": 30357,
+    "success": 12634
   },
   "recent_events": [
-    "MUTATED: 'Corrosive Edge of Iron' evolved to generation 9.",
-    "MUTATED: 'Nimble Rapier of Iron' evolved to generation 11.",
     "STABLE: 'Shattered Focus of the Glacier' did not mutate this tick.",
-    "STABLE: 'Searing Bow of Grace' did not mutate this tick.",
-    "MUTATED: 'Mundane Bow of Gales' evolved to generation 9.",
-    "MUTATED: 'Mundane Bow of Gales' evolved to generation 10.",
-    "MUTATED: 'Verdant Rapier of Grace' evolved to generation 14.",
-    "STABLE: 'Stormcharged Relic of Blight' did not mutate this tick.",
-    "MUTATED: 'Nimble Rapier of Iron' evolved to generation 12.",
-    "STABLE: 'Nimble Rapier of Iron' did not mutate this tick."
+    "STABLE: 'Corrosive Edge of Iron' did not mutate this tick.",
+    "MUTATED: 'Gilded Spear of the Void' evolved to generation 37.",
+    "MUTATED: 'Gilded Spear of the Void' evolved to generation 38.",
+    "STABLE: 'Mundane Bow of Gales' did not mutate this tick.",
+    "STABLE: 'Corrosive Edge of Iron' did not mutate this tick.",
+    "STABLE: 'Shattered Focus of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Mundane Blade of Might' evolved to generation 22.",
+    "MUTATED: 'Stormcharged Relic of Blight' evolved to generation 22.",
+    "STABLE: 'Mundane Bow of Gales' did not mutate this tick."
   ],
   "created": 370,
   "avg_lifespan": 35.6555555555556,
