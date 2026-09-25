@@ -1,21 +1,21 @@
 {
   "currency": 679800,
-  "tick": 30457,
+  "tick": 30482,
   "mutation_stats": {
-    "attempted": 30457,
-    "success": 12675
+    "attempted": 30482,
+    "success": 12685
   },
   "recent_events": [
-    "STABLE: 'Verdant Rapier of Grace' did not mutate this tick.",
-    "STABLE: 'Nimble Rapier of Iron' did not mutate this tick.",
-    "STABLE: 'Corrosive Edge of Iron' did not mutate this tick.",
-    "STABLE: 'Verdant Rapier of Grace' did not mutate this tick.",
-    "STABLE: 'Searing Bow of Grace' did not mutate this tick.",
-    "STABLE: 'Mundane Bow of Gales' did not mutate this tick.",
-    "MUTATED: 'Shattered Focus of the Glacier' evolved to generation 11.",
-    "MUTATED: 'Nimble Shard of the Deep' evolved to generation 3.",
+    "MUTATED: 'Mundane Blade of Might' evolved to generation 26.",
+    "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
+    "MUTATED: 'Shattered Focus of the Glacier' evolved to generation 14.",
+    "STABLE: 'Stormcharged Relic of Blight' did not mutate this tick.",
+    "STABLE: 'Stormcharged Relic of Blight' did not mutate this tick.",
     "STABLE: 'Nimble Shard of the Deep' did not mutate this tick.",
-    "MUTATED: 'Nimble Rapier of Iron' evolved to generation 16."
+    "MUTATED: 'Stormcharged Relic of Blight' evolved to generation 30.",
+    "STABLE: 'Stormcharged Relic of Blight' did not mutate this tick.",
+    "STABLE: 'Nimble Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Nimble Rapier of Iron' did not mutate this tick."
   ],
   "created": 371,
   "avg_lifespan": 35.66204986149589,
