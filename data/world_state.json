@@ -1,23 +1,23 @@
 {
-  "currency": 677800,
-  "tick": 30357,
+  "currency": 679800,
+  "tick": 30382,
   "mutation_stats": {
-    "attempted": 30357,
-    "success": 12634
+    "attempted": 30382,
+    "success": 12647
   },
   "recent_events": [
-    "STABLE: 'Shattered Focus of the Glacier' did not mutate this tick.",
-    "STABLE: 'Corrosive Edge of Iron' did not mutate this tick.",
-    "MUTATED: 'Gilded Spear of the Void' evolved to generation 37.",
-    "MUTATED: 'Gilded Spear of the Void' evolved to generation 38.",
+    "MUTATED: 'Stormcharged Relic of Blight' evolved to generation 23.",
+    "MUTATED: 'Verdant Rapier of Grace' evolved to generation 16.",
+    "MUTATED: 'Vampiric Edge of Sparks' evolved to generation 25.",
+    "STABLE: 'Nimble Shard of the Deep' did not mutate this tick.",
+    "MUTATED: 'Mundane Bow of Gales' evolved to generation 14.",
     "STABLE: 'Mundane Bow of Gales' did not mutate this tick.",
-    "STABLE: 'Corrosive Edge of Iron' did not mutate this tick.",
-    "STABLE: 'Shattered Focus of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of Might' evolved to generation 22.",
-    "MUTATED: 'Stormcharged Relic of Blight' evolved to generation 22.",
-    "STABLE: 'Mundane Bow of Gales' did not mutate this tick."
+    "STABLE: 'Nimble Shard of the Deep' did not mutate this tick.",
+    "MUTATED: 'Stormcharged Relic of Blight' evolved to generation 24.",
+    "STABLE: 'Nimble Shard of the Deep' did not mutate this tick.",
+    "MUTATED: 'Stormcharged Relic of Blight' evolved to generation 25."
   ],
-  "created": 370,
-  "avg_lifespan": 35.6555555555556,
-  "archived": 360
+  "created": 371,
+  "avg_lifespan": 35.66204986149589,
+  "archived": 361
 }
