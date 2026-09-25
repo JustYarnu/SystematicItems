@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-30432
+30457
 
 ## Oldest Item
 Nimble Shard of the Deep
@@ -11,12 +11,12 @@ Nimble Shard of the Deep
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.35
-- Average Volatility: 0.43
-- Average Durability: 44.84
+- Average Volatility: 0.44
+- Average Durability: 41.67
 
 ## Dominant Factions
-- Chaos: 0.6
-- Stability: 0.5
+- Chaos: 0.7
+- Stability: 0.6
 - STR: 0.2
 
 ## Extremes
@@ -24,9 +24,9 @@ Nimble Shard of the Deep
 - Most Volatile Item: Mundane Bow of Gales
 
 ## Recent Events
-- MUTATED: 'Searing Bow of Grace' evolved to generation 10.
-- STABLE: 'Mundane Blade of Might' did not mutate this tick.
-- STABLE: 'Vampiric Edge of Sparks' did not mutate this tick.
+- MUTATED: 'Nimble Shard of the Deep' evolved to generation 3.
+- STABLE: 'Nimble Shard of the Deep' did not mutate this tick.
+- MUTATED: 'Nimble Rapier of Iron' evolved to generation 16.
 
 ## Lifecycle Stats
 - Items Created: 371
@@ -40,8 +40,8 @@ Nimble Shard of the Deep
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 30432
-- Successful Mutations: 12666
+- Mutations Attempted: 30457
+- Successful Mutations: 12675
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Nimble Shard of the Deep
 
 ## Economy
 - Total Currency: 679800
-- Currency per Tick (avg): 22.34
+- Currency per Tick (avg): 22.32
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
