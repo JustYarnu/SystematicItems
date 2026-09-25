@@ -2,7 +2,7 @@
   "id": "ca0e9d20-9cd5-497f-9a46-9c2eaa56e3ed",
   "name": "Nimble Rapier of Iron",
   "type": "Generic",
-  "generation": 14,
+  "generation": 15,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.4500000000000002,
   "rarity": 2,
-  "durability": 64.6,
+  "durability": 62.19999999999999,
   "max_durability": 145.0,
-  "volatility": 0.3200000000000003,
+  "volatility": 0.2700000000000003,
   "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {}

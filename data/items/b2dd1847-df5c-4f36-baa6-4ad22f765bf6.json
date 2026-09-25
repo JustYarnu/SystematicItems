@@ -2,7 +2,7 @@
   "id": "b2dd1847-df5c-4f36-baa6-4ad22f765bf6",
   "name": "Vampiric Edge of Sparks",
   "type": "Sword",
-  "generation": 25,
+  "generation": 26,
   "damage": 38.5,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "crit_rate": 0.01,
   "str_mod": 1.4500000000000002,
   "dex_mod": 1.0,
-  "rarity": 1,
-  "durability": 17.77,
-  "max_durability": 114.0,
-  "volatility": 0.51,
+  "rarity": 2,
+  "durability": 15.77,
+  "max_durability": 104.0,
+  "volatility": 0.56,
   "resilience": 0.5299999999999999,
   "worth": 100,
   "affinities": {
