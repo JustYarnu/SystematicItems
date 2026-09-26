@@ -2,7 +2,7 @@
   "id": "348635d8-318b-463a-85ed-e2f4d2a40c3a",
   "name": "Corrosive Edge of Iron",
   "type": "Sword",
-  "generation": 21,
+  "generation": 22,
   "damage": 19.5,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 1.2000000000000002,
   "rarity": 1,
-  "durability": 30.6,
+  "durability": 41.6,
   "max_durability": 125.0,
-  "volatility": 0.4400000000000003,
+  "volatility": 0.4600000000000003,
   "resilience": 0.7,
   "worth": 100,
   "affinities": {

@@ -1,23 +1,23 @@
 {
-  "currency": 679800,
-  "tick": 30582,
+  "currency": 681350,
+  "tick": 30607,
   "mutation_stats": {
-    "attempted": 30582,
-    "success": 12733
+    "attempted": 30607,
+    "success": 12750
   },
   "recent_events": [
-    "STABLE: 'Stormcharged Relic of Blight' did not mutate this tick.",
-    "MUTATED: 'Nimble Rapier of Iron' evolved to generation 21.",
+    "MUTATED: 'Stormcharged Relic of Blight' evolved to generation 35.",
+    "MUTATED: 'Stormcharged Relic of Blight' evolved to generation 36.",
+    "MUTATED: 'Searing Bow of Grace' evolved to generation 16.",
+    "MUTATED: 'Mundane Blade of Might' evolved to generation 36.",
+    "STABLE: 'Shattered Focus of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Nimble Rapier of Iron' evolved to generation 22.",
     "STABLE: 'Nimble Rapier of Iron' did not mutate this tick.",
-    "STABLE: 'Stormcharged Relic of Blight' did not mutate this tick.",
-    "STABLE: 'Searing Bow of Grace' did not mutate this tick.",
-    "MUTATED: 'Corrosive Edge of Iron' evolved to generation 21.",
-    "STABLE: 'Nimble Shard of the Deep' did not mutate this tick.",
-    "MUTATED: 'Stormcharged Relic of Blight' evolved to generation 34.",
-    "STABLE: 'Searing Bow of Grace' did not mutate this tick.",
-    "STABLE: 'Vampiric Edge of Sparks' did not mutate this tick."
+    "MUTATED: 'Nimble Shard of the Deep' evolved to generation 7.",
+    "MUTATED: 'Nimble Shard of the Deep' evolved to generation 8.",
+    "MUTATED: 'Nimble Shard of the Deep' evolved to generation 9."
   ],
-  "created": 371,
-  "avg_lifespan": 35.66204986149589,
-  "archived": 361
+  "created": 372,
+  "avg_lifespan": 35.64364640883982,
+  "archived": 362
 }
