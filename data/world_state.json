@@ -1,21 +1,21 @@
 {
   "currency": 679800,
-  "tick": 30507,
+  "tick": 30532,
   "mutation_stats": {
-    "attempted": 30507,
-    "success": 12697
+    "attempted": 30532,
+    "success": 12708
   },
   "recent_events": [
-    "STABLE: 'Shattered Focus of the Glacier' did not mutate this tick.",
     "STABLE: 'Nimble Shard of the Deep' did not mutate this tick.",
-    "STABLE: 'Vampiric Edge of Sparks' did not mutate this tick.",
-    "STABLE: 'Mundane Bow of Gales' did not mutate this tick.",
-    "MUTATED: 'Vampiric Edge of Sparks' evolved to generation 31.",
-    "STABLE: 'Nimble Shard of the Deep' did not mutate this tick.",
+    "MUTATED: 'Stormcharged Relic of Blight' evolved to generation 32.",
     "STABLE: 'Nimble Rapier of Iron' did not mutate this tick.",
-    "MUTATED: 'Vampiric Edge of Sparks' evolved to generation 32.",
-    "MUTATED: 'Mundane Bow of Gales' evolved to generation 19.",
-    "MUTATED: 'Mundane Bow of Gales' evolved to generation 20."
+    "MUTATED: 'Mundane Blade of Might' evolved to generation 30.",
+    "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
+    "STABLE: 'Shattered Focus of the Glacier' did not mutate this tick.",
+    "STABLE: 'Nimble Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Searing Bow of Grace' did not mutate this tick.",
+    "STABLE: 'Shattered Focus of the Glacier' did not mutate this tick."
   ],
   "created": 371,
   "avg_lifespan": 35.66204986149589,
