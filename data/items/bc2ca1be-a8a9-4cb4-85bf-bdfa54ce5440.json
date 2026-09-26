@@ -2,7 +2,7 @@
   "id": "bc2ca1be-a8a9-4cb4-85bf-bdfa54ce5440",
   "name": "Verdant Rapier of Grace",
   "type": "Generic",
-  "generation": 19,
+  "generation": 20,
   "damage": 19.0,
   "damage_type": [
     "Physical",
@@ -14,12 +14,13 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.5499999999999998,
   "rarity": 1,
-  "durability": 44.999999999999986,
+  "durability": 42.999999999999986,
   "max_durability": 122.0,
-  "volatility": 0.5900000000000004,
+  "volatility": 0.55,
   "resilience": 0.7,
   "worth": 100,
   "affinities": {
-    "STR": 0.1
+    "STR": 0.1,
+    "Chaos": 0.1
   }
 }
