@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-30657
+30682
 
 ## Oldest Item
 Mundane Core of the Glacier
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.3
+- Average Rarity: 1.4
 - Average Volatility: 0.44
-- Average Durability: 41.46
+- Average Durability: 39.37
 
 ## Dominant Factions
 - Stability: 0.8
@@ -21,12 +21,12 @@ Mundane Core of the Glacier
 
 ## Extremes
 - Most Stable Item: Mundane Core of the Glacier
-- Most Volatile Item: Verdant Rapier of Grace
+- Most Volatile Item: Vampiric Edge of Sparks
 
 ## Recent Events
 - STABLE: 'Shattered Focus of the Glacier' did not mutate this tick.
-- STABLE: 'Verdant Rapier of Grace' did not mutate this tick.
-- MUTATED: 'Stormcharged Relic of Blight' evolved to generation 38.
+- MUTATED: 'Vampiric Edge of Sparks' evolved to generation 43.
+- STABLE: 'Stormcharged Relic of Blight' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 373
@@ -40,8 +40,8 @@ Mundane Core of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 30657
-- Successful Mutations: 12772
+- Mutations Attempted: 30682
+- Successful Mutations: 12783
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Core of the Glacier
 
 ## Economy
 - Total Currency: 683300
-- Currency per Tick (avg): 22.29
+- Currency per Tick (avg): 22.27
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
