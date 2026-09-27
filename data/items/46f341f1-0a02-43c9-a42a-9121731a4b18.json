@@ -2,7 +2,7 @@
   "id": "46f341f1-0a02-43c9-a42a-9121731a4b18",
   "name": "Shattered Focus of the Glacier",
   "type": "Focus",
-  "generation": 20,
+  "generation": 22,
   "damage": 24.5,
   "damage_type": [
     "Physical",
@@ -14,13 +14,13 @@
   "str_mod": 1.1,
   "dex_mod": 1.3000000000000003,
   "rarity": 1,
-  "durability": 34.32,
-  "max_durability": 112.0,
-  "volatility": 0.5100000000000003,
+  "durability": 27.32,
+  "max_durability": 107.0,
+  "volatility": 0.5400000000000004,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
-    "Stability": 0.1,
+    "Stability": 0.2,
     "Chaos": 0.1,
     "DEX": 0.1
   }
