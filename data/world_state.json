@@ -1,21 +1,21 @@
 {
   "currency": 686650,
-  "tick": 30732,
+  "tick": 30757,
   "mutation_stats": {
-    "attempted": 30732,
-    "success": 12805
+    "attempted": 30757,
+    "success": 12816
   },
   "recent_events": [
-    "MUTATED: 'Verdant Rapier of Grace' evolved to generation 28.",
+    "STABLE: 'Nimble Rapier of Iron' did not mutate this tick.",
+    "MUTATED: 'Shattered Focus of the Glacier' evolved to generation 27.",
+    "MUTATED: 'Nimble Shard of the Deep' evolved to generation 17.",
+    "STABLE: 'Nimble Shard of the Deep' did not mutate this tick.",
+    "STABLE: 'Vampiric Edge of Sparks' did not mutate this tick.",
+    "STABLE: 'Rusty Spear of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Rusty Spear of the Glacier' evolved to generation 2.",
     "STABLE: 'Corrosive Edge of Iron' did not mutate this tick.",
-    "STABLE: 'Mundane Core of the Glacier' did not mutate this tick.",
-    "STABLE: 'Shattered Focus of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Nimble Rapier of Iron' evolved to generation 26.",
-    "MUTATED: 'Nimble Rapier of Iron' evolved to generation 27.",
-    "STABLE: 'Shattered Focus of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Verdant Rapier of Grace' evolved to generation 29.",
-    "STABLE: 'Glacial Axe of Ruins' did not mutate this tick.",
-    "STABLE: 'Mundane Core of the Glacier' did not mutate this tick."
+    "MUTATED: 'Mundane Sigil of Grace' evolved to generation 4.",
+    "STABLE: 'Rusty Spear of the Glacier' did not mutate this tick."
   ],
   "created": 375,
   "avg_lifespan": 35.62465753424662,
