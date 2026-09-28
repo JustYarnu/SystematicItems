@@ -2,7 +2,7 @@
   "id": "44778e89-c33c-432f-abe9-1313688d91de",
   "name": "Nimble Shard of the Deep",
   "type": "Dagger",
-  "generation": 22,
+  "generation": 23,
   "damage": 28.0,
   "damage_type": [
     "Physical",
@@ -14,7 +14,7 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.25,
   "rarity": 1,
-  "durability": 20.179999999999996,
+  "durability": 33.17999999999999,
   "max_durability": 102.0,
   "volatility": 0.5,
   "resilience": 0.75,

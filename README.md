@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-30807
+30832
 
 ## Oldest Item
-Rusty Spear of the Glacier
+Resolute Axe of the Void
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.45
-- Average Volatility: 0.4
-- Average Durability: 42.93
+- Average Rarity: 1.25
+- Average Volatility: 0.39
+- Average Durability: 51.99
 
 ## Dominant Factions
 - Stability: 0.7
 - Order: 0.6
-- STR: 0.5
+- STR: 0.4
 
 ## Extremes
 - Most Stable Item: Glacial Axe of Ruins
-- Most Volatile Item: Vampiric Edge of Sparks
+- Most Volatile Item: Corrosive Edge of Iron
 
 ## Recent Events
-- STABLE: 'Rusty Spear of the Glacier' did not mutate this tick.
-- STABLE: 'Mundane Sigil of Grace' did not mutate this tick.
-- STABLE: 'Rusty Spear of the Glacier' did not mutate this tick.
+- MUTATED: 'Shattered Focus of the Glacier' evolved to generation 30.
+- STABLE: 'Verdant Rapier of Grace' did not mutate this tick.
+- STABLE: 'Mundane Core of the Glacier' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 375
-- Items Archived: 365
-- Avg Lifespan (ticks): 35.6
+- Items Created: 376
+- Items Archived: 366
+- Avg Lifespan (ticks): 35.7
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,8 +40,8 @@ Rusty Spear of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 30807
-- Successful Mutations: 12834
+- Mutations Attempted: 30832
+- Successful Mutations: 12845
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Rusty Spear of the Glacier
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 686650
-- Currency per Tick (avg): 22.29
+- Total Currency: 689150
+- Currency per Tick (avg): 22.35
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
