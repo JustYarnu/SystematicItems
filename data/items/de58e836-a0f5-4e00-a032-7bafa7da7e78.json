@@ -2,7 +2,7 @@
   "id": "de58e836-a0f5-4e00-a032-7bafa7da7e78",
   "name": "Mundane Sigil of Grace",
   "type": "Focus",
-  "generation": 9,
+  "generation": 11,
   "damage": 14.5,
   "damage_type": [
     "Physical",
@@ -13,14 +13,14 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 1.25,
   "rarity": 1.5,
-  "durability": 67.27571437568511,
+  "durability": 61.27571437568511,
   "max_durability": 100.0,
-  "volatility": 0.3500000000000001,
+  "volatility": 0.3700000000000001,
   "resilience": 0.7792481250360578,
   "worth": 100,
   "affinities": {
-    "Order": 0.1,
-    "DEX": 0.1,
+    "Order": 0.2,
+    "DEX": 0.2,
     "Stability": 0.1
   }
 }

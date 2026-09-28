@@ -9890,5 +9890,60 @@
       "STR": 0.1,
       "Chaos": 0.1
     }
+  },
+  {
+    "id": "bc2ca1be-a8a9-4cb4-85bf-bdfa54ce5440",
+    "name": "Verdant Rapier of Grace",
+    "type": "Generic",
+    "generation": 35,
+    "damage": 25.5,
+    "damage_type": [
+      "Physical",
+      "Nature",
+      "Piercing"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.07,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 1.65,
+    "rarity": 1,
+    "durability": -0.5000000000000151,
+    "max_durability": 125.0,
+    "volatility": 0.53,
+    "resilience": 0.7,
+    "worth": 1850,
+    "affinities": {
+      "STR": 0.2,
+      "Chaos": 0.1,
+      "Stability": 0.1,
+      "Order": 0.1
+    }
+  },
+  {
+    "id": "348635d8-318b-463a-85ed-e2f4d2a40c3a",
+    "name": "Corrosive Edge of Iron",
+    "type": "Sword",
+    "generation": 35,
+    "damage": 29.5,
+    "damage_type": [
+      "Physical",
+      "Acid"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.07,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 1.2000000000000002,
+    "rarity": 1,
+    "durability": -1.0,
+    "max_durability": 120.0,
+    "volatility": 0.51,
+    "resilience": 0.6499999999999999,
+    "worth": 1850,
+    "affinities": {
+      "Stability": 0.1,
+      "STR": 0.2,
+      "DEX": 0.1,
+      "Order": 0.1
+    }
   }
 ]
