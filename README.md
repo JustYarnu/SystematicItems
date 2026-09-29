@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-30882
+30907
 
 ## Oldest Item
-Glacial Edge of Grace
+Resolute Axe of the Void
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.35
-- Average Volatility: 0.36
-- Average Durability: 62.16
+- Average Volatility: 0.38
+- Average Durability: 58.4
 
 ## Dominant Factions
 - Stability: 0.6
@@ -24,9 +24,9 @@ Glacial Edge of Grace
 - Most Volatile Item: Shattered Focus of the Glacier
 
 ## Recent Events
-- STABLE: 'Nimble Shard of the Deep' did not mutate this tick.
-- STABLE: 'Glacial Edge of Grace' did not mutate this tick.
-- STABLE: 'Nimble Rapier of Iron' did not mutate this tick.
+- STABLE: 'Resolute Axe of the Void' did not mutate this tick.
+- MUTATED: 'Glacial Edge of Grace' evolved to generation 3.
+- STABLE: 'Rusty Spear of the Glacier' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 378
@@ -40,8 +40,8 @@ Glacial Edge of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 30882
-- Successful Mutations: 12868
+- Mutations Attempted: 30907
+- Successful Mutations: 12875
 - Failure Rate: 58.3%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Glacial Edge of Grace
 
 ## Economy
 - Total Currency: 692850
-- Currency per Tick (avg): 22.44
+- Currency per Tick (avg): 22.42
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
