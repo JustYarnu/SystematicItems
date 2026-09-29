@@ -1,0 +1,22 @@
+{
+  "id": "082f9efd-a65d-4ba5-8d15-5d1c975d7444",
+  "name": "Gilded Focus of Ash",
+  "type": "Focus",
+  "generation": 2,
+  "damage": 12.0,
+  "damage_type": [
+    "Physical",
+    "Magic"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.0,
+  "rarity": 2.5,
+  "durability": 94.0,
+  "max_durability": 100.0,
+  "volatility": 0.25,
+  "resilience": 0.5,
+  "worth": 100,
+  "affinities": {}
+}

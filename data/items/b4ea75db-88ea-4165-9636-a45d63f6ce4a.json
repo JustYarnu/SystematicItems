@@ -2,7 +2,7 @@
   "id": "b4ea75db-88ea-4165-9636-a45d63f6ce4a",
   "name": "Unstable Edge of Gales",
   "type": "Sword",
-  "generation": 3,
+  "generation": 4,
   "damage": 25.0,
   "damage_type": [
     "Physical",
@@ -12,11 +12,11 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.0,
-  "dex_mod": 1.28,
+  "dex_mod": 1.3800000000000001,
   "rarity": 1,
-  "durability": 63.0,
+  "durability": 57.5,
   "max_durability": 100.0,
-  "volatility": 0.52,
+  "volatility": 0.54,
   "resilience": 0.5,
   "worth": 100,
   "affinities": {
