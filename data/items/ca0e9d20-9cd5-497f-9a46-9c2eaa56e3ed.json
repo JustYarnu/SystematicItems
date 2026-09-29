@@ -2,8 +2,8 @@
   "id": "ca0e9d20-9cd5-497f-9a46-9c2eaa56e3ed",
   "name": "Nimble Rapier of Iron",
   "type": "Generic",
-  "generation": 29,
-  "damage": 10.0,
+  "generation": 31,
+  "damage": 15.0,
   "damage_type": [
     "Physical",
     "Piercing"
@@ -11,15 +11,15 @@
   "crit_damage": 2,
   "crit_rate": 0.060000000000000005,
   "str_mod": 1.0,
-  "dex_mod": 1.6500000000000004,
+  "dex_mod": 1.5500000000000003,
   "rarity": 2,
-  "durability": 27.79999999999999,
+  "durability": 19.79999999999999,
   "max_durability": 150.0,
-  "volatility": 0.31000000000000055,
+  "volatility": 0.3400000000000006,
   "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {
-    "Stability": 0.2,
+    "Stability": 0.3,
     "Order": 0.2
   }
 }

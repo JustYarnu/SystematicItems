@@ -2,7 +2,7 @@
   "id": "c20a0364-38cf-44fe-a247-15d3541f837a",
   "name": "Rusty Spear of the Glacier",
   "type": "Polearm",
-  "generation": 4,
+  "generation": 5,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,12 @@
   "str_mod": 1.1,
   "dex_mod": 1.0,
   "rarity": 1,
-  "durability": 75.15,
+  "durability": 69.15,
   "max_durability": 125.0,
-  "volatility": 0.27000000000000013,
+  "volatility": 0.31000000000000016,
   "resilience": 0.75,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Restoration": 0.1
+  }
 }
