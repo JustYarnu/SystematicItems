@@ -2,7 +2,7 @@
   "id": "1e1cebd5-8de2-4cda-a14c-ee5c41869cec",
   "name": "Resolute Axe of the Void",
   "type": "HeavyWeapon",
-  "generation": 6,
+  "generation": 7,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -13,12 +13,13 @@
   "str_mod": 1.15,
   "dex_mod": 1.0,
   "rarity": 2.0,
-  "durability": 107.6,
+  "durability": 104.6,
   "max_durability": 124.0,
-  "volatility": 0.4100000000000001,
+  "volatility": 0.4200000000000001,
   "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {
-    "Chaos": 0.1
+    "Chaos": 0.1,
+    "Stability": 0.1
   }
 }

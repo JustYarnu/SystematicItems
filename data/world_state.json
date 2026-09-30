@@ -1,21 +1,21 @@
 {
   "currency": 694850,
-  "tick": 31007,
+  "tick": 31032,
   "mutation_stats": {
-    "attempted": 31007,
-    "success": 12909
+    "attempted": 31032,
+    "success": 12921
   },
   "recent_events": [
-    "STABLE: 'Glacial Axe of Ruins' did not mutate this tick.",
-    "MUTATED: 'Rusty Spear of the Glacier' evolved to generation 9.",
-    "MUTATED: 'Mundane Sigil of Grace' evolved to generation 18.",
-    "MUTATED: 'Resolute Axe of the Void' evolved to generation 6.",
-    "MUTATED: 'Glacial Axe of Ruins' evolved to generation 10.",
-    "STABLE: 'Nimble Shard of the Deep' did not mutate this tick.",
-    "STABLE: 'Glacial Axe of Ruins' did not mutate this tick.",
-    "STABLE: 'Nimble Shard of the Deep' did not mutate this tick.",
+    "STABLE: 'Nimble Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Nimble Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Mundane Sigil of Grace' did not mutate this tick.",
+    "MUTATED: 'Mundane Core of the Glacier' evolved to generation 14.",
+    "MUTATED: 'Rusty Spear of the Glacier' evolved to generation 10.",
     "STABLE: 'Rusty Spear of the Glacier' did not mutate this tick.",
-    "STABLE: 'Rusty Spear of the Glacier' did not mutate this tick."
+    "MUTATED: 'Mundane Core of the Glacier' evolved to generation 15.",
+    "STABLE: 'Rusty Spear of the Glacier' did not mutate this tick.",
+    "STABLE: 'Glacial Axe of Ruins' did not mutate this tick.",
+    "MUTATED: 'Glacial Edge of Grace' evolved to generation 6."
   ],
   "created": 379,
   "avg_lifespan": 35.66124661246617,

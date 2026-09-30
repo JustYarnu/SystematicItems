@@ -2,7 +2,7 @@
   "id": "3cc4cf78-f89d-4344-9def-9f48d714f366",
   "name": "Glacial Axe of Ruins",
   "type": "HeavyWeapon",
-  "generation": 10,
+  "generation": 11,
   "damage": 27.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.35,
   "dex_mod": 1.0,
   "rarity": 1,
-  "durability": 69.47,
+  "durability": 65.87,
   "max_durability": 104.0,
-  "volatility": 0.35000000000000014,
+  "volatility": 0.31000000000000016,
   "resilience": 0.7,
   "worth": 100,
   "affinities": {}
