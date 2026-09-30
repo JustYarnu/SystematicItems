@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-31057
+31082
 
 ## Oldest Item
-Dread Relic of Grace
+Gilded Focus of Ash
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.55
-- Average Volatility: 0.39
-- Average Durability: 62.26
+- Average Volatility: 0.41
+- Average Durability: 59.88
 
 ## Dominant Factions
 - Order: 0.4
@@ -24,9 +24,9 @@ Dread Relic of Grace
 - Most Volatile Item: Unstable Edge of Gales
 
 ## Recent Events
-- STABLE: 'Gilded Focus of Ash' did not mutate this tick.
+- MUTATED: 'Rusty Spear of the Glacier' evolved to generation 13.
+- MUTATED: 'Mundane Sigil of Grace' evolved to generation 23.
 - STABLE: 'Unstable Edge of Gales' did not mutate this tick.
-- STABLE: 'Glacial Axe of Ruins' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 380
@@ -40,8 +40,8 @@ Dread Relic of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 31057
-- Successful Mutations: 12932
+- Mutations Attempted: 31082
+- Successful Mutations: 12940
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Dread Relic of Grace
 
 ## Economy
 - Total Currency: 696800
-- Currency per Tick (avg): 22.44
+- Currency per Tick (avg): 22.42
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
