@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-30982
+31007
 
 ## Oldest Item
 Gilded Focus of Ash
@@ -11,8 +11,8 @@ Gilded Focus of Ash
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.4
-- Average Volatility: 0.38
-- Average Durability: 60.65
+- Average Volatility: 0.39
+- Average Durability: 56.73
 
 ## Dominant Factions
 - Order: 0.7
@@ -24,9 +24,9 @@ Gilded Focus of Ash
 - Most Volatile Item: Nimble Shard of the Deep
 
 ## Recent Events
+- STABLE: 'Nimble Shard of the Deep' did not mutate this tick.
 - STABLE: 'Rusty Spear of the Glacier' did not mutate this tick.
-- STABLE: 'Mundane Sigil of Grace' did not mutate this tick.
-- MUTATED: 'Rusty Spear of the Glacier' evolved to generation 8.
+- STABLE: 'Rusty Spear of the Glacier' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 379
@@ -40,8 +40,8 @@ Gilded Focus of Ash
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 30982
-- Successful Mutations: 12901
+- Mutations Attempted: 31007
+- Successful Mutations: 12909
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Gilded Focus of Ash
 
 ## Economy
 - Total Currency: 694850
-- Currency per Tick (avg): 22.43
+- Currency per Tick (avg): 22.41
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
