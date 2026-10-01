@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-31157
+31182
 
 ## Oldest Item
 Titanic Rapier of Iron
@@ -11,22 +11,22 @@ Titanic Rapier of Iron
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.65
-- Average Volatility: 0.38
-- Average Durability: 60.52
+- Average Volatility: 0.4
+- Average Durability: 57.07
 
 ## Dominant Factions
 - Order: 0.6
+- DEX: 0.4
 - Chaos: 0.3
-- DEX: 0.3
 
 ## Extremes
 - Most Stable Item: Titanic Rapier of Iron
 - Most Volatile Item: Mundane Sigil of Grace
 
 ## Recent Events
-- STABLE: 'Gilded Focus of Ash' did not mutate this tick.
-- STABLE: 'Gilded Focus of Ash' did not mutate this tick.
-- MUTATED: 'Rusty Spear of the Glacier' evolved to generation 18.
+- STABLE: 'Resolute Axe of the Void' did not mutate this tick.
+- STABLE: 'Titanic Rapier of Iron' did not mutate this tick.
+- STABLE: 'Titanic Rapier of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 381
@@ -40,8 +40,8 @@ Titanic Rapier of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 31157
-- Successful Mutations: 12975
+- Mutations Attempted: 31182
+- Successful Mutations: 12981
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Titanic Rapier of Iron
 
 ## Economy
 - Total Currency: 698800
-- Currency per Tick (avg): 22.43
+- Currency per Tick (avg): 22.41
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

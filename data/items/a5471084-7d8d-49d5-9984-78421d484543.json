@@ -2,7 +2,7 @@
   "id": "a5471084-7d8d-49d5-9984-78421d484543",
   "name": "Mundane Core of the Glacier",
   "type": "Artifact",
-  "generation": 17,
+  "generation": 18,
   "damage": 12.5,
   "damage_type": [
     "Physical",
@@ -13,13 +13,14 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 1.25,
   "rarity": 1,
-  "durability": 49.300000000000004,
+  "durability": 45.300000000000004,
   "max_durability": 115.0,
-  "volatility": 0.3800000000000003,
+  "volatility": 0.4000000000000003,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
     "Order": 0.1,
-    "Chaos": 0.1
+    "Chaos": 0.1,
+    "DEX": 0.1
   }
 }

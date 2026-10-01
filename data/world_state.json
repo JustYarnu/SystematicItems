@@ -1,21 +1,21 @@
 {
   "currency": 698800,
-  "tick": 31157,
+  "tick": 31182,
   "mutation_stats": {
-    "attempted": 31157,
-    "success": 12975
+    "attempted": 31182,
+    "success": 12981
   },
   "recent_events": [
-    "MUTATED: 'Glacial Axe of Ruins' evolved to generation 15.",
+    "MUTATED: 'Glacial Edge of Grace' evolved to generation 10.",
+    "STABLE: 'Resolute Axe of the Void' did not mutate this tick.",
     "STABLE: 'Glacial Edge of Grace' did not mutate this tick.",
-    "MUTATED: 'Resolute Axe of the Void' evolved to generation 16.",
-    "MUTATED: 'Unstable Edge of Gales' evolved to generation 10.",
-    "STABLE: 'Glacial Axe of Ruins' did not mutate this tick.",
-    "MUTATED: 'Mundane Core of the Glacier' evolved to generation 17.",
-    "MUTATED: 'Glacial Axe of Ruins' evolved to generation 16.",
-    "STABLE: 'Gilded Focus of Ash' did not mutate this tick.",
-    "STABLE: 'Gilded Focus of Ash' did not mutate this tick.",
-    "MUTATED: 'Rusty Spear of the Glacier' evolved to generation 18."
+    "MUTATED: 'Mundane Core of the Glacier' evolved to generation 18.",
+    "MUTATED: 'Unstable Edge of Gales' evolved to generation 11.",
+    "STABLE: 'Mundane Sigil of Grace' did not mutate this tick.",
+    "STABLE: 'Unstable Edge of Gales' did not mutate this tick.",
+    "STABLE: 'Resolute Axe of the Void' did not mutate this tick.",
+    "STABLE: 'Titanic Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Titanic Rapier of Iron' did not mutate this tick."
   ],
   "created": 381,
   "avg_lifespan": 35.67115902964965,
