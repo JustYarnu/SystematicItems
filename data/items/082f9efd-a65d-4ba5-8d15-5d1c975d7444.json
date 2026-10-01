@@ -2,7 +2,7 @@
   "id": "082f9efd-a65d-4ba5-8d15-5d1c975d7444",
   "name": "Gilded Focus of Ash",
   "type": "Focus",
-  "generation": 3,
+  "generation": 4,
   "damage": 12.0,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.0,
   "dex_mod": 1.0,
   "rarity": 2.5,
-  "durability": 85.65,
-  "max_durability": 105.0,
-  "volatility": 0.30000000000000004,
+  "durability": 79.4,
+  "max_durability": 107.0,
+  "volatility": 0.32000000000000006,
   "resilience": 0.55,
   "worth": 100,
   "affinities": {}
