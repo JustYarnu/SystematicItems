@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-31132
+31157
 
 ## Oldest Item
-Gilded Focus of Ash
+Titanic Rapier of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.55
-- Average Volatility: 0.42
-- Average Durability: 52.45
+- Average Rarity: 1.65
+- Average Volatility: 0.38
+- Average Durability: 60.52
 
 ## Dominant Factions
-- Order: 0.5
+- Order: 0.6
 - Chaos: 0.3
 - DEX: 0.3
 
 ## Extremes
-- Most Stable Item: Dread Relic of Grace
+- Most Stable Item: Titanic Rapier of Iron
 - Most Volatile Item: Mundane Sigil of Grace
 
 ## Recent Events
-- STABLE: 'Mundane Core of the Glacier' did not mutate this tick.
-- MUTATED: 'Glacial Edge of Grace' evolved to generation 8.
-- STABLE: 'Mundane Sigil of Grace' did not mutate this tick.
+- STABLE: 'Gilded Focus of Ash' did not mutate this tick.
+- STABLE: 'Gilded Focus of Ash' did not mutate this tick.
+- MUTATED: 'Rusty Spear of the Glacier' evolved to generation 18.
 
 ## Lifecycle Stats
-- Items Created: 380
-- Items Archived: 370
+- Items Created: 381
+- Items Archived: 371
 - Avg Lifespan (ticks): 35.7
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Gilded Focus of Ash
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 31132
-- Successful Mutations: 12962
+- Mutations Attempted: 31157
+- Successful Mutations: 12975
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 5
+- Uncommon: 5
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Gilded Focus of Ash
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 696800
-- Currency per Tick (avg): 22.38
+- Total Currency: 698800
+- Currency per Tick (avg): 22.43
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
