@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-31207
+31232
 
 ## Oldest Item
 Titanic Rapier of Iron
@@ -12,7 +12,7 @@ Titanic Rapier of Iron
 - Active Items: 10
 - Average Rarity: 1.75
 - Average Volatility: 0.41
-- Average Durability: 52.91
+- Average Durability: 49.17
 
 ## Dominant Factions
 - Order: 0.6
@@ -24,9 +24,9 @@ Titanic Rapier of Iron
 - Most Volatile Item: Mundane Sigil of Grace
 
 ## Recent Events
-- STABLE: 'Mundane Core of the Glacier' did not mutate this tick.
-- STABLE: 'Gilded Focus of Ash' did not mutate this tick.
-- STABLE: 'Mundane Core of the Glacier' did not mutate this tick.
+- MUTATED: 'Dread Relic of Grace' evolved to generation 7.
+- STABLE: 'Resolute Axe of the Void' did not mutate this tick.
+- MUTATED: 'Mundane Core of the Glacier' evolved to generation 21.
 
 ## Lifecycle Stats
 - Items Created: 381
@@ -40,8 +40,8 @@ Titanic Rapier of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 31207
-- Successful Mutations: 12990
+- Mutations Attempted: 31232
+- Successful Mutations: 13005
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Titanic Rapier of Iron
 
 ## Economy
 - Total Currency: 698800
-- Currency per Tick (avg): 22.39
+- Currency per Tick (avg): 22.37
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
