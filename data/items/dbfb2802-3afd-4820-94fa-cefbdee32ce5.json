@@ -2,7 +2,7 @@
   "id": "dbfb2802-3afd-4820-94fa-cefbdee32ce5",
   "name": "Dread Relic of Grace",
   "type": "Artifact",
-  "generation": 11,
+  "generation": 13,
   "damage": 18.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.4000000000000001,
   "dex_mod": 1.25,
   "rarity": 1.5,
-  "durability": 63.44999999999999,
-  "max_durability": 94.0,
-  "volatility": 0.3200000000000001,
-  "resilience": 0.4,
+  "durability": 52.79999999999999,
+  "max_durability": 101.0,
+  "volatility": 0.34000000000000014,
+  "resilience": 0.45,
   "worth": 100,
   "affinities": {
     "Order": 0.1
