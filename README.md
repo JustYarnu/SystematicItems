@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-31332
+31357
 
 ## Oldest Item
 Blessed Bow of Ruins
@@ -11,22 +11,22 @@ Blessed Bow of Ruins
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.5
-- Average Volatility: 0.35
-- Average Durability: 53.51
+- Average Volatility: 0.37
+- Average Durability: 49.9
 
 ## Dominant Factions
 - Order: 0.5
+- DEX: 0.4
 - Chaos: 0.3
-- DEX: 0.3
 
 ## Extremes
-- Most Stable Item: Starlight Edge of Ruins
+- Most Stable Item: Blessed Bow of Ruins
 - Most Volatile Item: Unstable Edge of Gales
 
 ## Recent Events
-- STABLE: 'Blessed Bow of Ruins' did not mutate this tick.
-- STABLE: 'Gilded Focus of Ash' did not mutate this tick.
-- MUTATED: 'Unstable Edge of Gales' evolved to generation 13.
+- STABLE: 'Starlight Edge of Ruins' did not mutate this tick.
+- STABLE: 'Resolute Axe of the Void' did not mutate this tick.
+- STABLE: 'Mundane Core of the Glacier' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 383
@@ -40,8 +40,8 @@ Blessed Bow of Ruins
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 31332
-- Successful Mutations: 13042
+- Mutations Attempted: 31357
+- Successful Mutations: 13048
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Blessed Bow of Ruins
 
 ## Economy
 - Total Currency: 701900
-- Currency per Tick (avg): 22.4
+- Currency per Tick (avg): 22.38
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
