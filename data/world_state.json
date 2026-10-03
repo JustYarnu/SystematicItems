@@ -1,21 +1,21 @@
 {
   "currency": 701900,
-  "tick": 31307,
+  "tick": 31332,
   "mutation_stats": {
-    "attempted": 31307,
-    "success": 13032
+    "attempted": 31332,
+    "success": 13042
   },
   "recent_events": [
     "STABLE: 'Blessed Bow of Ruins' did not mutate this tick.",
-    "STABLE: 'Unstable Edge of Gales' did not mutate this tick.",
-    "STABLE: 'Unstable Edge of Gales' did not mutate this tick.",
-    "STABLE: 'Unstable Edge of Gales' did not mutate this tick.",
-    "STABLE: 'Mundane Core of the Glacier' did not mutate this tick.",
-    "STABLE: 'Mundane Core of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Glacial Axe of Ruins' evolved to generation 23.",
+    "MUTATED: 'Starlight Edge of Ruins' evolved to generation 3.",
+    "STABLE: 'Blessed Bow of Ruins' did not mutate this tick.",
     "STABLE: 'Starlight Edge of Ruins' did not mutate this tick.",
-    "STABLE: 'Dread Relic of Grace' did not mutate this tick.",
-    "STABLE: 'Resolute Axe of the Void' did not mutate this tick."
+    "MUTATED: 'Gilded Focus of Ash' evolved to generation 9.",
+    "MUTATED: 'Titanic Rapier of Iron' evolved to generation 2.",
+    "STABLE: 'Blessed Bow of Ruins' did not mutate this tick.",
+    "STABLE: 'Blessed Bow of Ruins' did not mutate this tick.",
+    "STABLE: 'Gilded Focus of Ash' did not mutate this tick.",
+    "MUTATED: 'Unstable Edge of Gales' evolved to generation 13."
   ],
   "created": 383,
   "avg_lifespan": 35.635388739946436,
