@@ -1,21 +1,21 @@
 {
   "currency": 701900,
-  "tick": 31282,
+  "tick": 31307,
   "mutation_stats": {
-    "attempted": 31282,
-    "success": 13027
+    "attempted": 31307,
+    "success": 13032
   },
   "recent_events": [
-    "STABLE: 'Dread Relic of Grace' did not mutate this tick.",
-    "MUTATED: 'Glacial Axe of Ruins' evolved to generation 22.",
-    "STABLE: 'Glacial Edge of Grace' did not mutate this tick.",
-    "MUTATED: 'Gilded Focus of Ash' evolved to generation 8.",
-    "MUTATED: 'Dread Relic of Grace' evolved to generation 12.",
-    "STABLE: 'Gilded Focus of Ash' did not mutate this tick.",
-    "MUTATED: 'Dread Relic of Grace' evolved to generation 13.",
+    "STABLE: 'Blessed Bow of Ruins' did not mutate this tick.",
     "STABLE: 'Unstable Edge of Gales' did not mutate this tick.",
-    "STABLE: 'Gilded Focus of Ash' did not mutate this tick.",
-    "STABLE: 'Gilded Focus of Ash' did not mutate this tick."
+    "STABLE: 'Unstable Edge of Gales' did not mutate this tick.",
+    "STABLE: 'Unstable Edge of Gales' did not mutate this tick.",
+    "STABLE: 'Mundane Core of the Glacier' did not mutate this tick.",
+    "STABLE: 'Mundane Core of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Glacial Axe of Ruins' evolved to generation 23.",
+    "STABLE: 'Starlight Edge of Ruins' did not mutate this tick.",
+    "STABLE: 'Dread Relic of Grace' did not mutate this tick.",
+    "STABLE: 'Resolute Axe of the Void' did not mutate this tick."
   ],
   "created": 383,
   "avg_lifespan": 35.635388739946436,
