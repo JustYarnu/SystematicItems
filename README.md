@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-31382
+31407
 
 ## Oldest Item
 Blessed Bow of Ruins
@@ -11,8 +11,8 @@ Blessed Bow of Ruins
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.6
-- Average Volatility: 0.4
-- Average Durability: 45.76
+- Average Volatility: 0.41
+- Average Durability: 41.4
 
 ## Dominant Factions
 - Order: 0.5
@@ -24,9 +24,9 @@ Blessed Bow of Ruins
 - Most Volatile Item: Resolute Axe of the Void
 
 ## Recent Events
+- MUTATED: 'Dread Relic of Grace' evolved to generation 16.
+- STABLE: 'Starlight Edge of Ruins' did not mutate this tick.
 - STABLE: 'Resolute Axe of the Void' did not mutate this tick.
-- STABLE: 'Glacial Axe of Ruins' did not mutate this tick.
-- STABLE: 'Glacial Axe of Ruins' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 383
@@ -40,8 +40,8 @@ Blessed Bow of Ruins
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 31382
-- Successful Mutations: 13058
+- Mutations Attempted: 31407
+- Successful Mutations: 13066
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Blessed Bow of Ruins
 
 ## Economy
 - Total Currency: 701900
-- Currency per Tick (avg): 22.37
+- Currency per Tick (avg): 22.35
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
