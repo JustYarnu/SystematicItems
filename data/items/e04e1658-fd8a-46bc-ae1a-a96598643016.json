@@ -2,21 +2,21 @@
   "id": "e04e1658-fd8a-46bc-ae1a-a96598643016",
   "name": "Starlight Edge of Ruins",
   "type": "Sword",
-  "generation": 5,
-  "damage": 25.5,
+  "generation": 7,
+  "damage": 27.0,
   "damage_type": [
     "Physical",
     "Cosmic"
   ],
   "crit_damage": 2,
   "crit_rate": 0.01,
-  "str_mod": 1.1,
+  "str_mod": 1.2000000000000002,
   "dex_mod": 1.4500000000000002,
   "rarity": 2.0,
-  "durability": 69.21999999999998,
+  "durability": 59.499999999999986,
   "max_durability": 75.0,
-  "volatility": 0.1900000000000001,
-  "resilience": 0.58,
+  "volatility": 0.19000000000000014,
+  "resilience": 0.6599999999999999,
   "worth": 100,
   "affinities": {}
 }
