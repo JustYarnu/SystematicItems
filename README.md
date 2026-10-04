@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-31507
+31532
 
 ## Oldest Item
 Volcanic Spear of the Glacier
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.7
+- Average Rarity: 1.8
 - Average Volatility: 0.4
-- Average Durability: 45.91
+- Average Durability: 43.04
 
 ## Dominant Factions
 - Order: 0.5
@@ -24,9 +24,9 @@ Volcanic Spear of the Glacier
 - Most Volatile Item: Resolute Axe of the Void
 
 ## Recent Events
-- STABLE: 'Glacial Edge of Grace' did not mutate this tick.
-- STABLE: 'Glacial Axe of Ruins' did not mutate this tick.
-- MUTATED: 'Shattered Rapier of Might' evolved to generation 5.
+- MUTATED: 'Shattered Rapier of Might' evolved to generation 8.
+- STABLE: 'Titanic Rapier of Iron' did not mutate this tick.
+- STABLE: 'Gilded Focus of Ash' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 385
@@ -40,8 +40,8 @@ Volcanic Spear of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 31507
-- Successful Mutations: 13107
+- Mutations Attempted: 31532
+- Successful Mutations: 13117
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Volcanic Spear of the Glacier
 
 ## Economy
 - Total Currency: 704400
-- Currency per Tick (avg): 22.36
+- Currency per Tick (avg): 22.34
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
