@@ -2,7 +2,7 @@
   "id": "f58fe76d-e1b6-46b4-84a6-8a59914f25fe",
   "name": "Glacial Edge of Grace",
   "type": "Sword",
-  "generation": 24,
+  "generation": 26,
   "damage": 21.0,
   "damage_type": [
     "Physical",
@@ -11,11 +11,11 @@
   "crit_damage": 2.5,
   "crit_rate": 0.01,
   "str_mod": 1.4000000000000004,
-  "dex_mod": 1.4500000000000002,
+  "dex_mod": 1.5500000000000003,
   "rarity": 1,
-  "durability": 13.250000000000007,
+  "durability": 7.820000000000007,
   "max_durability": 125.0,
-  "volatility": 0.42000000000000043,
+  "volatility": 0.39000000000000046,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
