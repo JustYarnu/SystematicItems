@@ -10183,5 +10183,31 @@
       "Scarceness": 0.2,
       "Order": 0.1
     }
+  },
+  {
+    "id": "3cc4cf78-f89d-4344-9def-9f48d714f366",
+    "name": "Glacial Axe of Ruins",
+    "type": "HeavyWeapon",
+    "generation": 31,
+    "damage": 28.5,
+    "damage_type": [
+      "Physical",
+      "Cold",
+      "Slashing"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.01,
+    "str_mod": 1.4500000000000002,
+    "dex_mod": 1.2000000000000002,
+    "rarity": 2,
+    "durability": -1.0,
+    "max_durability": 113.0,
+    "volatility": 0.5100000000000005,
+    "resilience": 0.7499999999999999,
+    "worth": 1650,
+    "affinities": {
+      "Chaos": 0.1,
+      "Order": 0.1
+    }
   }
 ]

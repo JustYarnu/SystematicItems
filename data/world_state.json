@@ -1,23 +1,23 @@
 {
-  "currency": 707050,
-  "tick": 31582,
+  "currency": 708700,
+  "tick": 31607,
   "mutation_stats": {
-    "attempted": 31582,
-    "success": 13135
+    "attempted": 31607,
+    "success": 13145
   },
   "recent_events": [
-    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
-    "STABLE: 'Corrosive Relic of Might' did not mutate this tick.",
-    "MUTATED: 'Resolute Axe of the Void' evolved to generation 36.",
+    "MUTATED: 'Starlight Edge of Ruins' evolved to generation 12.",
+    "STABLE: 'Starlight Edge of Ruins' did not mutate this tick.",
+    "MUTATED: 'Corrosive Relic of Might' evolved to generation 3.",
+    "MUTATED: 'Glacial Axe of Ruins' evolved to generation 31.",
+    "REPLACED WITH: 'Resolute Shard of Whispers' (cf76e0c3-c759-451a-8e6f-6ab0ea27ae3b)",
+    "MUTATED: 'Corrosive Relic of Might' evolved to generation 4.",
     "STABLE: 'Titanic Rapier of Iron' did not mutate this tick.",
-    "STABLE: 'Dread Relic of Grace' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
-    "STABLE: 'Volcanic Spear of the Glacier' did not mutate this tick.",
-    "STABLE: 'Shattered Rapier of Might' did not mutate this tick.",
-    "STABLE: 'Blessed Bow of Ruins' did not mutate this tick."
+    "STABLE: 'Titanic Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Starlight Edge of Ruins' did not mutate this tick.",
+    "MUTATED: 'Resolute Axe of the Void' evolved to generation 37."
   ],
-  "created": 387,
-  "avg_lifespan": 35.50928381962869,
-  "archived": 377
+  "created": 388,
+  "avg_lifespan": 35.49735449735454,
+  "archived": 378
 }
