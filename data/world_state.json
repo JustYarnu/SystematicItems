@@ -1,23 +1,23 @@
 {
-  "currency": 705950,
-  "tick": 31557,
+  "currency": 707050,
+  "tick": 31582,
   "mutation_stats": {
-    "attempted": 31557,
-    "success": 13130
+    "attempted": 31582,
+    "success": 13135
   },
   "recent_events": [
-    "STABLE: 'Gilded Focus of Ash' did not mutate this tick.",
-    "STABLE: 'Blessed Bow of Ruins' did not mutate this tick.",
-    "MUTATED: 'Volcanic Spear of the Glacier' evolved to generation 4.",
-    "STABLE: 'Dread Relic of Grace' did not mutate this tick.",
-    "MUTATED: 'Glacial Axe of Ruins' evolved to generation 29.",
-    "MUTATED: 'Starlight Edge of Ruins' evolved to generation 11.",
-    "MUTATED: 'Resolute Axe of the Void' evolved to generation 35.",
+    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
+    "STABLE: 'Corrosive Relic of Might' did not mutate this tick.",
+    "MUTATED: 'Resolute Axe of the Void' evolved to generation 36.",
     "STABLE: 'Titanic Rapier of Iron' did not mutate this tick.",
-    "STABLE: 'Gilded Focus of Ash' did not mutate this tick.",
+    "STABLE: 'Dread Relic of Grace' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
+    "STABLE: 'Volcanic Spear of the Glacier' did not mutate this tick.",
+    "STABLE: 'Shattered Rapier of Might' did not mutate this tick.",
     "STABLE: 'Blessed Bow of Ruins' did not mutate this tick."
   ],
-  "created": 386,
-  "avg_lifespan": 35.55053191489367,
-  "archived": 376
+  "created": 387,
+  "avg_lifespan": 35.50928381962869,
+  "archived": 377
 }
