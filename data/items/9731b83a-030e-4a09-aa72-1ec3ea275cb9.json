@@ -2,7 +2,7 @@
   "id": "9731b83a-030e-4a09-aa72-1ec3ea275cb9",
   "name": "Shattered Rapier of Might",
   "type": "Generic",
-  "generation": 8,
+  "generation": 9,
   "damage": 22.0,
   "damage_type": [
     "Physical",
@@ -13,12 +13,12 @@
   "str_mod": 1.25,
   "dex_mod": 1.1,
   "rarity": 1,
-  "durability": 58.02,
+  "durability": 55.02,
   "max_durability": 82.0,
-  "volatility": 0.3600000000000001,
+  "volatility": 0.3700000000000001,
   "resilience": 0.53,
   "worth": 100,
   "affinities": {
-    "STR": 0.1
+    "STR": 0.2
   }
 }

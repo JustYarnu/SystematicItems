@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-31532
+31557
 
 ## Oldest Item
-Volcanic Spear of the Glacier
+Mundane Rapier of Might
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.8
-- Average Volatility: 0.4
-- Average Durability: 43.04
+- Average Volatility: 0.37
+- Average Durability: 48.77
 
 ## Dominant Factions
-- Order: 0.5
-- Restoration: 0.3
-- Scarceness: 0.3
+- Scarceness: 0.4
+- Order: 0.4
+- Stability: 0.3
 
 ## Extremes
-- Most Stable Item: Blessed Bow of Ruins
+- Most Stable Item: Mundane Rapier of Might
 - Most Volatile Item: Resolute Axe of the Void
 
 ## Recent Events
-- MUTATED: 'Shattered Rapier of Might' evolved to generation 8.
 - STABLE: 'Titanic Rapier of Iron' did not mutate this tick.
 - STABLE: 'Gilded Focus of Ash' did not mutate this tick.
+- STABLE: 'Blessed Bow of Ruins' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 385
-- Items Archived: 375
+- Items Created: 386
+- Items Archived: 376
 - Avg Lifespan (ticks): 35.6
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Volcanic Spear of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 31532
-- Successful Mutations: 13117
+- Mutations Attempted: 31557
+- Successful Mutations: 13130
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Volcanic Spear of the Glacier
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 704400
-- Currency per Tick (avg): 22.34
+- Total Currency: 705950
+- Currency per Tick (avg): 22.37
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
