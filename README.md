@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-31632
+31657
 
 ## Oldest Item
 Mundane Rapier of Might
@@ -11,22 +11,22 @@ Mundane Rapier of Might
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.7
-- Average Volatility: 0.37
-- Average Durability: 62.27
+- Average Volatility: 0.38
+- Average Durability: 57.5
 
 ## Dominant Factions
 - Stability: 0.4
 - STR: 0.3
-- Restoration: 0.2
+- DEX: 0.3
 
 ## Extremes
 - Most Stable Item: Blessed Bow of Ruins
 - Most Volatile Item: Resolute Axe of the Void
 
 ## Recent Events
-- MUTATED: 'Shattered Rapier of Might' evolved to generation 13.
-- STABLE: 'Blessed Bow of Ruins' did not mutate this tick.
-- STABLE: 'Blessed Bow of Ruins' did not mutate this tick.
+- STABLE: 'Starlight Edge of Ruins' did not mutate this tick.
+- STABLE: 'Corrosive Relic of Might' did not mutate this tick.
+- MUTATED: 'Titanic Rapier of Iron' evolved to generation 17.
 
 ## Lifecycle Stats
 - Items Created: 388
@@ -40,8 +40,8 @@ Mundane Rapier of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 31632
-- Successful Mutations: 13153
+- Mutations Attempted: 31657
+- Successful Mutations: 13163
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Rapier of Might
 
 ## Economy
 - Total Currency: 708700
-- Currency per Tick (avg): 22.4
+- Currency per Tick (avg): 22.39
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
