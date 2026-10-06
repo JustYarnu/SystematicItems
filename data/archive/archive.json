@@ -10209,5 +10209,59 @@
       "Chaos": 0.1,
       "Order": 0.1
     }
+  },
+  {
+    "id": "1e1cebd5-8de2-4cda-a14c-ee5c41869cec",
+    "name": "Resolute Axe of the Void",
+    "type": "HeavyWeapon",
+    "generation": 42,
+    "damage": 25.0,
+    "damage_type": [
+      "Physical",
+      "Slashing"
+    ],
+    "crit_damage": 3.775488750216347,
+    "crit_rate": 0.01,
+    "str_mod": 1.15,
+    "dex_mod": 0.8,
+    "rarity": 3.0,
+    "durability": -1.0,
+    "max_durability": 120.0,
+    "volatility": 0.6292481250360578,
+    "resilience": 0.6999999999999998,
+    "worth": 2200,
+    "affinities": {
+      "Chaos": 0.2,
+      "Stability": 0.2,
+      "Restoration": 0.1,
+      "Scarceness": 0.2
+    }
+  },
+  {
+    "id": "dbfb2802-3afd-4820-94fa-cefbdee32ce5",
+    "name": "Dread Relic of Grace",
+    "type": "Artifact",
+    "generation": 27,
+    "damage": 23.0,
+    "damage_type": [
+      "Physical",
+      "Dark",
+      "Holy"
+    ],
+    "crit_damage": 3.4754887502163467,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.4000000000000001,
+    "dex_mod": 1.25,
+    "rarity": 1.5,
+    "durability": -1.0,
+    "max_durability": 96.0,
+    "volatility": 0.5300000000000002,
+    "resilience": 0.66,
+    "worth": 1450,
+    "affinities": {
+      "Order": 0.1,
+      "DEX": 0.1,
+      "STR": 0.1
+    }
   }
 ]

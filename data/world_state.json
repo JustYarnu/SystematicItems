@@ -1,23 +1,23 @@
 {
-  "currency": 708700,
-  "tick": 31682,
+  "currency": 712350,
+  "tick": 31707,
   "mutation_stats": {
-    "attempted": 31682,
-    "success": 13168
+    "attempted": 31707,
+    "success": 13178
   },
   "recent_events": [
+    "REPLACED WITH: 'Dread Blade of Iron' (2d322680-457c-49b9-b0cc-bae3c328423b)",
+    "STABLE: 'Volcanic Spear of the Glacier' did not mutate this tick.",
     "STABLE: 'Blessed Bow of Ruins' did not mutate this tick.",
-    "MUTATED: 'Corrosive Relic of Might' evolved to generation 5.",
-    "MUTATED: 'Shattered Rapier of Might' evolved to generation 15.",
-    "STABLE: 'Resolute Axe of the Void' did not mutate this tick.",
-    "STABLE: 'Dread Relic of Grace' did not mutate this tick.",
-    "STABLE: 'Corrosive Relic of Might' did not mutate this tick.",
-    "MUTATED: 'Titanic Rapier of Iron' evolved to generation 18.",
-    "STABLE: 'Resolute Shard of Whispers' did not mutate this tick.",
     "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
-    "STABLE: 'Resolute Shard of Whispers' did not mutate this tick."
+    "STABLE: 'Titanic Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Resolute Shard of Whispers' did not mutate this tick.",
+    "STABLE: 'Titanic Axe of Judgement' did not mutate this tick.",
+    "STABLE: 'Titanic Axe of Judgement' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Might' evolved to generation 2.",
+    "STABLE: 'Corrosive Relic of Might' did not mutate this tick."
   ],
-  "created": 388,
-  "avg_lifespan": 35.49735449735454,
-  "archived": 378
+  "created": 390,
+  "avg_lifespan": 35.49210526315794,
+  "archived": 380
 }
