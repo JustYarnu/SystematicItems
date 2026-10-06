@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-31707
+31732
 
 ## Oldest Item
 Dread Blade of Iron
@@ -11,8 +11,8 @@ Dread Blade of Iron
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.45
-- Average Volatility: 0.3
-- Average Durability: 73.54
+- Average Volatility: 0.33
+- Average Durability: 68.49
 
 ## Dominant Factions
 - Stability: 0.4
@@ -21,12 +21,12 @@ Dread Blade of Iron
 
 ## Extremes
 - Most Stable Item: Dread Blade of Iron
-- Most Volatile Item: Volcanic Spear of the Glacier
+- Most Volatile Item: Shattered Rapier of Might
 
 ## Recent Events
-- STABLE: 'Titanic Axe of Judgement' did not mutate this tick.
-- MUTATED: 'Mundane Rapier of Might' evolved to generation 2.
-- STABLE: 'Corrosive Relic of Might' did not mutate this tick.
+- STABLE: 'Volcanic Spear of the Glacier' did not mutate this tick.
+- MUTATED: 'Titanic Axe of Judgement' evolved to generation 5.
+- MUTATED: 'Shattered Rapier of Might' evolved to generation 20.
 
 ## Lifecycle Stats
 - Items Created: 390
@@ -40,8 +40,8 @@ Dread Blade of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 31707
-- Successful Mutations: 13178
+- Mutations Attempted: 31732
+- Successful Mutations: 13187
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Dread Blade of Iron
 
 ## Economy
 - Total Currency: 712350
-- Currency per Tick (avg): 22.47
+- Currency per Tick (avg): 22.45
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
