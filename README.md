@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-31807
+31832
 
 ## Oldest Item
-Nimble Focus of Might
+Dread Blade of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.45
-- Average Volatility: 0.35
-- Average Durability: 68.89
+- Average Volatility: 0.37
+- Average Durability: 64.34
 
 ## Dominant Factions
 - Stability: 0.6
@@ -21,12 +21,12 @@ Nimble Focus of Might
 
 ## Extremes
 - Most Stable Item: Dread Blade of Iron
-- Most Volatile Item: Volcanic Spear of the Glacier
+- Most Volatile Item: Titanic Rapier of Iron
 
 ## Recent Events
-- STABLE: 'Volcanic Spear of the Glacier' did not mutate this tick.
-- STABLE: 'Dread Blade of Iron' did not mutate this tick.
-- STABLE: 'Titanic Axe of Judgement' did not mutate this tick.
+- STABLE: 'Blessed Bow of Ruins' did not mutate this tick.
+- MUTATED: 'Starlight Edge of Ruins' evolved to generation 21.
+- STABLE: 'Blessed Bow of Ruins' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 391
@@ -40,8 +40,8 @@ Nimble Focus of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 31807
-- Successful Mutations: 13206
+- Mutations Attempted: 31832
+- Successful Mutations: 13217
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Nimble Focus of Might
 
 ## Economy
 - Total Currency: 713500
-- Currency per Tick (avg): 22.43
+- Currency per Tick (avg): 22.41
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

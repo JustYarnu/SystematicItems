@@ -1,21 +1,21 @@
 {
   "currency": 713500,
-  "tick": 31807,
+  "tick": 31832,
   "mutation_stats": {
-    "attempted": 31807,
-    "success": 13206
+    "attempted": 31832,
+    "success": 13217
   },
   "recent_events": [
-    "STABLE: 'Titanic Axe of Judgement' did not mutate this tick.",
-    "MUTATED: 'Starlight Edge of Ruins' evolved to generation 19.",
-    "STABLE: 'Corrosive Relic of Might' did not mutate this tick.",
-    "STABLE: 'Starlight Edge of Ruins' did not mutate this tick.",
-    "MUTATED: 'Resolute Shard of Whispers' evolved to generation 11.",
-    "STABLE: 'Starlight Edge of Ruins' did not mutate this tick.",
-    "MUTATED: 'Corrosive Relic of Might' evolved to generation 7.",
-    "STABLE: 'Volcanic Spear of the Glacier' did not mutate this tick.",
+    "STABLE: 'Titanic Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Might' evolved to generation 5.",
     "STABLE: 'Dread Blade of Iron' did not mutate this tick.",
-    "STABLE: 'Titanic Axe of Judgement' did not mutate this tick."
+    "MUTATED: 'Titanic Rapier of Iron' evolved to generation 24.",
+    "MUTATED: 'Nimble Focus of Might' evolved to generation 3.",
+    "MUTATED: 'Titanic Rapier of Iron' evolved to generation 25.",
+    "STABLE: 'Blessed Bow of Ruins' did not mutate this tick.",
+    "MUTATED: 'Starlight Edge of Ruins' evolved to generation 21.",
+    "STABLE: 'Blessed Bow of Ruins' did not mutate this tick."
   ],
   "created": 391,
   "avg_lifespan": 35.45406824146986,
