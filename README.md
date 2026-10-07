@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-31782
+31807
 
 ## Oldest Item
 Nimble Focus of Might
@@ -11,11 +11,11 @@ Nimble Focus of Might
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.45
-- Average Volatility: 0.33
-- Average Durability: 71.02
+- Average Volatility: 0.35
+- Average Durability: 68.89
 
 ## Dominant Factions
-- Stability: 0.5
+- Stability: 0.6
 - DEX: 0.2
 - Order: 0.2
 
@@ -25,8 +25,8 @@ Nimble Focus of Might
 
 ## Recent Events
 - STABLE: 'Volcanic Spear of the Glacier' did not mutate this tick.
-- STABLE: 'Resolute Shard of Whispers' did not mutate this tick.
-- STABLE: 'Blessed Bow of Ruins' did not mutate this tick.
+- STABLE: 'Dread Blade of Iron' did not mutate this tick.
+- STABLE: 'Titanic Axe of Judgement' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 391
@@ -40,8 +40,8 @@ Nimble Focus of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 31782
-- Successful Mutations: 13200
+- Mutations Attempted: 31807
+- Successful Mutations: 13206
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Nimble Focus of Might
 
 ## Economy
 - Total Currency: 713500
-- Currency per Tick (avg): 22.45
+- Currency per Tick (avg): 22.43
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
