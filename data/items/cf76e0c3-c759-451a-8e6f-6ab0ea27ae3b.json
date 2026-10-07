@@ -2,7 +2,7 @@
   "id": "cf76e0c3-c759-451a-8e6f-6ab0ea27ae3b",
   "name": "Resolute Shard of Whispers",
   "type": "Dagger",
-  "generation": 8,
+  "generation": 9,
   "damage": 11.5,
   "damage_type": [
     "Physical",
@@ -14,13 +14,14 @@
   "str_mod": 1.1,
   "dex_mod": 1.2200000000000002,
   "rarity": 1,
-  "durability": 98.57,
+  "durability": 94.57,
   "max_durability": 115.0,
-  "volatility": 0.3400000000000001,
+  "volatility": 0.3600000000000001,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
     "DEX": 0.1,
-    "Order": 0.1
+    "Order": 0.1,
+    "Chaos": 0.1
   }
 }

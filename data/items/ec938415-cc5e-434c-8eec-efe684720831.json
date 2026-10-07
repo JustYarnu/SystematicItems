@@ -2,7 +2,7 @@
   "id": "ec938415-cc5e-434c-8eec-efe684720831",
   "name": "Corrosive Relic of Might",
   "type": "Artifact",
-  "generation": 5,
+  "generation": 6,
   "damage": 15.5,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.35,
   "dex_mod": 1.1,
   "rarity": 1.5,
-  "durability": 75.85000000000001,
-  "max_durability": 85.0,
-  "volatility": 0.43000000000000016,
-  "resilience": 0.55,
+  "durability": 70.65,
+  "max_durability": 90.0,
+  "volatility": 0.4500000000000002,
+  "resilience": 0.6000000000000001,
   "worth": 100,
   "affinities": {
     "STR": 0.1
