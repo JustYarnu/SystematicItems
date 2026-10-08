@@ -1,21 +1,21 @@
 {
   "currency": 714750,
-  "tick": 31907,
+  "tick": 31932,
   "mutation_stats": {
-    "attempted": 31907,
-    "success": 13245
+    "attempted": 31932,
+    "success": 13257
   },
   "recent_events": [
-    "STABLE: 'Blessed Bow of Ruins' did not mutate this tick.",
-    "STABLE: 'Corrosive Relic of Might' did not mutate this tick.",
+    "STABLE: 'Volcanic Spear of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Titanic Rapier of Iron' evolved to generation 32.",
     "STABLE: 'Nimble Focus of Might' did not mutate this tick.",
+    "STABLE: 'Volcanic Spear of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Volcanic Spear of the Glacier' evolved to generation 14.",
     "STABLE: 'Nimble Focus of Might' did not mutate this tick.",
-    "MUTATED: 'Nimble Focus of Might' evolved to generation 5.",
-    "STABLE: 'Heavy Rapier of Iron' did not mutate this tick.",
-    "MUTATED: 'Heavy Rapier of Iron' evolved to generation 2.",
-    "STABLE: 'Heavy Rapier of Iron' did not mutate this tick.",
-    "MUTATED: 'Heavy Rapier of Iron' evolved to generation 3.",
-    "MUTATED: 'Corrosive Relic of Might' evolved to generation 15."
+    "MUTATED: 'Dread Blade of Iron' evolved to generation 9.",
+    "MUTATED: 'Mundane Rapier of Might' evolved to generation 7.",
+    "MUTATED: 'Titanic Rapier of Iron' evolved to generation 33.",
+    "MUTATED: 'Volcanic Spear of the Glacier' evolved to generation 15."
   ],
   "created": 392,
   "avg_lifespan": 35.42146596858643,
