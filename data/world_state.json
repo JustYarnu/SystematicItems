@@ -1,21 +1,21 @@
 {
   "currency": 714750,
-  "tick": 31882,
+  "tick": 31907,
   "mutation_stats": {
-    "attempted": 31882,
-    "success": 13238
+    "attempted": 31907,
+    "success": 13245
   },
   "recent_events": [
-    "STABLE: 'Titanic Axe of Judgement' did not mutate this tick.",
-    "MUTATED: 'Titanic Rapier of Iron' evolved to generation 28.",
-    "STABLE: 'Dread Blade of Iron' did not mutate this tick.",
     "STABLE: 'Blessed Bow of Ruins' did not mutate this tick.",
+    "STABLE: 'Corrosive Relic of Might' did not mutate this tick.",
+    "STABLE: 'Nimble Focus of Might' did not mutate this tick.",
+    "STABLE: 'Nimble Focus of Might' did not mutate this tick.",
+    "MUTATED: 'Nimble Focus of Might' evolved to generation 5.",
     "STABLE: 'Heavy Rapier of Iron' did not mutate this tick.",
-    "MUTATED: 'Titanic Axe of Judgement' evolved to generation 8.",
-    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
+    "MUTATED: 'Heavy Rapier of Iron' evolved to generation 2.",
     "STABLE: 'Heavy Rapier of Iron' did not mutate this tick.",
-    "MUTATED: 'Titanic Rapier of Iron' evolved to generation 29.",
-    "MUTATED: 'Nimble Focus of Might' evolved to generation 4."
+    "MUTATED: 'Heavy Rapier of Iron' evolved to generation 3.",
+    "MUTATED: 'Corrosive Relic of Might' evolved to generation 15."
   ],
   "created": 392,
   "avg_lifespan": 35.42146596858643,
