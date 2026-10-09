@@ -1,21 +1,21 @@
 {
   "currency": 714750,
-  "tick": 31932,
+  "tick": 31957,
   "mutation_stats": {
-    "attempted": 31932,
-    "success": 13257
+    "attempted": 31957,
+    "success": 13264
   },
   "recent_events": [
+    "STABLE: 'Corrosive Relic of Might' did not mutate this tick.",
+    "MUTATED: 'Heavy Rapier of Iron' evolved to generation 5.",
+    "STABLE: 'Corrosive Relic of Might' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
+    "STABLE: 'Titanic Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Heavy Rapier of Iron' did not mutate this tick.",
     "STABLE: 'Volcanic Spear of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Titanic Rapier of Iron' evolved to generation 32.",
-    "STABLE: 'Nimble Focus of Might' did not mutate this tick.",
-    "STABLE: 'Volcanic Spear of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Volcanic Spear of the Glacier' evolved to generation 14.",
-    "STABLE: 'Nimble Focus of Might' did not mutate this tick.",
-    "MUTATED: 'Dread Blade of Iron' evolved to generation 9.",
-    "MUTATED: 'Mundane Rapier of Might' evolved to generation 7.",
-    "MUTATED: 'Titanic Rapier of Iron' evolved to generation 33.",
-    "MUTATED: 'Volcanic Spear of the Glacier' evolved to generation 15."
+    "MUTATED: 'Resolute Shard of Whispers' evolved to generation 13.",
+    "STABLE: 'Titanic Axe of Judgement' did not mutate this tick.",
+    "STABLE: 'Volcanic Spear of the Glacier' did not mutate this tick."
   ],
   "created": 392,
   "avg_lifespan": 35.42146596858643,
