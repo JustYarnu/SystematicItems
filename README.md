@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-31982
+32007
 
 ## Oldest Item
 Heavy Rapier of Iron
@@ -11,22 +11,22 @@ Heavy Rapier of Iron
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.25
-- Average Volatility: 0.38
-- Average Durability: 56.29
+- Average Volatility: 0.39
+- Average Durability: 52.79
 
 ## Dominant Factions
 - Stability: 0.5
-- Order: 0.3
-- Chaos: 0.3
+- Order: 0.4
+- Chaos: 0.4
 
 ## Extremes
-- Most Stable Item: Heavy Rapier of Iron
+- Most Stable Item: Dread Blade of Iron
 - Most Volatile Item: Corrosive Relic of Might
 
 ## Recent Events
-- MUTATED: 'Nimble Focus of Might' evolved to generation 8.
-- MUTATED: 'Resolute Shard of Whispers' evolved to generation 14.
-- STABLE: 'Titanic Axe of Judgement' did not mutate this tick.
+- STABLE: 'Titanic Rapier of Iron' did not mutate this tick.
+- STABLE: 'Heavy Rapier of Iron' did not mutate this tick.
+- STABLE: 'Corrosive Relic of Might' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 392
@@ -40,8 +40,8 @@ Heavy Rapier of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 31982
-- Successful Mutations: 13275
+- Mutations Attempted: 32007
+- Successful Mutations: 13282
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Heavy Rapier of Iron
 
 ## Economy
 - Total Currency: 714750
-- Currency per Tick (avg): 22.35
+- Currency per Tick (avg): 22.33
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
