@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-32057
+32082
 
 ## Oldest Item
 Heavy Rapier of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.25
-- Average Volatility: 0.42
-- Average Durability: 46.78
+- Average Rarity: 1.35
+- Average Volatility: 0.43
+- Average Durability: 43.43
 
 ## Dominant Factions
-- Stability: 0.5
+- Stability: 0.6
 - Order: 0.4
 - Chaos: 0.4
 
 ## Extremes
-- Most Stable Item: Dread Blade of Iron
-- Most Volatile Item: Corrosive Relic of Might
+- Most Stable Item: Blessed Bow of Ruins
+- Most Volatile Item: Titanic Rapier of Iron
 
 ## Recent Events
-- STABLE: 'Nimble Focus of Might' did not mutate this tick.
-- MUTATED: 'Volcanic Spear of the Glacier' evolved to generation 25.
-- MUTATED: 'Titanic Rapier of Iron' evolved to generation 37.
+- STABLE: 'Dread Blade of Iron' did not mutate this tick.
+- STABLE: 'Heavy Rapier of Iron' did not mutate this tick.
+- STABLE: 'Titanic Axe of Judgement' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 392
@@ -40,15 +40,15 @@ Heavy Rapier of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 32057
-- Successful Mutations: 13295
+- Mutations Attempted: 32082
+- Successful Mutations: 13306
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 9
-- Uncommon: 1
+- Common: 8
+- Uncommon: 2
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Heavy Rapier of Iron
 
 ## Economy
 - Total Currency: 714750
-- Currency per Tick (avg): 22.3
+- Currency per Tick (avg): 22.28
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
