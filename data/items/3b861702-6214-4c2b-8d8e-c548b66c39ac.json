@@ -2,7 +2,7 @@
   "id": "3b861702-6214-4c2b-8d8e-c548b66c39ac",
   "name": "Heavy Rapier of Iron",
   "type": "Generic",
-  "generation": 8,
+  "generation": 9,
   "damage": 15.0,
   "damage_type": [
     "Physical",
@@ -13,10 +13,12 @@
   "str_mod": 1.2,
   "dex_mod": 0.9500000000000001,
   "rarity": 1,
-  "durability": 65.30000000000001,
+  "durability": 62.30000000000001,
   "max_durability": 120.0,
-  "volatility": 0.4000000000000002,
+  "volatility": 0.4100000000000002,
   "resilience": 0.7,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "STR": 0.1
+  }
 }
