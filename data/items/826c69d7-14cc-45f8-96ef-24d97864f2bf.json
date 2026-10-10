@@ -2,7 +2,7 @@
   "id": "826c69d7-14cc-45f8-96ef-24d97864f2bf",
   "name": "Titanic Axe of Judgement",
   "type": "HeavyWeapon",
-  "generation": 12,
+  "generation": 13,
   "damage": 22.5,
   "damage_type": [
     "Physical",
@@ -14,7 +14,7 @@
   "str_mod": 1.75,
   "dex_mod": 0.9500000000000001,
   "rarity": 1,
-  "durability": 48.5,
+  "durability": 61.5,
   "max_durability": 125.0,
   "volatility": 0.4200000000000003,
   "resilience": 0.5,

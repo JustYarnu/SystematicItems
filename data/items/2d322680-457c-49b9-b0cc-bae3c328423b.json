@@ -2,7 +2,7 @@
   "id": "2d322680-457c-49b9-b0cc-bae3c328423b",
   "name": "Dread Blade of Iron",
   "type": "Sword",
-  "generation": 11,
+  "generation": 12,
   "damage": 15.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.25,
   "dex_mod": 0.9500000000000001,
   "rarity": 2,
-  "durability": 40.36999999999999,
+  "durability": 34.72999999999999,
   "max_durability": 110.0,
-  "volatility": 0.3800000000000002,
+  "volatility": 0.36000000000000026,
   "resilience": 0.68,
   "worth": 100,
   "affinities": {
