@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-32232
+32257
 
 ## Oldest Item
 Ancient Spear of Iron
@@ -12,10 +12,10 @@ Ancient Spear of Iron
 - Active Items: 10
 - Average Rarity: 1.25
 - Average Volatility: 0.42
-- Average Durability: 46.3
+- Average Durability: 41.45
 
 ## Dominant Factions
-- Stability: 0.6
+- Stability: 0.7
 - Order: 0.5
 - Restoration: 0.4
 
@@ -25,8 +25,8 @@ Ancient Spear of Iron
 
 ## Recent Events
 - STABLE: 'Corrosive Blade of Frost' did not mutate this tick.
+- STABLE: 'Volcanic Spear of the Glacier' did not mutate this tick.
 - STABLE: 'Ancient Spear of Iron' did not mutate this tick.
-- MUTATED: 'Nimble Focus of Might' evolved to generation 16.
 
 ## Lifecycle Stats
 - Items Created: 394
@@ -40,8 +40,8 @@ Ancient Spear of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 32232
-- Successful Mutations: 13361
+- Mutations Attempted: 32257
+- Successful Mutations: 13371
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Ancient Spear of Iron
 
 ## Economy
 - Total Currency: 717850
-- Currency per Tick (avg): 22.27
+- Currency per Tick (avg): 22.25
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
