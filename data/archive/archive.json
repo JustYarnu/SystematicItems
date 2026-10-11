@@ -10342,5 +10342,27 @@
       "Stability": 0.2,
       "Scarceness": 0.1
     }
+  },
+  {
+    "id": "d0f82f6c-9e10-42b6-9dfd-7497ddb07d1a",
+    "name": "Blessed Bow of Ruins",
+    "type": "Ranged",
+    "generation": 15,
+    "damage": 18.0,
+    "damage_type": [
+      "Physical",
+      "Piercing"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.01,
+    "str_mod": 1.0,
+    "dex_mod": 1.9,
+    "rarity": 1,
+    "durability": -0.09999999999999432,
+    "max_durability": 125.0,
+    "volatility": 0.3400000000000005,
+    "resilience": 0.75,
+    "worth": 850,
+    "affinities": {}
   }
 ]

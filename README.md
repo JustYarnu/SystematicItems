@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-32207
+32232
 
 ## Oldest Item
-Corrosive Blade of Frost
+Ancient Spear of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.15
-- Average Volatility: 0.43
-- Average Durability: 38.06
+- Average Rarity: 1.25
+- Average Volatility: 0.42
+- Average Durability: 46.3
 
 ## Dominant Factions
-- Stability: 0.5
+- Stability: 0.6
 - Order: 0.5
 - Restoration: 0.4
 
 ## Extremes
-- Most Stable Item: Corrosive Blade of Frost
+- Most Stable Item: Ancient Spear of Iron
 - Most Volatile Item: Corrosive Relic of Might
 
 ## Recent Events
-- STABLE: 'Dread Blade of Iron' did not mutate this tick.
-- STABLE: 'Resolute Shard of Whispers' did not mutate this tick.
-- STABLE: 'Corrosive Relic of Might' did not mutate this tick.
+- STABLE: 'Corrosive Blade of Frost' did not mutate this tick.
+- STABLE: 'Ancient Spear of Iron' did not mutate this tick.
+- MUTATED: 'Nimble Focus of Might' evolved to generation 16.
 
 ## Lifecycle Stats
-- Items Created: 393
-- Items Archived: 383
+- Items Created: 394
+- Items Archived: 384
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Corrosive Blade of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 32207
-- Successful Mutations: 13353
+- Mutations Attempted: 32232
+- Successful Mutations: 13361
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 9
-- Uncommon: 1
+- Common: 8
+- Uncommon: 2
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Corrosive Blade of Frost
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 717000
-- Currency per Tick (avg): 22.26
+- Total Currency: 717850
+- Currency per Tick (avg): 22.27
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
