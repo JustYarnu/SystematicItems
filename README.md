@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-32182
+32207
 
 ## Oldest Item
-Mundane Rapier of Might
+Corrosive Blade of Frost
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.35
+- Average Rarity: 1.15
 - Average Volatility: 0.43
-- Average Durability: 32.14
+- Average Durability: 38.06
 
 ## Dominant Factions
-- Stability: 0.7
+- Stability: 0.5
 - Order: 0.5
 - Restoration: 0.4
 
 ## Extremes
-- Most Stable Item: Blessed Bow of Ruins
+- Most Stable Item: Corrosive Blade of Frost
 - Most Volatile Item: Corrosive Relic of Might
 
 ## Recent Events
-- MUTATED: 'Mundane Rapier of Might' evolved to generation 11.
-- STABLE: 'Heavy Rapier of Iron' did not mutate this tick.
-- MUTATED: 'Nimble Focus of Might' evolved to generation 14.
+- STABLE: 'Dread Blade of Iron' did not mutate this tick.
+- STABLE: 'Resolute Shard of Whispers' did not mutate this tick.
+- STABLE: 'Corrosive Relic of Might' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 392
-- Items Archived: 382
+- Items Created: 393
+- Items Archived: 383
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Mundane Rapier of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 32182
-- Successful Mutations: 13344
+- Mutations Attempted: 32207
+- Successful Mutations: 13353
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 8
-- Uncommon: 2
+- Common: 9
+- Uncommon: 1
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Mundane Rapier of Might
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 714750
-- Currency per Tick (avg): 22.21
+- Total Currency: 717000
+- Currency per Tick (avg): 22.26
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

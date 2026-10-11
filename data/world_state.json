@@ -1,23 +1,23 @@
 {
-  "currency": 714750,
-  "tick": 32182,
+  "currency": 717000,
+  "tick": 32207,
   "mutation_stats": {
-    "attempted": 32182,
-    "success": 13344
+    "attempted": 32207,
+    "success": 13353
   },
   "recent_events": [
-    "STABLE: 'Blessed Bow of Ruins' did not mutate this tick.",
-    "MUTATED: 'Titanic Axe of Judgement' evolved to generation 16.",
-    "STABLE: 'Resolute Shard of Whispers' did not mutate this tick.",
-    "STABLE: 'Nimble Focus of Might' did not mutate this tick.",
-    "STABLE: 'Volcanic Spear of the Glacier' did not mutate this tick.",
-    "STABLE: 'Nimble Focus of Might' did not mutate this tick.",
-    "STABLE: 'Resolute Shard of Whispers' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of Might' evolved to generation 11.",
     "STABLE: 'Heavy Rapier of Iron' did not mutate this tick.",
-    "MUTATED: 'Nimble Focus of Might' evolved to generation 14."
+    "MUTATED: 'Dread Blade of Iron' evolved to generation 15.",
+    "MUTATED: 'Corrosive Blade of Frost' evolved to generation 2.",
+    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
+    "STABLE: 'Heavy Rapier of Iron' did not mutate this tick.",
+    "MUTATED: 'Dread Blade of Iron' evolved to generation 16.",
+    "MUTATED: 'Nimble Focus of Might' evolved to generation 15.",
+    "STABLE: 'Dread Blade of Iron' did not mutate this tick.",
+    "STABLE: 'Resolute Shard of Whispers' did not mutate this tick.",
+    "STABLE: 'Corrosive Relic of Might' did not mutate this tick."
   ],
-  "created": 392,
-  "avg_lifespan": 35.42146596858643,
-  "archived": 382
+  "created": 393,
+  "avg_lifespan": 35.441253263707615,
+  "archived": 383
 }
