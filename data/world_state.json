@@ -1,21 +1,21 @@
 {
   "currency": 717850,
-  "tick": 32257,
+  "tick": 32282,
   "mutation_stats": {
-    "attempted": 32257,
-    "success": 13371
+    "attempted": 32282,
+    "success": 13384
   },
   "recent_events": [
-    "STABLE: 'Resolute Shard of Whispers' did not mutate this tick.",
-    "MUTATED: 'Corrosive Relic of Might' evolved to generation 29.",
-    "MUTATED: 'Dread Blade of Iron' evolved to generation 17.",
-    "STABLE: 'Resolute Shard of Whispers' did not mutate this tick.",
+    "STABLE: 'Corrosive Relic of Might' did not mutate this tick.",
     "STABLE: 'Ancient Spear of Iron' did not mutate this tick.",
-    "STABLE: 'Resolute Shard of Whispers' did not mutate this tick.",
-    "MUTATED: 'Volcanic Spear of the Glacier' evolved to generation 39.",
-    "STABLE: 'Corrosive Blade of Frost' did not mutate this tick.",
-    "STABLE: 'Volcanic Spear of the Glacier' did not mutate this tick.",
-    "STABLE: 'Ancient Spear of Iron' did not mutate this tick."
+    "MUTATED: 'Corrosive Blade of Frost' evolved to generation 7.",
+    "STABLE: 'Heavy Rapier of Iron' did not mutate this tick.",
+    "MUTATED: 'Resolute Shard of Whispers' evolved to generation 25.",
+    "MUTATED: 'Nimble Focus of Might' evolved to generation 18.",
+    "STABLE: 'Ancient Spear of Iron' did not mutate this tick.",
+    "MUTATED: 'Dread Blade of Iron' evolved to generation 18.",
+    "MUTATED: 'Corrosive Blade of Frost' evolved to generation 8.",
+    "STABLE: 'Heavy Rapier of Iron' did not mutate this tick."
   ],
   "created": 394,
   "avg_lifespan": 35.38802083333338,
