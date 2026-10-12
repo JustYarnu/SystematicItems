@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-32307
+32332
 
 ## Oldest Item
 Nimble Edge of Grace
@@ -12,21 +12,21 @@ Nimble Edge of Grace
 - Active Items: 10
 - Average Rarity: 1.15
 - Average Volatility: 0.4
-- Average Durability: 47.2
+- Average Durability: 43.86
 
 ## Dominant Factions
 - Stability: 0.8
 - Chaos: 0.5
-- Order: 0.4
+- STR: 0.5
 
 ## Extremes
 - Most Stable Item: Nimble Edge of Grace
 - Most Volatile Item: Corrosive Relic of Might
 
 ## Recent Events
-- MUTATED: 'Dread Blade of Iron' evolved to generation 20.
-- REPLACED WITH: 'Nimble Edge of Grace' (7ef57c63-99d3-4242-aa34-f922fee9ebec)
-- MUTATED: 'Titanic Axe of Judgement' evolved to generation 23.
+- STABLE: 'Volcanic Spear of the Glacier' did not mutate this tick.
+- STABLE: 'Corrosive Blade of Frost' did not mutate this tick.
+- STABLE: 'Heavy Rapier of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 395
@@ -40,8 +40,8 @@ Nimble Edge of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 32307
-- Successful Mutations: 13392
+- Mutations Attempted: 32332
+- Successful Mutations: 13403
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Nimble Edge of Grace
 
 ## Economy
 - Total Currency: 718950
-- Currency per Tick (avg): 22.25
+- Currency per Tick (avg): 22.24
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
