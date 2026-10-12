@@ -1,23 +1,23 @@
 {
-  "currency": 717850,
-  "tick": 32282,
+  "currency": 718950,
+  "tick": 32307,
   "mutation_stats": {
-    "attempted": 32282,
-    "success": 13384
+    "attempted": 32307,
+    "success": 13392
   },
   "recent_events": [
-    "STABLE: 'Corrosive Relic of Might' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
+    "STABLE: 'Nimble Focus of Might' did not mutate this tick.",
+    "MUTATED: 'Titanic Axe of Judgement' evolved to generation 21.",
     "STABLE: 'Ancient Spear of Iron' did not mutate this tick.",
-    "MUTATED: 'Corrosive Blade of Frost' evolved to generation 7.",
+    "STABLE: 'Ancient Spear of Iron' did not mutate this tick.",
+    "MUTATED: 'Titanic Axe of Judgement' evolved to generation 22.",
     "STABLE: 'Heavy Rapier of Iron' did not mutate this tick.",
-    "MUTATED: 'Resolute Shard of Whispers' evolved to generation 25.",
-    "MUTATED: 'Nimble Focus of Might' evolved to generation 18.",
-    "STABLE: 'Ancient Spear of Iron' did not mutate this tick.",
-    "MUTATED: 'Dread Blade of Iron' evolved to generation 18.",
-    "MUTATED: 'Corrosive Blade of Frost' evolved to generation 8.",
-    "STABLE: 'Heavy Rapier of Iron' did not mutate this tick."
+    "MUTATED: 'Dread Blade of Iron' evolved to generation 20.",
+    "REPLACED WITH: 'Nimble Edge of Grace' (7ef57c63-99d3-4242-aa34-f922fee9ebec)",
+    "MUTATED: 'Titanic Axe of Judgement' evolved to generation 23."
   ],
-  "created": 394,
-  "avg_lifespan": 35.38802083333338,
-  "archived": 384
+  "created": 395,
+  "avg_lifespan": 35.348051948051996,
+  "archived": 385
 }
