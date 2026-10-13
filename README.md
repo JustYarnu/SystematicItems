@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-32332
+32357
 
 ## Oldest Item
 Nimble Edge of Grace
@@ -11,8 +11,8 @@ Nimble Edge of Grace
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.15
-- Average Volatility: 0.4
-- Average Durability: 43.86
+- Average Volatility: 0.41
+- Average Durability: 39.15
 
 ## Dominant Factions
 - Stability: 0.8
@@ -24,9 +24,9 @@ Nimble Edge of Grace
 - Most Volatile Item: Corrosive Relic of Might
 
 ## Recent Events
-- STABLE: 'Volcanic Spear of the Glacier' did not mutate this tick.
-- STABLE: 'Corrosive Blade of Frost' did not mutate this tick.
-- STABLE: 'Heavy Rapier of Iron' did not mutate this tick.
+- MUTATED: 'Resolute Shard of Whispers' evolved to generation 29.
+- MUTATED: 'Resolute Shard of Whispers' evolved to generation 30.
+- STABLE: 'Resolute Shard of Whispers' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 395
@@ -40,8 +40,8 @@ Nimble Edge of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 32332
-- Successful Mutations: 13403
+- Mutations Attempted: 32357
+- Successful Mutations: 13413
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Nimble Edge of Grace
 
 ## Economy
 - Total Currency: 718950
-- Currency per Tick (avg): 22.24
+- Currency per Tick (avg): 22.22
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
