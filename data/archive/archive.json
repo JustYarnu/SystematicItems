@@ -10391,5 +10391,34 @@
       "Order": 0.1,
       "STR": 0.1
     }
+  },
+  {
+    "id": "a02f5ac9-4cc7-49df-b160-4078548482dd",
+    "name": "Volcanic Spear of the Glacier",
+    "type": "Polearm",
+    "generation": 49,
+    "damage": 38.0,
+    "damage_type": [
+      "Physical",
+      "Fire",
+      "Piercing",
+      "Cold"
+    ],
+    "crit_damage": 3.3,
+    "crit_rate": 0.01,
+    "str_mod": 1.5000000000000004,
+    "dex_mod": 0.9,
+    "rarity": 1,
+    "durability": -1.0,
+    "max_durability": 110.0,
+    "volatility": 0.52,
+    "resilience": 0.6099999999999997,
+    "worth": 2550,
+    "affinities": {
+      "Restoration": 0.1,
+      "Stability": 0.2,
+      "Order": 0.1,
+      "STR": 0.1
+    }
   }
 ]

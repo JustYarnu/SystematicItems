@@ -1,23 +1,23 @@
 {
-  "currency": 718950,
-  "tick": 32382,
+  "currency": 721500,
+  "tick": 32407,
   "mutation_stats": {
-    "attempted": 32382,
-    "success": 13424
+    "attempted": 32407,
+    "success": 13433
   },
   "recent_events": [
-    "STABLE: 'Heavy Rapier of Iron' did not mutate this tick.",
-    "STABLE: 'Ancient Spear of Iron' did not mutate this tick.",
-    "MUTATED: 'Heavy Rapier of Iron' evolved to generation 20.",
-    "MUTATED: 'Nimble Focus of Might' evolved to generation 22.",
-    "STABLE: 'Titanic Axe of Judgement' did not mutate this tick.",
-    "STABLE: 'Volcanic Spear of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Nimble Focus of Might' evolved to generation 23.",
+    "MUTATED: 'Volcanic Spear of the Glacier' evolved to generation 49.",
+    "REPLACED WITH: 'Mundane Blade of the Glacier' (67f1836f-1319-4202-aeee-0ef9c897378a)",
+    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Resolute Shard of Whispers' evolved to generation 34.",
+    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Corrosive Relic of Might' evolved to generation 32.",
     "STABLE: 'Resolute Shard of Whispers' did not mutate this tick.",
-    "MUTATED: 'Nimble Edge of Grace' evolved to generation 3.",
-    "MUTATED: 'Resolute Shard of Whispers' evolved to generation 32."
+    "STABLE: 'Ancient Spear of Iron' did not mutate this tick.",
+    "MUTATED: 'Titanic Axe of Judgement' evolved to generation 26.",
+    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick."
   ],
-  "created": 395,
-  "avg_lifespan": 35.348051948051996,
-  "archived": 385
+  "created": 396,
+  "avg_lifespan": 35.383419689119215,
+  "archived": 386
 }
