@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-32532
+32557
 
 ## Oldest Item
 Mundane Edge of the Glacier
@@ -11,11 +11,11 @@ Mundane Edge of the Glacier
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.25
-- Average Volatility: 0.39
-- Average Durability: 53.41
+- Average Volatility: 0.4
+- Average Durability: 52.48
 
 ## Dominant Factions
-- STR: 0.7
+- STR: 0.8
 - Chaos: 0.6
 - Stability: 0.6
 
@@ -24,9 +24,9 @@ Mundane Edge of the Glacier
 - Most Volatile Item: Heavy Rapier of Iron
 
 ## Recent Events
-- STABLE: 'Corrosive Relic of Might' did not mutate this tick.
-- MUTATED: 'Heavy Rapier of Iron' evolved to generation 28.
-- STABLE: 'Nimble Focus of Might' did not mutate this tick.
+- MUTATED: 'Mundane Rapier of Might' evolved to generation 22.
+- STABLE: 'Heavy Rapier of Iron' did not mutate this tick.
+- MUTATED: 'Nimble Edge of Grace' evolved to generation 8.
 
 ## Lifecycle Stats
 - Items Created: 398
@@ -40,8 +40,8 @@ Mundane Edge of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 32532
-- Successful Mutations: 13481
+- Mutations Attempted: 32557
+- Successful Mutations: 13489
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Edge of the Glacier
 
 ## Economy
 - Total Currency: 725000
-- Currency per Tick (avg): 22.29
+- Currency per Tick (avg): 22.27
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
