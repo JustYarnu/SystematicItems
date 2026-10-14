@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-32557
+32582
 
 ## Oldest Item
-Mundane Edge of the Glacier
+Ancient Axe of Gales
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.25
-- Average Volatility: 0.4
-- Average Durability: 52.48
+- Average Rarity: 1.35
+- Average Volatility: 0.37
+- Average Durability: 59.4
 
 ## Dominant Factions
-- STR: 0.8
-- Chaos: 0.6
+- STR: 0.7
 - Stability: 0.6
+- Chaos: 0.4
 
 ## Extremes
 - Most Stable Item: Mundane Edge of the Glacier
 - Most Volatile Item: Heavy Rapier of Iron
 
 ## Recent Events
-- MUTATED: 'Mundane Rapier of Might' evolved to generation 22.
-- STABLE: 'Heavy Rapier of Iron' did not mutate this tick.
-- MUTATED: 'Nimble Edge of Grace' evolved to generation 8.
+- MUTATED: 'Mundane Rapier of Might' evolved to generation 23.
+- MUTATED: 'Nimble Focus of Might' evolved to generation 30.
+- REPLACED WITH: 'Ancient Axe of Gales' (674c17c4-529b-4ed1-9fbb-736db75ef76c)
 
 ## Lifecycle Stats
-- Items Created: 398
-- Items Archived: 388
+- Items Created: 399
+- Items Archived: 389
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Mundane Edge of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 32557
-- Successful Mutations: 13489
+- Mutations Attempted: 32582
+- Successful Mutations: 13500
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 8
-- Uncommon: 2
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Mundane Edge of the Glacier
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 725000
-- Currency per Tick (avg): 22.27
-- Recent Gains: 0
+- Total Currency: 726600
+- Currency per Tick (avg): 22.3
+- Recent Gains: 1600
 
 ![CPT](assets/cpt.png)

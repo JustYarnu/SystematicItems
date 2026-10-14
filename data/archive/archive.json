@@ -10476,5 +10476,31 @@
       "Stability": 0.2,
       "Restoration": 0.2
     }
+  },
+  {
+    "id": "ff1cf4d5-4a60-4972-a787-d00791cafe20",
+    "name": "Nimble Focus of Might",
+    "type": "Focus",
+    "generation": 30,
+    "damage": 40.0,
+    "damage_type": [
+      "Physical",
+      "Magic"
+    ],
+    "crit_damage": 3.3,
+    "crit_rate": 0.01,
+    "str_mod": 1.6500000000000004,
+    "dex_mod": 1.0499999999999998,
+    "rarity": 1,
+    "durability": -0.8900000000000272,
+    "max_durability": 82.0,
+    "volatility": 0.5000000000000004,
+    "resilience": 0.6599999999999999,
+    "worth": 1600,
+    "affinities": {
+      "Chaos": 0.2,
+      "Order": 0.1,
+      "STR": 0.1
+    }
   }
 ]
