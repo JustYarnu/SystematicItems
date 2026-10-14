@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-32482
+32507
 
 ## Oldest Item
-Mortal Spear of Plagues
+Mundane Blade of the Glacier
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.25
 - Average Volatility: 0.41
-- Average Durability: 50.52
+- Average Durability: 46.23
 
 ## Dominant Factions
-- Stability: 0.6
-- Chaos: 0.5
-- Restoration: 0.4
+- Stability: 0.8
+- Chaos: 0.6
+- STR: 0.5
 
 ## Extremes
 - Most Stable Item: Mundane Blade of the Glacier
-- Most Volatile Item: Corrosive Relic of Might
+- Most Volatile Item: Mundane Rapier of Might
 
 ## Recent Events
-- STABLE: 'Corrosive Blade of Frost' did not mutate this tick.
-- STABLE: 'Corrosive Blade of Frost' did not mutate this tick.
-- STABLE: 'Ancient Spear of Iron' did not mutate this tick.
+- MUTATED: 'Titanic Axe of Judgement' evolved to generation 30.
+- MUTATED: 'Corrosive Relic of Might' evolved to generation 38.
+- MUTATED: 'Mundane Rapier of Might' evolved to generation 18.
 
 ## Lifecycle Stats
 - Items Created: 397
@@ -40,8 +40,8 @@ Mortal Spear of Plagues
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 32482
-- Successful Mutations: 13459
+- Mutations Attempted: 32507
+- Successful Mutations: 13472
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mortal Spear of Plagues
 
 ## Economy
 - Total Currency: 723350
-- Currency per Tick (avg): 22.27
+- Currency per Tick (avg): 22.25
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
