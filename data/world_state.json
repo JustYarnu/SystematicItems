@@ -1,23 +1,23 @@
 {
-  "currency": 721500,
-  "tick": 32457,
+  "currency": 723350,
+  "tick": 32482,
   "mutation_stats": {
-    "attempted": 32457,
-    "success": 13448
+    "attempted": 32482,
+    "success": 13459
   },
   "recent_events": [
+    "STABLE: 'Mortal Spear of Plagues' did not mutate this tick.",
+    "MUTATED: 'Ancient Spear of Iron' evolved to generation 8.",
+    "MUTATED: 'Titanic Axe of Judgement' evolved to generation 29.",
+    "MUTATED: 'Mundane Rapier of Might' evolved to generation 17.",
     "STABLE: 'Ancient Spear of Iron' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
+    "MUTATED: 'Mortal Spear of Plagues' evolved to generation 2.",
+    "MUTATED: 'Nimble Edge of Grace' evolved to generation 4.",
     "STABLE: 'Corrosive Blade of Frost' did not mutate this tick.",
-    "MUTATED: 'Corrosive Blade of Frost' evolved to generation 14.",
-    "STABLE: 'Corrosive Relic of Might' did not mutate this tick.",
     "STABLE: 'Corrosive Blade of Frost' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
-    "MUTATED: 'Corrosive Relic of Might' evolved to generation 34.",
     "STABLE: 'Ancient Spear of Iron' did not mutate this tick."
   ],
-  "created": 396,
-  "avg_lifespan": 35.383419689119215,
-  "archived": 386
+  "created": 397,
+  "avg_lifespan": 35.382428940568516,
+  "archived": 387
 }
