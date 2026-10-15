@@ -3,20 +3,20 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-32682
+32707
 
 ## Oldest Item
-Ancient Axe of Gales
+Glowing Sigil of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.4
 - Average Volatility: 0.37
-- Average Durability: 67.07
+- Average Durability: 65.22
 
 ## Dominant Factions
 - Order: 0.4
-- Stability: 0.3
+- Stability: 0.4
 - Restoration: 0.1
 
 ## Extremes
@@ -24,9 +24,9 @@ Ancient Axe of Gales
 - Most Volatile Item: Mundane Rapier of Might
 
 ## Recent Events
-- MUTATED: 'Mundane Rapier of Might' evolved to generation 26.
-- MUTATED: 'Nimble Edge of Grace' evolved to generation 14.
-- MUTATED: 'Corrosive Blade of Frost' evolved to generation 22.
+- STABLE: 'Ancient Spear of Iron' did not mutate this tick.
+- MUTATED: 'Corrosive Blade of Frost' evolved to generation 27.
+- STABLE: 'Nimble Edge of Grace' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 401
@@ -40,8 +40,8 @@ Ancient Axe of Gales
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 32682
-- Successful Mutations: 13539
+- Mutations Attempted: 32707
+- Successful Mutations: 13553
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Ancient Axe of Gales
 
 ## Economy
 - Total Currency: 730750
-- Currency per Tick (avg): 22.36
+- Currency per Tick (avg): 22.34
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
