@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-32607
+32632
 
 ## Oldest Item
-Ancient Axe of Gales
+Dread Rapier of Flame
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.35
-- Average Volatility: 0.37
-- Average Durability: 54.94
+- Average Rarity: 1.3
+- Average Volatility: 0.36
+- Average Durability: 61.95
 
 ## Dominant Factions
-- STR: 0.7
-- Stability: 0.6
 - Order: 0.4
+- Stability: 0.3
+- STR: 0.3
 
 ## Extremes
 - Most Stable Item: Ancient Axe of Gales
-- Most Volatile Item: Heavy Rapier of Iron
+- Most Volatile Item: Mundane Rapier of Might
 
 ## Recent Events
-- MUTATED: 'Mortal Spear of Plagues' evolved to generation 8.
-- STABLE: 'Ancient Axe of Gales' did not mutate this tick.
-- MUTATED: 'Nimble Edge of Grace' evolved to generation 12.
+- MUTATED: 'Ancient Spear of Iron' evolved to generation 13.
+- MUTATED: 'Mundane Blade of the Glacier' evolved to generation 5.
+- STABLE: 'Mortal Spear of Plagues' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 399
-- Items Archived: 389
+- Items Created: 400
+- Items Archived: 390
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Ancient Axe of Gales
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 32607
-- Successful Mutations: 13511
+- Mutations Attempted: 32632
+- Successful Mutations: 13519
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Ancient Axe of Gales
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 726600
-- Currency per Tick (avg): 22.28
+- Total Currency: 728950
+- Currency per Tick (avg): 22.34
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
