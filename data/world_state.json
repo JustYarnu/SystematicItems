@@ -1,23 +1,23 @@
 {
-  "currency": 728950,
-  "tick": 32632,
+  "currency": 730750,
+  "tick": 32657,
   "mutation_stats": {
-    "attempted": 32632,
-    "success": 13519
+    "attempted": 32657,
+    "success": 13531
   },
   "recent_events": [
-    "STABLE: 'Corrosive Relic of Might' did not mutate this tick.",
-    "REPLACED WITH: 'Dread Rapier of Flame' (0963a3c5-c139-439b-9ee9-5dd022116f00)",
-    "STABLE: 'Ancient Axe of Gales' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Might' did not mutate this tick.",
-    "STABLE: 'Heavy Rapier of Iron' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Heavy Rapier of Iron' evolved to generation 34.",
-    "MUTATED: 'Ancient Spear of Iron' evolved to generation 13.",
-    "MUTATED: 'Mundane Blade of the Glacier' evolved to generation 5.",
-    "STABLE: 'Mortal Spear of Plagues' did not mutate this tick."
+    "REPLACED WITH: 'Glowing Sigil of Whispers' (6d9afcb5-02c6-4280-a516-381011218e4c)",
+    "MUTATED: 'Mortal Spear of Plagues' evolved to generation 9.",
+    "MUTATED: 'Dread Rapier of Flame' evolved to generation 3.",
+    "STABLE: 'Glowing Sigil of Whispers' did not mutate this tick.",
+    "MUTATED: 'Mortal Spear of Plagues' evolved to generation 10.",
+    "STABLE: 'Mortal Spear of Plagues' did not mutate this tick.",
+    "MUTATED: 'Ancient Spear of Iron' evolved to generation 15.",
+    "MUTATED: 'Ancient Spear of Iron' evolved to generation 16.",
+    "STABLE: 'Mundane Edge of the Glacier' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick."
   ],
-  "created": 400,
-  "avg_lifespan": 35.38205128205132,
-  "archived": 390
+  "created": 401,
+  "avg_lifespan": 35.378516624040955,
+  "archived": 391
 }

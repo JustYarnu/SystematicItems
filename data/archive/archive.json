@@ -10529,5 +10529,31 @@
       "Chaos": 0.2,
       "Stability": 0.3
     }
+  },
+  {
+    "id": "3b861702-6214-4c2b-8d8e-c548b66c39ac",
+    "name": "Heavy Rapier of Iron",
+    "type": "Generic",
+    "generation": 34,
+    "damage": 23.0,
+    "damage_type": [
+      "Physical",
+      "Piercing"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.01,
+    "str_mod": 1.4000000000000001,
+    "dex_mod": 0.9500000000000001,
+    "rarity": 1,
+    "durability": -0.8099999999999921,
+    "max_durability": 122.0,
+    "volatility": 0.56,
+    "resilience": 0.6299999999999998,
+    "worth": 1800,
+    "affinities": {
+      "STR": 0.3,
+      "Restoration": 0.1,
+      "Chaos": 0.1
+    }
   }
 ]

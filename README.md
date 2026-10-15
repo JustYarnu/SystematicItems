@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-32632
+32657
 
 ## Oldest Item
-Dread Rapier of Flame
+Glowing Sigil of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.3
-- Average Volatility: 0.36
-- Average Durability: 61.95
+- Average Rarity: 1.4
+- Average Volatility: 0.35
+- Average Durability: 68.26
 
 ## Dominant Factions
 - Order: 0.4
 - Stability: 0.3
-- STR: 0.3
+- Restoration: 0.1
 
 ## Extremes
 - Most Stable Item: Ancient Axe of Gales
 - Most Volatile Item: Mundane Rapier of Might
 
 ## Recent Events
-- MUTATED: 'Ancient Spear of Iron' evolved to generation 13.
-- MUTATED: 'Mundane Blade of the Glacier' evolved to generation 5.
-- STABLE: 'Mortal Spear of Plagues' did not mutate this tick.
+- MUTATED: 'Ancient Spear of Iron' evolved to generation 16.
+- STABLE: 'Mundane Edge of the Glacier' did not mutate this tick.
+- STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 400
-- Items Archived: 390
+- Items Created: 401
+- Items Archived: 391
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Dread Rapier of Flame
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 32632
-- Successful Mutations: 13519
+- Mutations Attempted: 32657
+- Successful Mutations: 13531
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 3
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Dread Rapier of Flame
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 728950
-- Currency per Tick (avg): 22.34
+- Total Currency: 730750
+- Currency per Tick (avg): 22.38
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
