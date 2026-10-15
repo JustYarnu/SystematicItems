@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-32657
+32682
 
 ## Oldest Item
-Glowing Sigil of Whispers
+Ancient Axe of Gales
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.4
-- Average Volatility: 0.35
-- Average Durability: 68.26
+- Average Volatility: 0.37
+- Average Durability: 67.07
 
 ## Dominant Factions
 - Order: 0.4
@@ -24,9 +24,9 @@ Glowing Sigil of Whispers
 - Most Volatile Item: Mundane Rapier of Might
 
 ## Recent Events
-- MUTATED: 'Ancient Spear of Iron' evolved to generation 16.
-- STABLE: 'Mundane Edge of the Glacier' did not mutate this tick.
-- STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.
+- MUTATED: 'Mundane Rapier of Might' evolved to generation 26.
+- MUTATED: 'Nimble Edge of Grace' evolved to generation 14.
+- MUTATED: 'Corrosive Blade of Frost' evolved to generation 22.
 
 ## Lifecycle Stats
 - Items Created: 401
@@ -40,8 +40,8 @@ Glowing Sigil of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 32657
-- Successful Mutations: 13531
+- Mutations Attempted: 32682
+- Successful Mutations: 13539
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Glowing Sigil of Whispers
 
 ## Economy
 - Total Currency: 730750
-- Currency per Tick (avg): 22.38
+- Currency per Tick (avg): 22.36
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
