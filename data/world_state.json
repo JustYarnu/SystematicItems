@@ -1,21 +1,21 @@
 {
   "currency": 726600,
-  "tick": 32582,
+  "tick": 32607,
   "mutation_stats": {
-    "attempted": 32582,
-    "success": 13500
+    "attempted": 32607,
+    "success": 13511
   },
   "recent_events": [
-    "MUTATED: 'Heavy Rapier of Iron' evolved to generation 29.",
-    "STABLE: 'Nimble Edge of Grace' did not mutate this tick.",
+    "MUTATED: 'Corrosive Relic of Might' evolved to generation 43.",
     "STABLE: 'Heavy Rapier of Iron' did not mutate this tick.",
-    "MUTATED: 'Corrosive Relic of Might' evolved to generation 42.",
-    "STABLE: 'Mundane Edge of the Glacier' did not mutate this tick.",
-    "STABLE: 'Corrosive Blade of Frost' did not mutate this tick.",
-    "STABLE: 'Mundane Edge of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of Might' evolved to generation 23.",
-    "MUTATED: 'Nimble Focus of Might' evolved to generation 30.",
-    "REPLACED WITH: 'Ancient Axe of Gales' (674c17c4-529b-4ed1-9fbb-736db75ef76c)"
+    "STABLE: 'Mortal Spear of Plagues' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Heavy Rapier of Iron' evolved to generation 32.",
+    "MUTATED: 'Corrosive Relic of Might' evolved to generation 44.",
+    "STABLE: 'Corrosive Relic of Might' did not mutate this tick.",
+    "MUTATED: 'Mortal Spear of Plagues' evolved to generation 8.",
+    "STABLE: 'Ancient Axe of Gales' did not mutate this tick.",
+    "MUTATED: 'Nimble Edge of Grace' evolved to generation 12."
   ],
   "created": 399,
   "avg_lifespan": 35.35732647814914,
