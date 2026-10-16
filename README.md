@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-32732
+32757
 
 ## Oldest Item
-Glowing Sigil of Whispers
+Obsidian Axe of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.4
-- Average Volatility: 0.37
-- Average Durability: 61.38
+- Average Volatility: 0.35
+- Average Durability: 70.28
 
 ## Dominant Factions
-- Order: 0.4
-- Stability: 0.4
+- Order: 0.3
+- Stability: 0.3
 - Restoration: 0.1
 
 ## Extremes
-- Most Stable Item: Ancient Axe of Gales
-- Most Volatile Item: Corrosive Blade of Frost
+- Most Stable Item: Obsidian Axe of Iron
+- Most Volatile Item: Mortal Spear of Plagues
 
 ## Recent Events
-- MUTATED: 'Mundane Rapier of Might' evolved to generation 28.
-- MUTATED: 'Corrosive Blade of Frost' evolved to generation 28.
-- STABLE: 'Ancient Axe of Gales' did not mutate this tick.
+- MUTATED: 'Dread Rapier of Flame' evolved to generation 5.
+- STABLE: 'Obsidian Axe of Iron' did not mutate this tick.
+- STABLE: 'Ancient Spear of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 401
-- Items Archived: 391
+- Items Created: 402
+- Items Archived: 392
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Glowing Sigil of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 32732
-- Successful Mutations: 13560
+- Mutations Attempted: 32757
+- Successful Mutations: 13568
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Glowing Sigil of Whispers
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 730750
-- Currency per Tick (avg): 22.33
+- Total Currency: 732300
+- Currency per Tick (avg): 22.36
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
