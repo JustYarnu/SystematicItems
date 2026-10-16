@@ -2,7 +2,7 @@
   "id": "7ef57c63-99d3-4242-aa34-f922fee9ebec",
   "name": "Nimble Edge of Grace",
   "type": "Sword",
-  "generation": 19,
+  "generation": 20,
   "damage": 14.5,
   "damage_type": [
     "Physical"
@@ -12,14 +12,14 @@
   "str_mod": 1.1,
   "dex_mod": 1.65,
   "rarity": 1,
-  "durability": 55.660000000000004,
+  "durability": 52.660000000000004,
   "max_durability": 84.0,
-  "volatility": 0.26000000000000023,
+  "volatility": 0.27000000000000024,
   "resilience": 0.7399999999999999,
   "worth": 100,
   "affinities": {
     "Order": 0.2,
-    "Chaos": 0.1,
+    "Chaos": 0.2,
     "Stability": 0.1
   }
 }
