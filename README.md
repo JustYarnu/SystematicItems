@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-32807
+32832
 
 ## Oldest Item
 Obsidian Axe of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.4
-- Average Volatility: 0.37
-- Average Durability: 62.15
+- Average Rarity: 1.5
+- Average Volatility: 0.39
+- Average Durability: 59.27
 
 ## Dominant Factions
 - Order: 0.4
@@ -24,9 +24,9 @@ Obsidian Axe of Iron
 - Most Volatile Item: Mortal Spear of Plagues
 
 ## Recent Events
-- MUTATED: 'Dread Rapier of Flame' evolved to generation 11.
-- STABLE: 'Ancient Spear of Iron' did not mutate this tick.
-- MUTATED: 'Corrosive Blade of Frost' evolved to generation 32.
+- MUTATED: 'Mortal Spear of Plagues' evolved to generation 17.
+- STABLE: 'Mortal Spear of Plagues' did not mutate this tick.
+- MUTATED: 'Ancient Spear of Iron' evolved to generation 26.
 
 ## Lifecycle Stats
 - Items Created: 402
@@ -40,8 +40,8 @@ Obsidian Axe of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 32807
-- Successful Mutations: 13592
+- Mutations Attempted: 32832
+- Successful Mutations: 13603
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Obsidian Axe of Iron
 
 ## Economy
 - Total Currency: 732300
-- Currency per Tick (avg): 22.32
+- Currency per Tick (avg): 22.3
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
