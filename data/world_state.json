@@ -1,21 +1,21 @@
 {
   "currency": 732300,
-  "tick": 32832,
+  "tick": 32857,
   "mutation_stats": {
-    "attempted": 32832,
-    "success": 13603
+    "attempted": 32857,
+    "success": 13614
   },
   "recent_events": [
-    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Corrosive Blade of Frost' evolved to generation 33.",
-    "MUTATED: 'Ancient Spear of Iron' evolved to generation 25.",
-    "STABLE: 'Mundane Edge of the Glacier' did not mutate this tick.",
-    "STABLE: 'Mundane Edge of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Corrosive Blade of Frost' evolved to generation 34.",
     "STABLE: 'Dread Rapier of Flame' did not mutate this tick.",
-    "MUTATED: 'Mortal Spear of Plagues' evolved to generation 17.",
-    "STABLE: 'Mortal Spear of Plagues' did not mutate this tick.",
-    "MUTATED: 'Ancient Spear of Iron' evolved to generation 26."
+    "MUTATED: 'Ancient Axe of Gales' evolved to generation 10.",
+    "STABLE: 'Ancient Spear of Iron' did not mutate this tick.",
+    "MUTATED: 'Ancient Axe of Gales' evolved to generation 11.",
+    "MUTATED: 'Ancient Spear of Iron' evolved to generation 27.",
+    "STABLE: 'Ancient Axe of Gales' did not mutate this tick.",
+    "MUTATED: 'Glowing Sigil of Whispers' evolved to generation 5.",
+    "STABLE: 'Ancient Axe of Gales' did not mutate this tick.",
+    "MUTATED: 'Nimble Edge of Grace' evolved to generation 25.",
+    "MUTATED: 'Nimble Edge of Grace' evolved to generation 26."
   ],
   "created": 402,
   "avg_lifespan": 35.362244897959215,
