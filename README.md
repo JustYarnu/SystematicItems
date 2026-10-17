@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-32932
+32957
 
 ## Oldest Item
 Obsidian Axe of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.5
-- Average Volatility: 0.42
-- Average Durability: 45.57
+- Average Rarity: 1.6
+- Average Volatility: 0.43
+- Average Durability: 45.48
 
 ## Dominant Factions
 - Order: 0.5
 - Chaos: 0.4
-- Stability: 0.3
+- Restoration: 0.3
 
 ## Extremes
 - Most Stable Item: Obsidian Axe of Iron
 - Most Volatile Item: Glowing Sigil of Whispers
 
 ## Recent Events
-- STABLE: 'Nimble Edge of Grace' did not mutate this tick.
-- STABLE: 'Ancient Axe of Gales' did not mutate this tick.
-- STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.
+- MUTATED: 'Ancient Spear of Iron' evolved to generation 31.
+- MUTATED: 'Nimble Edge of Grace' evolved to generation 30.
+- STABLE: 'Ancient Spear of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 402
@@ -40,15 +40,15 @@ Obsidian Axe of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 32932
-- Successful Mutations: 13640
+- Mutations Attempted: 32957
+- Successful Mutations: 13651
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 5
+- Uncommon: 5
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Obsidian Axe of Iron
 
 ## Economy
 - Total Currency: 732300
-- Currency per Tick (avg): 22.24
+- Currency per Tick (avg): 22.22
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
