@@ -2,7 +2,7 @@
   "id": "0a218c90-f4e8-4340-a74c-f4ef3bc24f88",
   "name": "Mortal Spear of Plagues",
   "type": "Polearm",
-  "generation": 21,
+  "generation": 22,
   "damage": 31.5,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.4000000000000004,
   "dex_mod": 1.0,
   "rarity": 1,
-  "durability": 11.370000000000005,
+  "durability": 6.530000000000005,
   "max_durability": 87.0,
-  "volatility": 0.52,
+  "volatility": 0.49000000000000005,
   "resilience": 0.58,
   "worth": 100,
   "affinities": {
