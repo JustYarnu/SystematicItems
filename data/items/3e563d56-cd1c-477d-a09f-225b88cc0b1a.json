@@ -2,7 +2,7 @@
   "id": "3e563d56-cd1c-477d-a09f-225b88cc0b1a",
   "name": "Obsidian Axe of Iron",
   "type": "HeavyWeapon",
-  "generation": 6,
+  "generation": 8,
   "damage": 13.0,
   "damage_type": [
     "Physical",
@@ -13,11 +13,11 @@
   "crit_rate": 0.01,
   "str_mod": 1.35,
   "dex_mod": 1.1500000000000001,
-  "rarity": 1,
-  "durability": 88.89999999999998,
-  "max_durability": 125.0,
-  "volatility": 0.31000000000000016,
-  "resilience": 0.7,
+  "rarity": 2,
+  "durability": 82.14999999999998,
+  "max_durability": 115.0,
+  "volatility": 0.4500000000000002,
+  "resilience": 0.6499999999999999,
   "worth": 100,
   "affinities": {}
 }

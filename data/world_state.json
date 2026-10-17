@@ -1,21 +1,21 @@
 {
   "currency": 733600,
-  "tick": 33007,
+  "tick": 33032,
   "mutation_stats": {
-    "attempted": 33007,
-    "success": 13677
+    "attempted": 33032,
+    "success": 13685
   },
   "recent_events": [
-    "MUTATED: 'Nimble Edge of Grace' evolved to generation 34.",
-    "STABLE: 'Mortal Spear of Plagues' did not mutate this tick.",
-    "REPLACED WITH: 'Mundane Bow of Iron' (aa2383ab-6921-41f6-b255-f313bdad609e)",
-    "MUTATED: 'Corrosive Blade of Frost' evolved to generation 41.",
-    "MUTATED: 'Glowing Sigil of Whispers' evolved to generation 10.",
-    "MUTATED: 'Mundane Blade of the Glacier' evolved to generation 19.",
-    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of the Glacier' evolved to generation 20.",
+    "MUTATED: 'Dread Rapier of Flame' evolved to generation 22.",
     "STABLE: 'Dread Rapier of Flame' did not mutate this tick.",
-    "STABLE: 'Corrosive Blade of Frost' did not mutate this tick."
+    "MUTATED: 'Obsidian Axe of Iron' evolved to generation 8.",
+    "STABLE: 'Ancient Spear of Iron' did not mutate this tick.",
+    "STABLE: 'Glowing Sigil of Whispers' did not mutate this tick.",
+    "STABLE: 'Ancient Axe of Gales' did not mutate this tick.",
+    "STABLE: 'Mundane Bow of Iron' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
+    "STABLE: 'Nimble Edge of Grace' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick."
   ],
   "created": 403,
   "avg_lifespan": 35.333333333333364,

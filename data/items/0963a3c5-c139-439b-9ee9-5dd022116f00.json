@@ -2,8 +2,8 @@
   "id": "0963a3c5-c139-439b-9ee9-5dd022116f00",
   "name": "Dread Rapier of Flame",
   "type": "Generic",
-  "generation": 20,
-  "damage": 13.0,
+  "generation": 22,
+  "damage": 14.5,
   "damage_type": [
     "Physical",
     "Dark",
@@ -11,17 +11,18 @@
   ],
   "crit_damage": 2,
   "crit_rate": 0.01,
-  "str_mod": 1.4000000000000001,
+  "str_mod": 1.5000000000000002,
   "dex_mod": 1.2000000000000002,
   "rarity": 1,
-  "durability": 30.42000000000001,
+  "durability": 21.34000000000001,
   "max_durability": 114.0,
-  "volatility": 0.4800000000000002,
+  "volatility": 0.5100000000000002,
   "resilience": 0.48000000000000004,
   "worth": 100,
   "affinities": {
     "Chaos": 0.1,
     "Order": 0.1,
-    "Stability": 0.1
+    "Stability": 0.1,
+    "STR": 0.1
   }
 }
