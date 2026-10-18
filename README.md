@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-33132
+33157
 
 ## Oldest Item
-Corrosive Rapier of Frost
+Heavy Rapier of Embers
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.5
-- Average Volatility: 0.42
-- Average Durability: 47.65
+- Average Rarity: 1.4
+- Average Volatility: 0.39
+- Average Durability: 54.92
 
 ## Dominant Factions
-- Stability: 1.0
+- Stability: 0.6
 - Order: 0.5
-- Chaos: 0.4
+- Chaos: 0.5
 
 ## Extremes
 - Most Stable Item: Mundane Bow of Iron
 - Most Volatile Item: Glowing Sigil of Whispers
 
 ## Recent Events
-- MUTATED: 'Obsidian Axe of Iron' evolved to generation 11.
-- STABLE: 'Ancient Axe of Gales' did not mutate this tick.
-- MUTATED: 'Obsidian Axe of Iron' evolved to generation 12.
+- STABLE: 'Heavy Rapier of Embers' did not mutate this tick.
+- STABLE: 'Corrosive Rapier of Frost' did not mutate this tick.
+- MUTATED: 'Nimble Edge of Grace' evolved to generation 42.
 
 ## Lifecycle Stats
-- Items Created: 404
-- Items Archived: 394
+- Items Created: 405
+- Items Archived: 395
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Corrosive Rapier of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 33132
-- Successful Mutations: 13733
-- Failure Rate: 58.6%
+- Mutations Attempted: 33157
+- Successful Mutations: 13746
+- Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 5
-- Uncommon: 5
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Corrosive Rapier of Frost
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 735800
-- Currency per Tick (avg): 22.21
+- Total Currency: 738250
+- Currency per Tick (avg): 22.27
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
