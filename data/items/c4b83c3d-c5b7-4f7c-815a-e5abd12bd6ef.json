@@ -2,7 +2,7 @@
   "id": "c4b83c3d-c5b7-4f7c-815a-e5abd12bd6ef",
   "name": "Corrosive Blade of Frost",
   "type": "Sword",
-  "generation": 41,
+  "generation": 45,
   "damage": 39.0,
   "damage_type": [
     "Physical",
@@ -15,12 +15,13 @@
   "str_mod": 1.6500000000000006,
   "dex_mod": 0.7500000000000001,
   "rarity": 2,
-  "durability": 15.739999999999977,
-  "max_durability": 118.0,
+  "durability": 7.289999999999978,
+  "max_durability": 123.0,
   "volatility": 0.5000000000000002,
   "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {
-    "Stability": 0.2
+    "Stability": 0.4,
+    "Scarceness": 0.1
   }
 }
