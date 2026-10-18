@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-33057
+33082
 
 ## Oldest Item
 Mundane Bow of Iron
@@ -11,22 +11,22 @@ Mundane Bow of Iron
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.7
-- Average Volatility: 0.42
-- Average Durability: 44.22
+- Average Volatility: 0.43
+- Average Durability: 44.28
 
 ## Dominant Factions
 - Stability: 1.0
+- Restoration: 0.4
 - Order: 0.4
-- Chaos: 0.4
 
 ## Extremes
 - Most Stable Item: Mundane Bow of Iron
 - Most Volatile Item: Glowing Sigil of Whispers
 
 ## Recent Events
-- MUTATED: 'Corrosive Blade of Frost' evolved to generation 45.
-- STABLE: 'Obsidian Axe of Iron' did not mutate this tick.
-- MUTATED: 'Ancient Spear of Iron' evolved to generation 38.
+- MUTATED: 'Ancient Spear of Iron' evolved to generation 40.
+- STABLE: 'Dread Rapier of Flame' did not mutate this tick.
+- STABLE: 'Nimble Edge of Grace' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 403
@@ -40,8 +40,8 @@ Mundane Bow of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 33057
-- Successful Mutations: 13698
+- Mutations Attempted: 33082
+- Successful Mutations: 13710
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Bow of Iron
 
 ## Economy
 - Total Currency: 733600
-- Currency per Tick (avg): 22.19
+- Currency per Tick (avg): 22.18
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
