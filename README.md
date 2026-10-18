@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-33107
+33132
 
 ## Oldest Item
 Corrosive Rapier of Frost
@@ -12,11 +12,11 @@ Corrosive Rapier of Frost
 - Active Items: 10
 - Average Rarity: 1.5
 - Average Volatility: 0.42
-- Average Durability: 52.07
+- Average Durability: 47.65
 
 ## Dominant Factions
 - Stability: 1.0
-- Order: 0.4
+- Order: 0.5
 - Chaos: 0.4
 
 ## Extremes
@@ -24,9 +24,9 @@ Corrosive Rapier of Frost
 - Most Volatile Item: Glowing Sigil of Whispers
 
 ## Recent Events
-- STABLE: 'Nimble Edge of Grace' did not mutate this tick.
-- STABLE: 'Nimble Edge of Grace' did not mutate this tick.
-- MUTATED: 'Corrosive Blade of Frost' evolved to generation 46.
+- MUTATED: 'Obsidian Axe of Iron' evolved to generation 11.
+- STABLE: 'Ancient Axe of Gales' did not mutate this tick.
+- MUTATED: 'Obsidian Axe of Iron' evolved to generation 12.
 
 ## Lifecycle Stats
 - Items Created: 404
@@ -40,8 +40,8 @@ Corrosive Rapier of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 33107
-- Successful Mutations: 13719
+- Mutations Attempted: 33132
+- Successful Mutations: 13733
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Corrosive Rapier of Frost
 
 ## Economy
 - Total Currency: 735800
-- Currency per Tick (avg): 22.22
+- Currency per Tick (avg): 22.21
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

@@ -1,21 +1,21 @@
 {
   "currency": 735800,
-  "tick": 33107,
+  "tick": 33132,
   "mutation_stats": {
-    "attempted": 33107,
-    "success": 13719
+    "attempted": 33132,
+    "success": 13733
   },
   "recent_events": [
-    "MUTATED: 'Ancient Axe of Gales' evolved to generation 20.",
-    "MUTATED: 'Mundane Edge of the Glacier' evolved to generation 17.",
-    "STABLE: 'Dread Rapier of Flame' did not mutate this tick.",
-    "MUTATED: 'Ancient Axe of Gales' evolved to generation 21.",
-    "STABLE: 'Obsidian Axe of Iron' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Obsidian Axe of Iron' evolved to generation 10.",
+    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
+    "STABLE: 'Nimble Edge of Grace' did not mutate this tick.",
+    "MUTATED: 'Ancient Axe of Gales' evolved to generation 22.",
+    "MUTATED: 'Mundane Bow of Iron' evolved to generation 3.",
+    "MUTATED: 'Ancient Axe of Gales' evolved to generation 23.",
+    "MUTATED: 'Obsidian Axe of Iron' evolved to generation 11.",
     "STABLE: 'Ancient Axe of Gales' did not mutate this tick.",
-    "STABLE: 'Corrosive Rapier of Frost' did not mutate this tick.",
-    "STABLE: 'Nimble Edge of Grace' did not mutate this tick.",
-    "STABLE: 'Nimble Edge of Grace' did not mutate this tick.",
-    "MUTATED: 'Corrosive Blade of Frost' evolved to generation 46."
+    "MUTATED: 'Obsidian Axe of Iron' evolved to generation 12."
   ],
   "created": 404,
   "avg_lifespan": 35.35025380710663,
