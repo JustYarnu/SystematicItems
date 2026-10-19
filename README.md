@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-33182
+33207
 
 ## Oldest Item
 Heavy Rapier of Embers
@@ -11,8 +11,8 @@ Heavy Rapier of Embers
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.4
-- Average Volatility: 0.4
-- Average Durability: 50.56
+- Average Volatility: 0.41
+- Average Durability: 46.07
 
 ## Dominant Factions
 - Stability: 0.6
@@ -24,9 +24,9 @@ Heavy Rapier of Embers
 - Most Volatile Item: Glowing Sigil of Whispers
 
 ## Recent Events
-- STABLE: 'Obsidian Axe of Iron' did not mutate this tick.
-- STABLE: 'Obsidian Axe of Iron' did not mutate this tick.
-- STABLE: 'Obsidian Axe of Iron' did not mutate this tick.
+- STABLE: 'Corrosive Rapier of Frost' did not mutate this tick.
+- MUTATED: 'Glowing Sigil of Whispers' evolved to generation 22.
+- STABLE: 'Dread Rapier of Flame' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 405
@@ -40,8 +40,8 @@ Heavy Rapier of Embers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 33182
-- Successful Mutations: 13755
+- Mutations Attempted: 33207
+- Successful Mutations: 13765
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Heavy Rapier of Embers
 
 ## Economy
 - Total Currency: 738250
-- Currency per Tick (avg): 22.25
+- Currency per Tick (avg): 22.23
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
