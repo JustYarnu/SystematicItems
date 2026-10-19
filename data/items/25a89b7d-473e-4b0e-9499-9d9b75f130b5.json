@@ -2,7 +2,7 @@
   "id": "25a89b7d-473e-4b0e-9499-9d9b75f130b5",
   "name": "Mundane Edge of the Glacier",
   "type": "Sword",
-  "generation": 22,
+  "generation": 23,
   "damage": 5.0,
   "damage_type": [
     "Physical",
@@ -13,12 +13,13 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.7999999999999998,
   "rarity": 1,
-  "durability": 17.270000000000007,
+  "durability": 15.270000000000007,
   "max_durability": 117.0,
   "volatility": 0.55,
   "resilience": 0.6499999999999999,
   "worth": 100,
   "affinities": {
-    "Restoration": 0.1
+    "Restoration": 0.1,
+    "DEX": 0.1
   }
 }
