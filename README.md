@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-33382
+33407
 
 ## Oldest Item
 Verdant Axe of Might
@@ -12,21 +12,21 @@ Verdant Axe of Might
 - Active Items: 10
 - Average Rarity: 1.3
 - Average Volatility: 0.36
-- Average Durability: 72.09
+- Average Durability: 68.73
 
 ## Dominant Factions
-- STR: 0.4
+- STR: 0.5
 - Order: 0.3
 - Scarceness: 0.2
 
 ## Extremes
-- Most Stable Item: Verdant Axe of Might
-- Most Volatile Item: Ancient Axe of Gales
+- Most Stable Item: Mundane Bow of Iron
+- Most Volatile Item: Brittle Shard of Mirage
 
 ## Recent Events
-- STABLE: 'Obsidian Axe of Iron' did not mutate this tick.
-- MUTATED: 'Ancient Axe of Gales' evolved to generation 35.
-- MUTATED: 'Volcanic Edge of the Glacier' evolved to generation 2.
+- STABLE: 'Brittle Shard of Mirage' did not mutate this tick.
+- MUTATED: 'Corrosive Rapier of Frost' evolved to generation 15.
+- MUTATED: 'Heavy Rapier of Embers' evolved to generation 10.
 
 ## Lifecycle Stats
 - Items Created: 410
@@ -40,8 +40,8 @@ Verdant Axe of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 33382
-- Successful Mutations: 13836
+- Mutations Attempted: 33407
+- Successful Mutations: 13845
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Verdant Axe of Might
 
 ## Economy
 - Total Currency: 747050
-- Currency per Tick (avg): 22.38
+- Currency per Tick (avg): 22.36
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
