@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-33357
+33382
 
 ## Oldest Item
-Volcanic Edge of the Glacier
+Verdant Axe of Might
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.3
-- Average Volatility: 0.4
-- Average Durability: 55.63
+- Average Volatility: 0.36
+- Average Durability: 72.09
 
 ## Dominant Factions
-- Order: 0.5
-- STR: 0.5
+- STR: 0.4
+- Order: 0.3
 - Scarceness: 0.2
 
 ## Extremes
-- Most Stable Item: Titanic Spear of Might
+- Most Stable Item: Verdant Axe of Might
 - Most Volatile Item: Ancient Axe of Gales
 
 ## Recent Events
 - STABLE: 'Obsidian Axe of Iron' did not mutate this tick.
-- MUTATED: 'Corrosive Rapier of Frost' evolved to generation 12.
-- MUTATED: 'Obsidian Axe of Iron' evolved to generation 27.
+- MUTATED: 'Ancient Axe of Gales' evolved to generation 35.
+- MUTATED: 'Volcanic Edge of the Glacier' evolved to generation 2.
 
 ## Lifecycle Stats
-- Items Created: 408
-- Items Archived: 398
+- Items Created: 410
+- Items Archived: 400
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Volcanic Edge of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 33357
-- Successful Mutations: 13824
+- Mutations Attempted: 33382
+- Successful Mutations: 13836
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Volcanic Edge of the Glacier
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 743800
-- Currency per Tick (avg): 22.3
+- Total Currency: 747050
+- Currency per Tick (avg): 22.38
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

@@ -1,23 +1,23 @@
 {
-  "currency": 743800,
-  "tick": 33357,
+  "currency": 747050,
+  "tick": 33382,
   "mutation_stats": {
-    "attempted": 33357,
-    "success": 13824
+    "attempted": 33382,
+    "success": 13836
   },
   "recent_events": [
-    "STABLE: 'Mundane Edge of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Corrosive Rapier of Frost' evolved to generation 11.",
-    "MUTATED: 'Titanic Spear of Might' evolved to generation 2.",
-    "STABLE: 'Ancient Axe of Gales' did not mutate this tick.",
-    "STABLE: 'Corrosive Rapier of Frost' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of the Glacier' did not mutate this tick.",
+    "STABLE: 'Mundane Bow of Iron' did not mutate this tick.",
+    "MUTATED: 'Ancient Axe of Gales' evolved to generation 34.",
+    "MUTATED: 'Heavy Rapier of Embers' evolved to generation 8.",
+    "STABLE: 'Titanic Spear of Might' did not mutate this tick.",
+    "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
+    "MUTATED: 'Corrosive Rapier of Frost' evolved to generation 14.",
+    "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
     "STABLE: 'Obsidian Axe of Iron' did not mutate this tick.",
-    "MUTATED: 'Corrosive Rapier of Frost' evolved to generation 12.",
-    "MUTATED: 'Obsidian Axe of Iron' evolved to generation 27."
+    "MUTATED: 'Ancient Axe of Gales' evolved to generation 35.",
+    "MUTATED: 'Volcanic Edge of the Glacier' evolved to generation 2."
   ],
-  "created": 408,
-  "avg_lifespan": 35.376884422110585,
-  "archived": 398
+  "created": 410,
+  "avg_lifespan": 35.35250000000003,
+  "archived": 400
 }
