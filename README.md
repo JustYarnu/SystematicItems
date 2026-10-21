@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-33432
+33457
 
 ## Oldest Item
-Brittle Shard of Mirage
+Titanic Spear of Might
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.3
-- Average Volatility: 0.38
-- Average Durability: 65.35
+- Average Rarity: 1.4
+- Average Volatility: 0.39
+- Average Durability: 64.98
 
 ## Dominant Factions
 - STR: 0.5
@@ -24,9 +24,9 @@ Brittle Shard of Mirage
 - Most Volatile Item: Volcanic Edge of the Glacier
 
 ## Recent Events
-- MUTATED: 'Verdant Axe of Might' evolved to generation 4.
-- STABLE: 'Corrosive Rapier of Frost' did not mutate this tick.
-- STABLE: 'Verdant Axe of Might' did not mutate this tick.
+- STABLE: 'Brittle Shard of Mirage' did not mutate this tick.
+- STABLE: 'Volcanic Edge of the Glacier' did not mutate this tick.
+- MUTATED: 'Brittle Shard of Mirage' evolved to generation 4.
 
 ## Lifecycle Stats
 - Items Created: 410
@@ -40,15 +40,15 @@ Brittle Shard of Mirage
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 33432
-- Successful Mutations: 13853
+- Mutations Attempted: 33457
+- Successful Mutations: 13864
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 3
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Brittle Shard of Mirage
 
 ## Economy
 - Total Currency: 747050
-- Currency per Tick (avg): 22.35
+- Currency per Tick (avg): 22.33
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
