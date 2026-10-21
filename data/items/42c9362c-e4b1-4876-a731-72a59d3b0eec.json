@@ -2,7 +2,7 @@
   "id": "42c9362c-e4b1-4876-a731-72a59d3b0eec",
   "name": "Mundane Rapier of Sparks",
   "type": "Generic",
-  "generation": 6,
+  "generation": 7,
   "damage": 13.0,
   "damage_type": [
     "Physical",
@@ -13,11 +13,11 @@
   "crit_rate": 0.01,
   "str_mod": 1.0,
   "dex_mod": 1.1,
-  "rarity": 1,
-  "durability": 79.63999999999999,
+  "rarity": 2,
+  "durability": 74.63999999999999,
   "max_durability": 100.0,
-  "volatility": 0.2300000000000001,
-  "resilience": 0.75,
+  "volatility": 0.2600000000000001,
+  "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {}
 }
