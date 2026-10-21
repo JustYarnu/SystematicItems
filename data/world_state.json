@@ -1,21 +1,21 @@
 {
   "currency": 747050,
-  "tick": 33457,
+  "tick": 33482,
   "mutation_stats": {
-    "attempted": 33457,
-    "success": 13864
+    "attempted": 33482,
+    "success": 13873
   },
   "recent_events": [
-    "MUTATED: 'Volcanic Edge of the Glacier' evolved to generation 7.",
-    "STABLE: 'Brittle Shard of Mirage' did not mutate this tick.",
-    "MUTATED: 'Mundane Bow of Iron' evolved to generation 13.",
-    "MUTATED: 'Corrosive Rapier of Frost' evolved to generation 16.",
-    "STABLE: 'Corrosive Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Volcanic Edge of the Glacier' evolved to generation 8.",
     "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
-    "STABLE: 'Brittle Shard of Mirage' did not mutate this tick.",
+    "MUTATED: 'Ancient Axe of Gales' evolved to generation 41.",
     "STABLE: 'Volcanic Edge of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Brittle Shard of Mirage' evolved to generation 4."
+    "STABLE: 'Volcanic Edge of the Glacier' did not mutate this tick.",
+    "STABLE: 'Mundane Bow of Iron' did not mutate this tick.",
+    "MUTATED: 'Brittle Shard of Mirage' evolved to generation 5.",
+    "MUTATED: 'Ancient Axe of Gales' evolved to generation 42.",
+    "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
+    "MUTATED: 'Volcanic Edge of the Glacier' evolved to generation 10.",
+    "MUTATED: 'Heavy Rapier of Embers' evolved to generation 13."
   ],
   "created": 410,
   "avg_lifespan": 35.35250000000003,

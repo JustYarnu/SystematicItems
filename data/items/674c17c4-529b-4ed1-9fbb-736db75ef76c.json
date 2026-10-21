@@ -2,26 +2,27 @@
   "id": "674c17c4-529b-4ed1-9fbb-736db75ef76c",
   "name": "Ancient Axe of Gales",
   "type": "HeavyWeapon",
-  "generation": 37,
+  "generation": 42,
   "damage": 20.5,
   "damage_type": [
     "Physical",
     "Slashing",
     "Sonic"
   ],
-  "crit_damage": 3.0,
+  "crit_damage": 3.5,
   "crit_rate": 0.060000000000000005,
   "str_mod": 1.25,
-  "dex_mod": 1.7299999999999998,
+  "dex_mod": 1.8299999999999998,
   "rarity": 2.0,
-  "durability": 21.78999999999998,
-  "max_durability": 121.0,
+  "durability": 31.37999999999998,
+  "max_durability": 116.0,
   "volatility": 0.5100000000000003,
   "resilience": 0.5299999999999999,
   "worth": 100,
   "affinities": {
     "Scarceness": 0.2,
     "Stability": 0.1,
-    "Order": 0.1
+    "Order": 0.1,
+    "DEX": 0.1
   }
 }
