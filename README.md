@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-33557
+33582
 
 ## Oldest Item
 Titanic Spear of Might
@@ -11,12 +11,12 @@ Titanic Spear of Might
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.7
-- Average Volatility: 0.43
-- Average Durability: 54.8
+- Average Volatility: 0.44
+- Average Durability: 51.58
 
 ## Dominant Factions
 - Order: 0.7
-- STR: 0.5
+- STR: 0.6
 - DEX: 0.3
 
 ## Extremes
@@ -24,9 +24,9 @@ Titanic Spear of Might
 - Most Volatile Item: Ancient Axe of Gales
 
 ## Recent Events
-- STABLE: 'Titanic Spear of Might' did not mutate this tick.
-- MUTATED: 'Verdant Axe of Might' evolved to generation 8.
-- MUTATED: 'Obsidian Axe of Iron' evolved to generation 31.
+- MUTATED: 'Brittle Shard of Mirage' evolved to generation 11.
+- STABLE: 'Verdant Axe of Might' did not mutate this tick.
+- MUTATED: 'Titanic Spear of Might' evolved to generation 6.
 
 ## Lifecycle Stats
 - Items Created: 410
@@ -40,8 +40,8 @@ Titanic Spear of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 33557
-- Successful Mutations: 13905
+- Mutations Attempted: 33582
+- Successful Mutations: 13917
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Titanic Spear of Might
 
 ## Economy
 - Total Currency: 747050
-- Currency per Tick (avg): 22.26
+- Currency per Tick (avg): 22.25
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

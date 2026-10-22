@@ -2,7 +2,7 @@
   "id": "524b8d75-6cab-4004-b39b-5cb57f15297a",
   "name": "Brittle Shard of Mirage",
   "type": "Dagger",
-  "generation": 9,
+  "generation": 11,
   "damage": 24.0,
   "damage_type": [
     "Physical",
@@ -10,14 +10,14 @@
     "Cosmic"
   ],
   "crit_damage": 2,
-  "crit_rate": 0.060000000000000005,
+  "crit_rate": 0.07,
   "str_mod": 1.0,
   "dex_mod": 1.4500000000000002,
   "rarity": 1,
-  "durability": 52.5,
-  "max_durability": 65.0,
+  "durability": 45.35,
+  "max_durability": 70.0,
   "volatility": 0.45,
-  "resilience": 0.5,
+  "resilience": 0.55,
   "worth": 100,
   "affinities": {}
 }
