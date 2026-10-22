@@ -1,21 +1,21 @@
 {
   "currency": 747050,
-  "tick": 33607,
+  "tick": 33632,
   "mutation_stats": {
-    "attempted": 33607,
-    "success": 13930
+    "attempted": 33632,
+    "success": 13940
   },
   "recent_events": [
-    "STABLE: 'Heavy Rapier of Embers' did not mutate this tick.",
+    "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
+    "STABLE: 'Mundane Bow of Iron' did not mutate this tick.",
+    "MUTATED: 'Verdant Axe of Might' evolved to generation 10.",
+    "MUTATED: 'Mundane Bow of Iron' evolved to generation 17.",
+    "STABLE: 'Mundane Bow of Iron' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
+    "MUTATED: 'Obsidian Axe of Iron' evolved to generation 35.",
+    "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
     "STABLE: 'Brittle Shard of Mirage' did not mutate this tick.",
-    "MUTATED: 'Heavy Rapier of Embers' evolved to generation 15.",
-    "MUTATED: 'Ancient Axe of Gales' evolved to generation 53.",
-    "MUTATED: 'Titanic Spear of Might' evolved to generation 8.",
-    "MUTATED: 'Mundane Bow of Iron' evolved to generation 16.",
-    "STABLE: 'Obsidian Axe of Iron' did not mutate this tick.",
-    "MUTATED: 'Ancient Axe of Gales' evolved to generation 54.",
-    "STABLE: 'Ancient Axe of Gales' did not mutate this tick.",
-    "MUTATED: 'Ancient Axe of Gales' evolved to generation 55."
+    "MUTATED: 'Volcanic Edge of the Glacier' evolved to generation 17."
   ],
   "created": 410,
   "avg_lifespan": 35.35250000000003,
