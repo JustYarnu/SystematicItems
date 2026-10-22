@@ -3,20 +3,20 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-33657
+33682
 
 ## Oldest Item
-Verdant Axe of Might
+Titanic Spear of Might
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.0
-- Average Volatility: 0.48
-- Average Durability: 42.2
+- Average Rarity: 2.1
+- Average Volatility: 0.49
+- Average Durability: 37.77
 
 ## Dominant Factions
+- STR: 0.8
 - Order: 0.8
-- STR: 0.7
 - Stability: 0.4
 
 ## Extremes
@@ -24,9 +24,9 @@ Verdant Axe of Might
 - Most Volatile Item: Ancient Axe of Gales
 
 ## Recent Events
-- MUTATED: 'Corrosive Rapier of Frost' evolved to generation 28.
-- MUTATED: 'Brittle Shard of Mirage' evolved to generation 16.
-- MUTATED: 'Mundane Bow of Iron' evolved to generation 18.
+- STABLE: 'Titanic Spear of Might' did not mutate this tick.
+- MUTATED: 'Obsidian Axe of Iron' evolved to generation 39.
+- STABLE: 'Ancient Axe of Gales' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 410
@@ -40,8 +40,8 @@ Verdant Axe of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 33657
-- Successful Mutations: 13953
+- Mutations Attempted: 33682
+- Successful Mutations: 13964
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Verdant Axe of Might
 
 ## Economy
 - Total Currency: 747050
-- Currency per Tick (avg): 22.2
+- Currency per Tick (avg): 22.18
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
