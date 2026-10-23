@@ -10797,5 +10797,31 @@
       "STR": 0.2,
       "Chaos": 0.1
     }
+  },
+  {
+    "id": "1292d762-dbdc-436e-a4c6-a03e779ed862",
+    "name": "Corrosive Rapier of Frost",
+    "type": "Generic",
+    "generation": 28,
+    "damage": 21.0,
+    "damage_type": [
+      "Physical",
+      "Acid",
+      "Piercing",
+      "Cold"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.09,
+    "str_mod": 1.4000000000000004,
+    "dex_mod": 1.3000000000000003,
+    "rarity": 3,
+    "durability": -0.48000000000000487,
+    "max_durability": 100.0,
+    "volatility": 0.5700000000000003,
+    "resilience": 0.8292481250360577,
+    "worth": 1500,
+    "affinities": {
+      "Order": 0.2
+    }
   }
 ]

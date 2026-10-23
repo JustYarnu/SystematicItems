@@ -2,7 +2,7 @@
   "id": "aa2383ab-6921-41f6-b255-f313bdad609e",
   "name": "Mundane Bow of Iron",
   "type": "Ranged",
-  "generation": 19,
+  "generation": 20,
   "damage": 12.5,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 1.4,
   "rarity": 3,
-  "durability": 22.93999999999999,
+  "durability": 19.43999999999999,
   "max_durability": 109.0,
-  "volatility": 0.4900000000000004,
+  "volatility": 0.4500000000000004,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
