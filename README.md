@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-33732
+33757
 
 ## Oldest Item
 Unstable Blade of Blood
@@ -12,21 +12,21 @@ Unstable Blade of Blood
 - Active Items: 10
 - Average Rarity: 1.9
 - Average Volatility: 0.51
-- Average Durability: 39.77
+- Average Durability: 36.28
 
 ## Dominant Factions
-- STR: 1.0
-- Order: 0.6
-- Chaos: 0.5
+- STR: 1.1
+- Order: 0.7
+- Chaos: 0.6
 
 ## Extremes
-- Most Stable Item: Mundane Rapier of Sparks
+- Most Stable Item: Verdant Axe of Might
 - Most Volatile Item: Ancient Axe of Gales
 
 ## Recent Events
-- STABLE: 'Brittle Shard of Mirage' did not mutate this tick.
-- STABLE: 'Titanic Spear of Might' did not mutate this tick.
-- STABLE: 'Brittle Shard of Mirage' did not mutate this tick.
+- STABLE: 'Mundane Bow of Iron' did not mutate this tick.
+- STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.
+- STABLE: 'Volcanic Edge of the Glacier' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 411
@@ -40,8 +40,8 @@ Unstable Blade of Blood
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 33732
-- Successful Mutations: 13989
+- Mutations Attempted: 33757
+- Successful Mutations: 14004
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Unstable Blade of Blood
 
 ## Economy
 - Total Currency: 748550
-- Currency per Tick (avg): 22.19
+- Currency per Tick (avg): 22.17
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
