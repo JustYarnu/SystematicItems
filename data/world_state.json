@@ -1,23 +1,23 @@
 {
-  "currency": 748550,
-  "tick": 33757,
+  "currency": 751950,
+  "tick": 33782,
   "mutation_stats": {
-    "attempted": 33757,
-    "success": 14004
+    "attempted": 33782,
+    "success": 14016
   },
   "recent_events": [
-    "MUTATED: 'Obsidian Axe of Iron' evolved to generation 43.",
-    "MUTATED: 'Heavy Rapier of Embers' evolved to generation 28.",
-    "MUTATED: 'Volcanic Edge of the Glacier' evolved to generation 22.",
-    "MUTATED: 'Heavy Rapier of Embers' evolved to generation 29.",
+    "MUTATED: 'Ancient Axe of Gales' evolved to generation 66.",
+    "REPLACED WITH: 'Resolute Focus of Might' (69548bfe-388b-4568-b471-5f4a9d76a40e)",
+    "MUTATED: 'Obsidian Axe of Iron' evolved to generation 44.",
     "STABLE: 'Titanic Spear of Might' did not mutate this tick.",
-    "MUTATED: 'Ancient Axe of Gales' evolved to generation 64.",
-    "MUTATED: 'Ancient Axe of Gales' evolved to generation 65.",
     "STABLE: 'Mundane Bow of Iron' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
-    "STABLE: 'Volcanic Edge of the Glacier' did not mutate this tick."
+    "STABLE: 'Resolute Focus of Might' did not mutate this tick.",
+    "STABLE: 'Resolute Focus of Might' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Sparks' evolved to generation 14.",
+    "MUTATED: 'Unstable Blade of Blood' evolved to generation 3.",
+    "MUTATED: 'Verdant Axe of Might' evolved to generation 15."
   ],
-  "created": 411,
-  "avg_lifespan": 35.33416458852871,
-  "archived": 401
+  "created": 412,
+  "avg_lifespan": 35.410447761194064,
+  "archived": 402
 }

@@ -2,7 +2,7 @@
   "id": "fb23d650-a068-4b2f-b52a-576cbc967b46",
   "name": "Heavy Rapier of Embers",
   "type": "Generic",
-  "generation": 29,
+  "generation": 30,
   "damage": 30.5,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.3,
   "dex_mod": 1.05,
   "rarity": 2,
-  "durability": 26.679999999999993,
-  "max_durability": 94.0,
+  "durability": 23.71999999999999,
+  "max_durability": 99.0,
   "volatility": 0.5500000000000002,
-  "resilience": 0.63,
+  "resilience": 0.68,
   "worth": 100,
   "affinities": {
     "STR": 0.4,
