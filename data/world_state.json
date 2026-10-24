@@ -1,21 +1,21 @@
 {
   "currency": 757900,
-  "tick": 33932,
+  "tick": 33957,
   "mutation_stats": {
-    "attempted": 33932,
-    "success": 14082
+    "attempted": 33957,
+    "success": 14092
   },
   "recent_events": [
-    "STABLE: 'Unstable Blade of Blood' did not mutate this tick.",
-    "STABLE: 'Brittle Shard of Mirage' did not mutate this tick.",
-    "STABLE: 'Resolute Focus of Might' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
-    "MUTATED: 'Fractured Spear of Iron' evolved to generation 5.",
-    "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
+    "STABLE: 'Ancient Spear of Echoes' did not mutate this tick.",
     "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
-    "STABLE: 'Resolute Focus of Might' did not mutate this tick.",
-    "MUTATED: 'Resolute Focus of Might' evolved to generation 7.",
-    "STABLE: 'Unstable Blade of Blood' did not mutate this tick."
+    "MUTATED: 'Fractured Spear of Iron' evolved to generation 7.",
+    "STABLE: 'Verdant Axe of Eternity' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Sparks' evolved to generation 20.",
+    "MUTATED: 'Mundane Rapier of Sparks' evolved to generation 21.",
+    "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
+    "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
+    "MUTATED: 'Mundane Rapier of Sparks' evolved to generation 22."
   ],
   "created": 415,
   "avg_lifespan": 35.427160493827195,

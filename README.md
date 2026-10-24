@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-33932
+33957
 
 ## Oldest Item
 Ancient Spear of Echoes
@@ -11,8 +11,8 @@ Ancient Spear of Echoes
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.53
-- Average Volatility: 0.41
-- Average Durability: 57.65
+- Average Volatility: 0.42
+- Average Durability: 53.13
 
 ## Dominant Factions
 - DEX: 0.5
@@ -24,9 +24,9 @@ Ancient Spear of Echoes
 - Most Volatile Item: Volcanic Edge of the Glacier
 
 ## Recent Events
-- STABLE: 'Resolute Focus of Might' did not mutate this tick.
-- MUTATED: 'Resolute Focus of Might' evolved to generation 7.
-- STABLE: 'Unstable Blade of Blood' did not mutate this tick.
+- STABLE: 'Verdant Axe of Might' did not mutate this tick.
+- STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.
+- MUTATED: 'Mundane Rapier of Sparks' evolved to generation 22.
 
 ## Lifecycle Stats
 - Items Created: 415
@@ -40,8 +40,8 @@ Ancient Spear of Echoes
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 33932
-- Successful Mutations: 14082
+- Mutations Attempted: 33957
+- Successful Mutations: 14092
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Ancient Spear of Echoes
 
 ## Economy
 - Total Currency: 757900
-- Currency per Tick (avg): 22.34
+- Currency per Tick (avg): 22.32
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
