@@ -1,21 +1,21 @@
 {
   "currency": 757900,
-  "tick": 33907,
+  "tick": 33932,
   "mutation_stats": {
-    "attempted": 33907,
-    "success": 14071
+    "attempted": 33932,
+    "success": 14082
   },
   "recent_events": [
-    "STABLE: 'Resolute Focus of Might' did not mutate this tick.",
-    "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
-    "MUTATED: 'Titanic Spear of Might' evolved to generation 22.",
-    "MUTATED: 'Unstable Blade of Blood' evolved to generation 8.",
-    "MUTATED: 'Unstable Blade of Blood' evolved to generation 9.",
-    "MUTATED: 'Unstable Blade of Blood' evolved to generation 10.",
-    "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
-    "MUTATED: 'Volcanic Edge of the Glacier' evolved to generation 25.",
     "STABLE: 'Unstable Blade of Blood' did not mutate this tick.",
-    "STABLE: 'Fractured Spear of Iron' did not mutate this tick."
+    "STABLE: 'Brittle Shard of Mirage' did not mutate this tick.",
+    "STABLE: 'Resolute Focus of Might' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
+    "MUTATED: 'Fractured Spear of Iron' evolved to generation 5.",
+    "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
+    "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
+    "STABLE: 'Resolute Focus of Might' did not mutate this tick.",
+    "MUTATED: 'Resolute Focus of Might' evolved to generation 7.",
+    "STABLE: 'Unstable Blade of Blood' did not mutate this tick."
   ],
   "created": 415,
   "avg_lifespan": 35.427160493827195,

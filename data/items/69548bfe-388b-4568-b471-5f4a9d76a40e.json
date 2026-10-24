@@ -2,8 +2,8 @@
   "id": "69548bfe-388b-4568-b471-5f4a9d76a40e",
   "name": "Resolute Focus of Might",
   "type": "Focus",
-  "generation": 5,
-  "damage": 25.5,
+  "generation": 7,
+  "damage": 30.5,
   "damage_type": [
     "Physical",
     "Magic"
@@ -11,12 +11,12 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.35,
-  "dex_mod": 0.8,
+  "dex_mod": 0.7000000000000001,
   "rarity": 1,
-  "durability": 94.5,
+  "durability": 85.75,
   "max_durability": 120.0,
-  "volatility": 0.34000000000000014,
-  "resilience": 0.75,
+  "volatility": 0.44000000000000017,
+  "resilience": 0.7,
   "worth": 100,
   "affinities": {
     "Order": 0.1
