@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-33857
+33882
 
 ## Oldest Item
-Verdant Axe of Eternity
+Ancient Spear of Echoes
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.4
-- Average Volatility: 0.43
-- Average Durability: 55.02
+- Average Rarity: 1.43
+- Average Volatility: 0.4
+- Average Durability: 65.7
 
 ## Dominant Factions
-- STR: 0.8
-- Order: 0.7
-- Chaos: 0.5
+- Order: 0.5
+- STR: 0.4
+- DEX: 0.4
 
 ## Extremes
-- Most Stable Item: Verdant Axe of Eternity
-- Most Volatile Item: Unstable Blade of Blood
+- Most Stable Item: Ancient Spear of Echoes
+- Most Volatile Item: Brittle Shard of Mirage
 
 ## Recent Events
 - STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.
-- STABLE: 'Titanic Spear of Might' did not mutate this tick.
-- STABLE: 'Brittle Shard of Mirage' did not mutate this tick.
+- STABLE: 'Resolute Focus of Might' did not mutate this tick.
+- MUTATED: 'Verdant Axe of Might' evolved to generation 18.
 
 ## Lifecycle Stats
-- Items Created: 414
-- Items Archived: 404
+- Items Created: 415
+- Items Archived: 405
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Verdant Axe of Eternity
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 33857
-- Successful Mutations: 14044
+- Mutations Attempted: 33882
+- Successful Mutations: 14058
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Verdant Axe of Eternity
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 755750
-- Currency per Tick (avg): 22.32
+- Total Currency: 757900
+- Currency per Tick (avg): 22.37
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

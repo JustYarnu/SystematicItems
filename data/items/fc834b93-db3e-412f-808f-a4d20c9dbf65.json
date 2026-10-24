@@ -2,7 +2,7 @@
   "id": "fc834b93-db3e-412f-808f-a4d20c9dbf65",
   "name": "Verdant Axe of Might",
   "type": "HeavyWeapon",
-  "generation": 17,
+  "generation": 18,
   "damage": 11.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.6,
   "dex_mod": 1.65,
   "rarity": 1,
-  "durability": 77.85,
+  "durability": 82.85,
   "max_durability": 112.0,
-  "volatility": 0.36000000000000026,
+  "volatility": 0.35000000000000026,
   "resilience": 0.65,
   "worth": 100,
   "affinities": {

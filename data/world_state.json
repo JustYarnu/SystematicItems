@@ -1,23 +1,23 @@
 {
-  "currency": 755750,
-  "tick": 33857,
+  "currency": 757900,
+  "tick": 33882,
   "mutation_stats": {
-    "attempted": 33857,
-    "success": 14044
+    "attempted": 33882,
+    "success": 14058
   },
   "recent_events": [
-    "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
-    "STABLE: 'Unstable Blade of Blood' did not mutate this tick.",
-    "STABLE: 'Volcanic Edge of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Titanic Spear of Might' evolved to generation 21.",
+    "MUTATED: 'Unstable Blade of Blood' evolved to generation 6.",
+    "MUTATED: 'Fractured Spear of Iron' evolved to generation 4.",
+    "MUTATED: 'Mundane Rapier of Sparks' evolved to generation 18.",
+    "MUTATED: 'Heavy Rapier of Embers' evolved to generation 40.",
+    "MUTATED: 'Heavy Rapier of Embers' evolved to generation 41.",
+    "REPLACED WITH: 'Ancient Spear of Echoes' (4d804831-0982-4113-b2b4-d217edfe56e2)",
+    "STABLE: 'Fractured Spear of Iron' did not mutate this tick.",
     "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
-    "STABLE: 'Heavy Rapier of Embers' did not mutate this tick.",
-    "STABLE: 'Brittle Shard of Mirage' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
-    "STABLE: 'Titanic Spear of Might' did not mutate this tick.",
-    "STABLE: 'Brittle Shard of Mirage' did not mutate this tick."
+    "STABLE: 'Resolute Focus of Might' did not mutate this tick.",
+    "MUTATED: 'Verdant Axe of Might' evolved to generation 18."
   ],
-  "created": 414,
-  "avg_lifespan": 35.4133663366337,
-  "archived": 404
+  "created": 415,
+  "avg_lifespan": 35.427160493827195,
+  "archived": 405
 }

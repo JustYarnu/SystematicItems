@@ -10903,5 +10903,33 @@
       "STR": 0.3,
       "Order": 0.1
     }
+  },
+  {
+    "id": "fb23d650-a068-4b2f-b52a-576cbc967b46",
+    "name": "Heavy Rapier of Embers",
+    "type": "Generic",
+    "generation": 41,
+    "damage": 33.5,
+    "damage_type": [
+      "Physical",
+      "Piercing",
+      "Fire"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.01,
+    "str_mod": 1.5000000000000002,
+    "dex_mod": 1.2500000000000002,
+    "rarity": 2,
+    "durability": -1.0,
+    "max_durability": 99.0,
+    "volatility": 0.6,
+    "resilience": 0.7399999999999999,
+    "worth": 2150,
+    "affinities": {
+      "STR": 0.4,
+      "Stability": 0.1,
+      "Order": 0.3,
+      "Chaos": 0.2
+    }
   }
 ]
