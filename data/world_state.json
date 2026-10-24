@@ -1,21 +1,21 @@
 {
   "currency": 757900,
-  "tick": 33957,
+  "tick": 33982,
   "mutation_stats": {
-    "attempted": 33957,
-    "success": 14092
+    "attempted": 33982,
+    "success": 14102
   },
   "recent_events": [
+    "MUTATED: 'Brittle Shard of Mirage' evolved to generation 34.",
+    "MUTATED: 'Brittle Shard of Mirage' evolved to generation 35.",
+    "STABLE: 'Brittle Shard of Mirage' did not mutate this tick.",
     "STABLE: 'Ancient Spear of Echoes' did not mutate this tick.",
-    "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
-    "MUTATED: 'Fractured Spear of Iron' evolved to generation 7.",
+    "MUTATED: 'Titanic Spear of Might' evolved to generation 25.",
+    "STABLE: 'Titanic Spear of Might' did not mutate this tick.",
+    "STABLE: 'Titanic Spear of Might' did not mutate this tick.",
+    "STABLE: 'Volcanic Edge of the Glacier' did not mutate this tick.",
     "STABLE: 'Verdant Axe of Eternity' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of Sparks' evolved to generation 20.",
-    "MUTATED: 'Mundane Rapier of Sparks' evolved to generation 21.",
-    "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
-    "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
-    "MUTATED: 'Mundane Rapier of Sparks' evolved to generation 22."
+    "MUTATED: 'Ancient Spear of Echoes' evolved to generation 2."
   ],
   "created": 415,
   "avg_lifespan": 35.427160493827195,
