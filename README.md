@@ -3,20 +3,20 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-33832
+33857
 
 ## Oldest Item
-Fractured Spear of Iron
+Verdant Axe of Eternity
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.4
-- Average Volatility: 0.4
-- Average Durability: 57.8
+- Average Volatility: 0.43
+- Average Durability: 55.02
 
 ## Dominant Factions
 - STR: 0.8
-- Order: 0.6
+- Order: 0.7
 - Chaos: 0.5
 
 ## Extremes
@@ -24,9 +24,9 @@ Fractured Spear of Iron
 - Most Volatile Item: Unstable Blade of Blood
 
 ## Recent Events
-- MUTATED: 'Heavy Rapier of Embers' evolved to generation 35.
-- STABLE: 'Volcanic Edge of the Glacier' did not mutate this tick.
-- MUTATED: 'Verdant Axe of Might' evolved to generation 17.
+- STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.
+- STABLE: 'Titanic Spear of Might' did not mutate this tick.
+- STABLE: 'Brittle Shard of Mirage' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 414
@@ -40,8 +40,8 @@ Fractured Spear of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 33832
-- Successful Mutations: 14038
+- Mutations Attempted: 33857
+- Successful Mutations: 14044
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Fractured Spear of Iron
 
 ## Economy
 - Total Currency: 755750
-- Currency per Tick (avg): 22.34
+- Currency per Tick (avg): 22.32
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

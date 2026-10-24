@@ -1,21 +1,21 @@
 {
   "currency": 755750,
-  "tick": 33832,
+  "tick": 33857,
   "mutation_stats": {
-    "attempted": 33832,
-    "success": 14038
+    "attempted": 33857,
+    "success": 14044
   },
   "recent_events": [
     "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
-    "MUTATED: 'Obsidian Axe of Iron' evolved to generation 48.",
-    "REPLACED WITH: 'Verdant Axe of Eternity' (eed63207-df18-4b24-84a6-294125de882f)",
-    "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
-    "MUTATED: 'Volcanic Edge of the Glacier' evolved to generation 23.",
-    "MUTATED: 'Titanic Spear of Might' evolved to generation 19.",
-    "MUTATED: 'Heavy Rapier of Embers' evolved to generation 34.",
-    "MUTATED: 'Heavy Rapier of Embers' evolved to generation 35.",
+    "STABLE: 'Unstable Blade of Blood' did not mutate this tick.",
     "STABLE: 'Volcanic Edge of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Verdant Axe of Might' evolved to generation 17."
+    "MUTATED: 'Titanic Spear of Might' evolved to generation 21.",
+    "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
+    "STABLE: 'Heavy Rapier of Embers' did not mutate this tick.",
+    "STABLE: 'Brittle Shard of Mirage' did not mutate this tick.",
+    "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
+    "STABLE: 'Titanic Spear of Might' did not mutate this tick.",
+    "STABLE: 'Brittle Shard of Mirage' did not mutate this tick."
   ],
   "created": 414,
   "avg_lifespan": 35.4133663366337,
