@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-33982
+34007
 
 ## Oldest Item
 Verdant Axe of Eternity
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.53
-- Average Volatility: 0.42
-- Average Durability: 53.76
+- Average Rarity: 1.63
+- Average Volatility: 0.43
+- Average Durability: 50.04
 
 ## Dominant Factions
+- Order: 0.6
 - Chaos: 0.5
 - DEX: 0.5
-- Order: 0.5
 
 ## Extremes
 - Most Stable Item: Ancient Spear of Echoes
-- Most Volatile Item: Volcanic Edge of the Glacier
+- Most Volatile Item: Fractured Spear of Iron
 
 ## Recent Events
-- STABLE: 'Volcanic Edge of the Glacier' did not mutate this tick.
-- STABLE: 'Verdant Axe of Eternity' did not mutate this tick.
-- MUTATED: 'Ancient Spear of Echoes' evolved to generation 2.
+- STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.
+- STABLE: 'Ancient Spear of Echoes' did not mutate this tick.
+- MUTATED: 'Mundane Rapier of Sparks' evolved to generation 25.
 
 ## Lifecycle Stats
 - Items Created: 415
@@ -40,15 +40,15 @@ Verdant Axe of Eternity
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 33982
-- Successful Mutations: 14102
+- Mutations Attempted: 34007
+- Successful Mutations: 14116
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 5
+- Uncommon: 5
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Verdant Axe of Eternity
 
 ## Economy
 - Total Currency: 757900
-- Currency per Tick (avg): 22.3
+- Currency per Tick (avg): 22.29
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

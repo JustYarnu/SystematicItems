@@ -2,7 +2,7 @@
   "id": "d337d7ce-e815-4823-b693-ea679b3e2cb0",
   "name": "Fractured Spear of Iron",
   "type": "Polearm",
-  "generation": 7,
+  "generation": 9,
   "damage": 15.0,
   "damage_type": [
     "Physical",
@@ -12,10 +12,10 @@
   "crit_rate": 0.01,
   "str_mod": 1.1,
   "dex_mod": 1.0,
-  "rarity": 1,
-  "durability": 71.9,
-  "max_durability": 120.0,
-  "volatility": 0.55,
+  "rarity": 2,
+  "durability": 64.4,
+  "max_durability": 112.0,
+  "volatility": 0.6,
   "resilience": 0.49999999999999983,
   "worth": 100,
   "affinities": {}
