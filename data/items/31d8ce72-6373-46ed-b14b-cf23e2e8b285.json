@@ -2,7 +2,7 @@
   "id": "31d8ce72-6373-46ed-b14b-cf23e2e8b285",
   "name": "Unstable Blade of Blood",
   "type": "Sword",
-  "generation": 18,
+  "generation": 20,
   "damage": 26.5,
   "damage_type": [
     "Physical",
@@ -14,14 +14,14 @@
   "str_mod": 1.35,
   "dex_mod": 1.3500000000000003,
   "rarity": 1,
-  "durability": 12.049999999999997,
-  "max_durability": 109.0,
-  "volatility": 0.51,
-  "resilience": 0.5,
+  "durability": 3.6999999999999975,
+  "max_durability": 114.0,
+  "volatility": 0.54,
+  "resilience": 0.55,
   "worth": 100,
   "affinities": {
     "Chaos": 0.2,
     "Stability": 0.1,
-    "DEX": 0.1
+    "DEX": 0.2
   }
 }

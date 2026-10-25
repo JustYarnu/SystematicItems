@@ -3,20 +3,20 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-34107
+34132
 
 ## Oldest Item
 Vampiric Spear of the Glacier
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.83
+- Average Rarity: 1.93
 - Average Volatility: 0.37
-- Average Durability: 57.06
+- Average Durability: 52.1
 
 ## Dominant Factions
+- DEX: 0.7
 - Restoration: 0.6
-- DEX: 0.5
 - Order: 0.5
 
 ## Extremes
@@ -24,9 +24,9 @@ Vampiric Spear of the Glacier
 - Most Volatile Item: Fractured Spear of Iron
 
 ## Recent Events
-- STABLE: 'Volcanic Edge of the Glacier' did not mutate this tick.
-- MUTATED: 'Fractured Spear of Iron' evolved to generation 13.
-- STABLE: 'Unstable Blade of Blood' did not mutate this tick.
+- STABLE: 'Verdant Axe of Might' did not mutate this tick.
+- STABLE: 'Fractured Spear of Iron' did not mutate this tick.
+- STABLE: 'Ancient Spear of Echoes' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 417
@@ -40,8 +40,8 @@ Vampiric Spear of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 34107
-- Successful Mutations: 14152
+- Mutations Attempted: 34132
+- Successful Mutations: 14164
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Vampiric Spear of the Glacier
 
 ## Economy
 - Total Currency: 761600
-- Currency per Tick (avg): 22.33
+- Currency per Tick (avg): 22.31
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
