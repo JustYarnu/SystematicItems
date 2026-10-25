@@ -2,7 +2,7 @@
   "id": "64375410-b4a5-4131-9962-d0ac4329861e",
   "name": "Titanic Spear of Might",
   "type": "Polearm",
-  "generation": 26,
+  "generation": 27,
   "damage": 22.0,
   "damage_type": [
     "Physical",
@@ -12,10 +12,10 @@
   "crit_rate": 0.01,
   "str_mod": 1.8500000000000003,
   "dex_mod": 1.1,
-  "rarity": 1,
-  "durability": 13.930000000000009,
-  "max_durability": 125.0,
-  "volatility": 0.5,
+  "rarity": 2,
+  "durability": 9.930000000000009,
+  "max_durability": 115.0,
+  "volatility": 0.5700000000000001,
   "resilience": 0.7300000000000001,
   "worth": 100,
   "affinities": {
