@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-34057
+34082
 
 ## Oldest Item
 Vampiric Spear of the Glacier
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.73
-- Average Volatility: 0.34
-- Average Durability: 64.17
+- Average Rarity: 1.83
+- Average Volatility: 0.36
+- Average Durability: 60.84
 
 ## Dominant Factions
 - Order: 0.5
@@ -20,13 +20,13 @@ Vampiric Spear of the Glacier
 - Chaos: 0.4
 
 ## Extremes
-- Most Stable Item: Ancient Blade of Silence
-- Most Volatile Item: Volcanic Edge of the Glacier
+- Most Stable Item: Vampiric Spear of the Glacier
+- Most Volatile Item: Fractured Spear of Iron
 
 ## Recent Events
-- MUTATED: 'Verdant Axe of Eternity' evolved to generation 4.
-- STABLE: 'Vampiric Spear of the Glacier' did not mutate this tick.
-- STABLE: 'Resolute Focus of Might' did not mutate this tick.
+- STABLE: 'Verdant Axe of Eternity' did not mutate this tick.
+- STABLE: 'Verdant Axe of Might' did not mutate this tick.
+- MUTATED: 'Verdant Axe of Might' evolved to generation 25.
 
 ## Lifecycle Stats
 - Items Created: 417
@@ -40,15 +40,15 @@ Vampiric Spear of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 34057
-- Successful Mutations: 14137
+- Mutations Attempted: 34082
+- Successful Mutations: 14142
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 4
-- Uncommon: 6
+- Common: 3
+- Uncommon: 7
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Vampiric Spear of the Glacier
 
 ## Economy
 - Total Currency: 761600
-- Currency per Tick (avg): 22.36
+- Currency per Tick (avg): 22.35
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

@@ -1,21 +1,21 @@
 {
   "currency": 761600,
-  "tick": 34057,
+  "tick": 34082,
   "mutation_stats": {
-    "attempted": 34057,
-    "success": 14137
+    "attempted": 34082,
+    "success": 14142
   },
   "recent_events": [
-    "MUTATED: 'Ancient Blade of Silence' evolved to generation 2.",
-    "STABLE: 'Titanic Spear of Might' did not mutate this tick.",
-    "REPLACED WITH: 'Vampiric Spear of the Glacier' (38d34fbf-692f-4ba8-9b50-3aa30a7b45e6)",
+    "STABLE: 'Unstable Blade of Blood' did not mutate this tick.",
+    "MUTATED: 'Resolute Focus of Might' evolved to generation 17.",
+    "STABLE: 'Fractured Spear of Iron' did not mutate this tick.",
+    "STABLE: 'Fractured Spear of Iron' did not mutate this tick.",
+    "STABLE: 'Unstable Blade of Blood' did not mutate this tick.",
+    "STABLE: 'Ancient Blade of Silence' did not mutate this tick.",
+    "MUTATED: 'Verdant Axe of Might' evolved to generation 24.",
     "STABLE: 'Verdant Axe of Eternity' did not mutate this tick.",
-    "STABLE: 'Unstable Blade of Blood' did not mutate this tick.",
-    "STABLE: 'Unstable Blade of Blood' did not mutate this tick.",
     "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
-    "MUTATED: 'Verdant Axe of Eternity' evolved to generation 4.",
-    "STABLE: 'Vampiric Spear of the Glacier' did not mutate this tick.",
-    "STABLE: 'Resolute Focus of Might' did not mutate this tick."
+    "MUTATED: 'Verdant Axe of Might' evolved to generation 25."
   ],
   "created": 417,
   "avg_lifespan": 35.42506142506146,
