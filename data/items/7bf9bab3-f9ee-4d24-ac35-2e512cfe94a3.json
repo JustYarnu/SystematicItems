@@ -2,7 +2,7 @@
   "id": "7bf9bab3-f9ee-4d24-ac35-2e512cfe94a3",
   "name": "Volcanic Edge of the Glacier",
   "type": "Sword",
-  "generation": 34,
+  "generation": 36,
   "damage": 30.0,
   "damage_type": [
     "Physical",
@@ -14,7 +14,7 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.5000000000000004,
   "rarity": 2,
-  "durability": 17.039999999999992,
+  "durability": 19.039999999999992,
   "max_durability": 120.0,
   "volatility": 0.5299999999999999,
   "resilience": 0.7999999999999999,
@@ -22,6 +22,6 @@
   "affinities": {
     "Restoration": 0.4,
     "Chaos": 0.1,
-    "DEX": 0.2
+    "DEX": 0.3
   }
 }
