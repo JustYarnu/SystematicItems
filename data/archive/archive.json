@@ -10931,5 +10931,60 @@
       "Order": 0.3,
       "Chaos": 0.2
     }
+  },
+  {
+    "id": "524b8d75-6cab-4004-b39b-5cb57f15297a",
+    "name": "Brittle Shard of Mirage",
+    "type": "Dagger",
+    "generation": 41,
+    "damage": 43.0,
+    "damage_type": [
+      "Physical",
+      "Slashing",
+      "Cosmic"
+    ],
+    "crit_damage": 3.3,
+    "crit_rate": 0.07,
+    "str_mod": 1.6000000000000005,
+    "dex_mod": 1.35,
+    "rarity": 1,
+    "durability": -1.0,
+    "max_durability": 67.0,
+    "volatility": 0.42000000000000004,
+    "resilience": 0.7300000000000001,
+    "worth": 2150,
+    "affinities": {
+      "Stability": 0.2,
+      "Chaos": 0.1,
+      "STR": 0.2,
+      "DEX": 0.1
+    }
+  },
+  {
+    "id": "64375410-b4a5-4131-9962-d0ac4329861e",
+    "name": "Titanic Spear of Might",
+    "type": "Polearm",
+    "generation": 29,
+    "damage": 22.0,
+    "damage_type": [
+      "Physical",
+      "Piercing"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.01,
+    "str_mod": 1.8500000000000003,
+    "dex_mod": 1.1,
+    "rarity": 2,
+    "durability": -0.5199999999999911,
+    "max_durability": 115.0,
+    "volatility": 0.61,
+    "resilience": 0.63,
+    "worth": 1550,
+    "affinities": {
+      "Order": 0.1,
+      "STR": 0.2,
+      "Stability": 0.1,
+      "Chaos": 0.1
+    }
   }
 ]

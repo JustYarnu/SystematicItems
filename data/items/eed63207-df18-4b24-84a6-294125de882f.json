@@ -2,8 +2,8 @@
   "id": "eed63207-df18-4b24-84a6-294125de882f",
   "name": "Verdant Axe of Eternity",
   "type": "HeavyWeapon",
-  "generation": 1,
-  "damage": 10.0,
+  "generation": 4,
+  "damage": 11.5,
   "damage_type": [
     "Physical",
     "Nature",
@@ -11,13 +11,15 @@
   ],
   "crit_damage": 2,
   "crit_rate": 0.01,
-  "str_mod": 1.15,
+  "str_mod": 1.25,
   "dex_mod": 1.0,
   "rarity": 3.0,
-  "durability": 87.0,
+  "durability": 75.89999999999999,
   "max_durability": 164.6240625180289,
-  "volatility": 0.2300000000000001,
+  "volatility": 0.21000000000000013,
   "resilience": 0.65,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Restoration": 0.1
+  }
 }

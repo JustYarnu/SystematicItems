@@ -2,7 +2,7 @@
   "id": "4d804831-0982-4113-b2b4-d217edfe56e2",
   "name": "Ancient Spear of Echoes",
   "type": "Polearm",
-  "generation": 3,
+  "generation": 4,
   "damage": 8.0,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.1,
   "dex_mod": 1.2,
   "rarity": 2.3,
-  "durability": 83.5,
+  "durability": 79.5,
   "max_durability": 122.0,
-  "volatility": 0.20000000000000007,
+  "volatility": 0.1600000000000001,
   "resilience": 0.5,
   "worth": 100,
   "affinities": {}

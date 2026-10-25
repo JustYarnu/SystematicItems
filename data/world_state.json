@@ -1,23 +1,23 @@
 {
-  "currency": 757900,
-  "tick": 34032,
+  "currency": 761600,
+  "tick": 34057,
   "mutation_stats": {
-    "attempted": 34032,
-    "success": 14127
+    "attempted": 34057,
+    "success": 14137
   },
   "recent_events": [
-    "MUTATED: 'Brittle Shard of Mirage' evolved to generation 39.",
-    "STABLE: 'Resolute Focus of Might' did not mutate this tick.",
-    "MUTATED: 'Verdant Axe of Might' evolved to generation 23.",
-    "STABLE: 'Resolute Focus of Might' did not mutate this tick.",
+    "MUTATED: 'Ancient Blade of Silence' evolved to generation 2.",
+    "STABLE: 'Titanic Spear of Might' did not mutate this tick.",
+    "REPLACED WITH: 'Vampiric Spear of the Glacier' (38d34fbf-692f-4ba8-9b50-3aa30a7b45e6)",
     "STABLE: 'Verdant Axe of Eternity' did not mutate this tick.",
-    "STABLE: 'Volcanic Edge of the Glacier' did not mutate this tick.",
-    "STABLE: 'Brittle Shard of Mirage' did not mutate this tick.",
-    "STABLE: 'Ancient Spear of Echoes' did not mutate this tick.",
-    "STABLE: 'Fractured Spear of Iron' did not mutate this tick.",
-    "MUTATED: 'Unstable Blade of Blood' evolved to generation 16."
+    "STABLE: 'Unstable Blade of Blood' did not mutate this tick.",
+    "STABLE: 'Unstable Blade of Blood' did not mutate this tick.",
+    "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
+    "MUTATED: 'Verdant Axe of Eternity' evolved to generation 4.",
+    "STABLE: 'Vampiric Spear of the Glacier' did not mutate this tick.",
+    "STABLE: 'Resolute Focus of Might' did not mutate this tick."
   ],
-  "created": 415,
-  "avg_lifespan": 35.427160493827195,
-  "archived": 405
+  "created": 417,
+  "avg_lifespan": 35.42506142506146,
+  "archived": 407
 }
