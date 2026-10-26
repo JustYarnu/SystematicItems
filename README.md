@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-34182
+34207
 
 ## Oldest Item
 Gilded Bow of Frost
@@ -11,8 +11,8 @@ Gilded Bow of Frost
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.08
-- Average Volatility: 0.33
-- Average Durability: 56.14
+- Average Volatility: 0.35
+- Average Durability: 52.52
 
 ## Dominant Factions
 - Order: 0.6
@@ -24,9 +24,9 @@ Gilded Bow of Frost
 - Most Volatile Item: Volcanic Edge of the Glacier
 
 ## Recent Events
-- STABLE: 'Resolute Focus of Might' did not mutate this tick.
-- STABLE: 'Gilded Bow of Frost' did not mutate this tick.
-- MUTATED: 'Fractured Spear of Iron' evolved to generation 22.
+- STABLE: 'Vampiric Spear of the Glacier' did not mutate this tick.
+- STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.
+- STABLE: 'Verdant Axe of Might' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 418
@@ -40,8 +40,8 @@ Gilded Bow of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 34182
-- Successful Mutations: 14180
+- Mutations Attempted: 34207
+- Successful Mutations: 14186
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Gilded Bow of Frost
 
 ## Economy
 - Total Currency: 762700
-- Currency per Tick (avg): 22.31
+- Currency per Tick (avg): 22.3
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
