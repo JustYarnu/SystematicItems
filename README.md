@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-34157
+34182
 
 ## Oldest Item
-Vampiric Spear of the Glacier
+Gilded Bow of Frost
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.93
-- Average Volatility: 0.38
-- Average Durability: 47.91
+- Average Rarity: 2.08
+- Average Volatility: 0.33
+- Average Durability: 56.14
 
 ## Dominant Factions
-- DEX: 0.8
+- Order: 0.6
 - Restoration: 0.6
-- Order: 0.5
+- DEX: 0.6
 
 ## Extremes
-- Most Stable Item: Vampiric Spear of the Glacier
-- Most Volatile Item: Unstable Blade of Blood
+- Most Stable Item: Gilded Bow of Frost
+- Most Volatile Item: Volcanic Edge of the Glacier
 
 ## Recent Events
-- STABLE: 'Ancient Blade of Silence' did not mutate this tick.
-- MUTATED: 'Mundane Rapier of Sparks' evolved to generation 27.
-- MUTATED: 'Fractured Spear of Iron' evolved to generation 20.
+- STABLE: 'Resolute Focus of Might' did not mutate this tick.
+- STABLE: 'Gilded Bow of Frost' did not mutate this tick.
+- MUTATED: 'Fractured Spear of Iron' evolved to generation 22.
 
 ## Lifecycle Stats
-- Items Created: 417
-- Items Archived: 407
+- Items Created: 418
+- Items Archived: 408
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Vampiric Spear of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 34157
-- Successful Mutations: 14170
+- Mutations Attempted: 34182
+- Successful Mutations: 14180
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 3
-- Uncommon: 7
+- Common: 2
+- Uncommon: 8
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Vampiric Spear of the Glacier
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 761600
-- Currency per Tick (avg): 22.3
+- Total Currency: 762700
+- Currency per Tick (avg): 22.31
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
