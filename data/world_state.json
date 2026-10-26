@@ -1,23 +1,23 @@
 {
-  "currency": 762700,
-  "tick": 34207,
+  "currency": 764850,
+  "tick": 34232,
   "mutation_stats": {
-    "attempted": 34207,
-    "success": 14186
+    "attempted": 34232,
+    "success": 14196
   },
   "recent_events": [
-    "STABLE: 'Volcanic Edge of the Glacier' did not mutate this tick.",
-    "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
-    "STABLE: 'Gilded Bow of Frost' did not mutate this tick.",
-    "STABLE: 'Volcanic Edge of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Volcanic Edge of the Glacier' evolved to generation 39.",
-    "STABLE: 'Ancient Spear of Echoes' did not mutate this tick.",
-    "MUTATED: 'Volcanic Edge of the Glacier' evolved to generation 40.",
+    "STABLE: 'Resolute Focus of Might' did not mutate this tick.",
     "STABLE: 'Vampiric Spear of the Glacier' did not mutate this tick.",
-    "STABLE: 'Mundane Rapier of Sparks' did not mutate this tick.",
-    "STABLE: 'Verdant Axe of Might' did not mutate this tick."
+    "STABLE: 'Verdant Axe of Eternity' did not mutate this tick.",
+    "STABLE: 'Ancient Spear of Echoes' did not mutate this tick.",
+    "MUTATED: 'Fractured Spear of Iron' evolved to generation 24.",
+    "MUTATED: 'Ancient Blade of Silence' evolved to generation 5.",
+    "STABLE: 'Verdant Axe of Eternity' did not mutate this tick.",
+    "MUTATED: 'Ancient Spear of Echoes' evolved to generation 8.",
+    "STABLE: 'Verdant Axe of Eternity' did not mutate this tick.",
+    "MUTATED: 'Vampiric Spear of the Glacier' evolved to generation 4."
   ],
-  "created": 418,
-  "avg_lifespan": 35.387254901960816,
-  "archived": 408
+  "created": 419,
+  "avg_lifespan": 35.400977995110054,
+  "archived": 409
 }
