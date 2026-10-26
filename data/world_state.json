@@ -1,21 +1,21 @@
 {
   "currency": 764850,
-  "tick": 34232,
+  "tick": 34257,
   "mutation_stats": {
-    "attempted": 34232,
-    "success": 14196
+    "attempted": 34257,
+    "success": 14207
   },
   "recent_events": [
-    "STABLE: 'Resolute Focus of Might' did not mutate this tick.",
-    "STABLE: 'Vampiric Spear of the Glacier' did not mutate this tick.",
-    "STABLE: 'Verdant Axe of Eternity' did not mutate this tick.",
+    "MUTATED: 'Ancient Blade of Silence' evolved to generation 7.",
+    "STABLE: 'Fractured Spear of Iron' did not mutate this tick.",
+    "MUTATED: 'Fractured Spear of Iron' evolved to generation 25.",
+    "MUTATED: 'Ancient Spear of Echoes' evolved to generation 9.",
+    "MUTATED: 'Mundane Rapier of Sparks' evolved to generation 34.",
+    "STABLE: 'Gilded Bow of Frost' did not mutate this tick.",
+    "STABLE: 'Gilded Bow of Frost' did not mutate this tick.",
     "STABLE: 'Ancient Spear of Echoes' did not mutate this tick.",
-    "MUTATED: 'Fractured Spear of Iron' evolved to generation 24.",
-    "MUTATED: 'Ancient Blade of Silence' evolved to generation 5.",
-    "STABLE: 'Verdant Axe of Eternity' did not mutate this tick.",
-    "MUTATED: 'Ancient Spear of Echoes' evolved to generation 8.",
-    "STABLE: 'Verdant Axe of Eternity' did not mutate this tick.",
-    "MUTATED: 'Vampiric Spear of the Glacier' evolved to generation 4."
+    "STABLE: 'Heavy Bow of Judgement' did not mutate this tick.",
+    "MUTATED: 'Resolute Focus of Might' evolved to generation 25."
   ],
   "created": 419,
   "avg_lifespan": 35.400977995110054,
