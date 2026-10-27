@@ -2,24 +2,25 @@
   "id": "0cf971ea-a6d5-423e-abc2-3332ffca4b49",
   "name": "Ancient Blade of Silence",
   "type": "Sword",
-  "generation": 7,
+  "generation": 9,
   "damage": 10.0,
   "damage_type": [
     "Physical",
     "Slashing"
   ],
   "crit_damage": 2,
-  "crit_rate": 0.060000000000000005,
+  "crit_rate": 0.09,
   "str_mod": 1.05,
   "dex_mod": 1.35,
   "rarity": 2.0,
-  "durability": 60.0,
+  "durability": 52.0,
   "max_durability": 122.0,
-  "volatility": 0.3200000000000002,
+  "volatility": 0.3400000000000002,
   "resilience": 0.5,
   "worth": 100,
   "affinities": {
     "Restoration": 0.2,
-    "DEX": 0.1
+    "DEX": 0.1,
+    "Chaos": 0.1
   }
 }
