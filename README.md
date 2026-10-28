@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-34407
+34432
 
 ## Oldest Item
 Mundane Sigil of Stone
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.13
-- Average Volatility: 0.39
-- Average Durability: 51.31
+- Average Rarity: 2.23
+- Average Volatility: 0.41
+- Average Durability: 48.36
 
 ## Dominant Factions
 - Order: 0.9
@@ -24,9 +24,9 @@ Mundane Sigil of Stone
 - Most Volatile Item: Resolute Focus of Might
 
 ## Recent Events
-- STABLE: 'Ancient Spear of Echoes' did not mutate this tick.
-- MUTATED: 'Fractured Spear of Iron' evolved to generation 38.
+- STABLE: 'Ancient Blade of Silence' did not mutate this tick.
 - STABLE: 'Verdant Axe of Eternity' did not mutate this tick.
+- MUTATED: 'Resolute Focus of Might' evolved to generation 39.
 
 ## Lifecycle Stats
 - Items Created: 420
@@ -40,8 +40,8 @@ Mundane Sigil of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 34407
-- Successful Mutations: 14271
+- Mutations Attempted: 34432
+- Successful Mutations: 14281
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Sigil of Stone
 
 ## Economy
 - Total Currency: 766900
-- Currency per Tick (avg): 22.29
+- Currency per Tick (avg): 22.27
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
