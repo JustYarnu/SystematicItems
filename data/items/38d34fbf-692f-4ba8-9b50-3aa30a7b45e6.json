@@ -2,7 +2,7 @@
   "id": "38d34fbf-692f-4ba8-9b50-3aa30a7b45e6",
   "name": "Vampiric Spear of the Glacier",
   "type": "Polearm",
-  "generation": 10,
+  "generation": 12,
   "damage": 24.0,
   "damage_type": [
     "Physical",
@@ -15,9 +15,9 @@
   "str_mod": 1.4500000000000002,
   "dex_mod": 0.9,
   "rarity": 2,
-  "durability": 67.65,
+  "durability": 59.17,
   "max_durability": 115.0,
-  "volatility": 0.4300000000000002,
+  "volatility": 0.3700000000000003,
   "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {
