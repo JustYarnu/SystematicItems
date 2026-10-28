@@ -2,7 +2,7 @@
   "id": "da4038c8-55d7-47ce-8722-dfad1eb5e4a3",
   "name": "Gilded Bow of Frost",
   "type": "Ranged",
-  "generation": 2,
+  "generation": 3,
   "damage": 12.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,12 @@
   "str_mod": 1.0,
   "dex_mod": 1.15,
   "rarity": 2.5,
-  "durability": 81.4,
+  "durability": 79.4,
   "max_durability": 117.0,
   "volatility": 0.2500000000000001,
   "resilience": 0.6799999999999999,
   "worth": 100,
-  "affinities": {}
+  "affinities": {
+    "Stability": 0.1
+  }
 }

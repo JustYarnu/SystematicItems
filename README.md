@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-34382
+34407
 
 ## Oldest Item
-Gilded Bow of Frost
+Mundane Sigil of Stone
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.13
-- Average Volatility: 0.38
-- Average Durability: 55.25
+- Average Volatility: 0.39
+- Average Durability: 51.31
 
 ## Dominant Factions
 - Order: 0.9
 - STR: 0.5
-- Chaos: 0.4
+- Stability: 0.5
 
 ## Extremes
 - Most Stable Item: Heavy Bow of Judgement
 - Most Volatile Item: Resolute Focus of Might
 
 ## Recent Events
-- STABLE: 'Heavy Bow of Judgement' did not mutate this tick.
-- STABLE: 'Heavy Bow of Judgement' did not mutate this tick.
-- STABLE: 'Verdant Axe of Might' did not mutate this tick.
+- STABLE: 'Ancient Spear of Echoes' did not mutate this tick.
+- MUTATED: 'Fractured Spear of Iron' evolved to generation 38.
+- STABLE: 'Verdant Axe of Eternity' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 420
@@ -40,8 +40,8 @@ Gilded Bow of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 34382
-- Successful Mutations: 14258
+- Mutations Attempted: 34407
+- Successful Mutations: 14271
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Gilded Bow of Frost
 
 ## Economy
 - Total Currency: 766900
-- Currency per Tick (avg): 22.31
+- Currency per Tick (avg): 22.29
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
