@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-34357
+34382
 
 ## Oldest Item
 Gilded Bow of Frost
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.08
-- Average Volatility: 0.4
-- Average Durability: 49.73
+- Average Rarity: 2.13
+- Average Volatility: 0.38
+- Average Durability: 55.25
 
 ## Dominant Factions
 - Order: 0.9
-- DEX: 0.5
-- STR: 0.4
+- STR: 0.5
+- Chaos: 0.4
 
 ## Extremes
 - Most Stable Item: Heavy Bow of Judgement
 - Most Volatile Item: Resolute Focus of Might
 
 ## Recent Events
-- MUTATED: 'Verdant Axe of Might' evolved to generation 35.
-- STABLE: 'Vampiric Spear of the Glacier' did not mutate this tick.
-- STABLE: 'Vampiric Spear of the Glacier' did not mutate this tick.
+- STABLE: 'Heavy Bow of Judgement' did not mutate this tick.
+- STABLE: 'Heavy Bow of Judgement' did not mutate this tick.
+- STABLE: 'Verdant Axe of Might' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 419
-- Items Archived: 409
+- Items Created: 420
+- Items Archived: 410
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Gilded Bow of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 34357
-- Successful Mutations: 14245
+- Mutations Attempted: 34382
+- Successful Mutations: 14258
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 2
-- Uncommon: 8
+- Common: 3
+- Uncommon: 7
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Gilded Bow of Frost
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 764850
-- Currency per Tick (avg): 22.26
+- Total Currency: 766900
+- Currency per Tick (avg): 22.31
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
