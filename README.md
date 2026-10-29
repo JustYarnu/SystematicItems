@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-34507
+34532
 
 ## Oldest Item
-Mundane Sigil of Stone
+Blessed Axe of Might
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.23
-- Average Volatility: 0.43
-- Average Durability: 36.52
+- Average Rarity: 2.2
+- Average Volatility: 0.41
+- Average Durability: 45.3
 
 ## Dominant Factions
 - Order: 0.9
-- Stability: 0.7
 - STR: 0.6
+- Stability: 0.5
 
 ## Extremes
-- Most Stable Item: Heavy Bow of Judgement
+- Most Stable Item: Blessed Axe of Might
 - Most Volatile Item: Resolute Focus of Might
 
 ## Recent Events
-- STABLE: 'Gilded Bow of Frost' did not mutate this tick.
-- STABLE: 'Ancient Blade of Silence' did not mutate this tick.
-- MUTATED: 'Gilded Bow of Frost' evolved to generation 8.
+- STABLE: 'Mundane Sigil of Stone' did not mutate this tick.
+- STABLE: 'Fractured Spear of Iron' did not mutate this tick.
+- STABLE: 'Verdant Axe of Might' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 420
-- Items Archived: 410
+- Items Created: 421
+- Items Archived: 411
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Mundane Sigil of Stone
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 34507
-- Successful Mutations: 14307
+- Mutations Attempted: 34532
+- Successful Mutations: 14319
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 3
-- Uncommon: 7
+- Common: 4
+- Uncommon: 6
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Mundane Sigil of Stone
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 766900
-- Currency per Tick (avg): 22.22
+- Total Currency: 768000
+- Currency per Tick (avg): 22.24
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

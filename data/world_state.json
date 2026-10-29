@@ -1,23 +1,23 @@
 {
-  "currency": 766900,
-  "tick": 34507,
+  "currency": 768000,
+  "tick": 34532,
   "mutation_stats": {
-    "attempted": 34507,
-    "success": 14307
+    "attempted": 34532,
+    "success": 14319
   },
   "recent_events": [
-    "MUTATED: 'Verdant Axe of Might' evolved to generation 43.",
-    "STABLE: 'Heavy Bow of Judgement' did not mutate this tick.",
-    "STABLE: 'Gilded Bow of Frost' did not mutate this tick.",
-    "MUTATED: 'Verdant Axe of Might' evolved to generation 44.",
-    "STABLE: 'Mundane Sigil of Stone' did not mutate this tick.",
-    "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
-    "MUTATED: 'Verdant Axe of Might' evolved to generation 45.",
-    "STABLE: 'Gilded Bow of Frost' did not mutate this tick.",
+    "MUTATED: 'Heavy Bow of Judgement' evolved to generation 8.",
+    "STABLE: 'Verdant Axe of Eternity' did not mutate this tick.",
+    "MUTATED: 'Fractured Spear of Iron' evolved to generation 41.",
+    "STABLE: 'Blessed Axe of Might' did not mutate this tick.",
+    "MUTATED: 'Fractured Spear of Iron' evolved to generation 42.",
     "STABLE: 'Ancient Blade of Silence' did not mutate this tick.",
-    "MUTATED: 'Gilded Bow of Frost' evolved to generation 8."
+    "MUTATED: 'Ancient Blade of Silence' evolved to generation 21.",
+    "STABLE: 'Mundane Sigil of Stone' did not mutate this tick.",
+    "STABLE: 'Fractured Spear of Iron' did not mutate this tick.",
+    "STABLE: 'Verdant Axe of Might' did not mutate this tick."
   ],
-  "created": 420,
-  "avg_lifespan": 35.40975609756101,
-  "archived": 410
+  "created": 421,
+  "avg_lifespan": 35.37226277372266,
+  "archived": 411
 }
