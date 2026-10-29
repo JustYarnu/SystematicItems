@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-34532
+34557
 
 ## Oldest Item
 Blessed Axe of Might
@@ -11,22 +11,22 @@ Blessed Axe of Might
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 2.2
-- Average Volatility: 0.41
-- Average Durability: 45.3
+- Average Volatility: 0.42
+- Average Durability: 42.34
 
 ## Dominant Factions
-- Order: 0.9
+- Order: 1.0
 - STR: 0.6
-- Stability: 0.5
+- Stability: 0.6
 
 ## Extremes
 - Most Stable Item: Blessed Axe of Might
 - Most Volatile Item: Resolute Focus of Might
 
 ## Recent Events
+- STABLE: 'Blessed Axe of Might' did not mutate this tick.
+- MUTATED: 'Ancient Blade of Silence' evolved to generation 23.
 - STABLE: 'Mundane Sigil of Stone' did not mutate this tick.
-- STABLE: 'Fractured Spear of Iron' did not mutate this tick.
-- STABLE: 'Verdant Axe of Might' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 421
@@ -40,8 +40,8 @@ Blessed Axe of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 34532
-- Successful Mutations: 14319
+- Mutations Attempted: 34557
+- Successful Mutations: 14330
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Blessed Axe of Might
 
 ## Economy
 - Total Currency: 768000
-- Currency per Tick (avg): 22.24
+- Currency per Tick (avg): 22.22
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
