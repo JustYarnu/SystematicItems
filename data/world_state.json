@@ -1,21 +1,21 @@
 {
   "currency": 766900,
-  "tick": 34457,
+  "tick": 34482,
   "mutation_stats": {
-    "attempted": 34457,
-    "success": 14289
+    "attempted": 34482,
+    "success": 14299
   },
   "recent_events": [
-    "STABLE: 'Verdant Axe of Eternity' did not mutate this tick.",
-    "STABLE: 'Verdant Axe of Might' did not mutate this tick.",
-    "STABLE: 'Heavy Bow of Judgement' did not mutate this tick.",
     "STABLE: 'Mundane Sigil of Stone' did not mutate this tick.",
-    "STABLE: 'Fractured Spear of Iron' did not mutate this tick.",
-    "MUTATED: 'Mundane Sigil of Stone' evolved to generation 4.",
-    "MUTATED: 'Vampiric Spear of the Glacier' evolved to generation 12.",
     "STABLE: 'Ancient Blade of Silence' did not mutate this tick.",
-    "STABLE: 'Fractured Spear of Iron' did not mutate this tick.",
-    "STABLE: 'Verdant Axe of Might' did not mutate this tick."
+    "STABLE: 'Ancient Spear of Echoes' did not mutate this tick.",
+    "MUTATED: 'Vampiric Spear of the Glacier' evolved to generation 13.",
+    "MUTATED: 'Heavy Bow of Judgement' evolved to generation 7.",
+    "MUTATED: 'Resolute Focus of Might' evolved to generation 40.",
+    "STABLE: 'Verdant Axe of Eternity' did not mutate this tick.",
+    "STABLE: 'Mundane Sigil of Stone' did not mutate this tick.",
+    "MUTATED: 'Mundane Sigil of Stone' evolved to generation 6.",
+    "STABLE: 'Verdant Axe of Eternity' did not mutate this tick."
   ],
   "created": 420,
   "avg_lifespan": 35.40975609756101,
