@@ -2,8 +2,8 @@
   "id": "69548bfe-388b-4568-b471-5f4a9d76a40e",
   "name": "Resolute Focus of Might",
   "type": "Focus",
-  "generation": 48,
-  "damage": 44.5,
+  "generation": 51,
+  "damage": 49.5,
   "damage_type": [
     "Physical",
     "Magic"
@@ -13,7 +13,7 @@
   "str_mod": 1.9500000000000006,
   "dex_mod": 0.8,
   "rarity": 4,
-  "durability": 15.409999999999979,
+  "durability": 21.609999999999978,
   "max_durability": 102.0,
   "volatility": 0.61,
   "resilience": 0.6499999999999998,

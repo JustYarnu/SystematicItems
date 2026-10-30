@@ -1,23 +1,23 @@
 {
-  "currency": 768950,
-  "tick": 34607,
+  "currency": 771550,
+  "tick": 34632,
   "mutation_stats": {
-    "attempted": 34607,
-    "success": 14349
+    "attempted": 34632,
+    "success": 14357
   },
   "recent_events": [
+    "STABLE: 'Ancient Blade of Silence' did not mutate this tick.",
     "STABLE: 'Gilded Bow of Frost' did not mutate this tick.",
-    "MUTATED: 'Resolute Focus of Might' evolved to generation 48.",
+    "STABLE: 'Blessed Axe of Might' did not mutate this tick.",
+    "MUTATED: 'Corrosive Spear of Gales' evolved to generation 3.",
+    "STABLE: 'Ancient Blade of Silence' did not mutate this tick.",
+    "STABLE: 'Blessed Axe of Might' did not mutate this tick.",
     "STABLE: 'Heavy Bow of Judgement' did not mutate this tick.",
-    "STABLE: 'Heavy Bow of Judgement' did not mutate this tick.",
-    "STABLE: 'Resolute Focus of Might' did not mutate this tick.",
-    "STABLE: 'Vampiric Spear of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Verdant Axe of Might' evolved to generation 48.",
-    "STABLE: 'Heavy Bow of Judgement' did not mutate this tick.",
-    "MUTATED: 'Verdant Axe of Might' evolved to generation 49.",
-    "STABLE: 'Vampiric Spear of the Glacier' did not mutate this tick."
+    "STABLE: 'Corrosive Spear of Gales' did not mutate this tick.",
+    "STABLE: 'Fractured Spear of Iron' did not mutate this tick.",
+    "MUTATED: 'Blessed Axe of Might' evolved to generation 3."
   ],
-  "created": 422,
-  "avg_lifespan": 35.32766990291265,
-  "archived": 412
+  "created": 423,
+  "avg_lifespan": 35.36319612590802,
+  "archived": 413
 }
