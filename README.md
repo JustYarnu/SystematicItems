@@ -3,35 +3,35 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-34632
+34657
 
 ## Oldest Item
-Phantom Rapier of Grace
+Singed Bow of Might
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 2.0
-- Average Volatility: 0.39
-- Average Durability: 52.71
+- Average Rarity: 1.9
+- Average Volatility: 0.34
+- Average Durability: 58.33
 
 ## Dominant Factions
-- Order: 0.6
+- Order: 0.5
+- Stability: 0.5
 - STR: 0.5
-- Stability: 0.4
 
 ## Extremes
-- Most Stable Item: Phantom Rapier of Grace
+- Most Stable Item: Singed Bow of Might
 - Most Volatile Item: Resolute Focus of Might
 
 ## Recent Events
-- STABLE: 'Corrosive Spear of Gales' did not mutate this tick.
+- MUTATED: 'Blessed Axe of Might' evolved to generation 5.
 - STABLE: 'Fractured Spear of Iron' did not mutate this tick.
-- MUTATED: 'Blessed Axe of Might' evolved to generation 3.
+- STABLE: 'Gilded Bow of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 423
-- Items Archived: 413
-- Avg Lifespan (ticks): 35.4
+- Items Created: 424
+- Items Archived: 414
+- Avg Lifespan (ticks): 35.3
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,15 +40,15 @@ Phantom Rapier of Grace
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 34632
-- Successful Mutations: 14357
+- Mutations Attempted: 34657
+- Successful Mutations: 14368
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 5
-- Uncommon: 5
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Phantom Rapier of Grace
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 771550
-- Currency per Tick (avg): 22.28
+- Total Currency: 773050
+- Currency per Tick (avg): 22.31
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
