@@ -2,7 +2,7 @@
   "id": "8e44f7fb-2147-4a0b-a538-fd8bd00e0970",
   "name": "Mundane Sigil of Stone",
   "type": "Focus",
-  "generation": 10,
+  "generation": 13,
   "damage": 11.5,
   "damage_type": [
     "Physical",
@@ -11,14 +11,14 @@
   "crit_damage": 2.5,
   "crit_rate": 0.01,
   "str_mod": 1.1,
-  "dex_mod": 1.2000000000000002,
+  "dex_mod": 1.3000000000000003,
   "rarity": 1.5,
-  "durability": 55.52744375108174,
+  "durability": 44.361428751370205,
   "max_durability": 132.0,
-  "volatility": 0.3500000000000002,
-  "resilience": 0.7792481250360578,
+  "volatility": 0.46000000000000024,
+  "resilience": 0.7292481250360577,
   "worth": 100,
   "affinities": {
-    "Stability": 0.1
+    "Stability": 0.2
   }
 }
