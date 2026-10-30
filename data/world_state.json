@@ -1,21 +1,21 @@
 {
   "currency": 768950,
-  "tick": 34582,
+  "tick": 34607,
   "mutation_stats": {
-    "attempted": 34582,
-    "success": 14342
+    "attempted": 34607,
+    "success": 14349
   },
   "recent_events": [
-    "STABLE: 'Verdant Axe of Eternity' did not mutate this tick.",
-    "REPLACED WITH: 'Corrosive Spear of Gales' (efd8b93b-d565-4d69-a1fb-dd209f21ced3)",
-    "STABLE: 'Corrosive Spear of Gales' did not mutate this tick.",
+    "STABLE: 'Gilded Bow of Frost' did not mutate this tick.",
+    "MUTATED: 'Resolute Focus of Might' evolved to generation 48.",
+    "STABLE: 'Heavy Bow of Judgement' did not mutate this tick.",
+    "STABLE: 'Heavy Bow of Judgement' did not mutate this tick.",
+    "STABLE: 'Resolute Focus of Might' did not mutate this tick.",
     "STABLE: 'Vampiric Spear of the Glacier' did not mutate this tick.",
-    "STABLE: 'Blessed Axe of Might' did not mutate this tick.",
-    "MUTATED: 'Verdant Axe of Might' evolved to generation 47.",
-    "MUTATED: 'Corrosive Spear of Gales' evolved to generation 2.",
-    "STABLE: 'Mundane Sigil of Stone' did not mutate this tick.",
-    "MUTATED: 'Ancient Blade of Silence' evolved to generation 25.",
-    "STABLE: 'Verdant Axe of Might' did not mutate this tick."
+    "MUTATED: 'Verdant Axe of Might' evolved to generation 48.",
+    "STABLE: 'Heavy Bow of Judgement' did not mutate this tick.",
+    "MUTATED: 'Verdant Axe of Might' evolved to generation 49.",
+    "STABLE: 'Vampiric Spear of the Glacier' did not mutate this tick."
   ],
   "created": 422,
   "avg_lifespan": 35.32766990291265,
