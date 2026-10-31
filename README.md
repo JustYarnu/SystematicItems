@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-34782
+34807
 
 ## Oldest Item
 Singed Bow of Might
@@ -11,8 +11,8 @@ Singed Bow of Might
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.8
-- Average Volatility: 0.33
-- Average Durability: 50.2
+- Average Volatility: 0.35
+- Average Durability: 45.59
 
 ## Dominant Factions
 - STR: 0.4
@@ -20,13 +20,13 @@ Singed Bow of Might
 - Order: 0.3
 
 ## Extremes
-- Most Stable Item: Ancient Spear of the Deep
-- Most Volatile Item: Mundane Sigil of Stone
+- Most Stable Item: Singed Bow of Might
+- Most Volatile Item: Fractured Spear of Iron
 
 ## Recent Events
-- MUTATED: 'Ancient Spear of the Deep' evolved to generation 2.
-- MUTATED: 'Singed Bow of Might' evolved to generation 2.
-- STABLE: 'Gilded Bow of Frost' did not mutate this tick.
+- MUTATED: 'Vampiric Spear of the Glacier' evolved to generation 22.
+- STABLE: 'Vampiric Spear of the Glacier' did not mutate this tick.
+- STABLE: 'Mundane Sigil of Stone' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 425
@@ -40,8 +40,8 @@ Singed Bow of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 34782
-- Successful Mutations: 14414
+- Mutations Attempted: 34807
+- Successful Mutations: 14423
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Singed Bow of Might
 
 ## Economy
 - Total Currency: 776000
-- Currency per Tick (avg): 22.31
+- Currency per Tick (avg): 22.29
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
