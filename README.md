@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-34882
+34907
 
 ## Oldest Item
-Singed Bow of Might
+Phantom Axe of Silence
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.8
-- Average Volatility: 0.37
-- Average Durability: 37.95
+- Average Rarity: 1.65
+- Average Volatility: 0.36
+- Average Durability: 44.23
 
 ## Dominant Factions
-- STR: 0.4
-- Stability: 0.4
+- STR: 0.5
 - Order: 0.3
+- Stability: 0.3
 
 ## Extremes
 - Most Stable Item: Singed Bow of Might
 - Most Volatile Item: Fractured Spear of Iron
 
 ## Recent Events
-- STABLE: 'Vampiric Spear of the Glacier' did not mutate this tick.
-- STABLE: 'Singed Bow of Might' did not mutate this tick.
-- STABLE: 'Mundane Sigil of Stone' did not mutate this tick.
+- STABLE: 'Phantom Axe of Silence' did not mutate this tick.
+- STABLE: 'Phantom Rapier of Grace' did not mutate this tick.
+- STABLE: 'Heavy Bow of Judgement' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 425
-- Items Archived: 415
+- Items Created: 426
+- Items Archived: 416
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Singed Bow of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 34882
-- Successful Mutations: 14452
+- Mutations Attempted: 34907
+- Successful Mutations: 14460
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 5
-- Uncommon: 5
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Singed Bow of Might
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 776000
-- Currency per Tick (avg): 22.25
+- Total Currency: 777300
+- Currency per Tick (avg): 22.27
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
