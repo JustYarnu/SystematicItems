@@ -1,21 +1,21 @@
 {
   "currency": 776000,
-  "tick": 34857,
+  "tick": 34882,
   "mutation_stats": {
-    "attempted": 34857,
-    "success": 14442
+    "attempted": 34882,
+    "success": 14452
   },
   "recent_events": [
-    "STABLE: 'Corrosive Spear of Gales' did not mutate this tick.",
-    "MUTATED: 'Mundane Sigil of Stone' evolved to generation 22.",
-    "MUTATED: 'Vampiric Spear of the Glacier' evolved to generation 24.",
-    "STABLE: 'Phantom Rapier of Grace' did not mutate this tick.",
-    "MUTATED: 'Mundane Sigil of Stone' evolved to generation 23.",
+    "STABLE: 'Fractured Spear of Iron' did not mutate this tick.",
+    "STABLE: 'Heavy Bow of Judgement' did not mutate this tick.",
+    "STABLE: 'Ancient Spear of the Deep' did not mutate this tick.",
+    "MUTATED: 'Heavy Bow of Judgement' evolved to generation 20.",
+    "STABLE: 'Fractured Spear of Iron' did not mutate this tick.",
     "STABLE: 'Vampiric Spear of the Glacier' did not mutate this tick.",
-    "STABLE: 'Phantom Rapier of Grace' did not mutate this tick.",
-    "MUTATED: 'Vampiric Spear of the Glacier' evolved to generation 25.",
-    "MUTATED: 'Gilded Bow of Frost' evolved to generation 22.",
-    "MUTATED: 'Corrosive Spear of Gales' evolved to generation 7."
+    "MUTATED: 'Singed Bow of Might' evolved to generation 4.",
+    "STABLE: 'Vampiric Spear of the Glacier' did not mutate this tick.",
+    "STABLE: 'Singed Bow of Might' did not mutate this tick.",
+    "STABLE: 'Mundane Sigil of Stone' did not mutate this tick."
   ],
   "created": 425,
   "avg_lifespan": 35.39759036144581,

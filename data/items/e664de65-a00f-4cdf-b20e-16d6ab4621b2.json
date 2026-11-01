@@ -2,7 +2,7 @@
   "id": "e664de65-a00f-4cdf-b20e-16d6ab4621b2",
   "name": "Heavy Bow of Judgement",
   "type": "Ranged",
-  "generation": 18,
+  "generation": 20,
   "damage": 31.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.6,
   "dex_mod": 0.8999999999999999,
   "rarity": 2,
-  "durability": 39.349999999999994,
+  "durability": 29.409999999999993,
   "max_durability": 112.0,
-  "volatility": 0.4400000000000003,
-  "resilience": 0.63,
+  "volatility": 0.5000000000000002,
+  "resilience": 0.58,
   "worth": 100,
   "affinities": {
     "Order": 0.1,
