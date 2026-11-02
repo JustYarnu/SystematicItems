@@ -1,21 +1,21 @@
 {
   "currency": 780350,
-  "tick": 34957,
+  "tick": 34982,
   "mutation_stats": {
-    "attempted": 34957,
-    "success": 14485
+    "attempted": 34982,
+    "success": 14492
   },
   "recent_events": [
     "STABLE: 'Mundane Core of Judgement' did not mutate this tick.",
-    "MUTATED: 'Mundane Core of Judgement' evolved to generation 3.",
-    "STABLE: 'Heavy Bow of Judgement' did not mutate this tick.",
     "STABLE: 'Phantom Rapier of Grace' did not mutate this tick.",
-    "MUTATED: 'Corrosive Spear of Gales' evolved to generation 10.",
-    "MUTATED: 'Mundane Sigil of Stone' evolved to generation 29.",
-    "REPLACED WITH: 'Starlight Blade of the Glacier' (4981dee7-33dc-43aa-9bfe-f1987941b47b)",
-    "MUTATED: 'Fractured Spear of Iron' evolved to generation 63.",
-    "MUTATED: 'Singed Bow of Might' evolved to generation 10.",
-    "MUTATED: 'Heavy Bow of Judgement' evolved to generation 28."
+    "STABLE: 'Singed Bow of Might' did not mutate this tick.",
+    "STABLE: 'Phantom Axe of Silence' did not mutate this tick.",
+    "MUTATED: 'Fractured Spear of Iron' evolved to generation 64.",
+    "STABLE: 'Phantom Axe of Silence' did not mutate this tick.",
+    "STABLE: 'Mundane Core of Judgement' did not mutate this tick.",
+    "MUTATED: 'Corrosive Spear of Gales' evolved to generation 13.",
+    "STABLE: 'Phantom Rapier of Grace' did not mutate this tick.",
+    "MUTATED: 'Ancient Spear of the Deep' evolved to generation 5."
   ],
   "created": 428,
   "avg_lifespan": 35.3373205741627,
