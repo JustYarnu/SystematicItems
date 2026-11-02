@@ -1,23 +1,23 @@
 {
-  "currency": 777300,
-  "tick": 34907,
+  "currency": 778800,
+  "tick": 34932,
   "mutation_stats": {
-    "attempted": 34907,
-    "success": 14460
+    "attempted": 34932,
+    "success": 14470
   },
   "recent_events": [
-    "REPLACED WITH: 'Phantom Axe of Silence' (06dd1b74-d39c-48d9-9978-6820432afafb)",
-    "MUTATED: 'Heavy Bow of Judgement' evolved to generation 22.",
-    "MUTATED: 'Singed Bow of Might' evolved to generation 5.",
-    "STABLE: 'Mundane Sigil of Stone' did not mutate this tick.",
-    "MUTATED: 'Vampiric Spear of the Glacier' evolved to generation 27.",
-    "STABLE: 'Singed Bow of Might' did not mutate this tick.",
-    "STABLE: 'Ancient Spear of the Deep' did not mutate this tick.",
+    "STABLE: 'Corrosive Spear of Gales' did not mutate this tick.",
+    "MUTATED: 'Singed Bow of Might' evolved to generation 7.",
+    "MUTATED: 'Fractured Spear of Iron' evolved to generation 61.",
+    "MUTATED: 'Mundane Sigil of Stone' evolved to generation 27.",
+    "STABLE: 'Blessed Axe of Might' did not mutate this tick.",
+    "STABLE: 'Corrosive Spear of Gales' did not mutate this tick.",
     "STABLE: 'Phantom Axe of Silence' did not mutate this tick.",
-    "STABLE: 'Phantom Rapier of Grace' did not mutate this tick.",
-    "STABLE: 'Heavy Bow of Judgement' did not mutate this tick."
+    "MUTATED: 'Heavy Bow of Judgement' evolved to generation 24.",
+    "STABLE: 'Phantom Axe of Silence' did not mutate this tick.",
+    "STABLE: 'Blessed Axe of Might' did not mutate this tick."
   ],
-  "created": 426,
-  "avg_lifespan": 35.370192307692335,
-  "archived": 416
+  "created": 427,
+  "avg_lifespan": 35.352517985611534,
+  "archived": 417
 }
