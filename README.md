@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-34982
+35007
 
 ## Oldest Item
 Phantom Axe of Silence
@@ -11,11 +11,11 @@ Phantom Axe of Silence
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.6
-- Average Volatility: 0.35
-- Average Durability: 61.53
+- Average Volatility: 0.36
+- Average Durability: 58.37
 
 ## Dominant Factions
-- Chaos: 0.4
+- Chaos: 0.6
 - STR: 0.4
 - Order: 0.2
 
@@ -24,9 +24,9 @@ Phantom Axe of Silence
 - Most Volatile Item: Corrosive Spear of Gales
 
 ## Recent Events
-- MUTATED: 'Corrosive Spear of Gales' evolved to generation 13.
-- STABLE: 'Phantom Rapier of Grace' did not mutate this tick.
-- MUTATED: 'Ancient Spear of the Deep' evolved to generation 5.
+- MUTATED: 'Blessed Axe of Might' evolved to generation 17.
+- MUTATED: 'Heavy Bow of Judgement' evolved to generation 30.
+- STABLE: 'Mundane Core of Judgement' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 428
@@ -40,8 +40,8 @@ Phantom Axe of Silence
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 34982
-- Successful Mutations: 14492
+- Mutations Attempted: 35007
+- Successful Mutations: 14500
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Phantom Axe of Silence
 
 ## Economy
 - Total Currency: 780350
-- Currency per Tick (avg): 22.31
+- Currency per Tick (avg): 22.29
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
