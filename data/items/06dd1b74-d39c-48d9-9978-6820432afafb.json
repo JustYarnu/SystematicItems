@@ -2,7 +2,7 @@
   "id": "06dd1b74-d39c-48d9-9978-6820432afafb",
   "name": "Phantom Axe of Silence",
   "type": "HeavyWeapon",
-  "generation": 1,
+  "generation": 2,
   "damage": 10.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.15,
   "dex_mod": 1.4,
   "rarity": 1,
-  "durability": 87.0,
-  "max_durability": 100.0,
-  "volatility": 0.3300000000000001,
+  "durability": 81.5,
+  "max_durability": 102.0,
+  "volatility": 0.34000000000000014,
   "resilience": 0.5,
   "worth": 100,
   "affinities": {}
