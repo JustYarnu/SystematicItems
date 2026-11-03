@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-35057
+35082
 
 ## Oldest Item
 Starlight Blade of the Glacier
@@ -11,22 +11,22 @@ Starlight Blade of the Glacier
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.4
-- Average Volatility: 0.35
-- Average Durability: 67.53
+- Average Volatility: 0.36
+- Average Durability: 65.98
 
 ## Dominant Factions
 - Chaos: 0.4
-- Order: 0.3
-- DEX: 0.2
+- Order: 0.4
+- STR: 0.2
 
 ## Extremes
 - Most Stable Item: Titanic Rapier of Iron
 - Most Volatile Item: Corrosive Spear of Gales
 
 ## Recent Events
-- STABLE: 'Corrosive Spear of Gales' did not mutate this tick.
-- MUTATED: 'Phantom Axe of Silence' evolved to generation 3.
-- MUTATED: 'Singed Bow of Might' evolved to generation 15.
+- STABLE: 'Mundane Core of Judgement' did not mutate this tick.
+- STABLE: 'Phantom Rapier of Grace' did not mutate this tick.
+- STABLE: 'Ancient Spear of the Deep' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 429
@@ -40,8 +40,8 @@ Starlight Blade of the Glacier
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 35057
-- Successful Mutations: 14516
+- Mutations Attempted: 35082
+- Successful Mutations: 14524
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Starlight Blade of the Glacier
 
 ## Economy
 - Total Currency: 783700
-- Currency per Tick (avg): 22.36
+- Currency per Tick (avg): 22.34
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

@@ -2,7 +2,7 @@
   "id": "2251db8f-507a-43b3-a2f9-b207d8814ac9",
   "name": "Singed Bow of Might",
   "type": "Ranged",
-  "generation": 15,
+  "generation": 18,
   "damage": 22.0,
   "damage_type": [
     "Physical",
@@ -14,12 +14,13 @@
   "str_mod": 1.25,
   "dex_mod": 1.35,
   "rarity": 1,
-  "durability": 71.15,
+  "durability": 78.15,
   "max_durability": 100.0,
-  "volatility": 0.36000000000000026,
+  "volatility": 0.3200000000000003,
   "resilience": 0.5,
   "worth": 100,
   "affinities": {
-    "Chaos": 0.2
+    "Chaos": 0.2,
+    "STR": 0.1
   }
 }

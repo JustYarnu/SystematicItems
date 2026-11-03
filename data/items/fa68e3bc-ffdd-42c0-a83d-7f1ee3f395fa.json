@@ -2,7 +2,7 @@
   "id": "fa68e3bc-ffdd-42c0-a83d-7f1ee3f395fa",
   "name": "Phantom Rapier of Grace",
   "type": "Generic",
-  "generation": 10,
+  "generation": 12,
   "damage": 11.5,
   "damage_type": [
     "Physical",
@@ -12,12 +12,12 @@
   "crit_damage": 2,
   "crit_rate": 0.01,
   "str_mod": 1.1,
-  "dex_mod": 1.9500000000000004,
+  "dex_mod": 2.0500000000000003,
   "rarity": 1,
-  "durability": 48.54999999999999,
+  "durability": 40.18999999999999,
   "max_durability": 100.0,
-  "volatility": 0.41000000000000025,
-  "resilience": 0.63,
+  "volatility": 0.5000000000000002,
+  "resilience": 0.58,
   "worth": 100,
   "affinities": {}
 }
