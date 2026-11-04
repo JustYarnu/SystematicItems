@@ -1,21 +1,21 @@
 {
   "currency": 783700,
-  "tick": 35107,
+  "tick": 35132,
   "mutation_stats": {
-    "attempted": 35107,
-    "success": 14531
+    "attempted": 35132,
+    "success": 14539
   },
   "recent_events": [
-    "STABLE: 'Mundane Core of Judgement' did not mutate this tick.",
-    "STABLE: 'Phantom Axe of Silence' did not mutate this tick.",
-    "STABLE: 'Mundane Core of Judgement' did not mutate this tick.",
-    "MUTATED: 'Singed Bow of Might' evolved to generation 20.",
-    "MUTATED: 'Singed Bow of Might' evolved to generation 21.",
-    "STABLE: 'Mundane Core of Judgement' did not mutate this tick.",
     "STABLE: 'Corrosive Spear of Gales' did not mutate this tick.",
-    "MUTATED: 'Ancient Spear of the Deep' evolved to generation 6.",
+    "STABLE: 'Singed Bow of Might' did not mutate this tick.",
     "STABLE: 'Ancient Spear of the Deep' did not mutate this tick.",
-    "STABLE: 'Phantom Axe of Silence' did not mutate this tick."
+    "STABLE: 'Ancient Spear of the Deep' did not mutate this tick.",
+    "MUTATED: 'Corrosive Spear of Gales' evolved to generation 21.",
+    "STABLE: 'Corrosive Spear of Gales' did not mutate this tick.",
+    "STABLE: 'Blessed Axe of Might' did not mutate this tick.",
+    "MUTATED: 'Phantom Axe of Silence' evolved to generation 5.",
+    "STABLE: 'Singed Bow of Might' did not mutate this tick.",
+    "STABLE: 'Heavy Bow of Judgement' did not mutate this tick."
   ],
   "created": 429,
   "avg_lifespan": 35.408114558472576,
