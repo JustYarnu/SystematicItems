@@ -2,7 +2,7 @@
   "id": "efd8b93b-d565-4d69-a1fb-dd209f21ced3",
   "name": "Corrosive Spear of Gales",
   "type": "Polearm",
-  "generation": 21,
+  "generation": 23,
   "damage": 15.0,
   "damage_type": [
     "Physical",
@@ -15,10 +15,10 @@
   "str_mod": 1.1,
   "dex_mod": 1.4800000000000002,
   "rarity": 2,
-  "durability": 42.70000000000001,
-  "max_durability": 91.0,
-  "volatility": 0.62,
-  "resilience": 0.63,
+  "durability": 35.89000000000001,
+  "max_durability": 98.0,
+  "volatility": 0.6,
+  "resilience": 0.68,
   "worth": 100,
   "affinities": {
     "DEX": 0.2,
