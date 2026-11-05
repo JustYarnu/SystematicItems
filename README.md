@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-35182
+35207
 
 ## Oldest Item
 Mundane Core of Judgement
@@ -11,22 +11,22 @@ Mundane Core of Judgement
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.5
-- Average Volatility: 0.42
-- Average Durability: 55.04
+- Average Volatility: 0.43
+- Average Durability: 52.3
 
 ## Dominant Factions
+- Order: 0.6
 - Chaos: 0.4
-- Order: 0.4
-- STR: 0.2
+- STR: 0.3
 
 ## Extremes
 - Most Stable Item: Titanic Rapier of Iron
-- Most Volatile Item: Corrosive Spear of Gales
+- Most Volatile Item: Heavy Bow of Judgement
 
 ## Recent Events
-- MUTATED: 'Phantom Axe of Silence' evolved to generation 9.
-- MUTATED: 'Phantom Axe of Silence' evolved to generation 10.
-- STABLE: 'Titanic Rapier of Iron' did not mutate this tick.
+- MUTATED: 'Titanic Rapier of Iron' evolved to generation 6.
+- MUTATED: 'Starlight Blade of the Glacier' evolved to generation 6.
+- MUTATED: 'Singed Bow of Might' evolved to generation 26.
 
 ## Lifecycle Stats
 - Items Created: 429
@@ -40,8 +40,8 @@ Mundane Core of Judgement
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 35182
-- Successful Mutations: 14560
+- Mutations Attempted: 35207
+- Successful Mutations: 14575
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Core of Judgement
 
 ## Economy
 - Total Currency: 783700
-- Currency per Tick (avg): 22.28
+- Currency per Tick (avg): 22.26
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
