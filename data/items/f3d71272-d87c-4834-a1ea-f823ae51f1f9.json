@@ -2,7 +2,7 @@
   "id": "f3d71272-d87c-4834-a1ea-f823ae51f1f9",
   "name": "Blessed Axe of Might",
   "type": "HeavyWeapon",
-  "generation": 19,
+  "generation": 21,
   "damage": 31.5,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.7000000000000002,
   "dex_mod": 0.8499999999999999,
   "rarity": 1,
-  "durability": 20.5,
-  "max_durability": 123.0,
-  "volatility": 0.5200000000000004,
+  "durability": 12.25,
+  "max_durability": 125.0,
+  "volatility": 0.55,
   "resilience": 0.7,
   "worth": 100,
   "affinities": {

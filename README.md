@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-35232
+35257
 
 ## Oldest Item
 Mundane Blade of Might
@@ -12,21 +12,21 @@ Mundane Blade of Might
 - Active Items: 10
 - Average Rarity: 1.4
 - Average Volatility: 0.39
-- Average Durability: 59.25
+- Average Durability: 55.11
 
 ## Dominant Factions
-- Chaos: 0.4
+- Chaos: 0.5
 - Order: 0.3
 - STR: 0.2
 
 ## Extremes
 - Most Stable Item: Mundane Blade of Might
-- Most Volatile Item: Corrosive Spear of Gales
+- Most Volatile Item: Blessed Axe of Might
 
 ## Recent Events
-- MUTATED: 'Phantom Axe of Silence' evolved to generation 16.
-- MUTATED: 'Starlight Blade of the Glacier' evolved to generation 7.
-- STABLE: 'Mundane Blade of Might' did not mutate this tick.
+- MUTATED: 'Blessed Axe of Might' evolved to generation 21.
+- STABLE: 'Titanic Rapier of Iron' did not mutate this tick.
+- STABLE: 'Singed Bow of Might' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 430
@@ -40,8 +40,8 @@ Mundane Blade of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 35232
-- Successful Mutations: 14587
+- Mutations Attempted: 35257
+- Successful Mutations: 14599
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Blade of Might
 
 ## Economy
 - Total Currency: 786000
-- Currency per Tick (avg): 22.31
+- Currency per Tick (avg): 22.29
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
