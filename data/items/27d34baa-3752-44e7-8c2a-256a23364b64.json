@@ -2,7 +2,7 @@
   "id": "27d34baa-3752-44e7-8c2a-256a23364b64",
   "name": "Ancient Spear of the Deep",
   "type": "Polearm",
-  "generation": 13,
+  "generation": 16,
   "damage": 20.0,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.1,
   "dex_mod": 1.0,
   "rarity": 2.0,
-  "durability": 46.30000000000001,
+  "durability": 52.290000000000006,
   "max_durability": 146.0,
-  "volatility": 0.44000000000000034,
-  "resilience": 0.6799999999999999,
+  "volatility": 0.4900000000000003,
+  "resilience": 0.7099999999999999,
   "worth": 100,
   "affinities": {}
 }
