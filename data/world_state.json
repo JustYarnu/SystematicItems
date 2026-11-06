@@ -1,23 +1,23 @@
 {
-  "currency": 786000,
-  "tick": 35282,
+  "currency": 787300,
+  "tick": 35307,
   "mutation_stats": {
-    "attempted": 35282,
-    "success": 14612
+    "attempted": 35307,
+    "success": 14622
   },
   "recent_events": [
-    "STABLE: 'Titanic Rapier of Iron' did not mutate this tick.",
-    "STABLE: 'Starlight Blade of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Blessed Axe of Might' evolved to generation 23.",
     "STABLE: 'Singed Bow of Might' did not mutate this tick.",
-    "MUTATED: 'Ancient Spear of the Deep' evolved to generation 16.",
-    "STABLE: 'Corrosive Spear of Gales' did not mutate this tick.",
-    "STABLE: 'Corrosive Spear of Gales' did not mutate this tick.",
-    "MUTATED: 'Blessed Axe of Might' evolved to generation 24.",
-    "STABLE: 'Phantom Axe of Silence' did not mutate this tick.",
-    "MUTATED: 'Phantom Rapier of Grace' evolved to generation 17."
+    "MUTATED: 'Titanic Rapier of Iron' evolved to generation 11.",
+    "STABLE: 'Blessed Axe of Might' did not mutate this tick.",
+    "STABLE: 'Blessed Axe of Might' did not mutate this tick.",
+    "REPLACED WITH: 'Phantom Spear of Doom' (53b93754-5001-4b72-a57f-3f6d4c2eaa7b)",
+    "STABLE: 'Singed Bow of Might' did not mutate this tick.",
+    "MUTATED: 'Phantom Axe of Silence' evolved to generation 21.",
+    "STABLE: 'Singed Bow of Might' did not mutate this tick.",
+    "MUTATED: 'Starlight Blade of the Glacier' evolved to generation 10.",
+    "STABLE: 'Phantom Rapier of Grace' did not mutate this tick."
   ],
-  "created": 430,
-  "avg_lifespan": 35.42857142857145,
-  "archived": 420
+  "created": 431,
+  "avg_lifespan": 35.40142517814729,
+  "archived": 421
 }

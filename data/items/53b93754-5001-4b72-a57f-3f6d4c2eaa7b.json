@@ -1,0 +1,24 @@
+{
+  "id": "53b93754-5001-4b72-a57f-3f6d4c2eaa7b",
+  "name": "Phantom Spear of Doom",
+  "type": "Polearm",
+  "generation": 1,
+  "damage": 28.0,
+  "damage_type": [
+    "Physical",
+    "Void",
+    "Piercing",
+    "Chaos"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.1,
+  "dex_mod": 1.2,
+  "rarity": 1,
+  "durability": 100.0,
+  "max_durability": 100.0,
+  "volatility": 0.55,
+  "resilience": 0.5,
+  "worth": 100,
+  "affinities": {}
+}
