@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-35357
+35382
 
 ## Oldest Item
-Mundane Blade of Might
+Silent Blade of Might
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.4
-- Average Volatility: 0.37
-- Average Durability: 64.28
+- Average Volatility: 0.38
+- Average Durability: 59.59
 
 ## Dominant Factions
-- DEX: 0.6
+- DEX: 0.7
 - Chaos: 0.5
 - STR: 0.4
 
@@ -24,9 +24,9 @@ Mundane Blade of Might
 - Most Volatile Item: Corrosive Spear of Gales
 
 ## Recent Events
-- STABLE: 'Singed Bow of Might' did not mutate this tick.
-- STABLE: 'Starlight Blade of the Glacier' did not mutate this tick.
-- MUTATED: 'Corrosive Spear of Gales' evolved to generation 31.
+- STABLE: 'Titanic Rapier of Iron' did not mutate this tick.
+- STABLE: 'Titanic Rapier of Iron' did not mutate this tick.
+- STABLE: 'Mundane Core of Judgement' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 432
@@ -40,8 +40,8 @@ Mundane Blade of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 35357
-- Successful Mutations: 14642
+- Mutations Attempted: 35382
+- Successful Mutations: 14652
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Blade of Might
 
 ## Economy
 - Total Currency: 788450
-- Currency per Tick (avg): 22.3
+- Currency per Tick (avg): 22.28
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
