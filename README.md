@@ -3,19 +3,19 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-35382
+35407
 
 ## Oldest Item
 Silent Blade of Might
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.4
-- Average Volatility: 0.38
-- Average Durability: 59.59
+- Average Rarity: 1.5
+- Average Volatility: 0.4
+- Average Durability: 55.03
 
 ## Dominant Factions
-- DEX: 0.7
+- DEX: 0.8
 - Chaos: 0.5
 - STR: 0.4
 
@@ -26,7 +26,7 @@ Silent Blade of Might
 ## Recent Events
 - STABLE: 'Titanic Rapier of Iron' did not mutate this tick.
 - STABLE: 'Titanic Rapier of Iron' did not mutate this tick.
-- STABLE: 'Mundane Core of Judgement' did not mutate this tick.
+- MUTATED: 'Phantom Spear of Doom' evolved to generation 9.
 
 ## Lifecycle Stats
 - Items Created: 432
@@ -40,15 +40,15 @@ Silent Blade of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 35382
-- Successful Mutations: 14652
+- Mutations Attempted: 35407
+- Successful Mutations: 14664
 - Failure Rate: 58.6%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 5
+- Uncommon: 5
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Silent Blade of Might
 
 ## Economy
 - Total Currency: 788450
-- Currency per Tick (avg): 22.28
+- Currency per Tick (avg): 22.27
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
