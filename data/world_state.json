@@ -1,23 +1,23 @@
 {
-  "currency": 788450,
-  "tick": 35407,
+  "currency": 790300,
+  "tick": 35432,
   "mutation_stats": {
-    "attempted": 35407,
-    "success": 14664
+    "attempted": 35432,
+    "success": 14676
   },
   "recent_events": [
-    "STABLE: 'Titanic Rapier of Iron' did not mutate this tick.",
-    "STABLE: 'Titanic Rapier of Iron' did not mutate this tick.",
-    "MUTATED: 'Ancient Spear of the Deep' evolved to generation 18.",
-    "MUTATED: 'Ancient Spear of the Deep' evolved to generation 19.",
-    "STABLE: 'Starlight Blade of the Glacier' did not mutate this tick.",
-    "STABLE: 'Ancient Spear of the Deep' did not mutate this tick.",
-    "MUTATED: 'Starlight Blade of the Glacier' evolved to generation 13.",
-    "STABLE: 'Titanic Rapier of Iron' did not mutate this tick.",
-    "STABLE: 'Titanic Rapier of Iron' did not mutate this tick.",
-    "MUTATED: 'Phantom Spear of Doom' evolved to generation 9."
+    "REPLACED WITH: 'Unstable Edge of Might' (f3e3b334-2fc1-4f51-912c-ac0b208d9a74)",
+    "STABLE: 'Unstable Edge of Might' did not mutate this tick.",
+    "STABLE: 'Phantom Spear of Doom' did not mutate this tick.",
+    "MUTATED: 'Phantom Spear of Doom' evolved to generation 10.",
+    "STABLE: 'Mundane Core of Judgement' did not mutate this tick.",
+    "STABLE: 'Silent Blade of Might' did not mutate this tick.",
+    "MUTATED: 'Ancient Spear of the Deep' evolved to generation 22.",
+    "MUTATED: 'Titanic Rapier of Iron' evolved to generation 18.",
+    "MUTATED: 'Phantom Axe of Silence' evolved to generation 29.",
+    "MUTATED: 'Titanic Rapier of Iron' evolved to generation 19."
   ],
-  "created": 432,
-  "avg_lifespan": 35.367298578199076,
-  "archived": 422
+  "created": 433,
+  "avg_lifespan": 35.36643026004731,
+  "archived": 423
 }
