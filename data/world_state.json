@@ -1,21 +1,21 @@
 {
   "currency": 790300,
-  "tick": 35507,
+  "tick": 35532,
   "mutation_stats": {
-    "attempted": 35507,
-    "success": 14705
+    "attempted": 35532,
+    "success": 14717
   },
   "recent_events": [
-    "STABLE: 'Titanic Rapier of Iron' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
-    "STABLE: 'Phantom Spear of Doom' did not mutate this tick.",
-    "STABLE: 'Phantom Axe of Silence' did not mutate this tick.",
-    "STABLE: 'Starlight Blade of the Glacier' did not mutate this tick.",
-    "STABLE: 'Mundane Core of Judgement' did not mutate this tick.",
-    "STABLE: 'Titanic Rapier of Iron' did not mutate this tick.",
+    "MUTATED: 'Silent Blade of Might' evolved to generation 3.",
+    "MUTATED: 'Starlight Blade of the Glacier' evolved to generation 18.",
+    "MUTATED: 'Unstable Edge of Might' evolved to generation 5.",
     "STABLE: 'Silent Blade of Might' did not mutate this tick.",
-    "STABLE: 'Starlight Blade of the Glacier' did not mutate this tick.",
-    "MUTATED: 'Ancient Spear of the Deep' evolved to generation 28."
+    "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
+    "STABLE: 'Ancient Spear of the Deep' did not mutate this tick.",
+    "STABLE: 'Phantom Spear of Doom' did not mutate this tick.",
+    "STABLE: 'Singed Bow of Might' did not mutate this tick.",
+    "MUTATED: 'Mundane Blade of Might' evolved to generation 8.",
+    "STABLE: 'Phantom Axe of Silence' did not mutate this tick."
   ],
   "created": 433,
   "avg_lifespan": 35.36643026004731,
