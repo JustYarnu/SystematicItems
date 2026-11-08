@@ -1,21 +1,21 @@
 {
   "currency": 790300,
-  "tick": 35482,
+  "tick": 35507,
   "mutation_stats": {
-    "attempted": 35482,
-    "success": 14699
+    "attempted": 35507,
+    "success": 14705
   },
   "recent_events": [
-    "MUTATED: 'Ancient Spear of the Deep' evolved to generation 24.",
-    "MUTATED: 'Ancient Spear of the Deep' evolved to generation 25.",
-    "MUTATED: 'Ancient Spear of the Deep' evolved to generation 26.",
+    "STABLE: 'Titanic Rapier of Iron' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
+    "STABLE: 'Phantom Spear of Doom' did not mutate this tick.",
+    "STABLE: 'Phantom Axe of Silence' did not mutate this tick.",
+    "STABLE: 'Starlight Blade of the Glacier' did not mutate this tick.",
+    "STABLE: 'Mundane Core of Judgement' did not mutate this tick.",
+    "STABLE: 'Titanic Rapier of Iron' did not mutate this tick.",
     "STABLE: 'Silent Blade of Might' did not mutate this tick.",
-    "STABLE: 'Silent Blade of Might' did not mutate this tick.",
-    "MUTATED: 'Titanic Rapier of Iron' evolved to generation 21.",
-    "MUTATED: 'Phantom Axe of Silence' evolved to generation 30.",
-    "MUTATED: 'Phantom Spear of Doom' evolved to generation 13.",
-    "MUTATED: 'Starlight Blade of the Glacier' evolved to generation 16.",
-    "STABLE: 'Starlight Blade of the Glacier' did not mutate this tick."
+    "STABLE: 'Starlight Blade of the Glacier' did not mutate this tick.",
+    "MUTATED: 'Ancient Spear of the Deep' evolved to generation 28."
   ],
   "created": 433,
   "avg_lifespan": 35.36643026004731,
