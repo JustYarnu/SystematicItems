@@ -2,7 +2,7 @@
   "id": "016d71fc-6b35-4266-82be-acfffaefc150",
   "name": "Mundane Core of Judgement",
   "type": "Artifact",
-  "generation": 18,
+  "generation": 19,
   "damage": 28.0,
   "damage_type": [
     "Physical",
@@ -13,10 +13,10 @@
   "str_mod": 1.2,
   "dex_mod": 1.2000000000000002,
   "rarity": 1,
-  "durability": 49.6,
-  "max_durability": 112.0,
-  "volatility": 0.4800000000000003,
-  "resilience": 0.7,
+  "durability": 47.6,
+  "max_durability": 122.0,
+  "volatility": 0.38000000000000034,
+  "resilience": 0.75,
   "worth": 100,
   "affinities": {
     "STR": 0.2
