@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-35607
+35632
 
 ## Oldest Item
 Silent Blade of Might
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.5
-- Average Volatility: 0.46
-- Average Durability: 40.51
+- Average Rarity: 1.7
+- Average Volatility: 0.48
+- Average Durability: 37.76
 
 ## Dominant Factions
 - DEX: 0.8
@@ -24,9 +24,9 @@ Silent Blade of Might
 - Most Volatile Item: Singed Bow of Might
 
 ## Recent Events
-- MUTATED: 'Ancient Spear of the Deep' evolved to generation 34.
-- STABLE: 'Mundane Blade of Might' did not mutate this tick.
-- MUTATED: 'Silent Blade of Might' evolved to generation 6.
+- STABLE: 'Silent Blade of Might' did not mutate this tick.
+- MUTATED: 'Starlight Blade of the Glacier' evolved to generation 23.
+- MUTATED: 'Singed Bow of Might' evolved to generation 47.
 
 ## Lifecycle Stats
 - Items Created: 433
@@ -40,15 +40,15 @@ Silent Blade of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 35607
-- Successful Mutations: 14759
-- Failure Rate: 58.6%
+- Mutations Attempted: 35632
+- Successful Mutations: 14770
+- Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 4
+- Uncommon: 6
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Silent Blade of Might
 
 ## Economy
 - Total Currency: 790300
-- Currency per Tick (avg): 22.2
+- Currency per Tick (avg): 22.18
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
