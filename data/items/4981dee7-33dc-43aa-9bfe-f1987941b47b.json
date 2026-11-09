@@ -2,7 +2,7 @@
   "id": "4981dee7-33dc-43aa-9bfe-f1987941b47b",
   "name": "Starlight Blade of the Glacier",
   "type": "Sword",
-  "generation": 19,
+  "generation": 21,
   "damage": 21.0,
   "damage_type": [
     "Physical",
@@ -15,9 +15,9 @@
   "str_mod": 1.2500000000000002,
   "dex_mod": 1.45,
   "rarity": 2.0,
-  "durability": 25.41000000000002,
+  "durability": 18.960000000000022,
   "max_durability": 150.0,
-  "volatility": 0.3600000000000004,
+  "volatility": 0.3700000000000004,
   "resilience": 0.7999999999999999,
   "worth": 100,
   "affinities": {
