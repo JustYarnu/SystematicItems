@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-35757
+35782
 
 ## Oldest Item
 Phantom Axe of the Deep
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.6
-- Average Volatility: 0.45
-- Average Durability: 30.74
+- Average Rarity: 1.7
+- Average Volatility: 0.46
+- Average Durability: 30.39
 
 ## Dominant Factions
 - STR: 1.2
-- Chaos: 0.7
-- Stability: 0.6
+- Chaos: 0.8
+- Order: 0.7
 
 ## Extremes
 - Most Stable Item: Phantom Axe of the Deep
-- Most Volatile Item: Phantom Spear of Doom
+- Most Volatile Item: Singed Bow of Might
 
 ## Recent Events
-- STABLE: 'Phantom Spear of Doom' did not mutate this tick.
-- STABLE: 'Mundane Blade of Might' did not mutate this tick.
-- STABLE: 'Mundane Blade of Might' did not mutate this tick.
+- MUTATED: 'Unstable Edge of Might' evolved to generation 22.
+- MUTATED: 'Silent Blade of Might' evolved to generation 15.
+- MUTATED: 'Mundane Core of Judgement' evolved to generation 25.
 
 ## Lifecycle Stats
 - Items Created: 434
@@ -40,8 +40,8 @@ Phantom Axe of the Deep
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 35757
-- Successful Mutations: 14829
+- Mutations Attempted: 35782
+- Successful Mutations: 14844
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Phantom Axe of the Deep
 
 ## Economy
 - Total Currency: 792400
-- Currency per Tick (avg): 22.16
+- Currency per Tick (avg): 22.15
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
