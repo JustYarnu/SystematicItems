@@ -2,7 +2,7 @@
   "id": "2acb8cef-d6ae-4ed0-96bb-56e3af8e9ad8",
   "name": "Titanic Rapier of Iron",
   "type": "Generic",
-  "generation": 33,
+  "generation": 34,
   "damage": 24.0,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.7000000000000004,
   "dex_mod": 1.15,
   "rarity": 1,
-  "durability": 3.7800000000000153,
+  "durability": 0.10000000000001519,
   "max_durability": 125.0,
-  "volatility": 0.3500000000000004,
+  "volatility": 0.3300000000000004,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {

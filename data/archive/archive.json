@@ -11440,5 +11440,32 @@
       "Stability": 0.1,
       "Chaos": 0.1
     }
+  },
+  {
+    "id": "27d34baa-3752-44e7-8c2a-256a23364b64",
+    "name": "Ancient Spear of the Deep",
+    "type": "Polearm",
+    "generation": 44,
+    "damage": 31.0,
+    "damage_type": [
+      "Physical",
+      "Piercing",
+      "Water"
+    ],
+    "crit_damage": 3.0,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.5000000000000004,
+    "dex_mod": 1.2000000000000002,
+    "rarity": 2.0,
+    "durability": -1.0,
+    "max_durability": 145.0,
+    "volatility": 0.5300000000000004,
+    "resilience": 0.7099999999999999,
+    "worth": 2300,
+    "affinities": {
+      "Stability": 0.2,
+      "Scarceness": 0.1,
+      "STR": 0.1
+    }
   }
 ]
