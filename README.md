@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-35732
+35757
 
 ## Oldest Item
 Phantom Axe of the Deep
@@ -11,8 +11,8 @@ Phantom Axe of the Deep
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.6
-- Average Volatility: 0.44
-- Average Durability: 31.1
+- Average Volatility: 0.45
+- Average Durability: 30.74
 
 ## Dominant Factions
 - STR: 1.2
@@ -24,9 +24,9 @@ Phantom Axe of the Deep
 - Most Volatile Item: Phantom Spear of Doom
 
 ## Recent Events
-- STABLE: 'Titanic Rapier of Iron' did not mutate this tick.
-- STABLE: 'Titanic Rapier of Iron' did not mutate this tick.
-- STABLE: 'Starlight Blade of the Glacier' did not mutate this tick.
+- STABLE: 'Phantom Spear of Doom' did not mutate this tick.
+- STABLE: 'Mundane Blade of Might' did not mutate this tick.
+- STABLE: 'Mundane Blade of Might' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 434
@@ -40,8 +40,8 @@ Phantom Axe of the Deep
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 35732
-- Successful Mutations: 14820
+- Mutations Attempted: 35757
+- Successful Mutations: 14829
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Phantom Axe of the Deep
 
 ## Economy
 - Total Currency: 792400
-- Currency per Tick (avg): 22.18
+- Currency per Tick (avg): 22.16
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
