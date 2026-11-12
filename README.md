@@ -3,16 +3,16 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-35857
+35882
 
 ## Oldest Item
-Mortal Bow of Carnage
+Rusty Rapier of Frost
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.3
 - Average Volatility: 0.38
-- Average Durability: 62.37
+- Average Durability: 59.29
 
 ## Dominant Factions
 - STR: 1.0
@@ -24,9 +24,9 @@ Mortal Bow of Carnage
 - Most Volatile Item: Unstable Edge of Might
 
 ## Recent Events
-- STABLE: 'Mundane Blade of Plagues' did not mutate this tick.
-- STABLE: 'Phantom Axe of the Deep' did not mutate this tick.
-- STABLE: 'Silent Blade of Might' did not mutate this tick.
+- MUTATED: 'Mundane Blade of Might' evolved to generation 30.
+- STABLE: 'Nimble Rapier of Frost' did not mutate this tick.
+- MUTATED: 'Silent Blade of Might' evolved to generation 22.
 
 ## Lifecycle Stats
 - Items Created: 438
@@ -40,8 +40,8 @@ Mortal Bow of Carnage
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 35857
-- Successful Mutations: 14877
+- Mutations Attempted: 35882
+- Successful Mutations: 14889
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mortal Bow of Carnage
 
 ## Economy
 - Total Currency: 801300
-- Currency per Tick (avg): 22.35
+- Currency per Tick (avg): 22.33
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
