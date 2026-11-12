@@ -11467,5 +11467,59 @@
       "Scarceness": 0.1,
       "STR": 0.1
     }
+  },
+  {
+    "id": "2acb8cef-d6ae-4ed0-96bb-56e3af8e9ad8",
+    "name": "Titanic Rapier of Iron",
+    "type": "Generic",
+    "generation": 35,
+    "damage": 24.0,
+    "damage_type": [
+      "Physical",
+      "Piercing"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.07,
+    "str_mod": 1.7000000000000004,
+    "dex_mod": 1.15,
+    "rarity": 1,
+    "durability": -1.0,
+    "max_durability": 125.0,
+    "volatility": 0.4100000000000004,
+    "resilience": 0.7,
+    "worth": 1850,
+    "affinities": {
+      "Order": 0.2,
+      "STR": 0.2,
+      "Restoration": 0.2
+    }
+  },
+  {
+    "id": "53b93754-5001-4b72-a57f-3f6d4c2eaa7b",
+    "name": "Phantom Spear of Doom",
+    "type": "Polearm",
+    "generation": 33,
+    "damage": 46.0,
+    "damage_type": [
+      "Physical",
+      "Void",
+      "Piercing",
+      "Chaos"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.01,
+    "str_mod": 1.3000000000000003,
+    "dex_mod": 1.2,
+    "rarity": 2,
+    "durability": -1.0,
+    "max_durability": 118.0,
+    "volatility": 0.6,
+    "resilience": 0.63,
+    "worth": 1750,
+    "affinities": {
+      "Order": 0.2,
+      "DEX": 0.1,
+      "Chaos": 0.3
+    }
   }
 ]

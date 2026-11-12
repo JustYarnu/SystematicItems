@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-35807
+35832
 
 ## Oldest Item
-Nimble Rapier of Frost
+Mortal Bow of Carnage
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.6
-- Average Volatility: 0.43
-- Average Durability: 38.77
+- Average Rarity: 1.5
+- Average Volatility: 0.42
+- Average Durability: 55.85
 
 ## Dominant Factions
-- STR: 1.1
-- Chaos: 0.9
-- Order: 0.7
+- STR: 0.9
+- Chaos: 0.6
+- Stability: 0.4
 
 ## Extremes
 - Most Stable Item: Nimble Rapier of Frost
-- Most Volatile Item: Singed Bow of Might
+- Most Volatile Item: Unstable Edge of Might
 
 ## Recent Events
-- STABLE: 'Mundane Blade of Might' did not mutate this tick.
-- MUTATED: 'Mundane Blade of Might' evolved to generation 27.
-- STABLE: 'Silent Blade of Might' did not mutate this tick.
+- MUTATED: 'Mundane Core of Judgement' evolved to generation 29.
+- STABLE: 'Mundane Blade of Plagues' did not mutate this tick.
+- STABLE: 'Mundane Core of Judgement' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 435
-- Items Archived: 425
+- Items Created: 437
+- Items Archived: 427
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Nimble Rapier of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 35807
-- Successful Mutations: 14854
+- Mutations Attempted: 35832
+- Successful Mutations: 14866
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 6
-- Uncommon: 4
+- Common: 7
+- Uncommon: 3
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Nimble Rapier of Frost
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 794700
-- Currency per Tick (avg): 22.19
+- Total Currency: 798300
+- Currency per Tick (avg): 22.28
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

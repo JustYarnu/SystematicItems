@@ -1,23 +1,23 @@
 {
-  "currency": 794700,
-  "tick": 35807,
+  "currency": 798300,
+  "tick": 35832,
   "mutation_stats": {
-    "attempted": 35807,
-    "success": 14854
+    "attempted": 35832,
+    "success": 14866
   },
   "recent_events": [
-    "STABLE: 'Unstable Edge of Might' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of Might' evolved to generation 25.",
-    "MUTATED: 'Phantom Axe of the Deep' evolved to generation 5.",
-    "MUTATED: 'Mundane Blade of Might' evolved to generation 26.",
-    "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
-    "STABLE: 'Phantom Axe of the Deep' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of Might' evolved to generation 27.",
-    "STABLE: 'Silent Blade of Might' did not mutate this tick."
+    "MUTATED: 'Unstable Edge of Might' evolved to generation 24.",
+    "MUTATED: 'Mundane Core of Judgement' evolved to generation 27.",
+    "MUTATED: 'Phantom Spear of Doom' evolved to generation 33.",
+    "REPLACED WITH: 'Mundane Blade of Plagues' (c6c7c312-87d8-4e85-871f-1dfc99012df8)",
+    "STABLE: 'Starlight Blade of the Glacier' did not mutate this tick.",
+    "STABLE: 'Mortal Bow of Carnage' did not mutate this tick.",
+    "MUTATED: 'Mundane Core of Judgement' evolved to generation 28.",
+    "MUTATED: 'Mundane Core of Judgement' evolved to generation 29.",
+    "STABLE: 'Mundane Blade of Plagues' did not mutate this tick.",
+    "STABLE: 'Mundane Core of Judgement' did not mutate this tick."
   ],
-  "created": 435,
-  "avg_lifespan": 35.39764705882356,
-  "archived": 425
+  "created": 437,
+  "avg_lifespan": 35.39110070257614,
+  "archived": 427
 }

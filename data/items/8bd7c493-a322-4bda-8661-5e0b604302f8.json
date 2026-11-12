@@ -1,0 +1,23 @@
+{
+  "id": "8bd7c493-a322-4bda-8661-5e0b604302f8",
+  "name": "Mortal Bow of Carnage",
+  "type": "Ranged",
+  "generation": 1,
+  "damage": 35.0,
+  "damage_type": [
+    "Physical",
+    "Piercing",
+    "Blood"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.0,
+  "dex_mod": 1.15,
+  "rarity": 1,
+  "durability": 99.0,
+  "max_durability": 80.0,
+  "volatility": 0.36,
+  "resilience": 0.5,
+  "worth": 100,
+  "affinities": {}
+}
