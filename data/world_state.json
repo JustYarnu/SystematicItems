@@ -1,21 +1,21 @@
 {
   "currency": 801300,
-  "tick": 35882,
+  "tick": 35907,
   "mutation_stats": {
-    "attempted": 35882,
-    "success": 14889
+    "attempted": 35907,
+    "success": 14898
   },
   "recent_events": [
-    "STABLE: 'Nimble Rapier of Frost' did not mutate this tick.",
-    "STABLE: 'Nimble Rapier of Frost' did not mutate this tick.",
-    "STABLE: 'Mundane Core of Judgement' did not mutate this tick.",
-    "STABLE: 'Mortal Bow of Carnage' did not mutate this tick.",
-    "MUTATED: 'Starlight Blade of the Glacier' evolved to generation 31.",
+    "STABLE: 'Starlight Blade of the Glacier' did not mutate this tick.",
+    "STABLE: 'Unstable Edge of Might' did not mutate this tick.",
+    "MUTATED: 'Silent Blade of Might' evolved to generation 24.",
+    "MUTATED: 'Mundane Core of Judgement' evolved to generation 36.",
     "STABLE: 'Silent Blade of Might' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of Plagues' evolved to generation 4.",
-    "MUTATED: 'Mundane Blade of Might' evolved to generation 30.",
     "STABLE: 'Nimble Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Silent Blade of Might' evolved to generation 22."
+    "STABLE: 'Nimble Rapier of Frost' did not mutate this tick.",
+    "STABLE: 'Silent Blade of Might' did not mutate this tick.",
+    "STABLE: 'Rusty Rapier of Frost' did not mutate this tick.",
+    "MUTATED: 'Unstable Edge of Might' evolved to generation 26."
   ],
   "created": 438,
   "avg_lifespan": 35.44392523364488,
