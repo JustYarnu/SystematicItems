@@ -1,21 +1,21 @@
 {
   "currency": 805050,
-  "tick": 35957,
+  "tick": 35982,
   "mutation_stats": {
-    "attempted": 35957,
-    "success": 14917
+    "attempted": 35982,
+    "success": 14926
   },
   "recent_events": [
-    "STABLE: 'Mundane Core of Judgement' did not mutate this tick.",
-    "STABLE: 'Mundane Core of Judgement' did not mutate this tick.",
-    "REPLACED WITH: 'Mundane Focus of Frost' (37d20ee2-09d7-47a3-b569-60c600db9681)",
-    "STABLE: 'Mortal Bow of Carnage' did not mutate this tick.",
+    "STABLE: 'Unstable Edge of Might' did not mutate this tick.",
+    "MUTATED: 'Mundane Blade of Might' evolved to generation 38.",
+    "MUTATED: 'Mundane Focus of Frost' evolved to generation 4.",
     "STABLE: 'Rusty Rapier of Frost' did not mutate this tick.",
-    "STABLE: 'Phantom Axe of the Deep' did not mutate this tick.",
+    "STABLE: 'Nimble Rapier of Frost' did not mutate this tick.",
     "STABLE: 'Mundane Focus of Frost' did not mutate this tick.",
-    "MUTATED: 'Unstable Edge of Might' evolved to generation 28.",
+    "MUTATED: 'Nimble Rapier of Frost' evolved to generation 5.",
+    "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
     "STABLE: 'Mundane Blade of Plagues' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of Might' evolved to generation 36."
+    "MUTATED: 'Unstable Edge of Might' evolved to generation 29."
   ],
   "created": 440,
   "avg_lifespan": 35.444186046511646,
