@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-35907
+35932
 
 ## Oldest Item
 Rusty Rapier of Frost
@@ -11,22 +11,22 @@ Rusty Rapier of Frost
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.4
-- Average Volatility: 0.4
-- Average Durability: 55.22
+- Average Volatility: 0.41
+- Average Durability: 52.63
 
 ## Dominant Factions
 - STR: 1.0
 - Stability: 0.7
-- Chaos: 0.3
+- Order: 0.4
 
 ## Extremes
 - Most Stable Item: Rusty Rapier of Frost
 - Most Volatile Item: Unstable Edge of Might
 
 ## Recent Events
-- STABLE: 'Silent Blade of Might' did not mutate this tick.
+- MUTATED: 'Nimble Rapier of Frost' evolved to generation 3.
+- STABLE: 'Nimble Rapier of Frost' did not mutate this tick.
 - STABLE: 'Rusty Rapier of Frost' did not mutate this tick.
-- MUTATED: 'Unstable Edge of Might' evolved to generation 26.
 
 ## Lifecycle Stats
 - Items Created: 438
@@ -40,8 +40,8 @@ Rusty Rapier of Frost
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 35907
-- Successful Mutations: 14898
+- Mutations Attempted: 35932
+- Successful Mutations: 14908
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Rusty Rapier of Frost
 
 ## Economy
 - Total Currency: 801300
-- Currency per Tick (avg): 22.32
+- Currency per Tick (avg): 22.3
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

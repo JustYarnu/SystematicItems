@@ -2,7 +2,7 @@
   "id": "bb2060b9-37df-4483-b305-94eb306b49c3",
   "name": "Mundane Blade of Might",
   "type": "Sword",
-  "generation": 30,
+  "generation": 34,
   "damage": 25.0,
   "damage_type": [
     "Physical",
@@ -13,9 +13,9 @@
   "str_mod": 1.5000000000000002,
   "dex_mod": 1.2,
   "rarity": 1,
-  "durability": 28.289999999999985,
-  "max_durability": 92.0,
-  "volatility": 0.41000000000000003,
+  "durability": 15.939999999999984,
+  "max_durability": 94.0,
+  "volatility": 0.38000000000000006,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
