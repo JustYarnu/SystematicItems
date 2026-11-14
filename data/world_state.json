@@ -1,21 +1,21 @@
 {
   "currency": 806700,
-  "tick": 36032,
+  "tick": 36057,
   "mutation_stats": {
-    "attempted": 36032,
-    "success": 14950
+    "attempted": 36057,
+    "success": 14963
   },
   "recent_events": [
-    "STABLE: 'Silent Blade of Might' did not mutate this tick.",
+    "MUTATED: 'Nimble Rapier of Frost' evolved to generation 12.",
+    "MUTATED: 'Nimble Rapier of Frost' evolved to generation 13.",
+    "MUTATED: 'Mortal Bow of Carnage' evolved to generation 11.",
+    "MUTATED: 'Gilded Shard of Carnage' evolved to generation 4.",
+    "MUTATED: 'Silent Blade of Might' evolved to generation 29.",
     "STABLE: 'Fractured Blade of Gales' did not mutate this tick.",
-    "MUTATED: 'Nimble Rapier of Frost' evolved to generation 8.",
-    "MUTATED: 'Gilded Shard of Carnage' evolved to generation 3.",
-    "MUTATED: 'Mortal Bow of Carnage' evolved to generation 8.",
-    "STABLE: 'Silent Blade of Might' did not mutate this tick.",
-    "MUTATED: 'Phantom Axe of the Deep' evolved to generation 12.",
-    "STABLE: 'Fractured Blade of Gales' did not mutate this tick.",
-    "MUTATED: 'Mortal Bow of Carnage' evolved to generation 9.",
-    "STABLE: 'Mortal Bow of Carnage' did not mutate this tick."
+    "STABLE: 'Mortal Bow of Carnage' did not mutate this tick.",
+    "STABLE: 'Mortal Bow of Carnage' did not mutate this tick.",
+    "STABLE: 'Rusty Rapier of Frost' did not mutate this tick.",
+    "STABLE: 'Rusty Rapier of Frost' did not mutate this tick."
   ],
   "created": 441,
   "avg_lifespan": 35.43387470997681,
