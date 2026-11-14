@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-35982
+36007
 
 ## Oldest Item
-Fractured Blade of Gales
+Gilded Shard of Carnage
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.2
-- Average Volatility: 0.38
-- Average Durability: 66.74
+- Average Rarity: 1.25
+- Average Volatility: 0.39
+- Average Durability: 72.05
 
 ## Dominant Factions
-- STR: 0.8
-- Stability: 0.3
-- Chaos: 0.2
+- STR: 0.4
+- Order: 0.2
+- DEX: 0.2
 
 ## Extremes
-- Most Stable Item: Mundane Focus of Frost
-- Most Volatile Item: Unstable Edge of Might
+- Most Stable Item: Fractured Blade of Gales
+- Most Volatile Item: Gilded Shard of Carnage
 
 ## Recent Events
-- STABLE: 'Mundane Blade of Might' did not mutate this tick.
-- STABLE: 'Mundane Blade of Plagues' did not mutate this tick.
-- MUTATED: 'Unstable Edge of Might' evolved to generation 29.
+- MUTATED: 'Nimble Rapier of Frost' evolved to generation 7.
+- STABLE: 'Phantom Axe of the Deep' did not mutate this tick.
+- MUTATED: 'Phantom Axe of the Deep' evolved to generation 10.
 
 ## Lifecycle Stats
-- Items Created: 440
-- Items Archived: 430
+- Items Created: 441
+- Items Archived: 431
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Fractured Blade of Gales
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 35982
-- Successful Mutations: 14926
+- Mutations Attempted: 36007
+- Successful Mutations: 14938
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Fractured Blade of Gales
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 805050
-- Currency per Tick (avg): 22.37
+- Total Currency: 806700
+- Currency per Tick (avg): 22.4
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

@@ -2,7 +2,7 @@
   "id": "c6c7c312-87d8-4e85-871f-1dfc99012df8",
   "name": "Mundane Blade of Plagues",
   "type": "Sword",
-  "generation": 7,
+  "generation": 8,
   "damage": 18.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.2500000000000002,
   "dex_mod": 1.05,
   "rarity": 1,
-  "durability": 79.5,
-  "max_durability": 90.0,
-  "volatility": 0.4500000000000001,
+  "durability": 75.25,
+  "max_durability": 92.0,
+  "volatility": 0.46000000000000013,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {}

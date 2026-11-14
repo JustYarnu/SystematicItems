@@ -1,23 +1,23 @@
 {
-  "currency": 805050,
-  "tick": 35982,
+  "currency": 806700,
+  "tick": 36007,
   "mutation_stats": {
-    "attempted": 35982,
-    "success": 14926
+    "attempted": 36007,
+    "success": 14938
   },
   "recent_events": [
-    "STABLE: 'Unstable Edge of Might' did not mutate this tick.",
-    "MUTATED: 'Mundane Blade of Might' evolved to generation 38.",
-    "MUTATED: 'Mundane Focus of Frost' evolved to generation 4.",
-    "STABLE: 'Rusty Rapier of Frost' did not mutate this tick.",
-    "STABLE: 'Nimble Rapier of Frost' did not mutate this tick.",
+    "REPLACED WITH: 'Gilded Shard of Carnage' (623e91b7-4dab-4c59-ae7f-d7b8c8a599e7)",
+    "MUTATED: 'Rusty Rapier of Frost' evolved to generation 3.",
+    "MUTATED: 'Phantom Axe of the Deep' evolved to generation 9.",
+    "STABLE: 'Phantom Axe of the Deep' did not mutate this tick.",
     "STABLE: 'Mundane Focus of Frost' did not mutate this tick.",
-    "MUTATED: 'Nimble Rapier of Frost' evolved to generation 5.",
-    "STABLE: 'Mundane Blade of Might' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Plagues' did not mutate this tick.",
-    "MUTATED: 'Unstable Edge of Might' evolved to generation 29."
+    "MUTATED: 'Rusty Rapier of Frost' evolved to generation 4.",
+    "MUTATED: 'Mortal Bow of Carnage' evolved to generation 6.",
+    "MUTATED: 'Nimble Rapier of Frost' evolved to generation 7.",
+    "STABLE: 'Phantom Axe of the Deep' did not mutate this tick.",
+    "MUTATED: 'Phantom Axe of the Deep' evolved to generation 10."
   ],
-  "created": 440,
-  "avg_lifespan": 35.444186046511646,
-  "archived": 430
+  "created": 441,
+  "avg_lifespan": 35.43387470997681,
+  "archived": 431
 }

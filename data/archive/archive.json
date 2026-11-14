@@ -11601,5 +11601,31 @@
       "STR": 0.3,
       "Order": 0.2
     }
+  },
+  {
+    "id": "f3e3b334-2fc1-4f51-912c-ac0b208d9a74",
+    "name": "Unstable Edge of Might",
+    "type": "Sword",
+    "generation": 31,
+    "damage": 47.0,
+    "damage_type": [
+      "Physical",
+      "Chaos"
+    ],
+    "crit_damage": 3.5,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.4500000000000002,
+    "dex_mod": 1.0,
+    "rarity": 2,
+    "durability": -1.0,
+    "max_durability": 82.0,
+    "volatility": 0.5599999999999999,
+    "resilience": 0.6599999999999999,
+    "worth": 1650,
+    "affinities": {
+      "STR": 0.5,
+      "Stability": 0.2,
+      "Order": 0.1
+    }
   }
 ]
