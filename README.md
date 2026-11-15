@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-36132
+36157
 
 ## Oldest Item
 Mundane Sigil of the Phoenix
@@ -11,8 +11,8 @@ Mundane Sigil of the Phoenix
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.38
-- Average Volatility: 0.41
-- Average Durability: 69.19
+- Average Volatility: 0.44
+- Average Durability: 66.72
 
 ## Dominant Factions
 - DEX: 0.5
@@ -21,12 +21,12 @@ Mundane Sigil of the Phoenix
 
 ## Extremes
 - Most Stable Item: Fractured Blade of Gales
-- Most Volatile Item: Mortal Bow of Carnage
+- Most Volatile Item: Silent Blade of Might
 
 ## Recent Events
-- STABLE: 'Mundane Focus of Frost' did not mutate this tick.
-- MUTATED: 'Mortal Bow of Carnage' evolved to generation 14.
 - STABLE: 'Mortal Bow of Carnage' did not mutate this tick.
+- STABLE: 'Silent Blade of Might' did not mutate this tick.
+- STABLE: 'Silent Blade of Might' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 442
@@ -40,8 +40,8 @@ Mundane Sigil of the Phoenix
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 36132
-- Successful Mutations: 14995
+- Mutations Attempted: 36157
+- Successful Mutations: 15006
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Sigil of the Phoenix
 
 ## Economy
 - Total Currency: 808950
-- Currency per Tick (avg): 22.39
+- Currency per Tick (avg): 22.37
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
