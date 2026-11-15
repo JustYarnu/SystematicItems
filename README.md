@@ -3,20 +3,20 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-36107
+36132
 
 ## Oldest Item
-Fractured Blade of Gales
+Mundane Sigil of the Phoenix
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.25
-- Average Volatility: 0.44
-- Average Durability: 58.67
+- Average Rarity: 1.38
+- Average Volatility: 0.41
+- Average Durability: 69.19
 
 ## Dominant Factions
-- STR: 0.6
 - DEX: 0.5
+- STR: 0.4
 - Order: 0.4
 
 ## Extremes
@@ -24,14 +24,14 @@ Fractured Blade of Gales
 - Most Volatile Item: Mortal Bow of Carnage
 
 ## Recent Events
-- MUTATED: 'Rusty Rapier of Frost' evolved to generation 6.
-- STABLE: 'Phantom Axe of the Deep' did not mutate this tick.
+- STABLE: 'Mundane Focus of Frost' did not mutate this tick.
+- MUTATED: 'Mortal Bow of Carnage' evolved to generation 14.
 - STABLE: 'Mortal Bow of Carnage' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 441
-- Items Archived: 431
-- Avg Lifespan (ticks): 35.4
+- Items Created: 442
+- Items Archived: 432
+- Avg Lifespan (ticks): 35.5
 
 ### Distribution chart
 ![Lifespan Dist](assets/lifespan_dist.png)
@@ -40,8 +40,8 @@ Fractured Blade of Gales
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 36107
-- Successful Mutations: 14982
+- Mutations Attempted: 36132
+- Successful Mutations: 14995
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Fractured Blade of Gales
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 806700
-- Currency per Tick (avg): 22.34
+- Total Currency: 808950
+- Currency per Tick (avg): 22.39
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
