@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-36232
+36257
 
 ## Oldest Item
-Fractured Blade of Gales
+Mundane Sigil of the Phoenix
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.38
 - Average Volatility: 0.45
-- Average Durability: 57.56
+- Average Durability: 56.79
 
 ## Dominant Factions
+- Chaos: 0.5
 - STR: 0.5
 - DEX: 0.5
-- Chaos: 0.4
 
 ## Extremes
 - Most Stable Item: Fractured Blade of Gales
 - Most Volatile Item: Mundane Blade of Plagues
 
 ## Recent Events
-- MUTATED: 'Gilded Shard of Carnage' evolved to generation 18.
-- MUTATED: 'Mundane Sigil of the Phoenix' evolved to generation 6.
-- STABLE: 'Nimble Rapier of Frost' did not mutate this tick.
+- MUTATED: 'Nimble Rapier of Frost' evolved to generation 24.
+- STABLE: 'Mundane Blade of Plagues' did not mutate this tick.
+- STABLE: 'Silent Blade of Might' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 442
@@ -40,8 +40,8 @@ Fractured Blade of Gales
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 36232
-- Successful Mutations: 15038
+- Mutations Attempted: 36257
+- Successful Mutations: 15051
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Fractured Blade of Gales
 
 ## Economy
 - Total Currency: 808950
-- Currency per Tick (avg): 22.33
+- Currency per Tick (avg): 22.31
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
