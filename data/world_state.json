@@ -1,21 +1,21 @@
 {
   "currency": 808950,
-  "tick": 36207,
+  "tick": 36232,
   "mutation_stats": {
-    "attempted": 36207,
-    "success": 15023
+    "attempted": 36232,
+    "success": 15038
   },
   "recent_events": [
-    "STABLE: 'Mundane Focus of Frost' did not mutate this tick.",
+    "STABLE: 'Fractured Blade of Gales' did not mutate this tick.",
     "STABLE: 'Rusty Rapier of Frost' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Frost' did not mutate this tick.",
-    "STABLE: 'Nimble Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Mundane Sigil of the Phoenix' evolved to generation 4.",
-    "STABLE: 'Fractured Blade of Gales' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Frost' did not mutate this tick.",
-    "MUTATED: 'Gilded Shard of Carnage' evolved to generation 17.",
-    "STABLE: 'Fractured Blade of Gales' did not mutate this tick.",
-    "STABLE: 'Mundane Blade of Plagues' did not mutate this tick."
+    "STABLE: 'Gilded Shard of Carnage' did not mutate this tick.",
+    "MUTATED: 'Nimble Rapier of Frost' evolved to generation 21.",
+    "MUTATED: 'Phantom Axe of the Deep' evolved to generation 24.",
+    "MUTATED: 'Silent Blade of Might' evolved to generation 36.",
+    "MUTATED: 'Mundane Blade of Plagues' evolved to generation 18.",
+    "MUTATED: 'Gilded Shard of Carnage' evolved to generation 18.",
+    "MUTATED: 'Mundane Sigil of the Phoenix' evolved to generation 6.",
+    "STABLE: 'Nimble Rapier of Frost' did not mutate this tick."
   ],
   "created": 442,
   "avg_lifespan": 35.4513888888889,

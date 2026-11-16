@@ -2,7 +2,7 @@
   "id": "b4dfc22a-a926-4c17-a953-74ce0365c166",
   "name": "Nimble Rapier of Frost",
   "type": "Generic",
-  "generation": 19,
+  "generation": 21,
   "damage": 17.5,
   "damage_type": [
     "Physical",
@@ -14,10 +14,10 @@
   "str_mod": 1.3000000000000003,
   "dex_mod": 1.5,
   "rarity": 1,
-  "durability": 35.169999999999995,
-  "max_durability": 90.0,
-  "volatility": 0.3900000000000003,
-  "resilience": 0.6599999999999998,
+  "durability": 27.849999999999998,
+  "max_durability": 97.0,
+  "volatility": 0.4000000000000003,
+  "resilience": 0.7099999999999999,
   "worth": 100,
   "affinities": {
     "DEX": 0.1,
