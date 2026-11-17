@@ -1,21 +1,21 @@
 {
   "currency": 808950,
-  "tick": 36257,
+  "tick": 36282,
   "mutation_stats": {
-    "attempted": 36257,
-    "success": 15051
+    "attempted": 36282,
+    "success": 15064
   },
   "recent_events": [
-    "STABLE: 'Silent Blade of Might' did not mutate this tick.",
-    "MUTATED: 'Nimble Rapier of Frost' evolved to generation 23.",
+    "MUTATED: 'Mundane Focus of Frost' evolved to generation 12.",
+    "STABLE: 'Rusty Rapier of Frost' did not mutate this tick.",
+    "MUTATED: 'Gilded Shard of Carnage' evolved to generation 21.",
     "STABLE: 'Mundane Focus of Frost' did not mutate this tick.",
+    "MUTATED: 'Nimble Rapier of Frost' evolved to generation 25.",
     "STABLE: 'Mundane Blade of Plagues' did not mutate this tick.",
-    "MUTATED: 'Fractured Blade of Gales' evolved to generation 8.",
-    "STABLE: 'Mortal Bow of Carnage' did not mutate this tick.",
+    "STABLE: 'Mundane Focus of Frost' did not mutate this tick.",
     "STABLE: 'Fractured Blade of Gales' did not mutate this tick.",
-    "MUTATED: 'Nimble Rapier of Frost' evolved to generation 24.",
-    "STABLE: 'Mundane Blade of Plagues' did not mutate this tick.",
-    "STABLE: 'Silent Blade of Might' did not mutate this tick."
+    "MUTATED: 'Mundane Focus of Frost' evolved to generation 13.",
+    "MUTATED: 'Fractured Blade of Gales' evolved to generation 10."
   ],
   "created": 442,
   "avg_lifespan": 35.4513888888889,
