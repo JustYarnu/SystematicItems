@@ -2,7 +2,7 @@
   "id": "1866edc5-37fe-4025-8208-ca78d03d8710",
   "name": "Fractured Blade of Gales",
   "type": "Sword",
-  "generation": 11,
+  "generation": 13,
   "damage": 9.5,
   "damage_type": [
     "Physical",
@@ -12,12 +12,12 @@
   "crit_damage": 2,
   "crit_rate": 0.060000000000000005,
   "str_mod": 1.1500000000000001,
-  "dex_mod": 1.48,
+  "dex_mod": 1.58,
   "rarity": 1,
-  "durability": 68.07,
+  "durability": 60.9,
   "max_durability": 85.0,
-  "volatility": 0.3900000000000002,
-  "resilience": 0.6099999999999999,
+  "volatility": 0.3700000000000002,
+  "resilience": 0.6899999999999998,
   "worth": 100,
   "affinities": {
     "Chaos": 0.1
