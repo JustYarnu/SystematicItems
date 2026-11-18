@@ -1,21 +1,21 @@
 {
   "currency": 810600,
-  "tick": 36357,
+  "tick": 36382,
   "mutation_stats": {
-    "attempted": 36357,
-    "success": 15097
+    "attempted": 36382,
+    "success": 15102
   },
   "recent_events": [
-    "MUTATED: 'Mundane Sigil of the Phoenix' evolved to generation 7.",
-    "MUTATED: 'Mortal Bow of Carnage' evolved to generation 23.",
-    "STABLE: 'Mundane Focus of Frost' did not mutate this tick.",
-    "MUTATED: 'Mortal Bow of Carnage' evolved to generation 24.",
-    "MUTATED: 'Nimble Rapier of Frost' evolved to generation 31.",
-    "REPLACED WITH: 'Mundane Spear of Iron' (9c2d0c97-76e3-401d-ba7d-9d91d5876cd1)",
-    "STABLE: 'Fractured Blade of Gales' did not mutate this tick.",
-    "STABLE: 'Gilded Shard of Carnage' did not mutate this tick.",
-    "STABLE: 'Silent Blade of Might' did not mutate this tick.",
-    "MUTATED: 'Mortal Bow of Carnage' evolved to generation 25."
+    "STABLE: 'Phantom Axe of the Deep' did not mutate this tick.",
+    "STABLE: 'Mundane Spear of Iron' did not mutate this tick.",
+    "MUTATED: 'Mundane Blade of Plagues' evolved to generation 24.",
+    "STABLE: 'Phantom Axe of the Deep' did not mutate this tick.",
+    "MUTATED: 'Mortal Bow of Carnage' evolved to generation 27.",
+    "MUTATED: 'Fractured Blade of Gales' evolved to generation 14.",
+    "STABLE: 'Mundane Spear of Iron' did not mutate this tick.",
+    "STABLE: 'Phantom Axe of the Deep' did not mutate this tick.",
+    "STABLE: 'Mundane Spear of Iron' did not mutate this tick.",
+    "STABLE: 'Mundane Blade of Plagues' did not mutate this tick."
   ],
   "created": 443,
   "avg_lifespan": 35.44110854503465,

@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-36357
+36382
 
 ## Oldest Item
 Mundane Spear of Iron
@@ -11,22 +11,22 @@ Mundane Spear of Iron
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.48
-- Average Volatility: 0.46
-- Average Durability: 52.53
+- Average Volatility: 0.48
+- Average Durability: 50.56
 
 ## Dominant Factions
-- DEX: 0.5
 - Chaos: 0.5
-- Order: 0.4
+- DEX: 0.5
+- STR: 0.4
 
 ## Extremes
 - Most Stable Item: Mundane Spear of Iron
 - Most Volatile Item: Gilded Shard of Carnage
 
 ## Recent Events
-- STABLE: 'Gilded Shard of Carnage' did not mutate this tick.
-- STABLE: 'Silent Blade of Might' did not mutate this tick.
-- MUTATED: 'Mortal Bow of Carnage' evolved to generation 25.
+- STABLE: 'Phantom Axe of the Deep' did not mutate this tick.
+- STABLE: 'Mundane Spear of Iron' did not mutate this tick.
+- STABLE: 'Mundane Blade of Plagues' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 443
@@ -40,8 +40,8 @@ Mundane Spear of Iron
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 36357
-- Successful Mutations: 15097
+- Mutations Attempted: 36382
+- Successful Mutations: 15102
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mundane Spear of Iron
 
 ## Economy
 - Total Currency: 810600
-- Currency per Tick (avg): 22.3
+- Currency per Tick (avg): 22.28
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
