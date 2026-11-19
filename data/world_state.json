@@ -1,21 +1,21 @@
 {
   "currency": 812100,
-  "tick": 36432,
+  "tick": 36457,
   "mutation_stats": {
-    "attempted": 36432,
-    "success": 15128
+    "attempted": 36457,
+    "success": 15135
   },
   "recent_events": [
-    "STABLE: 'Mundane Sigil of the Phoenix' did not mutate this tick.",
-    "MUTATED: 'Mundane Focus of Frost' evolved to generation 16.",
-    "MUTATED: 'Mortal Bow of Carnage' evolved to generation 29.",
-    "MUTATED: 'Rusty Rapier of Frost' evolved to generation 16.",
-    "MUTATED: 'Mundane Blade of Plagues' evolved to generation 28.",
-    "REPLACED WITH: 'Phantom Spear of Ruins' (0b0fd5c1-c8e1-4f0a-96d2-1edd0d456b6f)",
-    "MUTATED: 'Silent Blade of Might' evolved to generation 48.",
+    "MUTATED: 'Mundane Focus of Frost' evolved to generation 18.",
+    "STABLE: 'Phantom Spear of Ruins' did not mutate this tick.",
+    "STABLE: 'Gilded Shard of Carnage' did not mutate this tick.",
+    "STABLE: 'Phantom Spear of Ruins' did not mutate this tick.",
+    "MUTATED: 'Mundane Focus of Frost' evolved to generation 19.",
     "STABLE: 'Mundane Spear of Iron' did not mutate this tick.",
-    "MUTATED: 'Mortal Bow of Carnage' evolved to generation 30.",
-    "MUTATED: 'Mundane Sigil of the Phoenix' evolved to generation 10."
+    "STABLE: 'Mundane Spear of Iron' did not mutate this tick.",
+    "MUTATED: 'Rusty Rapier of Frost' evolved to generation 17.",
+    "STABLE: 'Mundane Focus of Frost' did not mutate this tick.",
+    "STABLE: 'Mundane Focus of Frost' did not mutate this tick."
   ],
   "created": 444,
   "avg_lifespan": 35.42396313364056,

@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-36432
+36457
 
 ## Oldest Item
-Phantom Spear of Ruins
+Mundane Spear of Iron
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.48
-- Average Volatility: 0.45
-- Average Durability: 57.19
+- Average Volatility: 0.47
+- Average Durability: 56.5
 
 ## Dominant Factions
-- DEX: 0.6
-- Stability: 0.5
-- Chaos: 0.5
+- DEX: 0.7
+- Stability: 0.6
+- Order: 0.5
 
 ## Extremes
 - Most Stable Item: Phantom Spear of Ruins
 - Most Volatile Item: Gilded Shard of Carnage
 
 ## Recent Events
-- STABLE: 'Mundane Spear of Iron' did not mutate this tick.
-- MUTATED: 'Mortal Bow of Carnage' evolved to generation 30.
-- MUTATED: 'Mundane Sigil of the Phoenix' evolved to generation 10.
+- MUTATED: 'Rusty Rapier of Frost' evolved to generation 17.
+- STABLE: 'Mundane Focus of Frost' did not mutate this tick.
+- STABLE: 'Mundane Focus of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 444
@@ -40,8 +40,8 @@ Phantom Spear of Ruins
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 36432
-- Successful Mutations: 15128
+- Mutations Attempted: 36457
+- Successful Mutations: 15135
 - Failure Rate: 58.5%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Phantom Spear of Ruins
 
 ## Economy
 - Total Currency: 812100
-- Currency per Tick (avg): 22.29
+- Currency per Tick (avg): 22.28
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
