@@ -2,7 +2,7 @@
   "id": "37d20ee2-09d7-47a3-b569-60c600db9681",
   "name": "Mundane Focus of Frost",
   "type": "Focus",
-  "generation": 19,
+  "generation": 20,
   "damage": 13.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.2000000000000002,
   "rarity": 1,
-  "durability": 31.169999999999987,
+  "durability": 28.169999999999987,
   "max_durability": 120.0,
-  "volatility": 0.5600000000000003,
+  "volatility": 0.55,
   "resilience": 0.75,
   "worth": 100,
   "affinities": {
