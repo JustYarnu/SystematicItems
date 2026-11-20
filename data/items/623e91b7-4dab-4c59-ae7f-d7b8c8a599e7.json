@@ -2,7 +2,7 @@
   "id": "623e91b7-4dab-4c59-ae7f-d7b8c8a599e7",
   "name": "Gilded Shard of Carnage",
   "type": "Dagger",
-  "generation": 29,
+  "generation": 32,
   "damage": 31.5,
   "damage_type": [
     "Physical",
@@ -14,12 +14,14 @@
   "str_mod": 1.1,
   "dex_mod": 1.5000000000000004,
   "rarity": 2.5,
-  "durability": 28.389999999999993,
+  "durability": 22.389999999999993,
   "max_durability": 121.0,
-  "volatility": 0.6360964047443681,
+  "volatility": 0.6160964047443681,
   "resilience": 0.71,
   "worth": 100,
   "affinities": {
-    "Stability": 0.1
+    "Stability": 0.2,
+    "Scarceness": 0.1,
+    "DEX": 0.1
   }
 }
