@@ -2,7 +2,7 @@
   "id": "1a01773b-4c32-4fad-a6f2-0577372a22a1",
   "name": "Phantom Axe of the Deep",
   "type": "HeavyWeapon",
-  "generation": 33,
+  "generation": 34,
   "damage": 24.0,
   "damage_type": [
     "Physical",
@@ -15,7 +15,7 @@
   "str_mod": 1.7500000000000004,
   "dex_mod": 1.2,
   "rarity": 1,
-  "durability": 55.38,
+  "durability": 68.38,
   "max_durability": 122.0,
   "volatility": 0.53,
   "resilience": 0.75,
