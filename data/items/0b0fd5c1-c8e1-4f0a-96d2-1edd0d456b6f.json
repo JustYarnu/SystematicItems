@@ -2,7 +2,7 @@
   "id": "0b0fd5c1-c8e1-4f0a-96d2-1edd0d456b6f",
   "name": "Phantom Spear of Ruins",
   "type": "Polearm",
-  "generation": 9,
+  "generation": 10,
   "damage": 28.5,
   "damage_type": [
     "Physical",
@@ -14,13 +14,14 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.2499999999999998,
   "rarity": 1,
-  "durability": 65.10000000000001,
+  "durability": 61.10000000000001,
   "max_durability": 84.0,
-  "volatility": 0.2900000000000001,
+  "volatility": 0.3100000000000001,
   "resilience": 0.55,
   "worth": 100,
   "affinities": {
     "Stability": 0.1,
-    "Order": 0.1
+    "Order": 0.1,
+    "DEX": 0.1
   }
 }
