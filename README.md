@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-36557
+36582
 
 ## Oldest Item
-Phantom Spear of Ruins
+Unstable Rapier of Carnage
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.48
-- Average Volatility: 0.49
-- Average Durability: 44.91
+- Average Rarity: 1.38
+- Average Volatility: 0.48
+- Average Durability: 48.15
 
 ## Dominant Factions
-- DEX: 1.3
-- Stability: 1.0
-- Order: 0.8
+- Stability: 0.9
+- DEX: 0.9
+- Order: 0.7
 
 ## Extremes
 - Most Stable Item: Phantom Spear of Ruins
 - Most Volatile Item: Gilded Shard of Carnage
 
 ## Recent Events
-- MUTATED: 'Gilded Shard of Carnage' evolved to generation 37.
-- MUTATED: 'Mundane Focus of Frost' evolved to generation 24.
-- MUTATED: 'Mundane Sigil of the Phoenix' evolved to generation 19.
+- MUTATED: 'Mundane Spear of Iron' evolved to generation 9.
+- MUTATED: 'Rusty Rapier of Frost' evolved to generation 23.
+- STABLE: 'Unstable Rapier of Carnage' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 444
-- Items Archived: 434
+- Items Created: 445
+- Items Archived: 435
 - Avg Lifespan (ticks): 35.4
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Phantom Spear of Ruins
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 36557
-- Successful Mutations: 15193
+- Mutations Attempted: 36582
+- Successful Mutations: 15208
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 3
+- Common: 8
+- Uncommon: 2
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Phantom Spear of Ruins
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 812100
-- Currency per Tick (avg): 22.21
+- Total Currency: 814000
+- Currency per Tick (avg): 22.25
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

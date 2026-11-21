@@ -1,23 +1,23 @@
 {
-  "currency": 812100,
-  "tick": 36557,
+  "currency": 814000,
+  "tick": 36582,
   "mutation_stats": {
-    "attempted": 36557,
-    "success": 15193
+    "attempted": 36582,
+    "success": 15208
   },
   "recent_events": [
-    "STABLE: 'Mundane Focus of Frost' did not mutate this tick.",
-    "MUTATED: 'Phantom Axe of the Deep' evolved to generation 36.",
-    "STABLE: 'Rusty Rapier of Frost' did not mutate this tick.",
-    "MUTATED: 'Silent Blade of Might' evolved to generation 57.",
-    "MUTATED: 'Phantom Axe of the Deep' evolved to generation 37.",
-    "MUTATED: 'Mundane Sigil of the Phoenix' evolved to generation 18.",
-    "MUTATED: 'Mundane Spear of Iron' evolved to generation 7.",
-    "MUTATED: 'Gilded Shard of Carnage' evolved to generation 37.",
-    "MUTATED: 'Mundane Focus of Frost' evolved to generation 24.",
-    "MUTATED: 'Mundane Sigil of the Phoenix' evolved to generation 19."
+    "STABLE: 'Mundane Sigil of the Phoenix' did not mutate this tick.",
+    "MUTATED: 'Mortal Bow of Carnage' evolved to generation 36.",
+    "MUTATED: 'Gilded Shard of Carnage' evolved to generation 38.",
+    "STABLE: 'Gilded Shard of Carnage' did not mutate this tick.",
+    "MUTATED: 'Silent Blade of Might' evolved to generation 58.",
+    "STABLE: 'Mortal Bow of Carnage' did not mutate this tick.",
+    "REPLACED WITH: 'Unstable Rapier of Carnage' (07d046f2-1226-4df6-9afb-4fc02b819d6c)",
+    "MUTATED: 'Mundane Spear of Iron' evolved to generation 9.",
+    "MUTATED: 'Rusty Rapier of Frost' evolved to generation 23.",
+    "STABLE: 'Unstable Rapier of Carnage' did not mutate this tick."
   ],
-  "created": 444,
-  "avg_lifespan": 35.42396313364056,
-  "archived": 434
+  "created": 445,
+  "avg_lifespan": 35.425287356321846,
+  "archived": 435
 }
