@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-36632
+36657
 
 ## Oldest Item
 Blessed Blade of Embers
@@ -12,7 +12,7 @@ Blessed Blade of Embers
 - Active Items: 10
 - Average Rarity: 1.31
 - Average Volatility: 0.41
-- Average Durability: 59.79
+- Average Durability: 55.83
 
 ## Dominant Factions
 - Stability: 0.8
@@ -24,9 +24,9 @@ Blessed Blade of Embers
 - Most Volatile Item: Unstable Rapier of Carnage
 
 ## Recent Events
-- MUTATED: 'Silent Blade of Might' evolved to generation 61.
-- MUTATED: 'Silent Blade of Might' evolved to generation 62.
+- MUTATED: 'Phantom Axe of the Deep' evolved to generation 42.
 - STABLE: 'Phantom Relic of Echoes' did not mutate this tick.
+- STABLE: 'Mundane Sigil of the Phoenix' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 447
@@ -40,8 +40,8 @@ Blessed Blade of Embers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 36632
-- Successful Mutations: 15228
+- Mutations Attempted: 36657
+- Successful Mutations: 15239
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Blessed Blade of Embers
 
 ## Economy
 - Total Currency: 817450
-- Currency per Tick (avg): 22.32
+- Currency per Tick (avg): 22.3
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
