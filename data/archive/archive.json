@@ -11788,5 +11788,33 @@
       "STR": 0.1,
       "Stability": 0.1
     }
+  },
+  {
+    "id": "d11685ff-0fbe-4952-8fbf-98bd3c7b1476",
+    "name": "Silent Blade of Might",
+    "type": "Sword",
+    "generation": 69,
+    "damage": 48.5,
+    "damage_type": [
+      "Physical",
+      "Slashing"
+    ],
+    "crit_damage": 3.3,
+    "crit_rate": 0.07,
+    "str_mod": 2.0000000000000004,
+    "dex_mod": 1.6000000000000003,
+    "rarity": 2,
+    "durability": -0.6500000000000354,
+    "max_durability": 84.0,
+    "volatility": 0.6,
+    "resilience": 0.4,
+    "worth": 3550,
+    "affinities": {
+      "Chaos": 0.3,
+      "STR": 0.4,
+      "Order": 0.2,
+      "Stability": 0.1,
+      "DEX": 0.3
+    }
   }
 ]
