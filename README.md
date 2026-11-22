@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-36707
+36732
 
 ## Oldest Item
-Shattered Sigil of the Deep
+Blessed Blade of Embers
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.36
-- Average Volatility: 0.4
-- Average Durability: 56.85
+- Average Volatility: 0.41
+- Average Durability: 54.06
 
 ## Dominant Factions
 - Stability: 0.7
+- STR: 0.6
 - Order: 0.5
-- DEX: 0.5
 
 ## Extremes
 - Most Stable Item: Blessed Blade of Embers
 - Most Volatile Item: Phantom Axe of the Deep
 
 ## Recent Events
-- MUTATED: 'Mundane Spear of Iron' evolved to generation 16.
-- MUTATED: 'Fractured Blade of Gales' evolved to generation 28.
-- MUTATED: 'Phantom Spear of Ruins' evolved to generation 12.
+- STABLE: 'Shattered Sigil of the Deep' did not mutate this tick.
+- STABLE: 'Phantom Spear of Ruins' did not mutate this tick.
+- STABLE: 'Mundane Focus of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 448
@@ -40,8 +40,8 @@ Shattered Sigil of the Deep
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 36707
-- Successful Mutations: 15263
+- Mutations Attempted: 36732
+- Successful Mutations: 15275
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Shattered Sigil of the Deep
 
 ## Economy
 - Total Currency: 821000
-- Currency per Tick (avg): 22.37
+- Currency per Tick (avg): 22.35
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

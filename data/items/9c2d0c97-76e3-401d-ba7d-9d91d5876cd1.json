@@ -2,7 +2,7 @@
   "id": "9c2d0c97-76e3-401d-ba7d-9d91d5876cd1",
   "name": "Mundane Spear of Iron",
   "type": "Polearm",
-  "generation": 16,
+  "generation": 18,
   "damage": 11.5,
   "damage_type": [
     "Physical",
@@ -13,15 +13,15 @@
   "str_mod": 1.2000000000000002,
   "dex_mod": 1.3000000000000003,
   "rarity": 1,
-  "durability": 41.31999999999999,
-  "max_durability": 122.0,
-  "volatility": 0.3600000000000002,
+  "durability": 34.81999999999999,
+  "max_durability": 124.0,
+  "volatility": 0.3700000000000002,
   "resilience": 0.7,
   "worth": 100,
   "affinities": {
     "DEX": 0.1,
     "Chaos": 0.1,
     "Restoration": 0.1,
-    "STR": 0.1
+    "STR": 0.2
   }
 }
