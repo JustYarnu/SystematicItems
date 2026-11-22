@@ -1,21 +1,21 @@
 {
   "currency": 817450,
-  "tick": 36657,
+  "tick": 36682,
   "mutation_stats": {
-    "attempted": 36657,
-    "success": 15239
+    "attempted": 36682,
+    "success": 15251
   },
   "recent_events": [
     "STABLE: 'Mundane Spear of Iron' did not mutate this tick.",
-    "MUTATED: 'Phantom Axe of the Deep' evolved to generation 41.",
-    "MUTATED: 'Blessed Blade of Embers' evolved to generation 2.",
-    "STABLE: 'Unstable Rapier of Carnage' did not mutate this tick.",
-    "MUTATED: 'Silent Blade of Might' evolved to generation 65.",
+    "MUTATED: 'Phantom Relic of Echoes' evolved to generation 4.",
+    "STABLE: 'Fractured Blade of Gales' did not mutate this tick.",
+    "STABLE: 'Phantom Axe of the Deep' did not mutate this tick.",
+    "MUTATED: 'Mundane Sigil of the Phoenix' evolved to generation 25.",
+    "MUTATED: 'Mundane Focus of Frost' evolved to generation 29.",
+    "MUTATED: 'Silent Blade of Might' evolved to generation 67.",
     "STABLE: 'Phantom Relic of Echoes' did not mutate this tick.",
-    "MUTATED: 'Mundane Focus of Frost' evolved to generation 27.",
-    "MUTATED: 'Phantom Axe of the Deep' evolved to generation 42.",
-    "STABLE: 'Phantom Relic of Echoes' did not mutate this tick.",
-    "STABLE: 'Mundane Sigil of the Phoenix' did not mutate this tick."
+    "STABLE: 'Silent Blade of Might' did not mutate this tick.",
+    "STABLE: 'Phantom Axe of the Deep' did not mutate this tick."
   ],
   "created": 447,
   "avg_lifespan": 35.41189931350115,
