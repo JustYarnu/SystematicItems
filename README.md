@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-36732
+36757
 
 ## Oldest Item
 Blessed Blade of Embers
@@ -11,22 +11,22 @@ Blessed Blade of Embers
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.36
-- Average Volatility: 0.41
-- Average Durability: 54.06
+- Average Volatility: 0.42
+- Average Durability: 51.39
 
 ## Dominant Factions
 - Stability: 0.7
+- DEX: 0.6
 - STR: 0.6
-- Order: 0.5
 
 ## Extremes
 - Most Stable Item: Blessed Blade of Embers
 - Most Volatile Item: Phantom Axe of the Deep
 
 ## Recent Events
-- STABLE: 'Shattered Sigil of the Deep' did not mutate this tick.
+- MUTATED: 'Mundane Focus of Frost' evolved to generation 32.
+- MUTATED: 'Fractured Blade of Gales' evolved to generation 33.
 - STABLE: 'Phantom Spear of Ruins' did not mutate this tick.
-- STABLE: 'Mundane Focus of Frost' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 448
@@ -40,8 +40,8 @@ Blessed Blade of Embers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 36732
-- Successful Mutations: 15275
+- Mutations Attempted: 36757
+- Successful Mutations: 15285
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Blessed Blade of Embers
 
 ## Economy
 - Total Currency: 821000
-- Currency per Tick (avg): 22.35
+- Currency per Tick (avg): 22.34
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
