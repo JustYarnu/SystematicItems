@@ -1,21 +1,21 @@
 {
   "currency": 821000,
-  "tick": 36782,
+  "tick": 36807,
   "mutation_stats": {
-    "attempted": 36782,
-    "success": 15293
+    "attempted": 36807,
+    "success": 15303
   },
   "recent_events": [
-    "STABLE: 'Phantom Axe of the Deep' did not mutate this tick.",
-    "STABLE: 'Blessed Blade of Embers' did not mutate this tick.",
-    "STABLE: 'Mundane Focus of Frost' did not mutate this tick.",
-    "STABLE: 'Phantom Spear of Ruins' did not mutate this tick.",
-    "STABLE: 'Blessed Blade of Embers' did not mutate this tick.",
     "STABLE: 'Mundane Spear of Iron' did not mutate this tick.",
+    "STABLE: 'Unstable Rapier of Carnage' did not mutate this tick.",
+    "MUTATED: 'Fractured Blade of Gales' evolved to generation 37.",
+    "MUTATED: 'Mundane Sigil of the Phoenix' evolved to generation 29.",
+    "MUTATED: 'Mundane Focus of Frost' evolved to generation 34.",
+    "MUTATED: 'Blessed Blade of Embers' evolved to generation 4.",
     "STABLE: 'Mundane Spear of Iron' did not mutate this tick.",
-    "MUTATED: 'Mundane Sigil of the Phoenix' evolved to generation 28.",
-    "STABLE: 'Phantom Axe of the Deep' did not mutate this tick.",
-    "STABLE: 'Mundane Spear of Iron' did not mutate this tick."
+    "STABLE: 'Fractured Blade of Gales' did not mutate this tick.",
+    "MUTATED: 'Fractured Blade of Gales' evolved to generation 38.",
+    "STABLE: 'Fractured Blade of Gales' did not mutate this tick."
   ],
   "created": 448,
   "avg_lifespan": 35.488584474885855,
