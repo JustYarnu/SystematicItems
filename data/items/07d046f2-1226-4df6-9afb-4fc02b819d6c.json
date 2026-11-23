@@ -2,7 +2,7 @@
   "id": "07d046f2-1226-4df6-9afb-4fc02b819d6c",
   "name": "Unstable Rapier of Carnage",
   "type": "Generic",
-  "generation": 6,
+  "generation": 7,
   "damage": 39.5,
   "damage_type": [
     "Physical",
@@ -15,10 +15,10 @@
   "str_mod": 1.1,
   "dex_mod": 1.2000000000000002,
   "rarity": 1,
-  "durability": 47.0,
-  "max_durability": 102.0,
-  "volatility": 0.52,
-  "resilience": 0.5,
+  "durability": 42.65,
+  "max_durability": 107.0,
+  "volatility": 0.53,
+  "resilience": 0.55,
   "worth": 100,
   "affinities": {}
 }
