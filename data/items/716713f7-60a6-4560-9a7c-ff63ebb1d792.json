@@ -2,7 +2,7 @@
   "id": "716713f7-60a6-4560-9a7c-ff63ebb1d792",
   "name": "Mortal Blade of Whispers",
   "type": "Sword",
-  "generation": 1,
+  "generation": 2,
   "damage": 22.0,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.05,
   "dex_mod": 1.17,
   "rarity": 1,
-  "durability": 100.0,
-  "max_durability": 80.0,
-  "volatility": 0.1,
+  "durability": 91.0,
+  "max_durability": 95.0,
+  "volatility": 0.13,
   "resilience": 0.5,
   "worth": 100,
   "affinities": {}

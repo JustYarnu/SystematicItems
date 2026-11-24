@@ -3,7 +3,7 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-36832
+36857
 
 ## Oldest Item
 Mortal Blade of Whispers
@@ -11,22 +11,22 @@ Mortal Blade of Whispers
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.36
-- Average Volatility: 0.4
-- Average Durability: 51.15
+- Average Volatility: 0.41
+- Average Durability: 46.93
 
 ## Dominant Factions
 - Order: 0.8
 - Stability: 0.8
-- STR: 0.6
+- STR: 0.7
 
 ## Extremes
 - Most Stable Item: Mortal Blade of Whispers
 - Most Volatile Item: Unstable Rapier of Carnage
 
 ## Recent Events
-- MUTATED: 'Unstable Rapier of Carnage' evolved to generation 9.
-- MUTATED: 'Fractured Blade of Gales' evolved to generation 40.
 - STABLE: 'Mundane Spear of Iron' did not mutate this tick.
+- STABLE: 'Mortal Blade of Whispers' did not mutate this tick.
+- STABLE: 'Shattered Sigil of the Deep' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 449
@@ -40,8 +40,8 @@ Mortal Blade of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 36832
-- Successful Mutations: 15315
+- Mutations Attempted: 36857
+- Successful Mutations: 15323
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Mortal Blade of Whispers
 
 ## Economy
 - Total Currency: 822800
-- Currency per Tick (avg): 22.34
+- Currency per Tick (avg): 22.32
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
