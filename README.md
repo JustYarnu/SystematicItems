@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-36807
+36832
 
 ## Oldest Item
-Blessed Blade of Embers
+Mortal Blade of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.36
-- Average Volatility: 0.44
-- Average Durability: 44.6
+- Average Volatility: 0.4
+- Average Durability: 51.15
 
 ## Dominant Factions
+- Order: 0.8
 - Stability: 0.8
-- Order: 0.7
-- Restoration: 0.7
+- STR: 0.6
 
 ## Extremes
-- Most Stable Item: Blessed Blade of Embers
+- Most Stable Item: Mortal Blade of Whispers
 - Most Volatile Item: Unstable Rapier of Carnage
 
 ## Recent Events
-- STABLE: 'Fractured Blade of Gales' did not mutate this tick.
-- MUTATED: 'Fractured Blade of Gales' evolved to generation 38.
-- STABLE: 'Fractured Blade of Gales' did not mutate this tick.
+- MUTATED: 'Unstable Rapier of Carnage' evolved to generation 9.
+- MUTATED: 'Fractured Blade of Gales' evolved to generation 40.
+- STABLE: 'Mundane Spear of Iron' did not mutate this tick.
 
 ## Lifecycle Stats
-- Items Created: 448
-- Items Archived: 438
+- Items Created: 449
+- Items Archived: 439
 - Avg Lifespan (ticks): 35.5
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Blessed Blade of Embers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 36807
-- Successful Mutations: 15303
+- Mutations Attempted: 36832
+- Successful Mutations: 15315
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Blessed Blade of Embers
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 821000
-- Currency per Tick (avg): 22.31
+- Total Currency: 822800
+- Currency per Tick (avg): 22.34
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
