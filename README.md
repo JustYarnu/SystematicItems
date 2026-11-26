@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-36982
+37007
 
 ## Oldest Item
-Mortal Blade of Whispers
+Glowing Sigil of Mirage
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.36
-- Average Volatility: 0.42
-- Average Durability: 37.73
+- Average Rarity: 1.56
+- Average Volatility: 0.44
+- Average Durability: 45.06
 
 ## Dominant Factions
 - Stability: 1.2
-- Order: 0.8
-- STR: 0.7
+- Order: 0.7
+- STR: 0.6
 
 ## Extremes
 - Most Stable Item: Mortal Blade of Whispers
-- Most Volatile Item: Mundane Spear of Iron
+- Most Volatile Item: Glowing Sigil of Mirage
 
 ## Recent Events
-- MUTATED: 'Phantom Spear of Ruins' evolved to generation 22.
-- MUTATED: 'Fractured Blade of Gales' evolved to generation 48.
-- STABLE: 'Mundane Spear of Iron' did not mutate this tick.
+- MUTATED: 'Phantom Axe of the Deep' evolved to generation 58.
+- MUTATED: 'Fractured Blade of Gales' evolved to generation 50.
+- MUTATED: 'Phantom Axe of the Deep' evolved to generation 59.
 
 ## Lifecycle Stats
-- Items Created: 449
-- Items Archived: 439
+- Items Created: 450
+- Items Archived: 440
 - Avg Lifespan (ticks): 35.5
 
 ### Distribution chart
@@ -40,15 +40,15 @@ Mortal Blade of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 36982
-- Successful Mutations: 15376
+- Mutations Attempted: 37007
+- Successful Mutations: 15388
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 9
-- Uncommon: 1
+- Common: 8
+- Uncommon: 2
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -56,8 +56,8 @@ Mortal Blade of Whispers
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 822800
-- Currency per Tick (avg): 22.25
+- Total Currency: 824050
+- Currency per Tick (avg): 22.27
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
