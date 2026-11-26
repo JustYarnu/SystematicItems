@@ -1,21 +1,21 @@
 {
   "currency": 822800,
-  "tick": 36957,
+  "tick": 36982,
   "mutation_stats": {
-    "attempted": 36957,
-    "success": 15363
+    "attempted": 36982,
+    "success": 15376
   },
   "recent_events": [
-    "STABLE: 'Mundane Spear of Iron' did not mutate this tick.",
-    "MUTATED: 'Mundane Sigil of the Phoenix' evolved to generation 38.",
-    "MUTATED: 'Phantom Spear of Ruins' evolved to generation 20.",
-    "MUTATED: 'Phantom Spear of Ruins' evolved to generation 21.",
-    "MUTATED: 'Unstable Rapier of Carnage' evolved to generation 15.",
-    "STABLE: 'Mundane Sigil of the Phoenix' did not mutate this tick.",
-    "STABLE: 'Phantom Relic of Echoes' did not mutate this tick.",
-    "MUTATED: 'Phantom Axe of the Deep' evolved to generation 55.",
-    "MUTATED: 'Shattered Sigil of the Deep' evolved to generation 16.",
-    "STABLE: 'Mortal Blade of Whispers' did not mutate this tick."
+    "MUTATED: 'Unstable Rapier of Carnage' evolved to generation 17.",
+    "STABLE: 'Shattered Sigil of the Deep' did not mutate this tick.",
+    "MUTATED: 'Fractured Blade of Gales' evolved to generation 47.",
+    "MUTATED: 'Mundane Sigil of the Phoenix' evolved to generation 39.",
+    "STABLE: 'Fractured Blade of Gales' did not mutate this tick.",
+    "MUTATED: 'Shattered Sigil of the Deep' evolved to generation 17.",
+    "STABLE: 'Phantom Axe of the Deep' did not mutate this tick.",
+    "MUTATED: 'Phantom Spear of Ruins' evolved to generation 22.",
+    "MUTATED: 'Fractured Blade of Gales' evolved to generation 48.",
+    "STABLE: 'Mundane Spear of Iron' did not mutate this tick."
   ],
   "created": 449,
   "avg_lifespan": 35.48519362186789,

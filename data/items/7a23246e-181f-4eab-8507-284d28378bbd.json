@@ -2,7 +2,7 @@
   "id": "7a23246e-181f-4eab-8507-284d28378bbd",
   "name": "Phantom Relic of Echoes",
   "type": "Artifact",
-  "generation": 16,
+  "generation": 17,
   "damage": 16.5,
   "damage_type": [
     "Physical",
@@ -14,9 +14,9 @@
   "str_mod": 1.1,
   "dex_mod": 1.15,
   "rarity": 1.8,
-  "durability": 47.33999999999999,
-  "max_durability": 104.0,
-  "volatility": 0.3200000000000003,
+  "durability": 42.23999999999999,
+  "max_durability": 106.0,
+  "volatility": 0.3300000000000003,
   "resilience": 0.58,
   "worth": 100,
   "affinities": {
