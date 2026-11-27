@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-37007
+37032
 
 ## Oldest Item
-Glowing Sigil of Mirage
+Mortal Blade of Whispers
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.56
 - Average Volatility: 0.44
-- Average Durability: 45.06
+- Average Durability: 41.44
 
 ## Dominant Factions
-- Stability: 1.2
-- Order: 0.7
-- STR: 0.6
+- Stability: 1.3
+- Order: 0.8
+- Restoration: 0.6
 
 ## Extremes
 - Most Stable Item: Mortal Blade of Whispers
 - Most Volatile Item: Glowing Sigil of Mirage
 
 ## Recent Events
-- MUTATED: 'Phantom Axe of the Deep' evolved to generation 58.
-- MUTATED: 'Fractured Blade of Gales' evolved to generation 50.
-- MUTATED: 'Phantom Axe of the Deep' evolved to generation 59.
+- MUTATED: 'Glowing Sigil of Mirage' evolved to generation 3.
+- STABLE: 'Phantom Relic of Echoes' did not mutate this tick.
+- STABLE: 'Phantom Spear of Ruins' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 450
@@ -40,8 +40,8 @@ Glowing Sigil of Mirage
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 37007
-- Successful Mutations: 15388
+- Mutations Attempted: 37032
+- Successful Mutations: 15399
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -57,7 +57,7 @@ Glowing Sigil of Mirage
 
 ## Economy
 - Total Currency: 824050
-- Currency per Tick (avg): 22.27
+- Currency per Tick (avg): 22.25
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
