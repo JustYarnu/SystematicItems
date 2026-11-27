@@ -3,34 +3,34 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-37032
+37057
 
 ## Oldest Item
-Mortal Blade of Whispers
+Glacial Spear of Might
 
 ## Ecosystem Summary
 - Active Items: 10
 - Average Rarity: 1.56
-- Average Volatility: 0.44
-- Average Durability: 41.44
+- Average Volatility: 0.4
+- Average Durability: 46.57
 
 ## Dominant Factions
-- Stability: 1.3
-- Order: 0.8
-- Restoration: 0.6
+- Stability: 1.1
+- Order: 0.9
+- Restoration: 0.4
 
 ## Extremes
-- Most Stable Item: Mortal Blade of Whispers
+- Most Stable Item: Glacial Spear of Might
 - Most Volatile Item: Glowing Sigil of Mirage
 
 ## Recent Events
-- MUTATED: 'Glowing Sigil of Mirage' evolved to generation 3.
-- STABLE: 'Phantom Relic of Echoes' did not mutate this tick.
-- STABLE: 'Phantom Spear of Ruins' did not mutate this tick.
+- STABLE: 'Phantom Axe of the Deep' did not mutate this tick.
+- REPLACED WITH: 'Glacial Spear of Might' (c322daa2-aa74-4aa2-8378-b56e1553a7fb)
+- MUTATED: 'Unstable Rapier of Carnage' evolved to generation 21.
 
 ## Lifecycle Stats
-- Items Created: 450
-- Items Archived: 440
+- Items Created: 451
+- Items Archived: 441
 - Avg Lifespan (ticks): 35.5
 
 ### Distribution chart
@@ -40,8 +40,8 @@ Mortal Blade of Whispers
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 37032
-- Successful Mutations: 15399
+- Mutations Attempted: 37057
+- Successful Mutations: 15412
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
@@ -56,8 +56,8 @@ Mortal Blade of Whispers
 ![Rarity Dist](assets/rarity_dist.png)
 
 ## Economy
-- Total Currency: 824050
-- Currency per Tick (avg): 22.25
+- Total Currency: 827200
+- Currency per Tick (avg): 22.32
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)

@@ -1,0 +1,23 @@
+{
+  "id": "c322daa2-aa74-4aa2-8378-b56e1553a7fb",
+  "name": "Glacial Spear of Might",
+  "type": "Polearm",
+  "generation": 1,
+  "damage": 14.0,
+  "damage_type": [
+    "Physical",
+    "Cold",
+    "Piercing"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.35,
+  "dex_mod": 1.0,
+  "rarity": 1,
+  "durability": 100.0,
+  "max_durability": 125.0,
+  "volatility": 0.1,
+  "resilience": 0.75,
+  "worth": 100,
+  "affinities": {}
+}
