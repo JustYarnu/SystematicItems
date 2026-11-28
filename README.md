@@ -3,30 +3,30 @@ For the actual documentation, see [docs](docs/).
 # World state overview
 
 ## Latest Tick
-37082
+37107
 
 ## Oldest Item
 Glacial Spear of Might
 
 ## Ecosystem Summary
 - Active Items: 10
-- Average Rarity: 1.66
-- Average Volatility: 0.4
-- Average Durability: 42.26
+- Average Rarity: 1.76
+- Average Volatility: 0.42
+- Average Durability: 37.61
 
 ## Dominant Factions
 - Stability: 1.1
 - Order: 1.0
-- Restoration: 0.4
+- DEX: 0.4
 
 ## Extremes
 - Most Stable Item: Glacial Spear of Might
-- Most Volatile Item: Unstable Rapier of Carnage
+- Most Volatile Item: Glowing Sigil of Mirage
 
 ## Recent Events
-- STABLE: 'Unstable Rapier of Carnage' did not mutate this tick.
-- STABLE: 'Phantom Relic of Echoes' did not mutate this tick.
-- MUTATED: 'Phantom Relic of Echoes' evolved to generation 22.
+- MUTATED: 'Blessed Blade of Embers' evolved to generation 12.
+- MUTATED: 'Fractured Blade of Gales' evolved to generation 57.
+- STABLE: 'Phantom Spear of Ruins' did not mutate this tick.
 
 ## Lifecycle Stats
 - Items Created: 451
@@ -40,15 +40,15 @@ Glacial Spear of Might
 ![Avg Lifespan](assets/avg_lifespan.png)
 
 ## Mutation Stats (Last Tick)
-- Mutations Attempted: 37082
-- Successful Mutations: 15423
+- Mutations Attempted: 37107
+- Successful Mutations: 15433
 - Failure Rate: 58.4%
 
 ![Fail Rate](assets/fail_rate.png)
 
 ## Rarity Distribution
-- Common: 7
-- Uncommon: 3
+- Common: 6
+- Uncommon: 4
 - Rare: 0
 - Epic: 0
 - Legendary+: 0
@@ -57,7 +57,7 @@ Glacial Spear of Might
 
 ## Economy
 - Total Currency: 827200
-- Currency per Tick (avg): 22.31
+- Currency per Tick (avg): 22.29
 - Recent Gains: 0
 
 ![CPT](assets/cpt.png)
