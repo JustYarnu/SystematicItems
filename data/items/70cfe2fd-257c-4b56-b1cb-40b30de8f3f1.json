@@ -1,0 +1,24 @@
+{
+  "id": "70cfe2fd-257c-4b56-b1cb-40b30de8f3f1",
+  "name": "Iridescent Shard of Frost",
+  "type": "Dagger",
+  "generation": 3,
+  "damage": 16.5,
+  "damage_type": [
+    "Physical",
+    "Blinding",
+    "Slashing",
+    "Cold"
+  ],
+  "crit_damage": 2,
+  "crit_rate": 0.01,
+  "str_mod": 1.1,
+  "dex_mod": 1.2,
+  "rarity": 6,
+  "durability": 141.52,
+  "max_durability": 160.0,
+  "volatility": 0.5,
+  "resilience": 0.6799999999999999,
+  "worth": 100,
+  "affinities": {}
+}

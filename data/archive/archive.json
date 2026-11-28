@@ -11901,5 +11901,88 @@
       "Stability": 0.2,
       "DEX": 0.1
     }
+  },
+  {
+    "id": "1866edc5-37fe-4025-8208-ca78d03d8710",
+    "name": "Fractured Blade of Gales",
+    "type": "Sword",
+    "generation": 58,
+    "damage": 24.0,
+    "damage_type": [
+      "Physical",
+      "Slashing",
+      "Sonic"
+    ],
+    "crit_damage": 2.5,
+    "crit_rate": 0.07,
+    "str_mod": 1.4500000000000004,
+    "dex_mod": 1.7800000000000002,
+    "rarity": 2,
+    "durability": -1.0,
+    "max_durability": 115.0,
+    "volatility": 0.41000000000000003,
+    "resilience": 0.7999999999999999,
+    "worth": 3000,
+    "affinities": {
+      "Chaos": 0.1,
+      "Order": 0.3,
+      "Stability": 0.2
+    }
+  },
+  {
+    "id": "0b0fd5c1-c8e1-4f0a-96d2-1edd0d456b6f",
+    "name": "Phantom Spear of Ruins",
+    "type": "Polearm",
+    "generation": 27,
+    "damage": 48.0,
+    "damage_type": [
+      "Physical",
+      "Void",
+      "Piercing"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.060000000000000005,
+    "str_mod": 1.5000000000000004,
+    "dex_mod": 0.9499999999999996,
+    "rarity": 1,
+    "durability": -1.0,
+    "max_durability": 86.0,
+    "volatility": 0.35000000000000037,
+    "resilience": 0.63,
+    "worth": 1450,
+    "affinities": {
+      "Stability": 0.2,
+      "Order": 0.1,
+      "DEX": 0.2,
+      "STR": 0.1
+    }
+  },
+  {
+    "id": "07d046f2-1226-4df6-9afb-4fc02b819d6c",
+    "name": "Unstable Rapier of Carnage",
+    "type": "Generic",
+    "generation": 23,
+    "damage": 46.0,
+    "damage_type": [
+      "Physical",
+      "Chaos",
+      "Piercing",
+      "Blood"
+    ],
+    "crit_damage": 2,
+    "crit_rate": 0.07,
+    "str_mod": 1.2000000000000002,
+    "dex_mod": 1.5000000000000004,
+    "rarity": 1,
+    "durability": -1.0,
+    "max_durability": 116.0,
+    "volatility": 0.5,
+    "resilience": 0.6000000000000001,
+    "worth": 1250,
+    "affinities": {
+      "Chaos": 0.1,
+      "Stability": 0.1,
+      "STR": 0.1
+    }
   }
 ]
