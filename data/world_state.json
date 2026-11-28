@@ -1,21 +1,21 @@
 {
   "currency": 827200,
-  "tick": 37057,
+  "tick": 37082,
   "mutation_stats": {
-    "attempted": 37057,
-    "success": 15412
+    "attempted": 37082,
+    "success": 15423
   },
   "recent_events": [
-    "MUTATED: 'Phantom Spear of Ruins' evolved to generation 24.",
-    "STABLE: 'Blessed Blade of Embers' did not mutate this tick.",
-    "MUTATED: 'Unstable Rapier of Carnage' evolved to generation 20.",
-    "STABLE: 'Shattered Sigil of the Deep' did not mutate this tick.",
+    "STABLE: 'Phantom Relic of Echoes' did not mutate this tick.",
+    "STABLE: 'Unstable Rapier of Carnage' did not mutate this tick.",
     "STABLE: 'Mundane Sigil of the Phoenix' did not mutate this tick.",
-    "STABLE: 'Mortal Blade of Whispers' did not mutate this tick.",
-    "STABLE: 'Shattered Sigil of the Deep' did not mutate this tick.",
-    "STABLE: 'Phantom Axe of the Deep' did not mutate this tick.",
-    "REPLACED WITH: 'Glacial Spear of Might' (c322daa2-aa74-4aa2-8378-b56e1553a7fb)",
-    "MUTATED: 'Unstable Rapier of Carnage' evolved to generation 21."
+    "MUTATED: 'Phantom Relic of Echoes' evolved to generation 21.",
+    "STABLE: 'Unstable Rapier of Carnage' did not mutate this tick.",
+    "MUTATED: 'Phantom Spear of Ruins' evolved to generation 25.",
+    "MUTATED: 'Glacial Spear of Might' evolved to generation 2.",
+    "STABLE: 'Unstable Rapier of Carnage' did not mutate this tick.",
+    "STABLE: 'Phantom Relic of Echoes' did not mutate this tick.",
+    "MUTATED: 'Phantom Relic of Echoes' evolved to generation 22."
   ],
   "created": 451,
   "avg_lifespan": 35.514739229024954,
